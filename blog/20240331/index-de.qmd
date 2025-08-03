@@ -1,0 +1,72 @@
+---
+title: "Lehman Brothers und die Subprime-Zeitbombe"
+date: 2024-03-21
+subtitle: "„Erst wenn die Ebbe kommt, sieht man, wer nackt geschwommen ist.“ — Warren Buffett"
+description: >
+  Subprime-Kredite trieben den Immobilienboom der frühen 2000er an – bis sie das weltweite Finanzsystem erschütterten. 
+  Was sind Subprime-Kredite? Und wie konnten sie eine der ältesten Investmentbanken der Wall Street – Lehman Brothers – zum Einsturz bringen?
+image: "./lehman-brothers.png"
+twitter-card:
+  image: "./lehman-brothers.png"
+open-graph:
+  image: "./lehman-brothers.png"
+categories:
+  - Insolvenz
+  - Subprime-Kredite
+  - Hebelwirkung
+author: "Satvik Raman"
+---
+
+Ich habe mich immer irgendwie mit der Geschichte von Lehman Brothers verbunden gefühlt – wahrscheinlich, weil ich am selben Tag geboren wurde, an dem sie Insolvenz anmeldeten: am 15. September 2008. Für diesen Blog wollte ich also zurückblicken und genau verstehen, was schiefgelaufen ist – und warum es so wichtig war.
+
+# Was sind Subprime-Kredite?
+Fangen wir mit dem Begriff an. Ein **Subprime-Kredit** ist ein Kredit, der an eine Person mit **schlechter Kreditwürdigkeit** vergeben wird – also jemanden, der möglicherweise nicht pünktlich oder überhaupt nicht zurückzahlen kann. Solche Kreditnehmer haben oft eine niedrige Bonität, unregelmäßiges Einkommen und in der Vergangenheit Zahlungen versäumt.
+
+Weil sie risikoreicher sind, haben Subprime-Kredite **höhere Zinssätze**. Die Banken verlangen diese Zinsen, um das Ausfallrisiko auszugleichen. Anfang der 2000er wurden solche Kredite **erschreckend häufig vergeben** – besonders in den USA im Immobilienmarkt. Banken gaben Hauskredite an Menschen mit schwacher finanzieller Lage, ohne Nachweise oder Rückzahlungsfähigkeit.
+
+## Der Boom vor dem Knall
+Warum waren die Banken so bereit, Subprime-Kredite zu vergeben? Während des US-Immobilienbooms von 2002 bis 2006 glaubte man einfach: „Immobilienpreise steigen immer.“ Also selbst wenn jemand nicht zurückzahlen konnte, konnte die Bank das Haus pfänden und oft mit Gewinn weiterverkaufen.
+
+Aber die Strategie ging noch weiter. Die Banken warteten nicht nur auf die monatlichen Rückzahlungen. Stattdessen bündelten sie Tausende Hauskredite – auch die riskanten Subprime-Kredite – und verkauften sie als Anlageprodukt, das man **hypothekenbesichertes Wertpapier (MBS)** nennt. So bekamen die Banken schnell ihr Geld zurück. Das Risiko? Das hatte jetzt der Käufer des MBS, der regelmäßig Geld bekam – solange die Hausbesitzer weiter zahlten.
+
+# Lehmans Wette auf Immobilien
+Lehman Brothers sah die Chance – nicht indem sie selbst Kredite vergaben, sondern indem sie große Pakete von MBS kauften, in der Hoffnung, dass die Rückzahlungen weiter flossen. Bis 2006 hatte **Lehman Brothers Hypotheken im Wert von 146 Milliarden Dollar verbrieft**. Ein großer Teil davon bestand aus Subprime-Krediten. Die Firma war stark im Immobilienmarkt engagiert und erzielte Rekordgewinne. 2007 erreichte Lehmans Aktie ein Allzeithoch, die Marktkapitalisierung lag bei fast **60 Milliarden Dollar**.
+
+Auf den ersten Blick sah alles gut aus. Aber darunter lagen Millionen von Krediten an Menschen, die sich die Rückzahlung nicht leisten konnten – und eine Firma, die ihr Schicksal an diese Rückzahlungen gebunden hatte.
+
+## Was passiert, wenn man auf das Unbezahlbare setzt?
+Der Subprime-Markt begann **Anfang 2007** zu bröckeln, als Kreditnehmer begannen, **ihre Hypotheken nicht mehr zu bedienen**. Die Immobilienpreise stiegen nicht mehr – sie fielen sogar. Das hatte Folgen: Die MBS verloren massiv an Wert, die Käufer (wie Lehman) erlitten Verluste, und Panik machte sich im Finanzsystem breit.
+
+Lehman versuchte zu reagieren. Sie schlossen ihre Tochter **BNC Mortgage**, bauten Stellen ab und machten ihre **Alt-A-Kreditbüros** dicht (Alt-A-Kredite waren etwas besser als Subprime, aber immer noch riskant). Doch es war zu spät. Lehman war bereits mit schlechten Vermögenswerten überladen.
+
+## Wie Hebelwirkung alles verschlimmerte
+Ein weiterer wichtiger Punkt: **Hebelwirkung** (Leverage). Das heißt, man investiert mit geliehenem Geld – in der Hoffnung, dass die Gewinne höher sind als die Zinsen, die man zahlen muss.
+
+Lehman investierte nicht nur eigenes Geld, sondern **lieh sich riesige Summen**, um größere Wetten einzugehen. 2007 betrug ihr **Hebelverhältnis 31:1** – das heißt, für jeden Dollar Eigenkapital liehen sie sich 31 Dollar dazu. Das Risiko? Wenn solche Anlagen an Wert verlieren, häufen sich die Verluste sehr schnell – und plötzlich kann man seine Schulden nicht mehr zurückzahlen. Lehman hielt keine sicheren Anlagen. Sie waren tief in **Subprime-Kredite** investiert – sie setzten also darauf, dass gerade die riskantesten Kreditnehmer ihre Schulden bezahlen würden.
+
+Mitte 2008, als mehr Menschen ausfielen und die Immobilienpreise fielen, wurde Lehmans MBS-Bestand wertlos. Die Verluste stiegen, das Vertrauen sank.
+
+## Eine Vertrauenskrise
+Mit dem Absturz des Immobilienmarkts fiel auch Lehmans Aktie. Investoren zogen sich zurück.
+
+Das geschah in nur wenigen Monaten:
+
+* **Juni 2008**: Lehman meldet einen Verlust von 2,8 Milliarden Dollar  
+* **8. September 2008**: Gerüchte über eine drohende Pleite verbreiten sich weltweit  
+* **12. September 2008**: Barclays und Bank of America steigen aus den Rettungsgesprächen aus  
+* **15. September 2008**: Lehman Brothers meldet Insolvenz an  
+
+Es war die größte Pleite in der Geschichte der USA – ein Zusammenbruch von 600 Milliarden Dollar.
+
+## Warum wurde Lehman nicht gerettet?
+Andere Banken wie Bear Stearns oder Merrill Lynch wurden gerettet oder übernommen. Warum also nicht Lehman?
+
+Es gibt verschiedene Theorien: Die US-Regierung wollte nicht jede Bank retten, niemand wollte Lehmans faule Vermögenswerte übernehmen, und das Ausmaß der Subprime-Verluste war einfach zu groß. Was auch immer der Grund war – **der Zusammenbruch von Lehman löste weltweite Schockwellen aus**: Märkte stürzten ab, Kredite froren ein, und die schlimmste Finanzkrise seit 1929 begann.
+
+## Die Folgen
+Nach dem Zusammenbruch verlor der weltweite Markt Billionen an Wert. Große Banken mussten schnell gerettet werden. Die US-Regierung verabschiedete ein Rettungspaket von 700 Milliarden Dollar. Es folgten langfristige Reformen: neue Regeln für Banken, weniger Hebelwirkung, strengere Berichtspflichten. Aber der Schaden war bereits angerichtet.
+
+# Abschließende Gedanken
+Lehman Brothers ist nicht nur wegen der Subprime-Kredite gefallen. Sondern weil sie **die Risiken ignoriert**, **auf schlechte Wetten gesetzt** und **sich zu sehr verschuldet** haben. Subprime-Kredite waren nicht nur Finanzprodukte – sie waren **ein Symbol für übermäßiges Selbstvertrauen**: für ein System, das glaubte, Immobilienpreise würden immer steigen, und Kreditnehmer würden immer zurückzahlen. Doch das taten sie nicht. Und das ganze System brach zusammen.
+
+Die Geschichte von Lehman ist nicht nur ein Unternehmensfehler – sie ist eine Warnung. Sie zeigt, dass in der Finanzwelt alles, was mit viel Hebel steigt, auch **sehr, sehr schnell fallen kann**.

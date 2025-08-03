@@ -1,0 +1,16 @@
+---
+title: "ப்ளாக்"
+listing: 
+  contents: 
+    - "*-ta.qmd"
+  type: grid
+  sort:
+    - "date desc"
+  date-format: medium
+  image-height: "480"  
+  categories: true
+  sort-ui: [date, categories]
+  filter-ui: true
+  feed: 
+    type: partial
+---

@@ -1,0 +1,72 @@
+---
+title: "Lehman Brothers and the Subprime Time Bomb"
+date: 2024-03-21
+subtitle: "“You only find out who is swimming naked when the tide goes out.” — Warren Buffett"
+description: >
+  Subprime loans powered the housing boom of the early 2000s — until they shook the global financial system. 
+  What are subprime loans? And how did they bring down one of Wall Street’s oldest investment banks: Lehman Brothers.
+image: "./lehman-brothers.png"
+twitter-card:
+  image: "./lehman-brothers.png"
+open-graph:
+  image: "./lehman-brothers.png"
+categories:
+  - Bankruptcy
+  - Subprime Loans
+  - Leverage
+author: "Satvik Raman"
+---
+
+I’ve always felt oddly connected to the Lehman Brothers story — probably because I was born on the same day they filed for bankruptcy: September 15, 2008. So for this blog, I decided to go back and understand exactly what went wrong — and why it mattered.
+
+# What Are Subprime Loans?
+Let’s start with the term itself. A **subprime loan** is a loan given to someone with a **poor credit history** — someone who might not be able to repay on time or at all. These borrowers typically have a low credit score, irregular income, and a history of missed payments or defaults.
+
+Because they are riskier, subprime loans come with **higher interest rates**. Lenders do this to offset the chances that they may not get their money back. In the early 2000s, these loans became **shockingly common** — especially in the U.S. housing market. Banks handed out home loans to people with weak financials, no documentation, and little ability to repay. 
+
+## The Boom Before the Bust
+So why were banks so confident about handing out subprime loans? During the U.S. housing boom from 2002 to 2006, the belief was simple: “Home prices always go up”. So even if borrowers failed to repay, banks could foreclose the house and resell it — often at a profit.
+
+But there was more to the strategy. Banks didn’t just wait around to collect monthly payments. Instead, they bundled thousands of home loans — including risky subprime ones — into a giant pool and sold it as an investment product called a Mortgage-Backed Security (MBS). This allowed banks to quickly recover the money they had lent out. The risk? That now sat with the buyer of the MBS, who would earn regular income as long as homeowners kept up with their loan payments.
+
+# Lehman’s Bet on Housing
+Seeing the opportunity, Lehman Brothers jumped in — not by giving out loans, but by buying large bundles of MBS, confident that borrowers would keep paying and the income would keep flowing in. By 2006, **Lehman Brothers had securitized $146 billion worth of home loans**. A significant portion of these were subprime. The firm was deeply exposed to the housing market and also posted record profits. In 2007, Lehman’s stock hit an all-time high, and its market cap touched nearly **$60 billion**.
+
+On the surface, everything looked great. But beneath that surface were millions of loans handed to people who couldn’t afford them — and a company that had tied its fate to their ability to pay.
+
+## What Happens When You Bet on the Unpayable?
+The subprime market began to crack in **early 2007**, when borrowers started **defaulting on their mortgages**. Home prices stopped rising — and then began to fall. This created a ripple effect: the value of subprime-backed securities (MBS) plummeted, buyers of those securities (like Lehman) suffered losses, and panic spread across the financial system.
+
+Lehman tried to respond. It shut down its **BNC Mortgage** unit, cut jobs, and closed its **Alt-A lending offices** (Alt-A loans were slightly better than subprime but still risky). But it was too late. Lehman was already drowning in bad assets.
+
+## How Leverage Made It Worse
+There’s another layer to this story: **leverage**. That’s when you invest using borrowed money — hoping your returns will be higher than the interest you owe.
+
+Lehman wasn’t just investing its own money. It was borrowing massively to make bigger bets. By 2007, its **leverage ratio was 31:1** — meaning for every $1 it owned, it borrowed $31 and invested that too. The risk? If those investments go bad, losses can pile up fast — and suddenly, you can’t repay what you owe. And Lehman wasn’t holding safe assets. It was deeply invested in **subprime loans** — essentially betting that borrowers who struggled to qualify for home loans would still manage to repay them. 
+
+By mid-2008, as defaults rose and home values fell, Lehman’s mortgage-backed portfolio turned toxic. Losses mounted. Confidence crumbled.
+
+## A Crisis of Confidence
+As the housing market spiraled down, so did Lehman’s stock. Investors started pulling out.
+
+Here’s what happened in just a few months:
+
+* **June 2008**: Lehman reported a $2.8 billion loss
+* **September 8, 2008**: Rumors of Lehman Brothers’ imminent collapse spooked global markets
+* **September 12, 2008**: Barclays and Bank of America walked away from bailout talks to rescue Lehman Brothers
+* **September 15, 2008**: Lehman Brothers filed for bankruptcy
+
+It was the largest bankruptcy in U.S. history — a $600 billion implosion.
+
+## Why No One Saved Lehman
+Other banks like Bear Stearns and Merrill Lynch got bailed out or bought. So why not Lehman?
+
+There are a few theories: the U.S. government didn’t want to be seen as rescuing every failing bank, no buyer was willing to take on Lehman’s toxic assets, and the sheer scale of its subprime exposure made it too dangerous to absorb. Whatever the reason, **Lehman's collapse sent global shockwaves** — crashing markets, freezing credit, and starting the worst financial crisis since 1929.
+
+## The Aftermath
+After Lehman’s fall, global markets lost trillions in value. Major banks needed urgent bailouts. The U.S. government passed a $700 billion rescue package. It also sparked long-term reforms in how banks are regulated, how much leverage they can take, and how risky assets must be disclosed. But the damage had already been done.
+
+# Final Thoughts
+Lehman Brothers didn’t collapse because subprime loans existed. It collapsed because it **ignored the risks**, **doubled down** on bad bets, and **leveraged itself to the edge**. Subprime loans weren’t just financial products. They were **a symbol of systemic overconfidence** — of a market that believed home prices could only go up, and borrowers would always pay back. They didn’t. And the entire system came crashing down.
+
+The Lehman story isn’t just a corporate failure — it’s a cautionary tale. One that reminds us that in finance, what goes up with leverage… can come down **very, very fast**.

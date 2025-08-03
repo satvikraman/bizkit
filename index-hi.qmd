@@ -1,0 +1,299 @@
+---
+about:
+    id: hero-heading
+    template: solana
+    image-shape: rounded
+format:
+    html:
+        page-layout: full
+lightbox: auto
+---
+
+```{=html}
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Kannada:wght@400;700&display=swap');
+
+/* Hindi Font */
+.hi-font {
+  font-family: 'Noto Sans Devanagari', sans-serif;
+  font-size: 19px;
+  line-height: 1.6;
+}
+
+/* Kannada Font */
+.kn-font {
+  font-family: 'Noto Sans Kannada', sans-serif;
+  font-size: 19px;
+  line-height: 1.6;
+}
+
+/* Tamil Font */
+.ta-font {
+  font-family: 'Catamaran', sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+/* Telugu Font */
+.te-font {
+  font-family: 'Noto Sans Telugu', sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+/* German Font */
+.de-font {
+  font-family: 'Noto Sans', sans-serif; /* Default for German */
+  font-size: 19px;
+  line-height: 1.6;
+}
+
+</style>
+<!-- head.html additions -->
+<header id="quarto-header" class="headroom fixed-top headroom--top headroom--bottom">
+  <nav class="navbar navbar-expand-lg" data-bs-theme="dark">
+    <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+        <a class="navbar-brand" href="/">
+          <span class="navbar-title">BIZKIT</span>
+        </a>
+      </div>
+
+      <!-- Navigation Links -->
+      <div class="collapse navbar-collapse show" id="navbarCollapse">
+        <ul class="navbar-nav navbar-nav-scroll me-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/index-en.html">
+              <span class="menu-text">English</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/index-hi.html">
+              <span class="menu-text">हिन्दी</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/index-kn.html">
+              <span class="menu-text">ಕನ್ನಡ</span>
+            </a>
+          </li>          
+        </ul>
+      </div>
+
+    </div> <!-- /container-fluid -->
+  </nav>
+</header>
+
+<style>
+  .intro-optin-wrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .intro-section {
+    flex: 1 1 55%;
+    min-width: 300px;
+  }
+
+  @media (max-width: 768px) {
+    .intro-optin-wrapper {
+      flex-direction: column;
+    }
+  }
+
+  .optin-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    align-items: stretch;
+  }
+
+  .channel-box {
+    flex: 1 1 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    text-align: center;
+    min-height: 360px;
+    box-sizing: border-box;
+  }
+
+  .qr-img {
+    width: 140px;
+    height: 140px;
+    margin: 1rem 0;
+  }
+
+  .subscribe-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1rem;
+    text-decoration: none;
+    margin-top: 1rem;
+  }
+
+  .subscribe-btn img {
+    height: 20px;
+    width: 20px;
+  }
+
+  .intro-text {
+    text-align: left;
+    white-space: pre-line;
+    line-height: 1.6;
+    margin-bottom: 2rem;
+    padding-right: 0.5rem;
+  }
+
+  .language-selector {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-start;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+  }
+
+  @media (max-width: 768px) {
+    .optin-container {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  }
+
+  .heading-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .heading-wrapper h2 {
+    margin: 0;
+    font-size: 1.8rem;
+  }  
+</style>
+
+<!-- body.qmd content -->
+<script>
+  function updateLanguage(lang) {
+    const langs = {
+      'en': {
+        hiText: "Welcome",
+        hiIntro: "BizKit is a blog built on a simple idea: explain business, economics, and financial concepts by connecting them to real-world events — in a relishable and easily digestible way (just like a good biscuit 🍪), and without jargon. A new story is published every week, crafted to be easy to read and understand.\n The goal is to spark genuine curiosity about business and economics — especially among young minds. While science and programming courses are often tailored for kids, very little is said about how economies and businesses actually work in a kid-friendly way.\n BizKit hopes to change that. By using technology and offering content in multiple languages, we aim to reach as many young learners as possible — including those outside the English-medium of education.\n You can explore the blog in your preferred language using the options at the top of the page. If you'd like to stay updated, feel free to subscribe via WhatsApp. I promise not to spam you.",
+        whatsappStrongText: "Join WhatsApp Channel",
+        whatsappQR: "/assets/landing/qr-whatsapp-en.png",
+        whatsappLink: 'https://whatsapp.com/channel/0029VbAwFip59PwKCh7Wwi1F',
+      },
+      'hi': {
+        hiText: "नमस्ते",
+        hiIntro: "BizKit एक ब्लॉग है जो एक आसान से विचार पर बना है: बिज़नेस, इकॉनॉमिक्स और फाइनेंस की बातों को असली दुनिया की घटनाओं से जोड़कर इस तरह समझाना कि पढ़ने में मज़ा भी आए और समझना भी आसान हो — ठीक वैसे जैसे एक अच्छा बिस्किट 🍪 खाने में अच्छा लगता है। और हां, इसमें किसी तरह का भारी-भरकम टेक्निकल शब्दों (जैसे जार्गन) का इस्तेमाल नहीं होता। हर हफ्ते एक नई कहानी पब्लिश होती है, जिसे इस तरह लिखा जाता है कि हर कोई आसानी से पढ़ और समझ सके।\n इसका मकसद है कि बिज़नेस और इकॉनॉमिक्स को लेकर लोगों, खासकर बच्चों और युवाओं में, असली दिलचस्पी जगाई जाए। जैसे साइंस और प्रोग्रामिंग के लिए बच्चों के लिए कोर्स बनाए जाते हैं, वैसे इकॉनॉमी और बिज़नेस की समझ बच्चों के लिए बहुत कम दी जाती है।\n BizKit यही बदलना चाहता है। टेक्नोलॉजी की मदद से और कई भाषाओं में कंटेंट देकर हम ज़्यादा से ज़्यादा बच्चों और नए सीखने वालों तक पहुँचना चाहते हैं — खासकर उन तक जो इंग्लिश मीडियम से नहीं हैं।\n आप इस ब्लॉग को अपनी पसंद की भाषा में पढ़ सकते हैं — ऊपर दिए गए विकल्पों से भाषा बदल सकते हैं। अगर आप अपडेट रहना चाहते हैं, तो WhatsApp से सब्सक्राइब कर सकते हैं। मैं वादा करता हूँ कि आपको स्पैम नहीं भेजा जाएगा।",
+        whatsappStrongText: "व्हाट्सएप चैनल से जुड़ें",
+        whatsappQR: '/assets/landing/qr-whatsapp-hi.png',
+        whatsappLink: 'https://whatsapp.com/channel/0029VbAl8ug4o7qMtawhPL30',
+      },
+      'kn': {
+        hiText: "ನಮಸ್ಕಾರ",
+        hiIntro: "BizKit ಎಂಬುದು ಒಂದು ಸರಳ ಆಲೋಚನೆಯ ಮೇಲೆ ನಿರ್ಮಿತವಾದ ಬ್ಲಾಗ್: ನಿಜ ಜೀವನದ ಘಟನಗಳಿಗೆ ಸಂಪರ್ಕ ಹೊಂದಿಸಿ ವ್ಯವಹಾರ, ಆರ್ಥಿಕಶಾಸ್ತ್ರ ಮತ್ತು ಹಣಕಾಸಿನ ವಿಚಾರಗಳನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥವಾಗುವ ರೀತಿಯಲ್ಲಿ (ಒಳ್ಳೆಯ ಬಿಸ್ಕತ್🍪 ತಿನ್ನುವಂತೆ) ವಿವರಿಸುವುದು — ಯಾವುದೇ ಕಷ್ಟದ ಶಬ್ದಗಳು ಇಲ್ಲದೆ. ಪ್ರತೀ ವಾರ ಓದಲು ಸುಲಭವಾದ ಹೊಸ ಕಥೆಯನ್ನು ಇಲ್ಲಿ ಪ್ರಕಟಿಸಲಾಗುತ್ತದೆ.\n ಈ ಬ್ಲಾಗ್‌ನ ಉದ್ದೇಶ, ವಿಶೇಷವಾಗಿ ಯುವಮನಸ್ಸುಗಳಲ್ಲಿ ವ್ಯವಹಾರ ಮತ್ತು ಆರ್ಥಿಕಶಾಸ್ತ್ರದ ಬಗ್ಗೆ ನಿಜವಾದ ಕುತೂಹಲವನ್ನು ಹುಟ್ಟಿಸುವುದು. ವಿಜ್ಞಾನ ಮತ್ತು ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಪಾಠಗಳು ಮಕ್ಕಳಿಗೆ ಇರುತ್ತವೆ, ಆದರೆ ಆರ್ಥಿಕತೆ ಮತ್ತು ವ್ಯವಹಾರಗಳು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತವೆ ಎಂಬುದು ಮಕ್ಕಳಿಗೆ ಅರ್ಥವಾಗುವ ರೀತಿಯಲ್ಲಿ ಸಹಜವಾಗಿ ವಿವರಿಸುವುದು ಬಹುಷಃ ಕಡಿಮೆ.\n BizKit ಇದನ್ನು ಬದಲಾಯಿಸೋದು లక్ష್ಯವಾಗಿದೆ. ತಂತ್ರಜ್ಞಾನವನ್ನು ಉಪಯೋಗಿಸಿ ಮತ್ತು ವಿಷಯವನ್ನು ಹಲವಾರು ಭಾಷೆಗಳಲ್ಲಿ ನೀಡುವ ಮೂಲಕ, ನಾವು ಇಂಗ್ಲಿಷ್ ಮೀಡಿಯಂ ಅಲ್ಲದ ಮಕ್ಕಳನ್ನು ಸಹ ತಲುಪಲು ಇಚ್ಛಿಸುತ್ತೇವೆ.\n ಈ ಪುಟದ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಇರುವ ಭಾಷಾ ಆಯ್ಕೆಗಳನ್ನು ಬಳಸಿ, ನೀವು ಬ್ಲಾಗ್ ಅನ್ನು ನಿಮ್ಮ ಇಷ್ಟದ ಭಾಷೆಯಲ್ಲಿ ಓದಬಹುದು. ನಿಮಗೆ ಹೊಸ ಕಥೆಗಳ ಬಗ್ಗೆ ಮಾಹಿತಿ ಬೇಕಾದರೆ, ದಯವಿಟ್ಟು ವಾಟ್ಸಾಪ್ ಮೂಲಕ ಚಂದಾದಾರರಾಗಿ. ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿ ನನಗೆ ಬೇಕಾಗಿಲ್ಲ, ಮತ್ತು ನಾನು ಸ್ಪ್ಯಾಮ್ ಮಾಡಲ್ಲ ಅನ್ನೋದು ಖಚಿತ.",
+        whatsappStrongText: "ವಾಟ್ಸಾಪ್ ಚಾನೆಲ್‌ಗೆ ಸೇರಿ",
+        whatsappQR: '/assets/landing/qr-whatsapp-kn.png',
+        whatsappLink: 'https://whatsapp.com/channel/kn',
+      },
+      'ta': {
+        hiText: "வணக்கம்",
+        hiIntro: "BizKit என்பது ஒரு எளிய யோசனையில் அமைந்துள்ள ப்ளாக்: வணிகம், பொருளாதாரம் மற்றும் நிதி தொடர்பான கருத்துகளை உண்மையான நிகழ்வுகளுடன் இணைத்து சுவாரஸ்யமாகவும், எளிதில் புரிந்து கொள்ளக்கூடிய வகையிலும் (ஒரு நல்ல பிஸ்கெட் 🍪 போலவே) விவரிப்பது — அதிலும் மிக எளிய மொழியில். ஒவ்வொரு வாரமும் ஒரு புதிய கதை வெளியிடப்படுகிறது, அதை எளிதாக படிக்கவும் புரிந்து கொள்ளவும் உருவாக்குகிறோம்.\n இப்ப்ளாகின் நோக்கம் வணிகம் மற்றும் பொருளாதாரத்தைப் பற்றி சிறந்த ஆர்வத்தை உருவாக்குவதாகும் — குறிப்பாக இளம் மனங்களில். அறிவியல் மற்றும் நிரலாக்க பாடங்கள் குழந்தைகளுக்கேற்ப உருவாக்கப்படுகின்றன, ஆனால் பொருளாதாரம் மற்றும் வணிகம் எப்படிச் செயல்படுகிறது என்பதைக் குழந்தைகளுக்கேற்ப விளக்குவது அரிது.\n BizKit அதை மாற்றவே விரும்புகிறது. தொழில்நுட்பத்தைப் பயன்படுத்தி பல மொழிகளில் உள்ளடக்கம் வழங்குவதன்மூலம், ஆங்கிலம் மூலமல்லாத கல்வியைப் பெற்ற குழந்தைகளும் உட்பட அதிகமான மாணவர்களை அடைய முயல்கிறோம்.\n இந்த ப்ளாகை உங்களுக்குப் பிடித்த மொழியில் மேலே உள்ள விருப்பங்களை பயன்படுத்தி நீங்கள் ஆராயலாம். நீங்கள் புதுப்பிப்புகளைப் பெற விரும்பினால், WhatsApp மூலம் சுயமாகச் சேர்ந்துக்கொள்ளலாம். நான் உங்களை விளம்பர மெசேஜ்களால் தொந்தரவு செய்ய மாட்டேன்.",
+        whatsappStrongText: "WhatsApp சேனலில் சேருங்கள்",
+        whatsappQR: "/assets/landing/qr-whatsapp-en.png",
+        whatsappLink: "https://whatsapp.com/channel/0029VbAwFip59PwKCh7Wwi1F"
+      },
+      "te": {
+        "hiText": "స్వాగతం",
+        "hiIntro": "BizKit ఒక సాధారణ ఆలోచనపై తయారైన బ్లాగ్: వ్యాపారం, ఆర్థిక వ్యవస్థలు, మరియు ఫైనాన్స్ వంటి విషయాలను వాస్తవ ప్రపంచ ఘటనలతో కలిపి, సులభంగా అర్థమయ్యే విధంగా (ఒక మంచి బిస్కెట్ 🍪 లాగా) వివరించడమే లక్ష్యం. ప్రతి వారం కొత్త కథను ప్రచురిస్తాం, ఇది చదవడానికి మరియు అర్థం చేసుకోవడానికి చాలా ఈజీగా ఉంటుంది.\n వ్యాపారం మరియు ఆర్థిక రంగాలపై నిజమైన ఆసక్తిని నెలకొల్పడం లక్ష్యం — ముఖ్యంగా యువ మేధావుల్లో. సైన్స్ మరియు ప్రోగ్రామింగ్ కోసం చిన్నపిల్లల కోర్సులు అందుబాటులో ఉన్నా, ఆర్థిక వ్యవస్థలు మరియు వ్యాపారాలు ఎలా పనిచేస్తాయో పిల్లలకు స్నేహపూర్వకంగా ఎవరూ చెబట్లేదు.\n BizKit దీన్ని మార్చాలనుకుంటోంది. టెక్నాలజీ ఉపయోగించి మరియు అనేక భాషల్లో కంటెంట్ అందిస్తూ, ఇంగ్లిష్ మీడియం కాదని విద్యార్థులకు కూడా చేరాలని ప్రయత్నిస్తున్నాం.\n పేజీపై పై భాగంలో ఉన్న భాషా ఎంపికలతో మీరు మీకు నచ్చిన భాషలో ఈ బ్లాగ్‌ను చూడవచ్చు. మీరు తాజా కథల గురించి తెలుసుకోవాలనుకుంటే, WhatsApp ద్వారా సబ్‌స్క్రైబ్ అవ్వండి. మీకు అనవసరమైన మెసేజులు పంపమని మాటిస్తున్నాను.",
+        "whatsappStrongText": "WhatsApp చానెల్‌ లో చేరండి",
+        "whatsappQR": "/assets/landing/qr-whatsapp-en.png",
+        "whatsappLink": "https://whatsapp.com/channel/0029VbAwFip59PwKCh7Wwi1F"
+      },
+      "de": {
+        "hiText": "Willkommen",
+        "hiIntro": "BizKit ist ein Blog, der auf einer einfachen Idee basiert: Geschäfts-, Wirtschafts- und Finanzthemen durch echte Ereignisse erklären – auf eine unterhaltsame und leicht verständliche Art (so wie ein leckerer Keks 🍪) und ohne komplizierte Fachbegriffe. Jede Woche gibt es eine neue Geschichte, die einfach zu lesen und zu verstehen ist.\n Das Ziel ist es, echtes Interesse an Wirtschaft und Unternehmen zu wecken – besonders bei jungen Menschen. Während es viele Wissenschafts- und Programmierkurse für Kinder gibt, wird selten kindgerecht erklärt, wie Wirtschaft und Unternehmen wirklich funktionieren.\n BizKit möchte das ändern. Mit Hilfe von Technik und Inhalten in mehreren Sprachen wollen wir möglichst viele junge Lernende erreichen – auch die, die nicht auf Englisch unterrichtet werden.\n Du kannst den Blog in deiner Lieblingssprache lesen, indem du oben auf der Seite die Sprache auswählst. Wenn du auf dem Laufenden bleiben möchtest, kannst du dich gerne über WhatsApp anmelden. Versprochen: kein Spam!",
+        "whatsappStrongText": "WhatsApp-Kanal beitreten",
+        "whatsappQR": "/assets/landing/qr-whatsapp-en.png",
+        "whatsappLink": "https://whatsapp.com/channel/0029VbAwFip59PwKCh7Wwi1F"
+      }
+    };
+
+    const data = langs[lang];
+    document.getElementById('hiText').innerText = data.hiText;
+    document.getElementById('hiIntro').innerText = data.hiIntro;
+    document.getElementById('whatsappStrongText').innerText = data.whatsappStrongText;
+    document.getElementById('qrWhatsapp').src = data.whatsappQR;
+    document.getElementById('whatsappJoinBtn').href = data.whatsappLink;
+
+    // 👇 Font toggle logic
+    // Remove all font classes first to avoid conflicts
+      document.body.classList.remove('hi-font', 'kn-font', 'ta-font', 'te-font', 'ml-font', 'mr-font', 'de-font');
+
+      // Add the appropriate font class based on the selected language
+      if (lang === 'hi') {
+        document.body.classList.add('hi-font');
+      } else if (lang === 'kn') {
+        document.body.classList.add('kn-font');
+      } else if (lang === 'ta') {
+        document.body.classList.add('ta-font');
+      } else if (lang === 'te') {
+        document.body.classList.add('te-font');
+      } else if (lang === 'de') {
+        document.body.classList.add('de-font');
+      } else {
+        // Fallback: if no language matches, apply the default English font
+        document.body.classList.add('en-font');
+      }
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+      updateLanguage('hi');
+    });
+</script>
+
+<img src="/assets/landing/qr-whatsapp-hi.png" style="display:none;" />
+<img src="/assets/landing/qr-whatsapp-kn.png" style="display:none;" />
+
+<div class="heading-wrapper">
+  <h2 id="hiText"></h2>
+</div>
+
+<div class="intro-optin-wrapper">
+  <div class="intro-section">
+    <div id="hiIntro" class="intro-text"></div>
+  </div>
+
+  <div class="optin-container">
+    <div class="channel-box">
+      <strong id="whatsappStrongText">Join WhatsApp Channel</strong>
+      <img id="qrWhatsapp" class="qr-img" src="/assets/landing/qr-whatsapp-en.png" alt="WhatsApp QR">
+      <a id="whatsappJoinBtn" class="subscribe-btn" href="https://whatsapp.com/channel/0029VbAwFip59PwKCh7Wwi1F" style="background-color: #25D366;">
+        <img src="/assets/landing/icons8-whatsapp-48.png" alt="WhatsApp"> Join WhatsApp
+      </a>
+    </div>
+  </div>
+</div>
+```

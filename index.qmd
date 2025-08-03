@@ -1,0 +1,14 @@
+---
+title: "Redirecting to English"
+format: html
+page-layout: full
+description: "Redirecting to the English version of the BizKit site"
+execute: 
+  {enabled: false}
+---
+
+<script>
+  window.location.replace("index-en.html");
+</script>
+
+<p>If you are not redirected automatically, <a href="index-en.html">click here</a>.</p>
