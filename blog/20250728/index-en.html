@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.31">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Satvik Raman">
+<meta name="dcterms.date" content="2025-07-28">
+<meta name="description" content="Behind every share you own, there’s a digital vault keeping it safe — that’s what a depository does. We explore how depositories like NSDL and CDSL form the invisible backbone of India’s stock market. With NSDL’s IPO around the corner, it’s the perfect time to understand the world of depositories — what they are, how they work, and why they matter.">
+
+<title>What Does a Depository Actually Do? – BIZKIT</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-36055dde38e1c66a85944b0e21486264.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<style>
+
+      .quarto-title-block .quarto-title-banner h1,
+      .quarto-title-block .quarto-title-banner h2,
+      .quarto-title-block .quarto-title-banner h3,
+      .quarto-title-block .quarto-title-banner h4,
+      .quarto-title-block .quarto-title-banner h5,
+      .quarto-title-block .quarto-title-banner h6
+      {
+        color: white;
+      }
+
+      .quarto-title-block .quarto-title-banner {
+        color: white;
+background: #ef6A65;
+      }
+</style>
+<!-- ... -->
+
+<link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css">
+
+
+
+<link rel="stylesheet" href="../../assets/styles.css">
+<meta property="og:title" content="What Does a Depository Actually Do? – BIZKIT">
+<meta property="og:description" content="Behind every share you own, there’s a digital vault keeping it safe — that’s what a depository does. We explore how depositories like NSDL and CDSL form the invisible backbone of India’s stock market. With NSDL’s IPO around the corner, it’s the perfect time to understand the world of depositories — what they are, how they work, and why they matter.">
+<meta property="og:image" content="https://bizkit.co.in/blog/20250728/depositories.png">
+<meta property="og:site_name" content="BIZKIT">
+<meta property="og:locale" content="en_US">
+<meta property="og:image:height" content="547">
+<meta property="og:image:width" content="664">
+<meta name="twitter:title" content="What Does a Depository Actually Do? – BIZKIT">
+<meta name="twitter:description" content="Behind every share you own, there’s a digital vault keeping it safe — that’s what a depository does. We explore how depositories like NSDL and CDSL form the invisible backbone of India’s stock market. With NSDL’s IPO around the corner, it’s the perfect time to understand the world of depositories — what they are, how they work, and why they matter.">
+<meta name="twitter:image" content="https://bizkit.co.in/blog/20250728/depositories.png">
+<meta name="twitter:creator" content="@satvikraman">
+<meta name="twitter:site" content="@satvikraman">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image-height" content="547">
+<meta name="twitter:image-width" content="664">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">BIZKIT</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index-en.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog/index-en.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">🌐</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-">    
+        <li>
+    <a class="dropdown-item" href="../../../index-en.html">
+ <span class="dropdown-text">English</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../index-hi.html">
+ <span class="dropdown-text">हिन्दी</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../index-kn.html">
+ <span class="dropdown-text">ಕನ್ನಡ</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../index-ta.html">
+ <span class="dropdown-text">தமிழ்</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../index-te.html">
+ <span class="dropdown-text">తెలుగు</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../index-de.html">
+ <span class="dropdown-text">Deutsch</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">What Does a Depository Actually Do?</h1>
+            <p class="subtitle lead">“<i>“The financial system is only as strong as its plumbing.” — Paul Volcker </i>”</p>
+                  <div>
+        <div class="description">
+          Behind every share you own, there’s a digital vault keeping it safe — that’s what a depository does. We explore how depositories like NSDL and CDSL form the invisible backbone of India’s stock market. With NSDL’s IPO around the corner, it’s the perfect time to understand the world of depositories — what they are, how they work, and why they matter.
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Stock Market</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page-left">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Satvik Raman </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">July 28, 2025</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#the-basics-what-even-is-a-depository" id="toc-the-basics-what-even-is-a-depository" class="nav-link active" data-scroll-target="#the-basics-what-even-is-a-depository">The Basics: What Even <em>Is</em> a Depository?</a>
+  <ul class="collapse">
+  <li><a href="#why-depositories-matter" id="toc-why-depositories-matter" class="nav-link" data-scroll-target="#why-depositories-matter">Why Depositories Matter</a></li>
+  <li><a href="#a-simple-analogy-to-tie-it-all-together" id="toc-a-simple-analogy-to-tie-it-all-together" class="nav-link" data-scroll-target="#a-simple-analogy-to-tie-it-all-together">A Simple Analogy to Tie It All Together</a></li>
+  </ul></li>
+  <li><a href="#india-has-two-depositories-nsdl-and-cdsl" id="toc-india-has-two-depositories-nsdl-and-cdsl" class="nav-link" data-scroll-target="#india-has-two-depositories-nsdl-and-cdsl">India Has Two Depositories: NSDL and CDSL</a>
+  <ul class="collapse">
+  <li><a href="#spotlight-on-nsdl" id="toc-spotlight-on-nsdl" class="nav-link" data-scroll-target="#spotlight-on-nsdl">Spotlight on NSDL</a></li>
+  <li><a href="#what-about-cdsl" id="toc-what-about-cdsl" class="nav-link" data-scroll-target="#what-about-cdsl">What About CDSL?</a></li>
+  </ul></li>
+  <li><a href="#final-thoughts-why-you-should-care" id="toc-final-thoughts-why-you-should-care" class="nav-link" data-scroll-target="#final-thoughts-why-you-should-care">Final Thoughts: Why You Should Care</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+
+
+
+
+
+<p>
+<b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewbox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"></path></svg> <span class="waline-pageview-count">
+</span></p><p>
+</p><section id="the-basics-what-even-is-a-depository" class="level1">
+<h1>The Basics: What Even <em>Is</em> a Depository?</h1>
+<p>Let’s start with the concept. Think about your bank. It holds your money digitally. A <strong>depository</strong> does something similar, but instead of money, it stores <strong>securities</strong> like shares, bonds, ETFs, and mutual fund units in <strong>electronic form</strong>.</p>
+<p>So when you buy shares of a company (say, Reliance), you don’t receive a physical certificate. Instead, those shares are held digitally in your <strong>demat account</strong> — short for “dematerialized account.”</p>
+<p>Depositories ensure these holdings are:</p>
+<ul>
+<li>Safely stored</li>
+<li>Easily transferred</li>
+<li>Accurately recorded</li>
+</ul>
+<p>Just like a bank needs branches to serve customers, depositories operate through <strong>Depository Participants (DPs)</strong> — typically your broker (like Zerodha, ICICI Direct, or Groww).</p>
+<section id="why-depositories-matter" class="level2">
+<h2 class="anchored" data-anchor-id="why-depositories-matter">Why Depositories Matter</h2>
+<p>Before depositories were introduced, trading in India was paper-based. Share certificates got lost, signatures didn’t match, and transfers took weeks.</p>
+<p>That changed in the mid-1990s when India introduced depositories. They:</p>
+<ul>
+<li>Eliminated the need for physical share certificates</li>
+<li>Enabled T+1 settlement (buy today, and get the shares in your account tomorrow)</li>
+<li>Made trading faster, safer, and more accessible to millions of Indians</li>
+</ul>
+<p>Today, a depository is <strong>a critical part of the stock market’s infrastructure</strong> — it’s what makes modern investing even possible.</p>
+</section>
+<section id="a-simple-analogy-to-tie-it-all-together" class="level2">
+<h2 class="anchored" data-anchor-id="a-simple-analogy-to-tie-it-all-together">A Simple Analogy to Tie It All Together</h2>
+<p>Say you buy 10 shares of Infosys through your trading app. What happens?</p>
+<ol type="1">
+<li>You place the buy order.<br>
+</li>
+<li>The stock exchange matches your trade.<br>
+</li>
+<li>The <strong>depository</strong> (NSDL or CDSL) gets notified.<br>
+</li>
+<li>On the settlement day (T+1), the seller’s demat is debited and yours is credited.</li>
+</ol>
+<p>Think of it like UPI for stocks — except instead of money, you’re transferring ownership of securities, and the depository is the invisible trust layer that ensures it all works.</p>
+</section>
+</section>
+<section id="india-has-two-depositories-nsdl-and-cdsl" class="level1">
+<h1>India Has Two Depositories: NSDL and CDSL</h1>
+<p>India is one of the few countries with two licensed depositories:</p>
+<ol type="1">
+<li><strong>NSDL (National Securities Depository Limited)</strong> — Established in 1996, backed by NSE<br>
+</li>
+<li><strong>CDSL (Central Depository Services Limited)</strong> — Established in 1999, backed by BSE</li>
+</ol>
+<p>They’re both regulated by <strong>SEBI</strong>, and function largely the same way. Your broker decides which one holds your demat account.</p>
+<section id="spotlight-on-nsdl" class="level2">
+<h2 class="anchored" data-anchor-id="spotlight-on-nsdl">Spotlight on NSDL</h2>
+<p><strong>NSDL</strong> was the <strong>first depository in India</strong> and remains the <strong>largest by value of holdings</strong>. It plays a crucial role in enabling smooth settlement of trades, storage of securities, and investor services.</p>
+<p>Here’s what NSDL handles:</p>
+<ul>
+<li><strong>Holds securities digitally</strong> — stocks, bonds, ETFs, mutual fund units<br>
+</li>
+<li><strong>Enables trade settlements</strong> — ensures smooth transfer between buyer and seller<br>
+</li>
+<li><strong>Records ownership</strong> — linked to your PAN and Aadhaar<br>
+</li>
+<li><strong>Supports corporate actions</strong> — dividends, rights issues, bonus shares<br>
+</li>
+<li><strong>Helps with pledging and unpledging</strong> of shares for loans</li>
+</ul>
+<p>It also works with government initiatives like:</p>
+<ul>
+<li><strong>e-KYC infrastructure</strong><br>
+</li>
+<li><strong>National Academic Depository</strong> (stores academic certificates)<br>
+</li>
+<li><strong>Insurance repositories</strong> and digital signatures</li>
+</ul>
+<p>NSDL is not listed yet, but its IPO is expected soon. It’s backed by heavyweights like IDBI Bank, NSE, SBI, HDFC Bank, Citibank, and Standard Chartered.</p>
+</section>
+<section id="what-about-cdsl" class="level2">
+<h2 class="anchored" data-anchor-id="what-about-cdsl">What About CDSL?</h2>
+<p><strong>CDSL</strong>, the second depository, went public in 2017 and has since gained popularity — especially among retail investors.</p>
+<p>It now holds more <strong>individual demat accounts</strong> than NSDL, partly because brokers like Zerodha and Upstox often default to CDSL.</p>
+<p>Here’s a quick comparison:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 35%">
+<col style="width: 38%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Metric</th>
+<th>NSDL</th>
+<th>CDSL</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Founded</td>
+<td>1996</td>
+<td>1999</td>
+</tr>
+<tr class="even">
+<td>Backed by</td>
+<td>NSE</td>
+<td>BSE</td>
+</tr>
+<tr class="odd">
+<td>Listed</td>
+<td>IPO upcoming</td>
+<td>Listed (2017)</td>
+</tr>
+<tr class="even">
+<td>Demat Accounts (approx)</td>
+<td>~3 crore</td>
+<td>~10 crore</td>
+</tr>
+<tr class="odd">
+<td>Market Share (by value)</td>
+<td>Higher</td>
+<td>Lower</td>
+</tr>
+</tbody>
+</table>
+<p>Both perform the same critical functions — it’s just a matter of which one your broker is connected to.</p>
+</section>
+</section>
+<section id="final-thoughts-why-you-should-care" class="level1">
+<h1>Final Thoughts: Why You Should Care</h1>
+<p>When you invest in stocks, you probably think about prices, charts, and news. But behind the scenes, <strong>depositories</strong> like NSDL and CDSL are working tirelessly to keep your holdings safe and transactions smooth. Without them, you’d be dealing with paperwork, lost certificates, and long settlement times.</p>
+<p>So with NSDL’s IPO in the news, it’s a great time to step back and appreciate the <strong>market plumbing</strong> that makes investing so seamless today. Whether or not you choose to invest in NSDL, it’s worth knowing how it (and CDSL) quietly power India’s financial markets every single day.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/bizkit\.co\.in");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<div class="faux-block">
+<i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> 2025 Satvik Raman
+</div>
+<div class="faux-block">
+All content licensed under<br><a href="https://creativecommons.org/licenses/by/4.0/"><i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by" aria-label="creative-commons-by"></i> Creative Commons CC BY 4.0</a>
+</div>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<div class="faux-block">
+Made with <i class="fa-brands fa-python" aria-label="python"></i> and <a href="https://quarto.org/">Quarto</a>
+</div>
+<div class="faux-block">
+<a href="https://github.com/satvikraman/bizkit">View the source at <i class="fa-brands fa-github" aria-label="github"></i> GitHub</a>
+</div>
+</div>
+  </div>
+</footer>
+<!-- ... -->
+
+<div id="waline"></div>
+
+<script type="module">
+
+import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+
+
+init({
+
+    el: '#waline',
+
+    serverURL: 'https://waline-portfolio.vercel.app/',
+
+    lang: 'en',
+
+    reaction: ['https://unpkg.com/@waline/emojis@1.1.0/tw/1f44d.png'],
+
+    pageview: true,
+
+});
+
+</script>
+
+
+
+
+
+</body></html>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>BIZKIT</title>
+<link>https://bizkit.co.in/blog/index-en.html</link>
+<atom:link href="https://bizkit.co.in/blog/index-en.xml" rel="self" type="application/rss+xml"/>
+<description>Bite sized, easy to digest stories from  the world of business, economy, and finance.</description>
+<generator>quarto-1.7.31</generator>
+<lastBuildDate>Sun, 27 Jul 2025 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>What Does a Depository Actually Do?</title>
+  <dc:creator>Satvik Raman</dc:creator>
+  <link>https://bizkit.co.in/blog/20250728/index-en.html</link>
+  <description><![CDATA[ Behind every share you own, there’s a digital vault keeping it safe — that’s what a depository does. We explore how depositories like NSDL and CDSL form the invisible backbone of India’s stock market. With NSDL’s IPO around the corner, it’s the perfect time to understand the world of depositories — what they are, how they work, and why they matter. ]]></description>
+  <category>Stock Market</category>
+  <guid>https://bizkit.co.in/blog/20250728/index-en.html</guid>
+  <pubDate>Sun, 27 Jul 2025 18:30:00 GMT</pubDate>
+  <media:content url="https://bizkit.co.in/blog/20250728/depositories.png" medium="image" type="image/png" height="119" width="144"/>
+</item>
+<item>
+  <title>Lehman Brothers and the Subprime Time Bomb</title>
+  <dc:creator>Satvik Raman</dc:creator>
+  <link>https://bizkit.co.in/blog/20240331/index-en.html</link>
+  <description><![CDATA[ Subprime loans powered the housing boom of the early 2000s — until they shook the global financial system. What are subprime loans? And how did they bring down one of Wall Street’s oldest investment banks: Lehman Brothers. ]]></description>
+  <category>Bankruptcy</category>
+  <category>Subprime Loans</category>
+  <category>Leverage</category>
+  <guid>https://bizkit.co.in/blog/20240331/index-en.html</guid>
+  <pubDate>Wed, 20 Mar 2024 18:30:00 GMT</pubDate>
+  <media:content url="https://bizkit.co.in/blog/20240331/lehman-brothers.png" medium="image" type="image/png" height="119" width="144"/>
+</item>
+<item>
+  <title>Tariffs: The Price Tag on Borders</title>
+  <dc:creator>Satvik Raman</dc:creator>
+  <link>https://bizkit.co.in/blog/20250802/index-en.html</link>
+  <description><![CDATA[ Tariffs are back in the headlines, with the U.S. slapping a sweeping 25% duty on several Indian goods. But what exactly are tariffs, and why do countries impose them in the first place? ]]></description>
+  <category>Trade</category>
+  <category>Economics</category>
+  <category>Global Markets</category>
+  <guid>https://bizkit.co.in/blog/20250802/index-en.html</guid>
+  <pubDate>Sun, 03 Aug 2025 15:03:50 GMT</pubDate>
+  <media:content url="https://bizkit.co.in/blog/20250802/tariff.png" medium="image" type="image/png" height="119" width="144"/>
+</item>
+</channel>
+</rss>

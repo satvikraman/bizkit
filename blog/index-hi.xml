@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>BIZKIT</title>
+<link>https://bizkit.co.in/blog/index-hi.html</link>
+<atom:link href="https://bizkit.co.in/blog/index-hi.xml" rel="self" type="application/rss+xml"/>
+<description>Bite sized, easy to digest stories from the world of business, economy, and finance.</description>
+<generator>quarto-1.7.31</generator>
+<lastBuildDate>Sun, 27 Jul 2025 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>डिपॉजिटरी असल में करती क्या है?</title>
+  <dc:creator>सात्विक रमन</dc:creator>
+  <link>https://bizkit.co.in/blog/20250728/index-hi.html</link>
+  <description><![CDATA[ हर शेयर के पीछे एक डिजिटल लॉकर होता है जो उसे सुरक्षित रखता है — यही काम डिपॉजिटरी करती है। इस पोस्ट में हम समझते हैं कि NSDL और CDSL जैसी डिपॉजिटरी भारत के शेयर बाज़ार की अदृश्य रीढ़ कैसे बनती हैं। और NSDL का IPO आने वाला है, तो ये सही समय है जानने का कि डिपॉजिटरी होती क्या है, कैसे काम करती है, और क्यों ज़रूरी है। ]]></description>
+  <category>शेयर बाज़ार</category>
+  <guid>https://bizkit.co.in/blog/20250728/index-hi.html</guid>
+  <pubDate>Sun, 27 Jul 2025 18:30:00 GMT</pubDate>
+  <media:content url="https://bizkit.co.in/blog/20250728/depositories.png" medium="image" type="image/png" height="119" width="144"/>
+</item>
+<item>
+  <title>लेहमन ब्रदर्स और सबप्राइम टाइम बम</title>
+  <dc:creator>सात्विक रामन</dc:creator>
+  <link>https://bizkit.co.in/blog/20240331/index-hi.html</link>
+  <description><![CDATA[ सबप्राइम लोन ने 2000 के शुरुआती दशक में हाउसिंग बूम को ताकत दी — जब तक कि उन्होंने पूरी फाइनेंशियल सिस्टम को हिला कर रख नहीं दिया। सबप्राइम लोन होते क्या हैं? और इन्होंने वॉल स्ट्रीट की सबसे पुरानी इन्वेस्टमेंट बैंकों में से एक, लेहमन ब्रदर्स को कैसे गिराया? ]]></description>
+  <category>दिवालिया</category>
+  <category>सबप्राइम लोन</category>
+  <category>लीवरेज</category>
+  <guid>https://bizkit.co.in/blog/20240331/index-hi.html</guid>
+  <pubDate>Wed, 20 Mar 2024 18:30:00 GMT</pubDate>
+  <media:content url="https://bizkit.co.in/blog/20240331/lehman-brothers.png" medium="image" type="image/png" height="119" width="144"/>
+</item>
+<item>
+  <title>टैरिफ: सरहद पार करने की कीमत</title>
+  <dc:creator>Satvik Raman</dc:creator>
+  <link>https://bizkit.co.in/blog/20250802/index-hi.html</link>
+  <description><![CDATA[ टैरिफ फिर से चर्चा में हैं, क्योंकि अमेरिका ने कई भारतीय सामानों पर 25% टैक्स लगा दिया है। लेकिन टैरिफ असल में होते क्या हैं, और देश इन्हें क्यों लगाते हैं? ]]></description>
+  <category>व्यापार</category>
+  <category>अर्थशास्त्र</category>
+  <category>ग्लोबल मार्केट्स</category>
+  <guid>https://bizkit.co.in/blog/20250802/index-hi.html</guid>
+  <pubDate>Sun, 03 Aug 2025 15:04:04 GMT</pubDate>
+  <media:content url="https://bizkit.co.in/blog/20250802/tariff.png" medium="image" type="image/png" height="119" width="144"/>
+</item>
+</channel>
+</rss>

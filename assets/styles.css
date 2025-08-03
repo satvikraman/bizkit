@@ -1,0 +1,12 @@
+/* Remove line under h2 */
+h2 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+
+/* Add line under h1 instead */
+h1 {
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 0.3em;
+  margin-bottom: 1em;
+}
