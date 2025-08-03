@@ -10,7 +10,19 @@
 <atom:link href="https://bizkit.co.in/blog/index-ta.xml" rel="self" type="application/rss+xml"/>
 <description>Bite sized, easy to digest stories from the world of business, economy, and finance.</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Sun, 27 Jul 2025 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 01 Aug 2025 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>சுங்கங்கள்: எல்லைகளில் கிடைக்கும் விலை பில்லு</title>
+  <dc:creator>Satvik Raman</dc:creator>
+  <link>https://bizkit.co.in/blog/20250802/index-ta.html</link>
+  <description><![CDATA[ சுங்கங்கள் மீண்டும் செய்திகளில் உள்ளன — அமெரிக்கா இந்தியாவில் இருந்து வரும் பல பொருட்களுக்கு 25% வரி விதித்துள்ளது. ஆனால் சுங்கம் என்பது என்ன? நாடுகள் ஏன் இதைப் போடுகின்றன? ]]></description>
+  <category>வர்த்தகம்</category>
+  <category>பொருளாதாரம்</category>
+  <category>உலக சந்தைகள்</category>
+  <guid>https://bizkit.co.in/blog/20250802/index-ta.html</guid>
+  <pubDate>Fri, 01 Aug 2025 18:30:00 GMT</pubDate>
+  <media:content url="https://bizkit.co.in/blog/20250802/tariff.png" medium="image" type="image/png" height="119" width="144"/>
+</item>
 <item>
   <title>ஒரு டெபாசிட்டரி உண்மையில் என்ன செய்கிறது?</title>
   <dc:creator>சத்விக் ராமன்</dc:creator>
@@ -32,18 +44,6 @@
   <guid>https://bizkit.co.in/blog/20240331/index-ta.html</guid>
   <pubDate>Wed, 20 Mar 2024 18:30:00 GMT</pubDate>
   <media:content url="https://bizkit.co.in/blog/20240331/lehman-brothers.png" medium="image" type="image/png" height="119" width="144"/>
-</item>
-<item>
-  <title>சுங்கங்கள்: எல்லைகளில் கிடைக்கும் விலை பில்லு</title>
-  <dc:creator>Satvik Raman</dc:creator>
-  <link>https://bizkit.co.in/blog/20250802/index-ta.html</link>
-  <description><![CDATA[ சுங்கங்கள் மீண்டும் செய்திகளில் உள்ளன — அமெரிக்கா இந்தியாவில் இருந்து வரும் பல பொருட்களுக்கு 25% வரி விதித்துள்ளது. ஆனால் சுங்கம் என்பது என்ன? நாடுகள் ஏன் இதைப் போடுகின்றன? ]]></description>
-  <category>வர்த்தகம்</category>
-  <category>பொருளாதாரம்</category>
-  <category>உலக சந்தைகள்</category>
-  <guid>https://bizkit.co.in/blog/20250802/index-ta.html</guid>
-  <pubDate>Sun, 03 Aug 2025 15:04:31 GMT</pubDate>
-  <media:content url="https://bizkit.co.in/blog/20250802/tariff.png" medium="image" type="image/png" height="119" width="144"/>
 </item>
 </channel>
 </rss>

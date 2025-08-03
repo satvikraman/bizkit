@@ -10,7 +10,19 @@
 <atom:link href="https://bizkit.co.in/blog/index-te.xml" rel="self" type="application/rss+xml"/>
 <description>Bite sized, easy to digest stories from the world of business, economy, and finance.</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Sun, 27 Jul 2025 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 01 Aug 2025 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>టారిఫ్‌లు: సరిహద్దులపై ధర ట్యాగ్</title>
+  <dc:creator>Satvik Raman</dc:creator>
+  <link>https://bizkit.co.in/blog/20250802/index-te.html</link>
+  <description><![CDATA[ టారిఫ్‌లు మళ్లీ వార్తల్లోకి వచ్చాయి. అమెరికా కొన్ని భారతీయ వస్తువులపై 25% టాక్స్ వేశింది. కానీ టారిఫ్ అంటే ఏమిటి? దేశాలు ఇవి ఎందుకు వేస్తాయి? ]]></description>
+  <category>వాణిజ్యం</category>
+  <category>ఆర్థిక శాస్త్రం</category>
+  <category>గ్లోబల్ మార్కెట్లు</category>
+  <guid>https://bizkit.co.in/blog/20250802/index-te.html</guid>
+  <pubDate>Fri, 01 Aug 2025 18:30:00 GMT</pubDate>
+  <media:content url="https://bizkit.co.in/blog/20250802/tariff.png" medium="image" type="image/png" height="119" width="144"/>
+</item>
 <item>
   <title>డిపాజిటరీ అంటే నిజానికి ఏం చేస్తుంది?</title>
   <dc:creator>సత్విక్ రమణ్</dc:creator>
@@ -32,18 +44,6 @@
   <guid>https://bizkit.co.in/blog/20240331/index-te.html</guid>
   <pubDate>Wed, 20 Mar 2024 18:30:00 GMT</pubDate>
   <media:content url="https://bizkit.co.in/blog/20240331/lehman-brothers.png" medium="image" type="image/png" height="119" width="144"/>
-</item>
-<item>
-  <title>టారిఫ్‌లు: సరిహద్దులపై ధర ట్యాగ్</title>
-  <dc:creator>Satvik Raman</dc:creator>
-  <link>https://bizkit.co.in/blog/20250802/index-te.html</link>
-  <description><![CDATA[ టారిఫ్‌లు మళ్లీ వార్తల్లోకి వచ్చాయి. అమెరికా కొన్ని భారతీయ వస్తువులపై 25% టాక్స్ వేశింది. కానీ టారిఫ్ అంటే ఏమిటి? దేశాలు ఇవి ఎందుకు వేస్తాయి? ]]></description>
-  <category>వాణిజ్యం</category>
-  <category>ఆర్థిక శాస్త్రం</category>
-  <category>గ్లోబల్ మార్కెట్లు</category>
-  <guid>https://bizkit.co.in/blog/20250802/index-te.html</guid>
-  <pubDate>Sun, 03 Aug 2025 15:04:43 GMT</pubDate>
-  <media:content url="https://bizkit.co.in/blog/20250802/tariff.png" medium="image" type="image/png" height="119" width="144"/>
 </item>
 </channel>
 </rss>

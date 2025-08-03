@@ -10,7 +10,19 @@
 <atom:link href="https://bizkit.co.in/blog/index-en.xml" rel="self" type="application/rss+xml"/>
 <description>Bite sized, easy to digest stories from  the world of business, economy, and finance.</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Sun, 27 Jul 2025 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 01 Aug 2025 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>Tariffs: The Price Tag on Borders</title>
+  <dc:creator>Satvik Raman</dc:creator>
+  <link>https://bizkit.co.in/blog/20250802/index-en.html</link>
+  <description><![CDATA[ Tariffs are back in the headlines, with the U.S. slapping a sweeping 25% duty on several Indian goods. But what exactly are tariffs, and why do countries impose them in the first place? ]]></description>
+  <category>Trade</category>
+  <category>Economics</category>
+  <category>Global Markets</category>
+  <guid>https://bizkit.co.in/blog/20250802/index-en.html</guid>
+  <pubDate>Fri, 01 Aug 2025 18:30:00 GMT</pubDate>
+  <media:content url="https://bizkit.co.in/blog/20250802/tariff.png" medium="image" type="image/png" height="119" width="144"/>
+</item>
 <item>
   <title>What Does a Depository Actually Do?</title>
   <dc:creator>Satvik Raman</dc:creator>
@@ -32,18 +44,6 @@
   <guid>https://bizkit.co.in/blog/20240331/index-en.html</guid>
   <pubDate>Wed, 20 Mar 2024 18:30:00 GMT</pubDate>
   <media:content url="https://bizkit.co.in/blog/20240331/lehman-brothers.png" medium="image" type="image/png" height="119" width="144"/>
-</item>
-<item>
-  <title>Tariffs: The Price Tag on Borders</title>
-  <dc:creator>Satvik Raman</dc:creator>
-  <link>https://bizkit.co.in/blog/20250802/index-en.html</link>
-  <description><![CDATA[ Tariffs are back in the headlines, with the U.S. slapping a sweeping 25% duty on several Indian goods. But what exactly are tariffs, and why do countries impose them in the first place? ]]></description>
-  <category>Trade</category>
-  <category>Economics</category>
-  <category>Global Markets</category>
-  <guid>https://bizkit.co.in/blog/20250802/index-en.html</guid>
-  <pubDate>Sun, 03 Aug 2025 15:03:50 GMT</pubDate>
-  <media:content url="https://bizkit.co.in/blog/20250802/tariff.png" medium="image" type="image/png" height="119" width="144"/>
 </item>
 </channel>
 </rss>

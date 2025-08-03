@@ -10,7 +10,19 @@
 <atom:link href="https://bizkit.co.in/blog/index-de.xml" rel="self" type="application/rss+xml"/>
 <description>Bite sized, easy to digest stories from the world of business, economy, and finance.</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Sun, 27 Jul 2025 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 01 Aug 2025 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>Zölle: Das Preisschild an den Grenzen</title>
+  <dc:creator>Satvik Raman</dc:creator>
+  <link>https://bizkit.co.in/blog/20250802/index-de.html</link>
+  <description><![CDATA[ Zölle sind wieder in den Schlagzeilen: Die USA haben einen pauschalen Zoll von 25 % auf mehrere indische Produkte erhoben. Aber was genau sind Zölle – und warum erheben Länder sie überhaupt? ]]></description>
+  <category>Handel</category>
+  <category>Wirtschaft</category>
+  <category>Globale Märkte</category>
+  <guid>https://bizkit.co.in/blog/20250802/index-de.html</guid>
+  <pubDate>Fri, 01 Aug 2025 18:30:00 GMT</pubDate>
+  <media:content url="https://bizkit.co.in/blog/20250802/tariff.png" medium="image" type="image/png" height="119" width="144"/>
+</item>
 <item>
   <title>Was macht ein Wertpapierdepot eigentlich?</title>
   <dc:creator>Satvik Raman</dc:creator>
@@ -32,18 +44,6 @@
   <guid>https://bizkit.co.in/blog/20240331/index-de.html</guid>
   <pubDate>Wed, 20 Mar 2024 18:30:00 GMT</pubDate>
   <media:content url="https://bizkit.co.in/blog/20240331/lehman-brothers.png" medium="image" type="image/png" height="119" width="144"/>
-</item>
-<item>
-  <title>Zölle: Das Preisschild an den Grenzen</title>
-  <dc:creator>Satvik Raman</dc:creator>
-  <link>https://bizkit.co.in/blog/20250802/index-de.html</link>
-  <description><![CDATA[ Zölle sind wieder in den Schlagzeilen: Die USA haben einen pauschalen Zoll von 25 % auf mehrere indische Produkte erhoben. Aber was genau sind Zölle – und warum erheben Länder sie überhaupt? ]]></description>
-  <category>Handel</category>
-  <category>Wirtschaft</category>
-  <category>Globale Märkte</category>
-  <guid>https://bizkit.co.in/blog/20250802/index-de.html</guid>
-  <pubDate>Sun, 03 Aug 2025 15:04:57 GMT</pubDate>
-  <media:content url="https://bizkit.co.in/blog/20250802/tariff.png" medium="image" type="image/png" height="119" width="144"/>
 </item>
 </channel>
 </rss>
