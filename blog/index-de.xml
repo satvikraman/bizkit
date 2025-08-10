@@ -10,7 +10,18 @@
 <atom:link href="https://bizkit.co.in/blog/index-de.xml" rel="self" type="application/rss+xml"/>
 <description>Bite sized, easy to digest stories from the world of business, economy, and finance.</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Fri, 01 Aug 2025 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 08 Aug 2025 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>Warum Unternehmen ESOPs nutzen: Von den Grundlagen bis zu Elons neuem Tesla-Deal</title>
+  <dc:creator>Satvik Raman</dc:creator>
+  <link>https://bizkit.co.in/blog/20250809/index-de.html</link>
+  <description><![CDATA[ Wir erklären ESOPs, RSUs, Vesting-Pläne und leistungsbasierte Vergütung – und zeigen, warum Tesla Elon Musk gerade Aktien im Wert von 29 Milliarden US-Dollar gegeben hat, um ihn zu halten. ]]></description>
+  <category>Finanzkonzepte</category>
+  <category>Managervergütung</category>
+  <guid>https://bizkit.co.in/blog/20250809/index-de.html</guid>
+  <pubDate>Fri, 08 Aug 2025 18:30:00 GMT</pubDate>
+  <media:content url="https://bizkit.co.in/blog/20250809/esop-musk.png" medium="image" type="image/png" height="119" width="144"/>
+</item>
 <item>
   <title>Zölle: Das Preisschild an den Grenzen</title>
   <dc:creator>Satvik Raman</dc:creator>
