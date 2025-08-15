@@ -276,6 +276,9 @@ lightbox: auto
 
 <img src="/assets/landing/qr-whatsapp-hi.png" style="display:none;" />
 <img src="/assets/landing/qr-whatsapp-kn.png" style="display:none;" />
+<img src="/assets/landing/qr-whatsapp-ta.png" style="display:none;" />
+<img src="/assets/landing/qr-whatsapp-te.png" style="display:none;" />
+<img src="/assets/landing/qr-whatsapp-de.png" style="display:none;" />
 
 <div class="heading-wrapper">
   <h2 id="hiText"></h2>

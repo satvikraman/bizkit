@@ -1,0 +1,70 @@
+---
+title: "Why Companies Use ESOPs: From Basics to Elon’s New Tesla Deal"
+subtitle: "“Price is what you pay. Value is what you get.” — Warren Buffett"
+date: 2025-08-09
+description: >
+  We explain ESOPs, RSUs, vesting schedules, and performance pay—and decode why Tesla just granted Elon Musk $29 billion in stock to keep him onboard.
+image: "./esop-musk.png"
+twitter-card:
+  image: "./esop-musk.png"
+open-graph:
+  image: "./esop-musk.png"
+categories:
+  - Financial Concepts
+  - Executive Compensation
+author: "Satvik Raman"
+---
+
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+An **Employee Stock Ownership Plan (ESOP)** rewards employees with shares of the company so they can benefit if the company does well. ESOPs can be offered by public companies (whose shares trade on a stock exchange) and private companies (whose shares are not traded publicly). In both cases, once shares vest, employees may realize their value if the company buys them back or if another company acquires the firm and purchases employee shares during the deal. For private companies, employees can also wait for an IPO to sell in the stock market or use specialized marketplaces for unlisted shares — like Forge Global and EquityZen in the U.S., or UnlistedZone and EquityBay in India.
+
+ESOPs are popular because they:
+
+* Motivate employees by tying rewards to company success
+* Help retain staff because of vesting rules
+* Align employee goals with those of owners
+
+**Real-life example**: An engineer at a startup may get ESOPs that vest over four years. If the company’s value grows and it goes public, those shares could be worth a fortune. Conversely, if the company fails, the shares may be worthless — making ESOPs a high-risk high-reward benefit.
+
+## Types of Equity Compensation
+
+1. **Stock Options** – The right to buy shares later at a fixed price (strike price). Valuable only if the share price rises above that price.
+2. **Restricted Stock Units (RSUs)** – Shares granted after conditions are met; no purchase price required.
+3. **Performance Shares** – Shares awarded only if set goals (like revenue or market share) are met.
+
+Each type has trade-offs. Stock options can create huge gains but may expire worthless. RSUs give guaranteed ownership once conditions are met, but can be less lucrative if share prices soar. Performance shares tightly link reward to achievement but can be hard to earn.
+
+## Vesting: How You Earn Shares
+
+Vesting means you don’t get all your shares at once. Common schedules include:
+
+* **Time-based**: e.g., 25% per year over four years
+* **Cliff**: No shares for a year, then a big release
+* **Performance-based**: Shares vest only if goals are hit
+
+Vesting keeps employees invested — literally and figuratively — in the company’s success.
+
+# The Musk–Tesla Story
+In 2018, Elon Musk got a massive performance-based award worth $56 billion, tied to Tesla hitting ambitious targets. Shareholders approved it, but in early 2024 a Delaware court struck it down, saying it was too large and that Musk had too much influence over the board.
+
+Now, Tesla faces stiff EV competition, slowing growth, and investor concerns about Musk’s attention being split with other ventures. In August 2025, the board offered Musk a **$29 billion interim award**, consisting of **96 million RSUs** under Tesla’s 2019 plan. Tesla's ESOP reward to Elon has the following characteristics
+
+* **Type**: RSUs — shares granted outright, no purchase needed
+* **Vesting**: Must remain a senior executive for two years
+* **Lock-up**: Most shares unsellable for five years post-vesting
+* **Fallback**: If the 2018 award is reinstated, this grant disappears
+
+Unlike the 2018 award, this is **retention-focused** — designed to keep Musk at Tesla during a crucial period, not to reward specific performance milestones.
+
+## Why Use Retention RSUs?
+
+* They encourage leaders to stay without massive cash payouts
+* Vesting ensures commitment over time
+* Unvested shares are forfeited if the leader leaves
+
+Other companies have used similar tactics — Apple gave Tim Cook retention RSUs in 2021; Microsoft has done the same for Satya Nadella.
+
+# Why ESOPs Matter
+
+For startups, ESOPs are a way to attract talent without high salaries. For big companies, they help lock in top performers. They’re also a way to make employees feel like owners. But they’re not without downsides. If the company’s share price falls, ESOP value can drop sharply. In private firms, liquidity is a challenge — selling requires a buyback, acquisition, IPO, or using unlisted share platforms. Musk’s case shows that equity awards aren’t just about pay — they’re about **strategy**. The goal is to keep leaders in place, align their fortunes with the company’s, and share rewards when the company wins. In the end, ESOPs, RSUs, and performance shares are more than HR perks — they’re tools that can decide whether a company keeps its key people or loses them to the competition.

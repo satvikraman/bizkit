@@ -1,6 +1,6 @@
 ---
 title: "Zölle: Das Preisschild an den Grenzen"
-subtitle: "<i>Wenn Güter keine Grenzen überqueren, werden es Soldaten tun. — Frédéric Bastiat</i>"
+subtitle: "<i>“Wenn Güter keine Grenzen überqueren, werden es Soldaten tun.“ — Frédéric Bastiat</i>"
 date: 2025-08-02
 description: "Zölle sind wieder in den Schlagzeilen: Die USA haben einen pauschalen Zoll von 25 % auf mehrere indische Produkte erhoben. Aber was genau sind Zölle – und warum erheben Länder sie überhaupt?"
 image: "./tariff.png"

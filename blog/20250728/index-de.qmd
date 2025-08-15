@@ -1,6 +1,6 @@
 ---
 title: "Was macht ein Wertpapierdepot eigentlich?"
-subtitle: "<i>„Das Finanzsystem ist nur so stark wie seine Leitungen.“ — Paul Volcker</i>"
+subtitle: "<i>“Das Finanzsystem ist nur so stark wie seine Leitungen.“ — Paul Volcker</i>"
 date: 2025-07-28
 description: "Hinter jeder Aktie, die du besitzt, gibt es ein digitales Schließfach, das sie schützt – genau das macht ein Depot. Wir zeigen, wie Depotstellen wie NSDL und CDSL das unsichtbare Rückgrat des indischen Aktienmarktes bilden. Da der Börsengang von NSDL bevorsteht, ist jetzt der perfekte Zeitpunkt, um zu verstehen, was Depots sind, wie sie funktionieren und warum sie wichtig sind."
 image: "./depositories.png"
