@@ -115,7 +115,7 @@ jobs:
         run: cp -r docs/* _ghpages_temp/
 
       - name: List contents of _ghpages_temp
-        if false:
+        if: false
         run: |
           echo "===== ROOT CONTENTS ====="
           ls -al _ghpages_temp
