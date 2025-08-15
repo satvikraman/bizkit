@@ -20,6 +20,8 @@ concurrency:
 
 jobs:
   deploy:
+    environment:
+      name: github-pages
     runs-on: ubuntu-latest
 
     steps:
@@ -111,6 +113,13 @@ jobs:
 
       - name: Copy DEF files to temp folder
         run: cp -r docs/* _ghpages_temp/
+
+      - name: List contents of _ghpages_temp
+        run: |
+          echo "===== ROOT CONTENTS ====="
+          ls -al _ghpages_temp
+          echo "===== RECURSIVE ====="
+          ls -alR _ghpages_temp
 
       # 11️⃣ Configure GitHub Pages
       - name: Setup Pages
