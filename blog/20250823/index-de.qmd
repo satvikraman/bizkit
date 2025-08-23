@@ -1,0 +1,97 @@
+---
+title: "Abspaltungen: Aufteilen, um Wert zu schaffen"
+date: 2025-08-23
+subtitle: "„Konglomerate sind wie Noahs Arche — früher oder später wollen die Tiere aussteigen.“ — Jim Cramer"
+description: >
+  Wir sprechen oft über Fusionen und Übernahmen, bei denen Unternehmen zusammenkommen, um größer zu werden. Aber manchmal passiert das Gegenteil — Firmen teilen sich in kleinere Teile auf, und das nennt man „Abspaltung“. Diese Abspaltungen können genauso stark sein: neue Firmen schaffen, versteckte Werte freilegen und einen klareren Fokus geben. In diesem Beitrag sehen wir uns das Konzept an und schauen auf den neuesten Fall — Hindustan Unilever spaltet seine schwächelnde Eismarke Kwality Wall’s ab.
+image: "./20250823_title.png"
+twitter-card:
+  image: "./20250823_title.png"
+open-graph:
+  image: "./20250823_title.png"
+categories:
+  - Abspaltung
+author: "Satvik Raman"
+---
+
+<p><b>Seitenaufrufe:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Was genau ist eine Abspaltung?
+Eine Abspaltung passiert, wenn ein Unternehmen einen Teil seines Geschäfts in eine neue Firma ausgliedert. Stell dir eine Gabelung auf der Straße vor: Aus einer Straße entstehen zwei oder mehr neue Wege, die unabhängig voneinander weiterlaufen.
+
+Für Aktionäre bedeutet eine Abspaltung meistens, dass sie zusätzlich zu ihren Aktien der Mutterfirma auch Aktien der neu entstandenen Firma bekommen.
+
+## Arten von Abspaltungen
+Nicht alle Abspaltungen sind gleich. Es gibt drei Hauptarten, dazu ein paar Sonderfälle.
+
+### Spin-off (reine Abspaltung)
+Bei einem Spin-off wird ein Teil der Firma zu einer neuen, unabhängigen börsennotierten Firma. Die Aktionäre der Mutter bekommen anteilige Aktien der neuen Firma.  
+* **Beispiel (Indien):** 2007–08 teilte sich Bajaj Auto in drei Firmen — Bajaj Auto (Motorräder), Bajaj Finserv (Finanzdienste) und Bajaj Holdings (Investitionen).  
+* **Beispiel (Global):** eBay spaltete 2015 PayPal ab.  
+
+### Equity Carve-out
+Hier verkauft die Mutter 10–30 % einer Tochterfirma über einen Börsengang. So bekommt die Mutter Geld, behält aber die Kontrolle.  
+* **Beispiel (Indien):** HDFC spaltete LIC Housing Finance ab, das zu einem großen Finanzkonzern wurde.  
+* **Beispiel (Global):** General Motors spaltete GMAC (heute Ally Financial) ab.  
+
+### Split-up
+Hier hört die Mutterfirma ganz auf zu existieren und wird durch zwei oder mehr neue, unabhängige Firmen ersetzt.  
+* **Beispiel (Indien):** Reliance Industries 2005: Durch die Ambani-Familienvereinbarung wurde der Konzern zwischen Mukesh Ambani (Reliance Industries) und Anil Ambani (Reliance ADAG) aufgeteilt.  
+* **Beispiel (Global):** AT&T wurde 1984 in mehrere „Baby Bells“ aufgeteilt, um das Monopol zu brechen.  
+
+### Sonderfälle
+Manchmal gibt es Sonderarten:  
+* **Spin-off + Verkauf:** Zum Beispiel spaltete Aditya Birla Nuvo seine Telefonsparte in Idea ab, die später mit Vodafone fusionierte.  
+* **Regulatorische Abspaltung:** Zum Beispiel musste IDFC wegen Vorschriften sein Bank- und Vermögensgeschäft trennen.  
+
+## Welche Art wann passt
+Verschiedene Situationen brauchen verschiedene Arten:  
+* **Spin-offs** sind sinnvoll, wenn beide Geschäfte stark genug sind, allein zu bestehen (z. B. Bajaj Auto und Bajaj Finserv).  
+* **Carve-outs** eignen sich, wenn die Mutter Geld braucht, aber die Mehrheit behalten will.  
+* **Split-ups** kommen oft vor, wenn die Geschäfte keine Verbindung haben oder wenn Vorschriften oder Familienvereinbarungen die Trennung erzwingen (z. B. Reliance oder AT&T).  
+* **Spin-off + Verkauf** wird gewählt, wenn erst Unabhängigkeit gebraucht wird, bevor eine Fusion kommt (z. B. Idea mit Vodafone).  
+
+## Warum Firmen Abspaltungen machen
+Firmen teilen sich nicht aus Spaß, sondern aus klaren Gründen:  
+* **Wert der Mutter freilegen:** Eine schwache Sparte kann den Wert der Mutter drücken. Durch Abspaltung wird der Wert klarer. Beispiel: HUL glaubt, dass Kwality Wall’s schwächelt. Durch die Abspaltung kann HUL sich auf seine stärkeren FMCG-Marken konzentrieren.  
+* **Wert der Tochter freilegen:** Manchmal wächst eine Sparte alleine schneller. Beispiel: eBay und PayPal, wo PayPal nach der Trennung stark wuchs. In Indien wuchs Bajaj Finance enorm nach der Abspaltung von Bajaj Auto.  
+* **Fokus im Management:** Viele verschiedene Geschäfte überfordern das Management. Getrennte Firmen erlauben mehr Konzentration.  
+* **Regeln:** In Bereichen wie Finanzen verlangen Aufseher, dass Banken, Versicherungen und Fonds getrennte Firmen haben.  
+
+## Was passiert mit den Aktien?
+Der Ablauf ist recht einfach:  
+
+* Bestehende Aktionäre der Mutter bekommen Aktien der neuen Firma, meist in festem Verhältnis (z. B. 1:1).  
+* Nach der Abspaltung werden beide Firmen separat an der Börse gehandelt.  
+* Anleger können dann entscheiden, ob sie beide halten oder eine verkaufen.  
+
+**Beispiel:** Bei HUL bekommen die Aktionäre eine Aktie von Kwality Wall’s (India) Ltd (KWIL) für jede Aktie von HUL. Nach der Börsennotierung werden HUL und KWIL getrennt gehandelt.  
+
+## Fallstudie: HUL und Kwality Wall’s
+### Warum die Abspaltung?
+HUL spaltet sein Eisgeschäft Kwality Wall’s durch eine reine Abspaltung in eine eigene Firma ab. Die Leitung glaubt, dass diese Sparte außerhalb des großen FMCG-Portfolios von HUL besser laufen könnte – und dass die schwachen Ergebnisse nicht länger die Gesamtleistung von HUL belasten.  
+
+Gründe für die Entscheidung:  
+* **Probleme beim Eis:** Trotz Bekanntheit liegt Kwality Wall’s hinter Konkurrenten wie Amul, Naturals, Baskin-Robbins und kleineren regionalen Marken zurück.  
+* **Verpasste Trends:** Während Premium-, Natur- und Regional-Eis stark wuchsen, setzte HUL weiter auf gefrorene Desserts mit Pflanzenfett (bekannt als „Dalda-Eis“).  
+* **Kühlkettenproblem:** Im Gegensatz zu Seifen und Shampoos braucht Eis eine aufwändige Kühlkette. Jeder Schritt muss kalt bleiben. Konkurrenten wie Amul oder Havmor sind hier viel besser.  
+* **Digital verpasst:** Neue Marken wie Go Zero und Minus 30 setzten auf Direktvertrieb (D2C) und Liefer-Apps wie Swiggy – HUL kam hier zu spät.  
+
+### Struktur der Abspaltung
+Die wichtigsten Details:  
+* **Neue Firma:** Das Eisgeschäft wird zu Kwality Wall’s (India) Ltd (KWIL).  
+* **Aktienrecht:** Aktionäre von HUL bekommen eine KWIL-Aktie für jede HUL-Aktie.  
+* **Zeitplan:** Abspaltung bis Ende Geschäftsjahr 2026.  
+* **Globale Verbindung:** Weltweit spaltet Unilever auch sein Eisgeschäft ab, in *The Magnum Ice Cream Company (TMICC)*. KWIL wird daran ausgerichtet.  
+
+### Wie geht es weiter?
+Es wird spekuliert, dass HUL Kwality Wall’s später verkaufen könnte. Mögliche Käufer: RJ Corp (Cream Bell, KFC) oder MMG Group (McDonald’s). Auch ohne Verkauf wird KWIL jetzt eigene Leitung und klare Identität haben.  
+
+## Schlussgedanke
+Abspaltungen zeigen, dass „größer“ nicht immer „besser“ ist. Wie Flüsse, die sich in kleinere Arme teilen, kann eine Teilung manchmal schlauer sein.  
+
+Für Anleger bringen Abspaltungen Chancen:  
+* Manche Aktionäre bevorzugen die stabilen FMCG-Gewinne von HUL.  
+* Andere wollen darauf setzen, ob KWIL sich im harten Eismarkt neu erfinden kann.  
+
+Egal wie – die Trennung kommt. Die große Frage ist: **Kann KWIL sich neu erfinden, um mit Amul und Naturals mitzuhalten?** Die Zeit wird es zeigen.

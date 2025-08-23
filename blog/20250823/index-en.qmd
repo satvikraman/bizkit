@@ -1,0 +1,97 @@
+---
+title: "Demergers: Breaking up to build value"
+date: 2025-08-23
+subtitle: "“Conglomerates are like Noah’s Ark — sooner or later, the animals want to get off.” — Jim Cramer"
+description: >
+  We often talk about mergers and acquisitions, where companies come together to grow bigger. But sometimes, the opposite happens — companies break up into smaller pieces and this is called "demerger". These “demergers” can be just as powerful, creating new businesses, unlocking hidden value, and giving sharper focus. In this post, we’ll explore this concept and zoom into the latest case — Hindustan Unilever spinning off its struggling ice-cream brand Kwality Wall’s.
+image: "./20250823_title.png"
+twitter-card:
+  image: "./20250823_title.png"
+open-graph:
+  image: "./20250823_title.png"
+categories:
+  - Demerger
+author: "Satvik Raman"
+---
+
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# What Exactly Is a Demerger?
+A demerger is when a company separates part of its business into a new entity. Think of it like a fork in the road: from one road, two or more new paths branch out, each going its own way but still serving a purpose independently.
+
+For shareholders, a demerger usually means that in addition to holding shares of the parent company, post demerger, they will also receive shares of the newly created entity.
+
+## Types of Demergers
+Not all demergers are the same. Broadly, they fall into three main categories, with a few special cases as well. Let’s look at them one by one.
+
+### Spin-off (Pure Demerger)
+In a spin-off, a part of the company becomes a new, independent listed company. Shareholders of the parent get proportional shares in this new company.  
+* **Example (India):** In 2007–08, Bajaj Auto separated into three companies — Bajaj Auto (motorcycles), Bajaj Finserv (financial services), and Bajaj Holdings (investments).  
+* **Example (Global):** eBay spinning off PayPal in 2015.  
+
+### Equity Carve-out
+In an equity carve-out, the parent sells a minority stake (usually 10–30%) of a subsidiary through an IPO. This lets the parent raise money while still keeping control.  
+* **Example (India):** HDFC carved out LIC Housing Finance, which grew into a listed financial giant.  
+* **Example (Global):** General Motors carved out its finance arm GMAC (now Ally Financial).  
+
+### Split-up
+In a split-up, the parent company ceases to exist and is replaced by two or more independent companies.  
+* **Example (India):** Reliance Industries in 2005, where the Ambani family settlement divided the group between Mukesh Ambani (Reliance Industries) and Anil Ambani (Reliance ADAG).  
+* **Example (Global):** AT&T in 1984 was broken into multiple “Baby Bells” to reduce monopoly power.  
+
+### Special Cases
+There are also some special cases worth noting:  
+* **Spin-off + Strategic Sale:** For example, Aditya Birla Nuvo spun off its telecom arm into Idea, which later merged with Vodafone.  
+* **Regulatory or Forced Demerger:** For example, IDFC had to separate its banking and asset management arms due to regulations.  
+
+## Which Approach Works When?
+Different situations call for different demerger structures. Here’s when each approach tends to be used:  
+* **Spin-offs** are preferred when both businesses are strong enough to thrive independently (e.g., Bajaj Auto and Bajaj Finserv).  
+* **Carve-outs** make sense when the parent wants to raise capital but still retain majority control.  
+* **Split-ups** usually occur when businesses have no synergy or when regulators or family settlements force them apart (e.g., Reliance or AT&T).  
+* **Spin-off + Sale** is often chosen when independence is required first, before a merger (e.g., Idea merging with Vodafone).  
+
+## Why Do Demergers Happen?
+Companies don’t split up for fun — there are strong reasons behind these decisions. Some of the most common are:  
+* **Unlocking value of the parent:** A weak division can drag down the parent’s valuation. By spinning it out, investors can see the value of the parent business more clearly. Example: HUL believes Kwality Wall’s is struggling, so by demerging it, HUL can focus on its stronger Fast Moving Consumer Goods (FMCG) brands.  
+* **Unlocking value of the subsidiary:** Sometimes the unit itself has greater growth potential on its own. Example: eBay and PayPal, where PayPal flourished after separation. In India, Bajaj Finance grew enormously after being separated from Bajaj Auto.  
+* **Sharpening management focus:** Running many unrelated businesses can stretch leaders too thin. Separate companies allow management to focus fully on their core business.  
+* **Regulatory reasons:** In sectors like finance, regulators often require banking, insurance, and mutual funds to operate under separate companies.  
+
+## What Happens to Shares in a Demerger?
+The typical process is fairly simple:  
+
+* Existing shareholders of the parent company receive shares in the new company, usually in a fixed ratio (for example, 1:1).  
+* After the demerger, both companies trade separately on stock exchanges.  
+* Investors can then decide whether to hold both or sell one, depending on where they see more growth potential.  
+
+**Example:** In HUL’s case, shareholders will receive one share of Kwality Wall’s (India) Ltd (KWIL) for every one share of HUL they hold. After listing, both HUL and KWIL will trade separately.  
+
+## Case Study: HUL and Kwality Wall’s
+### Why the Demerger?
+HUL is spinning off its ice-cream business Kwality Wall’s into a separate company through a pure spin-off demerger. The move reflects management’s belief that this division, struggling inside HUL’s larger FMCG portfolio, may perform better with sharper focus and independence — and at the same time, its weak performance will no longer drag down HUL’s overall results.  
+
+Here are some of the challenges that led to this decision:  
+* **Struggles in ice cream:** Despite being a household name, Kwality Wall’s has fallen behind rivals like Amul, Naturals, Baskin-Robbins, and regional artisanal players.  
+* **Consumer trends missed:** While premium, natural, and regional ice creams grew rapidly, HUL stuck to frozen desserts made from vegetable fat (earning the nickname “Dalda ice cream”).  
+* **Cold chain challenge:** Unlike soaps and shampoos, ice cream requires complex cold chain logistics. Ice cream must be kept cold at every step, which is harder than storing soaps and shampoos. Competitors like Amul and Havmor manage this much better.  
+* **Digital miss:** New-age brands like Go Zero and Minus 30 built direct-to-consumer (D2C), Swiggy-first strategies, where HUL was late to act.  
+
+### How It’s Structured
+Here are the key details of how HUL is structuring the separation:  
+* **New entity:** The ice-cream business will become Kwality Wall’s (India) Ltd (KWIL).  
+* **Share entitlement:** Shareholders of HUL will get one share of KWIL for every one share they hold in HUL.  
+* **Timeline:** The demerger is expected to be completed by the end of FY26.  
+* **Global connection:** Unilever globally is also carving out its ice cream business into *The Magnum Ice Cream Company (TMICC)*. Post-demerger, KWIL will align with this global structure.  
+
+### What’s Next?
+Market chatter suggests HUL may eventually sell Kwality Wall’s. Potential buyers include RJ Corp (owners of Cream Bell and KFC franchisee) and MMG Group (McDonald’s operator). Even if not sold, KWIL will now have independent management focus and a clearer identity.  
+
+## Final Take
+Demergers remind us that bigger isn’t always better. Like rivers branching into tributaries, sometimes creating smaller, sharper flows is the smarter move.  
+
+For investors, demergers create opportunities:  
+* Some shareholders may prefer the steady FMCG cashflows of HUL.  
+* Others may want to bet on whether KWIL can reinvent itself in the highly competitive ice cream market.  
+
+Either way, the breakup is happening. The big question is: **Can KWIL reinvent itself to compete against Amul and Naturals?** Time will tell.
