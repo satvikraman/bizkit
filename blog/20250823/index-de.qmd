@@ -1,7 +1,7 @@
 ---
 title: "Abspaltungen: Aufteilen, um Wert zu schaffen"
 date: 2025-08-23
-subtitle: "„Konglomerate sind wie Noahs Arche — früher oder später wollen die Tiere aussteigen.“ — Jim Cramer"
+subtitle: "“Konglomerate sind wie Noahs Arche — früher oder später wollen die Tiere aussteigen.“ — Jim Cramer"
 description: >
   Wir sprechen oft über Fusionen und Übernahmen, bei denen Unternehmen zusammenkommen, um größer zu werden. Aber manchmal passiert das Gegenteil — Firmen teilen sich in kleinere Teile auf, und das nennt man „Abspaltung“. Diese Abspaltungen können genauso stark sein: neue Firmen schaffen, versteckte Werte freilegen und einen klareren Fokus geben. In diesem Beitrag sehen wir uns das Konzept an und schauen auf den neuesten Fall — Hindustan Unilever spaltet seine schwächelnde Eismarke Kwality Wall’s ab.
 image: "./20250823_title.png"
