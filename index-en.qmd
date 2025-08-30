@@ -59,28 +59,6 @@ lightbox: auto
           <span class="navbar-title">BIZKIT</span>
         </a>
       </div>
-
-      <!-- Navigation Links -->
-      <div class="collapse navbar-collapse show" id="navbarCollapse">
-        <ul class="navbar-nav navbar-nav-scroll me-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="/index-en.html">
-              <span class="menu-text">English</span>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/index-hi.html">
-              <span class="menu-text">हिन्दी</span>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/index-kn.html">
-              <span class="menu-text">ಕನ್ನಡ</span>
-            </a>
-          </li>          
-        </ul>
-      </div>
-
     </div> <!-- /container-fluid -->
   </nav>
 </header>
