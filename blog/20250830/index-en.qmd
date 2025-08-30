@@ -1,5 +1,5 @@
 ---
-title: "GST: Good and Simple Tax"
+title: "Goods and Services Tax (GST): is now also Good and Simple Tax"
 date: 2025-08-30
 subtitle: "A tax system is like plumbing: the smoother the flow, the fewer the leaks. — MS Mani, Partner at Deloitte India"
 description: "This post explains the concept of Goods and Services Tax (GST), why it was introduced, how it works, and why the Indian government is now moving from four slabs to two. We’ll look at what this means for consumers, businesses, and the economy."
