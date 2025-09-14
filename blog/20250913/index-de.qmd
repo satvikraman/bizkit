@@ -1,6 +1,6 @@
 ---
 title: "IPOs Unboxed: Wie Unternehmen an die Börse gehen"
-date: "13-09-2025"
+date: 2025-09-13
 subtitle: "“Wenn dir ein Sitz auf einem Raketenschiff angeboten wird, frag nicht, welcher Sitz. Steig einfach ein.” — Sheryl Sandberg, über den frühen Einstieg in große Reisen"
 description: "Ein Leitfaden, was IPOs sind, warum Unternehmen sie anstreben, wer große Gewinne macht, was es mit den Gewinnen am ersten Handelstag auf sich hat und die Wahrheit hinter dem grauen Markt — am Beispiel des Blockbuster-IPOs von Urban Company im Jahr 2025."
 image: "./20250913_title.png"

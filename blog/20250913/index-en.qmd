@@ -1,6 +1,6 @@
 ---
 title: "IPOs Unboxed: How Companies Go Public"
-date: "13-09-2025"
+date: 2025-09-13
 subtitle: "“If you’re offered a seat on a rocket ship, don’t ask what seat. Just get on.” — Sheryl Sandberg, on joining big journeys early"
 description: "A guide to what IPOs are, why companies chase them, who wins big, what’s up with listing day gains, and the truth behind the grey market — starring Urban Company’s blockbuster 2025 IPO."
 image: "./20250913_title.png"
