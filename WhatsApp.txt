@@ -1,0 +1,154 @@
+ORIGINAL BLOG PROMPT:
+* I wrote the following quarto blog post and would like you to review it for correctness. I write blog posts about a finance concept and link it to a recent news. 
+* These posts are intended for high school students and hence are written in simple to read and understand English. 
+* I dont want the text to be very casual sounding (like in a story book) but at the same time I wouldn't want it to sound very formal. The tone should suit someone who is interested in reading and learning. 
+* Also write the text so that it appears as though it is written by a human and not by an AI agent. I would like to have proper grammatically correct English, rather than terse sentences 
+* I would like each para to be meaty i.e. a para should not 1 liner. It should convey a useful information and hence can be 3-5 sentences long. Of course if required the paras can be 1-2 sentences long also, but that should not be the norm. 
+* I would like to eventually like to translate this blog post into several different Indian languages - Tamil, Kannada, Telugu, Hindi and some foreign languages like German. Keep this in mind while you generate the text. You may want to avoid phrases and words that can't be easily translated. 
+* I would like to retain the length of the blog post to about 750 - 1000 words. 
+* I don't want to go into a lot of technicalities so that the post remains an easy read. However, it is perfectly fine to refer to a concept and not talk about it. Perhaps we could mention going into the details of this concept is outside of the scope of this post. But I am OK if we even skip mentioning that.
+* I like the idea of sprinkling a line of two about the story in each section / sub-section. This retains the interest of the reader while reading the post.
+* However, even though you may sprinkle a line of two about the story in each section, I would like to have a dedicated paragraph on the story later. 
+* The last paragraph should be "Final Thoughs" which should essentially summarize the concept and parts of the story. 
+* I would like your response to be generated in canvas mode so that I can review and edit it and we can together arrive at the final version.
+
+TRANSLATION PROMPT:
+* Translate into simple to read and understand <LANGUAGE> for high schoolers. 
+* Retain the .qmd tags and give the output also as a .qmd markdown document. Don't render the markdown document. I would like to get the raw markdown document which I can copy to my VSCode editor
+* Avoid using very complicated words so that the reader reads and understands the text fast and effortlessly. 
+* Things that can't be translated like my name "Satvik Raman" (pronounced as Saatvik Raaman), I would like you to transliterate them in the language of translation. 
+* The output text should not have any English words. Translate or transliterate everything except for URLs and code snippets or acronyms. Translate / Transliterate even the text in the front-matter of the document i.e. between the --- lines.
+* Retain the length of the translated text to be roughly the same as the original text.
+* Retain the formatting of the original text as much as possible. Do not change any of the .qmd tags or their placements. 
+* Do not change any of the links. 
+* Do not change any of the emojis. 
+* Do not change any of the special characters like * or _ or - or # or > or or ~ or ! or [ or ] or ( or ) or : or ; or , or . or ? or / or \ or | or @ or $ or % or ^ or & or + or =. 
+* Do not change any of the numbers. 
+* Do not change any of the names of people, places, companies, products, services, brands, organizations, institutions, countries, languages, etc. * Do not change any of the email addresses. 
+* Do not change any of the file paths. 
+* Do not change any of the code blocks. Do not change any of the code syntax highlighting languages. Do not change any of the code indentation levels. Do not change any of the code line breaks. Do not change any of the code special characters like * or _ or - or # or > or or ~ or ! or [ or ] or ( or ) or : or ; or , or . or ? or / or \ or | or @ or $ or % or ^ or & or + or = inside code blocks.
+
+WhatsApp Message Prompt:
+* I would like to share the blog post on WhatsApp channels in 6 languages - English, Hindi, Kannada, Tamil, Telugu and German.
+* First generate the prompt for the WhatsApp message in English.
+* Once we have aligned on the English version, I would like you to translate the WhatsApp message into the other 5 languages.
+* I would like you to create 4-5 bullet points summarizing the main points of the blog post. Strictly adhere to a character limit of 700 characters for the bullet points including emojis, spaces etc...
+* Follow the template and change the bullet points corresponding to the story in the blog post.
+📌 *Main Points*
+* Before GST, a single product could be taxed by Centre, State, and even local bodies at multiple stages, leading to “tax on tax.”
+* GST was introduced in 2017 as “One Nation, One Tax” to unify India’s indirect tax system.
+* It works through CGST, SGST, and IGST, with input tax credit ensuring tax is paid only on value added.
+* The GST Council, made up of Union and State finance ministers, decides rates and reforms.
+* **Big news**: Government plans to cut the four slabs (5%, 12%, 18%, 28%) to just two (5% and 18%), making life simpler for businesses and cheaper for consumers.
+
+
+
+
+⭐ *IPOs Unboxed: How Companies Go Public*
+_“If you’re offered a seat on a rocket ship, don’t ask what seat. Just get on.” — Sheryl Sandberg_
+
+📌 *Main Points*
+* An IPO (Initial Public Offering) is when a private company sells its shares to the public for the first time to raise money.
+* Companies go public to fund expansion, pay off debt, or allow early investors and employees to "cash out" their shares.
+* Anchor Investors (large institutions) and Retail Investors (everyday people) are the key players in an IPO.
+* The "Grey Market Premium" is an unofficial signal of listing day gains, but these deals are risky and unregulated.
+* Employee Stock Options (ESOPs), which let employees buy shares at a fixed price, become valuable and can create life-changing wealth after an IPO.
+
+📜 Read the full story
+https://bizkit.co.in/blog/20250913/index-en.html
+
+============================================================================
+
+⭐ *आईपीओ अनबॉक्स्ड: कैसे कंपनियाँ सार्वजनिक होती हैं*  
+_“अगर आपको रॉकेट जहाज़ पर सीट ऑफर हो, तो मत पूछो कौन-सी सीट है। बस चढ़ जाओ।” — शेरिल सैंडबर्ग_  
+
+📌 *मुख्य बातें*  
+* IPO वह प्रक्रिया है जब कोई निजी कंपनी पहली बार पैसा जुटाने के लिए अपने शेयर जनता को बेचती है।
+* कंपनियां विस्तार के लिए, कर्ज चुकाने के लिए, या शुरुआती निवेशकों और कर्मचारियों को उनके शेयर "कैश आउट" करने का मौका देने के लिए पब्लिक होती हैं।
+* एंकर निवेशक (बड़े संस्थान) और खुदरा निवेशक (आम लोग) IPO में प्रमुख खिलाड़ी होते हैं।
+* "ग्रे मार्केट प्रीमियम" लिस्टिंग के दिन होने वाले लाभ का एक अनौपचारिक संकेत है, लेकिन ये सौदे जोखिम भरे और अनियंत्रित होते हैं।
+* कर्मचारी स्टॉक विकल्प (ESOPs), जो कर्मचारियों को निश्चित मूल्य पर शेयर खरीदने का अधिकार देते हैं, IPO के बाद मूल्यवान हो जाते हैं और जीवन बदलने वाली संपत्ति बना सकते हैं।
+
+📜 पूरी कहानी पढ़ें  
+https://bizkit.co.in/blog/20250913/index-hi.html
+
+
+============================================================================
+
+⭐ *ಐಪಿಒಗಳು ಅನಾವರಣ: ಕಂಪನಿಗಳು ಸಾರ್ವಜನಿಕವಾಗುವುದು ಹೇಗೆ*  
+_“ನಿಮಗೆ ರಾಕೆಟ್ ಹಡಗಿನಲ್ಲಿ ಸ್ಥಾನ ನೀಡಿದರೆ, ಯಾವ ಸ್ಥಾನ ಎಂದು ಕೇಳಬೇಡಿ. ಹತ್ತಿರಿ ಅಷ್ಟೇ.” — ಶೇರಿಲ್ ಸ್ಯಾಂಡ್‌ಬರ್ಗ್_  
+
+📌 *ಮುಖ್ಯ ಅಂಶಗಳು*  
+* IPO (ಆರಂಭಿಕ ಸಾರ್ವಜನಿಕ ಕೊಡುಗೆ) ಎಂಬುದು ಒಂದು ಖಾಸಗಿ ಕಂಪನಿಯು ಹಣ ಸಂಗ್ರಹಿಸಲು ಮೊದಲ ಬಾರಿಗೆ ಸಾರ್ವಜನಿಕರಿಗೆ ತನ್ನ ಷೇರುಗಳನ್ನು ಮಾರಾಟ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆ.
+* ಕಂಪನಿಗಳು ವಿಸ್ತರಣೆ, ಸಾಲ ತೀರಿಸಲು, ಅಥವಾ ಆರಂಭಿಕ ಹೂಡಿಕೆದಾರರು ಮತ್ತು ಉದ್ಯೋಗಿಗಳಿಗೆ ತಮ್ಮ ಷೇರುಗಳನ್ನು "ನಗದು ಮಾಡುವ" ಅವಕಾಶ ನೀಡಲು ಸಾರ್ವಜನಿಕವಾಗಿ ಲಿಸ್ಟ್ ಆಗುತ್ತವೆ.
+* ಆ್ಯಂಕರ್ ಹೂಡಿಕೆದಾರರು (ದೊಡ್ಡ ಸಂಸ್ಥೆಗಳು) ಮತ್ತು ಚಿಲ್ಲರೆ ಹೂಡಿಕೆದಾರರು (ಸಾಮಾನ್ಯ ಜನರು) IPOದಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತಾರೆ.
+* "ಗ್ರೇ ಮಾರ್ಕೆಟ್ ಪ್ರೀಮಿಯಂ" ಲಿಸ್ಟಿಂಗ್ ದಿನದ ಲಾಭದ ಅನಧಿಕೃತ ಸೂಚನೆಯಾಗಿದೆ, ಆದರೆ ಈ ವ್ಯವಹಾರಗಳು ಅಪಾಯಕಾರಿ ಮತ್ತು ನಿಯಂತ್ರಣವಿಲ್ಲದವು.
+* ಉದ್ಯೋಗಿ ಸ್ಟಾಕ್ ಆಯ್ಕೆಗಳು (ESOPs), ಉದ್ಯೋಗಿಗಳಿಗೆ ನಿರ್ದಿಷ್ಟ ಬೆಲೆಗೆ ಷೇರುಗಳನ್ನು ಖರೀದಿಸುವ ಹಕ್ಕನ್ನು ನೀಡುತ್ತವೆ. IPO ನಂತರ ಅವುಗಳು ಮೌಲ್ಯಯುತವಾಗಿ ಬದಲಾಗುತ್ತವೆ ಮತ್ತು ಜೀವನವನ್ನು ಬದಲಾಯಿಸುವ ಸಂಪತ್ತು ಸೃಷ್ಟಿಸುತ್ತವೆ.
+
+📜 ಸಂಪೂರ್ಣ ಲೇಖನ ಓದಿ  
+https://bizkit.co.in/blog/20250913/index-kn.html
+
+
+============================================================================
+
+⭐ *ஐபிஓ-கள்: ஒரு நிறுவனம் எப்படி பொதுப்பங்குச் சந்தைக்கு வருகிறது*  
+_“ஒரு ராக்கெட் கப்பலில் உங்களுக்கு ஒரு இடம் கிடைத்தால், எந்த இடம் என்று கேட்க வேண்டாம். அதில் ஏறிக்கொள்ளுங்கள்.” — ஷெரில் சாண்ட்பெர்க்_  
+
+📌 *முக்கிய குறிப்புகள்*  
+* IPO (ஆரம்ப பொது வழங்கல்) என்பது ஒரு தனியார் நிறுவனம் முதன்முறையாக நிதி திரட்டுவதற்காக அதன் பங்குகளை பொதுமக்களுக்கு விற்கும் ஒரு செயல்முறை.
+* நிறுவனங்கள் விரிவாக்கத்திற்கு நிதியளிக்க, கடன்களை செலுத்த, அல்லது ஆரம்ப முதலீட்டாளர்கள் மற்றும் ஊழியர்கள் தங்கள் பங்குகளை "பணமாக்க" அனுமதிக்க பொதுவில் நுழைகின்றன.
+* ஆங்கர் முதலீட்டாளர்கள் (பெரிய நிறுவனங்கள்) மற்றும் சில்லறை முதலீட்டாளர்கள் (பொதுமக்கள்) IPO-வில் முக்கிய பங்கு வகிக்கின்றனர்.
+* "கிரே மார்க்கெட் பிரீமியம்" என்பது பட்டியலிடல் நாள் லாபத்திற்கான ஒரு அதிகாரப்பூர்வமற்ற சமிக்ஞை, ஆனால் இந்த ஒப்பந்தங்கள் அபாயகரமானவை மற்றும் ஒழுங்குபடுத்தப்படாதவை.
+* ஊழியர்களுக்கு நிலையான விலையில் பங்குகளை வாங்க அனுமதிக்கும் ஊழியர் பங்கு விருப்பங்கள் (ESOPs), ஒரு IPO-வுக்குப் பிறகு மதிப்புமிக்கதாக மாறி, வாழ்க்கையை மாற்றும் செல்வத்தை உருவாக்கும்.  
+
+📜 முழு கதையைப் படிக்க  
+https://bizkit.co.in/blog/20250913/index-ta.html
+
+============================================================================
+
+⭐ *ఐపీవోలు అన్బాక్స్డ్: కంపెనీలు ఎలా పబ్లిక్‌గా మారతాయి*  
+_“మీకు రాకెట్ షిప్‌లో ఒక సీటు ఆఫర్ చేస్తే, అది ఏ సీటు అని అడగకండి. వెంటనే ఎక్కేయండి.” — షెరిల్ సాండ్బర్గ్_  
+
+📌 *ముఖ్యాంశాలు*  
+* IPO (ఇనిషియల్ పబ్లిక్ ఆఫరింగ్) అనేది ఒక ప్రైవేట్ కంపెనీ మొదటిసారిగా డబ్బు సేకరించడానికి దాని షేర్లను ప్రజలకు విక్రయించే ప్రక్రియ.
+* కంపెనీలు విస్తరణకు నిధులు సమకూర్చడానికి, అప్పులు తీర్చడానికి, లేదా ప్రారంభ పెట్టుబడిదారులు మరియు ఉద్యోగులు తమ షేర్లను "నగదుగా మార్చుకోవడానికి" అవకాశం ఇవ్వడానికి పబ్లిక్‌గా మారతాయి.
+* యాంకర్ ఇన్వెస్టర్లు (పెద్ద సంస్థలు) మరియు రిటైల్ ఇన్వెస్టర్లు (సాధారణ ప్రజలు) IPOలో ముఖ్య పాత్రధారులు.
+* "గ్రే మార్కెట్ ప్రీమియం" అనేది లిస్టింగ్ రోజు లాభాలకు ఒక అనధికారిక సంకేతం, కానీ ఈ ఒప్పందాలు ప్రమాదకరమైనవి మరియు నియంత్రణ లేనివి.
+* ఉద్యోగులకు ఒక స్థిరమైన ధరకు షేర్లు కొనడానికి అనుమతించే ఎంప్లాయీ స్టాక్ ఆప్షన్స్ (ESOPలు), ఒక IPO తర్వాత విలువైనవిగా మారి, జీవితాన్ని మార్చే సంపదను సృష్టించగలవు.  
+
+📜 పూర్తి కథ చదవండి  
+https://bizkit.co.in/blog/20250913/index-te.html
+
+
+============================================================================
+
+⭐ *IPOs Unboxed: Wie Unternehmen an die Börse gehen*  
+_“Wenn dir ein Sitz auf einem Raketenschiff angeboten wird, frag nicht, welcher Sitz. Steig einfach ein.” — Sheryl Sandberg_  
+
+📌 *Hauptpunkte*  
+* Ein IPO (Initial Public Offering) ist der Prozess, bei dem ein privates Unternehmen zum ersten Mal seine Anteile an die Öffentlichkeit verkauft, um Kapital zu beschaffen.
+* Unternehmen gehen an die Börse, um Expansionen zu finanzieren, Schulden zu tilgen oder frühen Investoren und Mitarbeitern zu ermöglichen, ihre Anteile "zu versilbern".
+* Ankerinvestoren (große Institutionen) und Kleinanleger (normale Personen) sind die Hauptakteure bei einem IPO.
+* Das "Graumarkt-Premium" ist ein inoffizielles Signal für Gewinne am Listing Day, aber diese Geschäfte sind riskant und unreguliert.
+* Mitarbeiteraktienoptionen (ESOPs), die Mitarbeitern das Recht geben, Aktien zu einem festen Preis zu kaufen, werden nach einem IPO wertvoll und können lebensverändernden Reichtum schaffen. 
+
+📜 Ganze Geschichte lesen  
+https://bizkit.co.in/blog/20250913/index-de.html
+
+
+
+🌟Sharing a small update about Satvik
+
+Satvik has been continuing work on his SAP project from last year, where his goal was to increase curiosity about finance among kids in an easy and jargon-free language. He extended this idea into a multilingual blog called BizKit (bizkit.co.in) to also make it  accessible for kids from non-English backgrounds. Each post talks about a concept in finance and connects it with a news article, making it relatable and easy to understand.
+
+Updates to the blog (roughly once a week) are pushed over WhatsApp Channels. He would really appreciate your support and encouragement if you could subscribe to one or more of his channels below:
+
+BizKit Channels
+* English: https://whatsapp.com/channel/0029VbAwFip59PwKCh7Wwi1F
+* Hindi: https://whatsapp.com/channel/0029VbAl8ug4o7qMtawhPL30
+* Kannada: https://whatsapp.com/channel/0029Vb6AO5kICVfpNSqdmB2l
+* Tamil: https://whatsapp.com/channel/0029VbASzeEAu3aWiQPlHp04
+* Telugu: https://whatsapp.com/channel/0029VbB6WYg4tRropQUeJ02D
+* German: https://whatsapp.com/channel/0029VbBNPJ384Om4uNmKLF1r
+
+Thanks in advance for cheering him on! 🙏😊

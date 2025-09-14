@@ -1,0 +1,65 @@
+---
+title: "IPOs Unboxed: How Companies Go Public"
+date: "13-09-2025"
+subtitle: "“If you’re offered a seat on a rocket ship, don’t ask what seat. Just get on.” — Sheryl Sandberg, on joining big journeys early"
+description: "A guide to what IPOs are, why companies chase them, who wins big, what’s up with listing day gains, and the truth behind the grey market — starring Urban Company’s blockbuster 2025 IPO."
+image: "./20250913_title.png"
+twitter-card:
+  image: "./20250913_title.png"
+open-graph:
+  image: "./20250913_title.png"
+categories:
+  - Stock Market
+author: "Satvik Raman"
+---
+
+# What is an IPO?
+IPO or Initial Public Offering is the process by which a company **“goes public”**. Until this point, the company is usually owned by its founders, early employees, and a few investors like venture capitalists. When a company launches an IPO, it allows the general public to buy its shares for the very first time. After this, anyone with a trading account can own a small piece of the company.
+
+A recent example is the Urban Company IPO in September 2025. Until then, only the original founders and investors held ownership. By going public, Urban Company invited institutions and retail investors to become shareholders by owning a portion of the larger company.
+
+## Why Do Companies Go Public?
+Companies launch IPOs mainly to **raise money**, but the reasons can vary:
+* **Expansion**: IPO proceeds often fund new projects, technology upgrades, or entry into new cities and countries.
+* **Debt repayment**: Some companies use the money to reduce their loans and strengthen their balance sheet.
+* **Cashing out**: Early investors and employees, who supported the company when it was a small startup, may sell part of their shares during the IPO. This gives them a healthy return for the risks they took earlier.
+* **Credibility**: Being listed on a stock exchange brings prestige and public trust. It can also help in forming partnerships and winning over customers.
+
+A company could have raised money by *borrowing from a bank*, but the process of raising money via an IPO is different and has many advantages. Bank loans come with interest payments and usually require collateral, making them risky and expensive. IPO funding, on the other hand, is interest-free and risk-free for the company. Investors provide money without demanding repayment. Moreover, banks may undervalue fast-growing or new-age companies like Urban Company, while retail investors may be more optimistic about their future potential. Finally, an IPO allows founders, early investors, and employees to sell some of their shares, something that can never be achieved by borrowing from a bank.
+
+However, going public also comes with downsides. The original owners must dilute their ownership, meaning their share in the company becomes smaller. In addition, once listed, the company must publish financial results every quarter and is held accountable to thousands of shareholders. Private companies, can avoid this level of scrutiny and compliance, but public companies can't.
+
+In the case of Urban Company, part of the money raised is being used for technology improvements and expansion, while another part went to early investors who chose to sell their shares.
+
+## Who are Anchor Investors and Retail Investors in an IPO?
+Not all IPO buyers are the same. There are two important groups:
+* **Anchor Investors**: These are large institutions like mutual funds, insurance companies, or pension funds. They commit to buying a big chunk of shares before the IPO is opened to the public. Their early involvement gives the market confidence that the IPO is stable and credible. Importantly, anchor investors cannot sell their shares immediately. They are subject to a lock-in period, which means they must hold on to their shares for a few weeks or months after listing. This rule prevents sudden selling pressure and helps stabilize the share price in the early days.
+* **Retail Investors**: These are everyday people like you and me who apply through brokers. Regulators ensure that a fair portion of IPO shares (usually at least 35%) is reserved for retail investors.
+
+Anchor investors often influence how successful an IPO looks at the start. For instance, when Urban Company’s IPO opened, several big institutions acted as anchors, which boosted confidence among smaller investors.
+
+## The Great Listing Day Rush: Are Quick Gains Real?
+A big reason IPOs get attention is the chance of making money quickly on **“listing day”**, the first day the shares trade on the stock exchange. Many investors hope the stock price will shoot up above the IPO price, giving them instant profits. Companies often price their IPO slightly lower than what they think the market might pay to increase the chance of this happening.
+
+But gains are not guaranteed. Some IPOs trade below their issue price right from the start. Others may see an initial jump but fall in the following weeks. Urban Company, for example, saw strong demand, and its shares opened well above the issue price. But whether such gains last depends on the company’s long-term performance.
+
+## The Mystery of the Grey Market and Grey Market Premium (GMP)
+Before an IPO is listed, people often talk about the **Grey Market Premium (GMP)**. The grey market is an unofficial space where individuals agree to buy or sell IPO shares before the official listing day. These deals are based on trust and happen outside official exchanges.
+
+The GMP is the difference between the IPO issue price and what people in the grey market are willing to pay. If the GMP is high, it signals that people expect the stock to list higher. But this is not reliable. Grey market trades are risky and unregulated since they are not overseen by any regulatory authority like SEBI. The actual listing price may turn out to be very different.
+
+In Urban Company’s case, the GMP was strong in the days before the listing, which created even more buzz among retail investors. However, just like with any IPO, the actual market performance depended on broader demand once the shares officially traded.
+
+## How is the IPO Price Band Decided?
+When a company launches an IPO, it does not fix one single price. Instead, it announces a **price band**, a lower and upper limit between which investors can bid. For example, Urban Company’s price band was set after careful discussions with investment banks that studied demand from big institutions. *Investment banks* are companies that help a business go public and handle the entire IPO process on behalf of the company. This process, known as **book building**, helps the company figure out the price at which most investors are willing to buy.
+
+For retail investors, this usually means applying at the upper end of the band, since IPOs of popular companies are often oversubscribed. While the details of book building are technical, the key idea is that demand and supply together decide the final IPO price.
+
+## Employee Stock Options (ESOPs) and IPOs
+Another interesting part of IPOs is how they affect employees. Many startups, including Urban Company, give employees ESOPs (Employee Stock Option Plans) as part of their salary. These are rights to buy shares at a fixed price in the future. When the company goes public, ESOPs become valuable because employees can sell their shares in the open market. For some early employees, this can be life-changing wealth creation. At the same time ESOPs are also an incentive for the employees to work hard and ensure the company performs well so that the stock price remains attractive.
+
+# Urban Company
+The Urban Company IPO shows why IPOs attract so much attention. The company raised about ₹1,900 crore to fund growth and technology while giving early backers a profitable exit. Strong anchor demand, a carefully chosen price band, high retail interest, and the unlocking of ESOPs for employees all combined to make it a success. It saw a good listing day gain, but whether it remains above the listing price or not depends on how the business performs in the coming months. Urban Company’s story highlights both the opportunities and the uncertainties that come with investing in IPOs.
+
+# Final Thoughts
+IPOs are a way for founders, early investors, and employees to get rewarded for the risks they took, while also raising fresh capital to help the company grow. Unlike bank loans, IPO funding does not require collateral or interest payments, making it an attractive option for fast-growing firms. At the same time, going public forces companies to dilute ownership and become more accountable through quarterly reporting. IPOs create excitement, attract media attention, and sometimes deliver quick listing day gains. Ultimately, the long-term value of any stock depends not on the hype of its debut, but on how the company performs in the real world—through growth, innovation, and profitability.
