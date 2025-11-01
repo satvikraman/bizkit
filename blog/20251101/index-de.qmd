@@ -1,7 +1,7 @@
 ---
 title: "OFS vs Neue Aktienausgabe IPOs: Die zwei Seiten eines Börsengangs verstehen"
-date: 2025-09-13
-subtitle: „Ein Börsengang ist diese seltene Party, bei der die Gastgeber die Snacks verkaufen und die Gäste trotzdem jubeln.“ — Rakesh Jhunjhunwala, einer von Indiens bekannten Investoren und der „Big Bull“ der Dalal Street
+date: 2025-11-01
+subtitle: “Ein Börsengang ist diese seltene Party, bei der die Gastgeber die Snacks verkaufen und die Gäste trotzdem jubeln.” — Rakesh Jhunjhunwala, einer von Indiens bekannten Investoren und der “Big Bull” der Dalal Street
 description: "Am Beispiel des Lenskart-Börsengangs erklärt dieser Beitrag einfach den Unterschied zwischen einem Angebot zum Verkauf (OFS) und einer neuen Aktienausgabe, und wie sich beide auf Anleger und das Unternehmen auswirken."
 image: "./20251101_title.png"
 twitter-card:

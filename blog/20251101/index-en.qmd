@@ -1,6 +1,6 @@
 ---
 title: "OFS vs Fresh Issue IPOs: Understanding the Two Sides of a Public Listing"
-date: 2025-09-13
+date: 2025-11-01
 subtitle: “An IPO is that rare party where the hosts sell the snacks and the guests still cheer.” — Rakesh Jhunjhunwala, one of India’s celebrated investors and the 'Big Bull' of Dalal Street
 description: "Using the Lenskart IPO as an example, this post explains in simple terms the difference between Offer for Sale (OFS) and Fresh Issue IPOs, and how each affects investors and the company."
 image: "./20251101_title.png"
