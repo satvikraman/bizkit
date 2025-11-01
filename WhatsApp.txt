@@ -11,6 +11,23 @@ ORIGINAL BLOG PROMPT:
 * However, even though you may sprinkle a line of two about the story in each section, I would like to have a dedicated paragraph on the story later. 
 * The last paragraph should be "Final Thoughs" which should essentially summarize the concept and parts of the story. 
 * I would like your response to be generated in canvas mode so that I can review and edit it and we can together arrive at the final version.
+* My blog follows a pattern and I write it in quarto markdown. I have given you the front-matter and the template below. Please follow this template and generate the blog post. I would prefer the blog post is generated in a code snippet form so that I can copy it to my VSCode editor.
+---
+title: "<An interesting title that grabs attention of the audience. Title should ideally just talk about the concept and not the news>"
+date: 2025-09-13
+subtitle: "<A quirky title related to the post, citing a real person who made the quote>"
+description: "<A short description of the blog post>"
+image: ""
+twitter-card:
+  image: ""
+open-graph:
+  image: ""
+categories:
+  - <Suggest a category for the post>
+author: "Satvik Raman"
+---
+
+<Blog post in quarto format using headings and subheadings as appropriate>
 
 TRANSLATION PROMPT:
 * Translate into simple to read and understand <LANGUAGE> for high schoolers. 
@@ -28,7 +45,10 @@ TRANSLATION PROMPT:
 * Do not change any of the file paths. 
 * Do not change any of the code blocks. Do not change any of the code syntax highlighting languages. Do not change any of the code indentation levels. Do not change any of the code line breaks. Do not change any of the code special characters like * or _ or - or # or > or or ~ or ! or [ or ] or ( or ) or : or ; or , or . or ? or / or \ or | or @ or $ or % or ^ or & or + or = inside code blocks.
 
-WhatsApp Message Prompt:
+IMAGE PROMPT:
+Please genearate a vibrant image for the below blog post titled. The image should visually represent the concept being discussed in the post. Use graphic elements to explain the concept. The style should be modern and appealing to high school students, with bright colors and clear imagery. Ensure the image is suitable for use as a blog post header.
+
+WHATSAPP MESSAGE Prompt:
 * I would like to share the blog post on WhatsApp channels in 6 languages - English, Hindi, Kannada, Tamil, Telugu and German.
 * First generate the prompt for the WhatsApp message in English.
 * Once we have aligned on the English version, I would like you to translate the WhatsApp message into the other 5 languages.
@@ -92,14 +112,14 @@ https://bizkit.co.in/blog/20250913/index-kn.html
 ============================================================================
 
 ⭐ *ஐபிஓ-கள்: ஒரு நிறுவனம் எப்படி பொதுப்பங்குச் சந்தைக்கு வருகிறது*  
-_“ஒரு ராக்கெட் கப்பலில் உங்களுக்கு ஒரு இடம் கிடைத்தால், எந்த இடம் என்று கேட்க வேண்டாம். அதில் ஏறிக்கொள்ளுங்கள்.” — ஷெரில் சாண்ட்பெர்க்_  
+_“ஒரு ராக்கெட் கப்பலில் உங்களுக்கு ஒரு இடம் கிடைத்தால், எந்த இடம் என்று கேட்க வேண்டாம். அதில் ஏறிக்கொள்ளுங்கள்.” — ஷெரில் சாண்ட்பெர்க்  
 
 📌 *முக்கிய குறிப்புகள்*  
-* IPO (ஆரம்ப பொது வழங்கல்) என்பது ஒரு தனியார் நிறுவனம் முதன்முறையாக நிதி திரட்டுவதற்காக அதன் பங்குகளை பொதுமக்களுக்கு விற்கும் ஒரு செயல்முறை.
-* நிறுவனங்கள் விரிவாக்கத்திற்கு நிதியளிக்க, கடன்களை செலுத்த, அல்லது ஆரம்ப முதலீட்டாளர்கள் மற்றும் ஊழியர்கள் தங்கள் பங்குகளை "பணமாக்க" அனுமதிக்க பொதுவில் நுழைகின்றன.
-* ஆங்கர் முதலீட்டாளர்கள் (பெரிய நிறுவனங்கள்) மற்றும் சில்லறை முதலீட்டாளர்கள் (பொதுமக்கள்) IPO-வில் முக்கிய பங்கு வகிக்கின்றனர்.
-* "கிரே மார்க்கெட் பிரீமியம்" என்பது பட்டியலிடல் நாள் லாபத்திற்கான ஒரு அதிகாரப்பூர்வமற்ற சமிக்ஞை, ஆனால் இந்த ஒப்பந்தங்கள் அபாயகரமானவை மற்றும் ஒழுங்குபடுத்தப்படாதவை.
-* ஊழியர்களுக்கு நிலையான விலையில் பங்குகளை வாங்க அனுமதிக்கும் ஊழியர் பங்கு விருப்பங்கள் (ESOPs), ஒரு IPO-வுக்குப் பிறகு மதிப்புமிக்கதாக மாறி, வாழ்க்கையை மாற்றும் செல்வத்தை உருவாக்கும்.  
+* IPO என்பது ஒரு தனியார் நிறுவனம் முதன்முதலாகப் பொதுமக்களிடம் நிதி திரட்டுவதற்காகப் பங்குகளை விற்பது.
+* நிறுவனங்கள் விரிவடைவதற்கும், கடன்களை அடைப்பதற்கும், முதலீட்டாளர்கள் மற்றும் ஊழியர்கள் தங்கள் பங்குகளை விற்பதற்கும் பொதுச்சந்தைக்கு வருகின்றன.
+* முக்கிய முதலீட்டாளர்கள் (நிறுவனங்கள்) மற்றும் தனிநபர் முதலீட்டாளர்கள் (பொதுமக்கள்) ஐபிஓ-வில் முக்கிய பங்கு வகிக்கிறார்கள்.
+* “கிரே மார்க்கெட் பிரீமியம்” என்பது பட்டியல் நாள் லாபத்திற்கான அதிகாரபூர்வமற்ற குறிப்பு. இவை ஒழுங்குபடுத்தப்படாததால் அபாயமானவை.
+* ஊழியர்களுக்கான பங்கு விருப்பங்கள், ஐபிஓ-வுக்குப் பிறகு மதிப்புமிக்கதாக மாறி, அவர்களின் வாழ்க்கையை மாற்றும் செல்வத்தை உருவாக்கும்.கதாக மாறி, வாழ்க்கையை மாற்றும் செல்வத்தை உருவாக்கும்.  
 
 📜 முழு கதையைப் படிக்க  
 https://bizkit.co.in/blog/20250913/index-ta.html
@@ -122,17 +142,17 @@ https://bizkit.co.in/blog/20250913/index-te.html
 
 ============================================================================
 
-⭐ *IPOs Unboxed: Wie Unternehmen an die Börse gehen*  
-_“Wenn dir ein Sitz auf einem Raketenschiff angeboten wird, frag nicht, welcher Sitz. Steig einfach ein.” — Sheryl Sandberg_  
+⭐ *IPOs Unboxed: Wie Unternehmen an die Börse gehen*
+_"Wenn dir ein Sitz auf einem Raketenschiff angeboten wird, frag nicht, welcher Sitz. Steig einfach ein." — Sheryl Sandberg_
 
-📌 *Hauptpunkte*  
-* Ein IPO (Initial Public Offering) ist der Prozess, bei dem ein privates Unternehmen zum ersten Mal seine Anteile an die Öffentlichkeit verkauft, um Kapital zu beschaffen.
-* Unternehmen gehen an die Börse, um Expansionen zu finanzieren, Schulden zu tilgen oder frühen Investoren und Mitarbeitern zu ermöglichen, ihre Anteile "zu versilbern".
-* Ankerinvestoren (große Institutionen) und Kleinanleger (normale Personen) sind die Hauptakteure bei einem IPO.
-* Das "Graumarkt-Premium" ist ein inoffizielles Signal für Gewinne am Listing Day, aber diese Geschäfte sind riskant und unreguliert.
-* Mitarbeiteraktienoptionen (ESOPs), die Mitarbeitern das Recht geben, Aktien zu einem festen Preis zu kaufen, werden nach einem IPO wertvoll und können lebensverändernden Reichtum schaffen. 
+📌 *Hauptpunkte*
+* **Was ist ein IPO?** Ein privates Unternehmen verkauft zum ersten Mal Anteile an die Öffentlichkeit, um Kapital zu beschaffen.
+* **Warum gehen Unternehmen an die Börse?** Sie wollen Expansionen finanzieren, Schulden tilgen oder frühen Investoren und Mitarbeitern ermöglichen, ihre Anteile zu verkaufen.
+* **Wer kauft?** Ankerinvestoren (große Institutionen) und Kleinanleger (normale Personen) sind die Hauptkäufer.
+* **Graumarkt-Premium (GMP):** Ein inoffizielles Signal für potenzielle Listing-Day-Gewinne, aber riskant, da unreguliert.
+* **ESOPs:** Mitarbeiter-Aktienoptionen, die bei einem IPO wertvoll werden und den Mitarbeitern Reichtum verschaffen können.
 
-📜 Ganze Geschichte lesen  
+📜 Ganze Geschichte lesen
 https://bizkit.co.in/blog/20250913/index-de.html
 
 
