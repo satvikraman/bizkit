@@ -11,9 +11,7 @@ twitter-card:
 open-graph:
   image: "./lehman-brothers.png"
 categories:
-  - Insolvenz
-  - Subprime-Kredite
-  - Hebelwirkung
+  - Unternehmensfinanzierung & Strategie
 author: "Satvik Raman"
 ---
 

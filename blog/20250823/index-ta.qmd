@@ -10,7 +10,7 @@ twitter-card:
 open-graph:
   image: "./20250823_title.png"
 categories:
-  - டிமர்ஜர்
+  - நிறுவன நிதி மற்றும் மூலோபாயம்  
 author: "சாத்விக் ராமன்"
 ---
 

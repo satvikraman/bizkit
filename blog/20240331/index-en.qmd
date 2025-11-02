@@ -11,9 +11,7 @@ twitter-card:
 open-graph:
   image: "./lehman-brothers.png"
 categories:
-  - Bankruptcy
-  - Subprime Loans
-  - Leverage
+  - Corporate Finance & Strategy
 author: "Satvik Raman"
 ---
 

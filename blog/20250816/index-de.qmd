@@ -11,7 +11,7 @@ twitter-card:
 open-graph:
   image: "./mna-tata-iveco.png"
 categories:
-  - Fusionen & Übernahmen
+  - Unternehmensfinanzierung & Strategie
 author: "Satvik Raman"
 ---
 

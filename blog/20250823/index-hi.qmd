@@ -10,7 +10,7 @@ twitter-card:
 open-graph:
   image: "./20250823_title.png"
 categories:
-  - डिमर्जर
+  - कॉरपोरेट वित्त और रणनीति
 author: "सात्विक रमन"
 ---
 

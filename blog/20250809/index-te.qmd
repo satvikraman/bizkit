@@ -10,8 +10,7 @@ twitter-card:
 open-graph:
   image: "./esop-musk.png"
 categories:
-  - ఆర్థిక కాన్సెప్ట్‌లు
-  - ఎగ్జిక్యూటివ్ పరిహారం
+  - కార్పొరేట్ ఫైనాన్స్ మరియు వ్యూహం
 author: "సాత్విక్ రామన్"
 ---
 

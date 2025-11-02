@@ -11,7 +11,7 @@ twitter-card:
 open-graph:
   image: "./mna-tata-iveco.png"
 categories:
-  - ವಿಲೀನಗಳು ಮತ್ತು ಸ್ವಾಧೀನಗಳು
+  - ಕಾಂಪೊರೇಟ್ ಹಣಕಾಸು ಮತ್ತು ತಂತ್ರಗಾರಿಕೆ
 author: "ಸಾತ್ವಿಕ್ ರಾಮನ್"
 ---
 

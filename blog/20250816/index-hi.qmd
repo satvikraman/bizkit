@@ -11,7 +11,7 @@ twitter-card:
 open-graph:
   image: "./mna-tata-iveco.png"
 categories:
-  - विलय और अधिग्रहण
+  - कॉरपोरेट वित्त और रणनीति
 author: "सात्विक रमन"
 ---
 

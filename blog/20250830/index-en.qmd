@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./20250830_title.png"
 categories:
-  - Tax
+  - Economics & Policy
 author: "Satvik Raman"
 ---
 

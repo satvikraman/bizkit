@@ -11,9 +11,7 @@ twitter-card:
 open-graph:
   image: "./lehman-brothers.png"
 categories:
-  - दिवालिया
-  - सबप्राइम लोन
-  - लीवरेज
+  - कॉरपोरेट वित्त और रणनीति
 author: "सात्विक रामन"
 ---
 

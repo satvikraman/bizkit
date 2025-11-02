@@ -10,8 +10,7 @@ twitter-card:
 open-graph:
   image: "./esop-musk.png"
 categories:
-  - Finanzkonzepte
-  - Managervergütung
+  - Unternehmensfinanzierung & Strategie
 author: "Satvik Raman"
 ---
 

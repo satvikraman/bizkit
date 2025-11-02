@@ -11,7 +11,7 @@ twitter-card:
 open-graph:
   image: "./mna-tata-iveco.png"
 categories:
-  - విలీనాలు & స్వాధీనాలు
+  - కార్పొరేట్ ఫైనాన్స్ మరియు వ్యూహం
 author: "సాత్విక్ రామన్"
 ---
 

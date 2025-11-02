@@ -9,9 +9,7 @@ twitter-card:
 open-graph:
   image: "./tariff.png"
 categories:
-  - Trade
-  - Economics
-  - Global Markets
+  - Economics & Policy
 author: "Satvik Raman"
 ---
 

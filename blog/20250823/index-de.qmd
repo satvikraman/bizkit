@@ -10,7 +10,7 @@ twitter-card:
 open-graph:
   image: "./20250823_title.png"
 categories:
-  - Abspaltung
+  - Unternehmensfinanzierung & Strategie
 author: "Satvik Raman"
 ---
 

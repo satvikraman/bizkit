@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./20250913_title.png"
 categories:
-  - Stock Market
+  - Markets & Investing
 author: "Satvik Raman"
 ---
 

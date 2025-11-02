@@ -12,9 +12,7 @@ twitter-card:
 open-graph:
   image: "./lehman-brothers.png"
 categories:
-  - முறிந்து போன நிறுவனங்கள்
-  - சப்பிரைம் கடன்கள்
-  - லெவரேஜ்
+  - நிறுவன நிதி மற்றும் மூலோபாயம்  
 author: "சாத்விக் ராமன்"
 ---
 

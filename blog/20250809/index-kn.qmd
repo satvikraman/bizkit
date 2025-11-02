@@ -9,8 +9,7 @@ twitter-card:
 open-graph:
   image: "./esop-musk.png"
 categories:
-  - ಹಣಕಾಸು ಸಂಪ್ರದಾಯಗಳು
-  - ನಿರ್ವಾಹಕ ಭತ್ಯೆ
+  - ಕಾಂಪೊರೇಟ್ ಹಣಕಾಸು ಮತ್ತು ತಂತ್ರಗಾರಿಕೆ
 author: "ಸಾತ್ವಿಕ್ ರಾಮನ್"
 ---
 

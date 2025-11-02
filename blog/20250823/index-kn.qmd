@@ -10,7 +10,7 @@ twitter-card:
 open-graph:
   image: "./20250823_title.png"
 categories:
-  - ಡೀಮರ್ಜರ್
+  - ಕಾಂಪೊರೇಟ್ ಹಣಕಾಸು ಮತ್ತು ತಂತ್ರಗಾರಿಕೆ
 author: "ಸಾತ್ವಿಕ್ ರಾಮನ್"
 ---
 

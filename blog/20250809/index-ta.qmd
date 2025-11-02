@@ -10,8 +10,8 @@ twitter-card:
 open-graph:
   image: "./esop-musk.png"
 categories:
-  - நிதி கருத்துக்கள்
-  - நிர்வாகி ஊதியம்
+  - நிறுவன நிதி மற்றும் மூலோபாயம்  
+
 author: "சாத்விக் ராமன்"
 ---
 

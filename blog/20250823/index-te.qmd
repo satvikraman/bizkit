@@ -10,7 +10,7 @@ twitter-card:
 open-graph:
   image: "./20250823_title.png"
 categories:
-  - డీమెర్జర్
+  - కార్పొరేట్ ఫైనాన్స్ మరియు వ్యూహం
 author: "సాత్విక్ రామన్"
 ---
 

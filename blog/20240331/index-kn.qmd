@@ -11,9 +11,7 @@ twitter-card:
 open-graph:
   image: "./lehman-brothers.png"
 categories:
-  - ದಿವಾಳಿತನ
-  - ಸಬ್‌ಪ್ರೈಮ್ ಸಾಲಗಳು
-  - ಸಾಲದ ಮೇಲೆ ಹೂಡಿಕೆ (ಲೆವರೆಜ್)
+  - ಕಾಂಪೊರೇಟ್ ಹಣಕಾಸು ಮತ್ತು ತಂತ್ರಗಾರಿಕೆ
 author: "ಸಾತ್ವಿಕ್ ರಾಮನ್"
 ---
 

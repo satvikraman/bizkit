@@ -11,7 +11,7 @@ twitter-card:
 open-graph:
   image: "./mna-tata-iveco.png"
 categories:
-  - மர்ஜர்ஸ் & அக்விசிஷன்ஸ்
+  - நிறுவன நிதி மற்றும் மூலோபாயம்  
 author: "சாத்விக் ராமன்"
 ---
 

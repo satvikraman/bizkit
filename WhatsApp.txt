@@ -1,8 +1,9 @@
 ORIGINAL BLOG PROMPT:
-* I wrote the following quarto blog post and would like you to review it for correctness. I write blog posts about a finance concept and link it to a recent news. 
+* I write quarto blog posts about a finance concept and link it to a recent news. 
 * These posts are intended for high school students and hence are written in simple to read and understand English. 
 * I dont want the text to be very casual sounding (like in a story book) but at the same time I wouldn't want it to sound very formal. The tone should suit someone who is interested in reading and learning. 
 * Also write the text so that it appears as though it is written by a human and not by an AI agent. I would like to have proper grammatically correct English, rather than terse sentences 
+* Considering the "written by human" them, I either use "," or "." for breaking sentences phrases. Without my instructions I see you use "-" and ";". So please only use "," or "."
 * I would like each para to be meaty i.e. a para should not 1 liner. It should convey a useful information and hence can be 3-5 sentences long. Of course if required the paras can be 1-2 sentences long also, but that should not be the norm. 
 * I would like to eventually like to translate this blog post into several different Indian languages - Tamil, Kannada, Telugu, Hindi and some foreign languages like German. Keep this in mind while you generate the text. You may want to avoid phrases and words that can't be easily translated. 
 * I would like to retain the length of the blog post to about 750 - 1000 words. 
@@ -12,6 +13,9 @@ ORIGINAL BLOG PROMPT:
 * The last paragraph should be "Final Thoughs" which should essentially summarize the concept and parts of the story. 
 * I would like your response to be generated in canvas mode so that I can review and edit it and we can together arrive at the final version.
 * My blog follows a pattern and I write it in quarto markdown. I have given you the front-matter and the template below. Please follow this template and generate the blog post. I would prefer the blog post is generated in a code snippet form so that I can copy it to my VSCode editor.
+* Pay careful attention to how you spread Heading-1 and Heading-2 in the article. For example, the section "Introduction" and "Final Thoughts" can be Heading-10–30
+* I dont like to keep the body of any heading empty and and immediately follow it with another heading, for example H1 followed by H2 immediately. Please avoid that.
+
 ---
 title: "<An interesting title that grabs attention of the audience. Title should ideally just talk about the concept and not the news>"
 date: 2025-09-13
@@ -27,7 +31,14 @@ categories:
 author: "Satvik Raman"
 ---
 
-<Blog post in quarto format using headings and subheadings as appropriate>
+# Introduction
+<Introduce the concept in a simple manner. You may use an analogy or a real life example to explain the concept.>
+
+<Blog post in quarto format using headings and subheadings as appropriate. Use H1 and H2 as required. Ensure that the blog post is roughly about 750 - 1000 words. Add a line or 2 between any two headings since I don't like to keep the body of any heading empty>
+<Avoid using -, ; to break sentences. Use only , and . >
+
+# Final Thoughts
+
 
 TRANSLATION PROMPT:
 * Translate into simple to read and understand <LANGUAGE> for high schoolers. 
@@ -119,7 +130,6 @@ _“ஒரு IPO என்பது ஒரு அரிதான விரு�
 💰 புதிய வெளியீட்டில், புதிய பங்குகள் உருவாக்கப்படுகின்றன மற்றும் அந்த நிதி நிறுவனத்தின் வளர்ச்சிக்கு செல்கிறது.  
 💼 OFS-இல், தற்போதைய முதலீட்டாளர்கள் தங்கள் பங்குகளை விற்பது — அந்த பணம் அவர்களுக்கே செல்கிறது, நிறுவனத்திற்கு அல்ல.  
 🕶️ Lenskart-ன் IPO-வில் புதிய வெளியீடும் OFS-யும் இரண்டும் சேர்ந்து உள்ளது — இரண்டுமே பணத்தை வெவ்வேறு வழிகளில் திரட்டுகின்றன.  
-📊 Lenskart சுமார் 5.3 கோடி புதிய பங்குகளை (₹2,150 கோடி மதிப்பில்) வெளியிடவும், சுமார் 12.7 கோடி பழைய பங்குகளை (₹5,128 கோடி மதிப்பில்) விற்கவும் திட்டமிட்டுள்ளது.  
 
 📜 முழு கதையைப் படிக்க  
 https://bizkit.co.in/blog/20251101/index-ta.html
@@ -150,7 +160,6 @@ _“Ein Börsengang ist diese seltene Party, bei der die Gastgeber die Snacks ve
 💰 Bei einer Neuen Ausgabe werden neue Aktien geschaffen und das Geld fließt an das Unternehmen für Wachstum.  
 💼 Bei einem OFS verkaufen bestehende Investoren ihre Aktien — das Geld geht an sie, nicht an das Unternehmen.  
 🕶️ Der Börsengang von Lenskart kombiniert eine Neue Ausgabe und ein Angebot zum Verkauf (OFS) — beide bringen auf unterschiedliche Weise Geld ein.  
-📊 Lenskart plant, etwa 5,3 Crore neue Aktien (₹2.150 Crore) auszugeben und etwa 12,7 Crore bestehende Aktien (₹5.128 Crore) zu verkaufen.  
 
 📜 Ganze Geschichte lesen
 https://bizkit.co.in/blog/20251101/index-de.html

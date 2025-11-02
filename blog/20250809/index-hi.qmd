@@ -10,8 +10,7 @@ twitter-card:
 open-graph:
   image: "./esop-musk.png"
 categories:
-  - वित्तीय कॉन्सेप्ट्स
-  - कार्यकारी वेतन
+  - कॉरपोरेट वित्त और रणनीति
 author: "सात्विक रमन"
 ---
 

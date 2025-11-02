@@ -10,8 +10,7 @@ twitter-card:
 open-graph:
   image: "./esop-musk.png"
 categories:
-  - Financial Concepts
-  - Executive Compensation
+  - Corporate Finance & Strategy
 author: "Satvik Raman"
 ---
 

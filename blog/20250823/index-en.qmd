@@ -10,7 +10,7 @@ twitter-card:
 open-graph:
   image: "./20250823_title.png"
 categories:
-  - Demerger
+  - Corporate Finance & Strategy
 author: "Satvik Raman"
 ---
 
