@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./title_20251108.png"
 categories:
-  - Financial Concepts & Instruments
+  - Financial Concepts
 author: "Satvik Raman"
 ---
 
