@@ -94,7 +94,7 @@ After the English draft is approved, generate the following five .qmd files:
 - Hindi: `index-hi.qmd`
 - Tamil: `index-ta.qmd`
 - Telugu: `index-te.qmd`
-- Kannada: `index-ka.qmd`
+- Kannada: `index-kn.qmd`
 - German: `index-de.qmd`
 
 ### Translation Rules (Apply to all 5 languages):
@@ -102,7 +102,7 @@ After the English draft is approved, generate the following five .qmd files:
 2. **Transliteration**: My name "Satvik Raman" MUST be transliterated phonetically as **"Saatvik Raaman"** (सात्विक रामन) in the target script. 
 3. **No English Words**: Translate or transliterate everything—including front-matter and categories—except for URLs, file paths, and industry acronyms.
 4. **Structural Preservation (CRITICAL)**:
-    - Provide the **raw code blocks** only; do not render the markdown.
+    - Output the raw Quarto text directly. Do not wrap your response in markdown code blocks (e.g., no quarto or  tags).
     - Do not change ANY numbers, emojis, or special characters (`*`, `_`, `-`, `#`, `>`, etc.).
     - Do not change any links or email addresses.
     - Do not change names of people, places, companies, or brands.

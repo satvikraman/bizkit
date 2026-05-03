@@ -1,4 +1,3 @@
-```quarto
 ---
 title: "Die Physik des Cashflows: Wie leere Bankkonten Fluggesellschaften am Boden halten"
 date: 2026-05-03
@@ -42,4 +41,4 @@ Die Aufnahme eines Staatskredits löst das geschäftliche Kernproblem eigentlich
 
 # Abschließende Gedanken
 Der Cashflow ist der ultimative Wahrheitssager in der harten Welt des globalen Geschäfts. Man kann eine riesige Flotte von unglaublich teuren Passagierflugzeugen besitzen und trotzdem kläglich scheitern, wenn man die alltäglichen Rechnungen nicht bezahlen kann. SpiceJet dient als brutale Erinnerung daran, dass das Ausgehen von Betriebskapital reale Leben und unschuldige Karrieren zerstört. Menschen ganz unten, wie einfache Gepäckabfertiger, leiden am meisten, wenn reiche Führungskräfte die Firmenbankkonten schlecht verwalten. Leere Bankkonten werden eine riesige Fluggesellschaft viel schneller effektiv am Boden halten, als es ein mechanischer Motorschaden jemals könnte.
-```
+
