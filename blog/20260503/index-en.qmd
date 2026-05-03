@@ -1,0 +1,44 @@
+---
+title: "SpiceJet: Understanding Assets, Burn Rate, Liquidity in Busines"
+date: 2026-05-03
+subtitle: "I’m not interested in being the best-looking corpse in the cemetery. — Herb Kelleher, Founder of Sowthwest Airlines"
+description: "A look at how cash flow and liquidity determine whether a company stays in the air or stays grounded, using the recent struggles of SpiceJet as a real-world example."
+image: "./title_20260503.png"
+twitter-card: {image: "./title_20260503.png"}
+open-graph: {image: "./title_20260503.png"}
+categories: 
+  - Corporate Finance
+author: "Satvik Raman"
+---
+
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Imagine your parents gifted you a beautiful, high-end Royal Enfield bike for your birthday. It looks stunning parked in your driveway, and it is a valuable asset worth lakhs of rupees. However, you soon realize that riding it to college every day costs you Rs 500 in petrol and maintenance. If your pocket money for the week is only Rs 100, that expensive bike stays parked. You own a premium machine, but you are effectively grounded because you lack the cash to run it.
+
+This is the most relatable way to understand the current crisis at SpiceJet. The airline has a famous brand name and a fleet of aircraft, but it lacks the immediate cash needed to keep those engines screaming. In finance, we call this a conflict between assets and liquidity. For the 6,800 employees at SpiceJet, these are not just textbook terms, they are the reason their world has suddenly slowed down. When the cash stops flowing, even the biggest wings cannot find enough lift.
+
+# The Burn Rate Reality
+
+Burn rate is the speed at which a company uses up its cash reserves before it starts making a profit or finds a new investor. Think of it like the "low battery" warning on your phone while you are recording a long video, you need to find a charger before the screen goes black. SpiceJet has been in this high-pressure race for five years. Even after raising nearly Rs 3,000 crore in 2024, the money seems to disappear instantly into a pile of old debts and rising fuel prices.
+
+This financial heat is being felt across the entire company, especially by the technical staff. Senior engineers who have spent years maintaining Boeing aircraft are now seeing their salaries delayed or even facing significant pay cuts. Many others have been placed on "Leave Without Pay" for up to six months, which is essentially a forced break without a paycheck. When a company’s burn rate is too high, it is forced to cut costs everywhere, starting with the very people who keep the planes safe.
+
+# Liquidity vs Solvency, The Cash Crunch
+
+A company can be "solvent" because it owns valuable things like landing slots at busy airports, but it can still be "illiquid" if it cannot pay its bills today. SpiceJet is stuck in this exact trap. The airline is struggling to pay Rs 144 crore to its former owner, Kalanithi Maran, while taxes, provident fund dues, and GST payments continue to pile up. On paper, the company has value, but in reality, it is struggling to meet its daily obligations.
+
+To put this in perspective for a student, imagine you have a Fixed Deposit of Rs 10 lakh in your name that matures in five years. You are technically wealthy, which is solvency. However, if you are standing at a canteen and do not have Rs 50 for a samosa, you are suffering from a lack of liquidity. SpiceJet is currently very hungry for cash, and while it struggles, competitors like IndiGo and Akasa Air are taking over its market share.
+
+# The Story, A Tale of Two Decades
+
+The fall of SpiceJet is best understood by looking at how much it has shrunk over the years. Back in 2014, Ajay Singh bought the airline during a major crisis when it had 48 operational planes and a 10 percent share of the Indian domestic market. It was a tough time, but the airline was still a massive force in Indian aviation. Fast forward to today, and that fleet has dwindled to just 13 of its own operational planes, with its market share dropping to less than 4 percent.
+
+The human impact of this decline is starkly visible in the engineering department. Recently, about 62 engineers who had resigned were told their notice periods were waived off immediately, leaving them without any income for months before they could join their new jobs. These engineers are the backbone of aviation safety. When an airline can no longer afford to pay its technical experts or even allow them a smooth exit, the "lifeline" it is searching for becomes a matter of survival for thousands of Indian families.
+
+# Final Thoughts
+
+The story of SpiceJet is a reminder that government schemes like the Emergency Credit Line Guarantee Scheme are just temporary fixes. If a business cannot fix its core problem of spending more cash than it earns, no amount of loans will keep it flying forever. For the thousands of staff members waiting for their January and February salaries, the "physics" of finance has become a very real struggle for stability.
+
+As you learn about business, remember to look beyond the shiny logos and the number of planes an airline has. Always check the "fuel gauge" of its finances, which is its liquidity. A company can survive a year of low profits, but it cannot survive a week if it runs out of cash. The next few months will decide if SpiceJet finds a way to refuel or if its engines finally go silent.

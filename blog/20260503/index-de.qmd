@@ -1,0 +1,44 @@
+---
+title: "SpiceJet: Vermögenswerte, Burn-Rate und Liquidität im Geschäft verstehen"
+date: 2026-05-03
+subtitle: "Ich bin nicht daran interessiert, die bestaussehende Leiche auf dem Friedhof zu sein. — Herb Kelleher, Gründer von Southwest Airlines"
+description: "Ein Blick darauf, wie Cashflow und Liquidität entscheiden, ob ein Unternehmen in der Luft bleibt oder am Boden bleibt, am realen Beispiel der jüngsten Probleme von SpiceJet."
+image: "./title_20260503.png"
+twitter-card: {image: "./title_20260503.png"}
+open-graph: {image: "./title_20260503.png"}
+categories: 
+  - Corporate Finance
+author: "Saatvik Raaman"
+---
+
+<p><b>Seitenaufrufe:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einführung
+
+Stell dir vor, deine Eltern schenken dir zu deinem Geburtstag ein wunderschönes, hochwertiges Royal Enfield-Motorrad. Es sieht atemberaubend aus, wenn es in deiner Einfahrt parkt, und es ist ein wertvoller Vermögenswert im Wert von vielen Rupien. Du stellst jedoch schnell fest, dass es dich täglich 500 Rupien an Benzin und Wartung kostet, wenn du damit aufs College fährst. Wenn dein Taschengeld für die Woche nur 100 Rupien beträgt, bleibt dieses teure Motorrad geparkt. Du besitzt eine Premium-Maschine, bist aber faktisch am Boden, weil dir das Bargeld für den Betrieb fehlt.
+
+Dies ist der verständlichste Weg, die aktuelle Krise bei SpiceJet zu verstehen. Die Fluggesellschaft hat einen berühmten Markennamen und eine Flotte von Flugzeugen, aber ihr fehlt das sofortige Bargeld, das benötigt wird, um diese Motoren am Laufen zu halten. Im Finanzwesen nennen wir dies einen Konflikt zwischen Vermögenswerten und Liquidität. Für die 6.800 Mitarbeiter bei SpiceJet sind dies nicht nur Lehrbuchbegriffe, sie sind der Grund, warum sich ihre Welt plötzlich verlangsamt hat. Wenn der Cashflow stoppt, können selbst die größten Flügel nicht genug Auftrieb finden.
+
+# Die Realität der Burn-Rate
+
+Die Burn-Rate ist die Geschwindigkeit, mit der ein Unternehmen seine Barreserven aufbraucht, bevor es anfängt, einen Gewinn zu erzielen oder einen neuen Investor findet. Stell dir das wie die Warnung vor niedrigem Akkustand auf deinem Telefon vor, während du ein langes Video aufnimmst. Du musst ein Ladegerät finden, bevor der Bildschirm schwarz wird. SpiceJet befindet sich seit fünf Jahren in diesem Hochdruckrennen. Selbst nach der Beschaffung von fast 3.000 Crore Rupien im Jahr 2024 scheint das Geld sofort in einem Berg alter Schulden und steigender Treibstoffpreise zu verschwinden.
+
+Diese finanzielle Hitze ist im gesamten Unternehmen spürbar, insbesondere beim technischen Personal. Leitende Ingenieure, die jahrelang Boeing-Flugzeuge gewartet haben, sehen sich nun mit verspäteten Gehältern oder sogar erheblichen Gehaltskürzungen konfrontiert. Viele andere wurden für bis zu sechs Monate auf unbezahlten Urlaub gesetzt, was im Grunde eine erzwungene Pause ohne Gehaltsscheck ist. Wenn die Burn-Rate eines Unternehmens zu hoch ist, ist es gezwungen, überall Kosten zu senken, beginnend mit genau den Leuten, die die Flugzeuge sicher halten.
+
+# Liquidität und Solvenz
+
+Ein Unternehmen kann solvent sein, weil es wertvolle Dinge wie Landeplätze an verkehrsreichen Flughäfen besitzt, aber es kann dennoch illiquide sein, wenn es seine Rechnungen heute nicht bezahlen kann. SpiceJet steckt genau in dieser Falle. Die Fluggesellschaft kämpft darum, 144 Crore Rupien an ihren ehemaligen Eigentümer Kalanithi Maran zu zahlen, während sich Steuern, Vorsorgebeiträge und GST-Zahlungen weiterhin anhäufen. Auf dem Papier hat das Unternehmen einen Wert, in der Realität kämpft es jedoch darum, seinen täglichen Verpflichtungen nachzukommen.
+
+Um dies für einen Studenten zu veranschaulichen, stell dir vor, du hast ein Festgeld in Höhe von 10 Lakh Rupien in deinem Namen, das in fünf Jahren fällig wird. Du bist technisch gesehen wohlhabend, was als Solvenz bezeichnet wird. Wenn du jedoch in einer Kantine stehst und keine 50 Rupien für eine Samosa hast, leidest du unter mangelnder Liquidität. SpiceJet ist derzeit sehr hungrig nach Bargeld, und während das Unternehmen kämpft, übernehmen Konkurrenten wie IndiGo und Akasa Air seinen Marktanteil.
+
+# Die Geschichte von zwei Jahrzehnten
+
+Der Fall von SpiceJet lässt sich am besten verstehen, wenn man sich ansieht, wie stark das Unternehmen im Laufe der Jahre geschrumpft ist. Zurück im Jahr 2014 kaufte Ajay Singh die Fluggesellschaft während einer schweren Krise, als sie 48 einsatzbereite Flugzeuge und einen Anteil von 10 Prozent am indischen Inlandsmarkt hatte. Es war eine harte Zeit, aber die Fluggesellschaft war immer noch eine gewaltige Kraft in der indischen Luftfahrt. Bis heute ist diese Flotte jedoch auf nur 13 eigene betriebsbereite Flugzeuge geschrumpft, und der Marktanteil ist auf weniger als 4 Prozent gesunken.
+
+Die menschlichen Auswirkungen dieses Niedergangs sind in der technischen Abteilung deutlich sichtbar. Kürzlich wurde etwa 62 Ingenieuren, die gekündigt hatten, mitgeteilt, dass ihre Kündigungsfristen sofort erlassen würden, sodass sie monatelang ohne Einkommen blieben, bevor sie ihre neuen Jobs antreten konnten. Diese Ingenieure sind das Rückgrat der Flugsicherheit. Wenn sich eine Fluggesellschaft es nicht mehr leisten kann, ihre technischen Experten zu bezahlen, wird dies zu einer Frage des Überlebens für Tausende von indischen Familien.
+
+# Abschließende Gedanken
+
+Die Geschichte von SpiceJet erinnert uns daran, dass Regierungsprogramme wie die Emergency Credit Line Guarantee Scheme nur vorübergehende Lösungen sind. Wenn ein Unternehmen sein Kernproblem, mehr Bargeld auszugeben, als es einnimmt, nicht lösen kann, werden noch so viele Kredite es nicht für immer am Fliegen halten. Für die Tausenden von Mitarbeitern, die auf ihre Gehälter für Januar und Februar warten, ist die Physik der Finanzen zu einem sehr realen Kampf um Stabilität geworden.
+
+Wenn du etwas über das Geschäftswesen lernst, denke daran, über die glänzenden Logos und die Anzahl der Flugzeuge einer Fluggesellschaft hinauszusehen. Überprüfe immer die Tankanzeige ihrer Finanzen, also ihre Liquidität. Ein Unternehmen kann ein Jahr lang mit geringen Gewinnen überleben, aber es kann nicht eine Woche überleben, wenn ihm das Bargeld ausgeht. Die nächsten Monate werden entscheiden, ob SpiceJet einen Weg findet, aufzutanken, oder ob seine Motoren endgültig verstummen.

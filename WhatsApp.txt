@@ -57,7 +57,7 @@ TRANSLATION PROMPT:
 * Do not change any of the code blocks. Do not change any of the code syntax highlighting languages. Do not change any of the code indentation levels. Do not change any of the code line breaks. Do not change any of the code special characters like * or _ or - or # or > or or ~ or ! or [ or ] or ( or ) or : or ; or , or . or ? or / or \ or | or @ or $ or % or ^ or & or + or = inside code blocks.
 
 IMAGE PROMPT:
-Please genearate a vibrant image for the below blog post titled. The image should visually represent the concept being discussed in the post. Use graphic elements to explain the concept. The style should be modern and appealing to high school students, with bright colors and clear imagery. Ensure the image is suitable for use as a blog post header.
+Please genearate a vibrant image for the below blog post titled. The image should visually represent the concept being discussed in the post. Use graphic elements to explain the concept. The style should be modern and appealing to high school students, with bright colors and clear imagery. Ensure the image is suitable for use as a blog post header since it will eventually be scaled to 664x548.
 
 WHATSAPP MESSAGE Prompt:
 * I would like to share the blog post on WhatsApp channels in 6 languages - English, Hindi, Kannada, Tamil, Telugu and German.
@@ -75,94 +75,96 @@ WHATSAPP MESSAGE Prompt:
 
 
 
-⭐ *OFS vs Fresh Issue IPOs: Understanding the Two Sides of a Public Listing*
-_“An IPO is that rare party where the hosts sell the snacks and the guests still cheer.” — Rakesh Jhunjhunwala_
+⭐ *The Life and Death of a Banknote: How the RBI Manages Currency*
+_“Paper money eventually returns to its intrinsic value — zero.” – Voltaire, French writer_
 
 📌 *Main Points*
-📊 In an IPO, a company may sell fresh new shares (Fresh Issue) or existing shares (OFS) held by the founders or early investors
-💰 In a Fresh Issue, new shares are created and the funds go to the company for growth.
-💼 In an OFS, existing investors sell their shares — money goes to them, not the company.
-🕶️ Lenskart’s IPO mixes a Fresh Issue and an Offer for Sale (OFS) — both raise money differently.
-📊 Lenskart plans to issue ~5.3 Cr new shares (₹2,150 Cr) and sell ~12.7 Cr existing shares (₹5,128 Cr).
+💸 ₹2,000 notes worth ₹5,817 crore still remain in circulation — just 1.6% of what once existed!
+🏦 RBI is phasing them out gradually, not demonetizing them — they’re still legal tender.
+💰 Notes wear out over time; old ones are shredded and replaced to keep cash clean.
+🔐 New designs bring better security and easier daily use.
+📉 The ₹2,000 note’s quiet “retirement” shows how RBI keeps money flowing efficiently.
 
 📜 Read the full story
-https://bizkit.co.in/blog/20251101/index-en.html
+https://bizkit.co.in/blog/20251108/index-en.html
 
 ============================================================================
 
-⭐ *OFS बनाम फ्रेश इश्यू IPOs: एक पब्लिक लिस्टिंग के दो पहलुओं को समझना*
-_“IPO वह दुर्लभ पार्टी है जहाँ मेज़बान स्नैक्स बेचते हैं और मेहमान फिर भी खुश होते हैं।” — राकेश झुनझुनवाला_  
+⭐ *एक नोट का जीवन और अंत: कैसे आरबीआई मुद्रा को संभालता है*
+_“कागज़ का पैसा आखिर में अपनी असली कीमत पर लौट आता है — शून्य।” – वोल्टेयर, फ्रेंच लेखक_  
 
 📌 *मुख्य बातें*  
-📊 किसी आईपीओ में, कोई कंपनी नए शेयर (फ्रेश इश्यू) या संस्थापकों या शुरुआती निवेशकों द्वारा रखे गए पुराने शेयर (OFS) बेच सकती है।  
-💰 फ्रेश इश्यू में नए शेयर बनाए जाते हैं और इससे मिलने वाला पैसा कंपनी को विकास के लिए मिलता है।  
-💼 OFS में, मौजूदा निवेशक अपने शेयर बेचते हैं — पैसा उन्हें जाता है, कंपनी को नहीं।  
-🕶️ Lenskart का आईपीओ फ्रेश इश्यू और ऑफ़र फॉर सेल (OFS) दोनों का मिश्रण है — दोनों से पैसा अलग-अलग तरीकों से आता है।  
-📊 Lenskart लगभग 5.3 करोड़ नए शेयर (₹2,150 करोड़) जारी करने और लगभग 12.7 करोड़ पुराने शेयर (₹5,128 करोड़) बेचने की योजना बना रहा है।  
+💸 ₹2,000 के नोट्स की ₹5,817 करोड़ की रकम अब भी चलन में है — यह सिर्फ 1.6% है जो पहले मौजूद थी!
+🏦 RBI धीरे-धीरे इन्हें वापस ले रहा है, नोटबंदी नहीं कर रहा — ये अब भी कानूनी मुद्रा हैं।
+💰 नोट समय के साथ घिस जाते हैं; पुराने नोटों को नष्ट कर नए जारी किए जाते हैं ताकि नकदी साफ रहे।
+🔐 नए डिज़ाइन बेहतर सुरक्षा और रोज़मर्रा के लेनदेन को आसान बनाते हैं।
+📉 ₹2,000 नोट की शांत “रिटायरमेंट” दिखाती है कि RBI पैसा कितनी कुशलता से चलाता है।
 
 📜 पूरी कहानी पढ़ें  
-https://bizkit.co.in/blog/20251101/index-hi.html
+https://bizkit.co.in/blog/20251108/index-hi.html
 
 
 ============================================================================
 
-⭐ *OFS ಮತ್ತು ಹೊಸ ಹಂಚಿಕೆ IPOಗಳು: ಸಾರ್ವಜನಿಕ ಹಂಚಿಕೆಯ ಎರಡು ಮುಖಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು*
-_“ಒಂದು IPO ಅಂದರೆ ಅಪರೂಪದ ಪಾರ್ಟಿ — ಅಲ್ಲಿ ಆತಿಥೇಯರು ತಿಂಡಿಗಳನ್ನು ಮಾರುತ್ತಾರೆ, ಆದರೆ ಅತಿಥಿಗಳು ಇನ್ನೂ ಹರ್ಷಿಸುತ್ತಾರೆ.” — ರಾಕೇಶ್ ಝುನ್ಝುನ್ವಾಲಾ_  
+⭐ *ನೋಟಿನ ಜೀವನ ಮತ್ತು ಅಂತ್ಯ: RBI ಹೇಗೆ ನಾಣ್ಯವನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ*
+_“ಕಾಗದದ ಹಣ ಕೊನೆಗೆ ಅದರ ನಿಜವಾದ ಮೌಲ್ಯಕ್ಕೆ — ಶೂನ್ಯಕ್ಕೆ — ಹಿಂತಿರುಗುತ್ತದೆ.” – ವಾಲ್ಟೇರ್, ಫ್ರೆಂಚ್ ಲೇಖಕ_  
 
 📌 *ಮುಖ್ಯ ಅಂಶಗಳು*  
-📊 ಒಂದು IPO ಯಲ್ಲಿ, ಒಂದು ಕಂಪನಿ ಹೊಸ ಹಂಚಿಕೆಗಳು (ಫ್ರೆಶ್ ಇಶ್ಯೂ) ಅಥವಾ ಸಂಸ್ಥಾಪಕರು ಅಥವಾ ಆರಂಭಿಕ ಹೂಡಿಕೆದಾರರು ಹೊಂದಿರುವ ಹಳೆಯ ಹಂಚಿಕೆಗಳನ್ನು (OFS) ಮಾರಾಟ ಮಾಡಬಹುದು.  
-💰 ಫ್ರೆಶ್ ಇಶ್ಯೂ ಯಲ್ಲಿ, ಹೊಸ ಹಂಚಿಕೆಗಳನ್ನು ಸೃಷ್ಟಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಹಣ ಕಂಪನಿಗೆ ಬೆಳವಣಿಗೆಯಿಗಾಗಿ ಹೋಗುತ್ತದೆ.  
-💼 OFS ಯಲ್ಲಿ, ಹಳೆಯ ಹೂಡಿಕೆದಾರರು ತಮ್ಮ ಹಂಚಿಕೆಗಳನ್ನು ಮಾರುತ್ತಾರೆ — ಹಣ ಅವರಿಗೆ ಹೋಗುತ್ತದೆ, ಕಂಪನಿಗೆ ಅಲ್ಲ.  
-🕶️ Lenskart ನ IPO ಯಲ್ಲಿ ಫ್ರೆಶ್ ಇಶ್ಯೂ ಮತ್ತು ಆಫರ್ ಫಾರ್ ಸೇಲ್ (OFS) ಎರಡೂ ಸೇರಿವೆ — ಇವು ಹಣವನ್ನು ಬೇರೆ ಬೇರೆ ರೀತಿಯಲ್ಲಿ ಸಂಗ್ರಹಿಸುತ್ತವೆ.  
-📊 Lenskart ಸುಮಾರು 5.3 ಕೋಟಿ ಹೊಸ ಹಂಚಿಕೆಗಳನ್ನು (₹2,150 ಕೋಟಿ) ಬಿಡುಗಡೆ ಮಾಡಲು ಮತ್ತು ಸುಮಾರು 12.7 ಕೋಟಿ ಹಳೆಯ ಹಂಚಿಕೆಗಳನ್ನು (₹5,128 ಕೋಟಿ) ಮಾರಾಟ ಮಾಡಲು ಯೋಜಿಸಿದೆ.  
+💸 ₹2,000 ಮುಖಬೆಲೆಯ ₹5,817 ಕೋಟಿ ನೋಟುಗಳು ಇನ್ನೂ ವಹಿವಾಟಿನಲ್ಲಿ ಇವೆ — ಇದು ಮೊದಲು ಇದ್ದದರಲ್ಲಿ ಕೇವಲ 1.6%!
+🏦 RBI ಅವುಗಳನ್ನು ನಿಧಾನವಾಗಿ ಹಿಂತೆಗೆದುಕೊಳ್ಳುತ್ತಿದೆ, ನಿಷೇಧಿಸಿಲ್ಲ — ಇವು ಇನ್ನೂ ಕಾನೂನಾತ್ಮಕ ನಾಣ್ಯ.
+💰 ನೋಟುಗಳು ಸಮಯದೊಂದಿಗೆ ಹಾಳಾಗುತ್ತವೆ; ಹಳೆಯವುಗಳನ್ನು ಕತ್ತರಿಸಿ ಹೊಸವುಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡಲಾಗುತ್ತದೆ.
+🔐 ಹೊಸ ವಿನ್ಯಾಸಗಳು ಉತ್ತಮ ಭದ್ರತೆ ಮತ್ತು ದೈನಂದಿನ ಬಳಕೆಗೆ ಸುಲಭತೆ ತರುತ್ತವೆ.
+📉 ₹2,000 ನೋಟಿನ ಶಾಂತ “ರಿಟೈರ್‌ಮೆಂಟ್” RBI ಹಣದ ಹರಿವನ್ನು ಎಷ್ಟು ಸಮರ್ಥವಾಗಿ ನಿರ್ವಹಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ.
 
 📜 ಸಂಪೂರ್ಣ ಲೇಖನ ಓದಿ  
-https://bizkit.co.in/blog/20251101/index-kn.html
+https://bizkit.co.in/blog/20251108/index-kn.html
 
 
 ============================================================================
 
-⭐ *OFS மற்றும் புதிய வெளியீட்டு IPOக்கள்: ஒரு பங்குச் சந்தை பட்டியலின் இரு பக்கங்களையும் புரிந்து கொள்வது*  
-_“ஒரு IPO என்பது ஒரு அரிதான விருந்து போன்றது — அதில் ஏற்பாட்டாளர்கள் உணவுகளை விற்கிறார்கள், ஆனால் விருந்தினர்கள் இன்னும் கைத்தட்டுகிறார்கள்.” — ராகேஷ் ஜுன்ஜுன்வாலா  
+⭐ *ஒரு நாணயத்தின் வாழ்க்கையும் முடிவும்: RBI காசை எப்படி நிர்வகிக்கிறது*  
+_“காகிதப் பணம் இறுதியில் அதன் உண்மையான மதிப்புக்கு — பூஜ்யம் — திரும்பி விடுகிறது.” – வோல்டேர், பிரெஞ்சு எழுத்தாளர்_  
 
 📌 *முக்கிய குறிப்புகள்*  
-📊 ஒரு IPO-வில், ஒரு நிறுவனம் புதிய பங்குகளை (புதிய வெளியீடு) அல்லது நிறுவனர் அல்லது ஆரம்ப முதலீட்டாளர்கள் வைத்திருக்கும் பங்குகளை (விற்பனைக்கு வழங்கப்படும் பங்குகள் - OFS) விற்கலாம்.  
-💰 புதிய வெளியீட்டில், புதிய பங்குகள் உருவாக்கப்படுகின்றன மற்றும் அந்த நிதி நிறுவனத்தின் வளர்ச்சிக்கு செல்கிறது.  
-💼 OFS-இல், தற்போதைய முதலீட்டாளர்கள் தங்கள் பங்குகளை விற்பது — அந்த பணம் அவர்களுக்கே செல்கிறது, நிறுவனத்திற்கு அல்ல.  
-🕶️ Lenskart-ன் IPO-வில் புதிய வெளியீடும் OFS-யும் இரண்டும் சேர்ந்து உள்ளது — இரண்டுமே பணத்தை வெவ்வேறு வழிகளில் திரட்டுகின்றன.  
+💸 ₹2,000 நோட்டுகளின் ₹5,817 கோடி மதிப்பு இன்னும் சுழற்சியில் உள்ளது — இது முன்பு இருந்ததின் 1.6% மட்டுமே!
+🏦 RBI அவற்றை மெதுவாக திரும்பப் பெறுகிறது, இது நாணய ரத்து அல்ல — அவை இன்னும் சட்டபூர்வமானவை.
+💰 நோட்டுகள் காலப்போக்கில் கிழிந்து விடுகின்றன; பழையவை நொறுக்கப்பட்டு புதியவை வெளியிடப்படுகின்றன.
+🔐 புதிய வடிவங்கள் மேம்பட்ட பாதுகாப்பையும் தினசரி பயன்பாட்டிலும் எளிமையையும் தருகின்றன.
+📉 ₹2,000 நோட்டின் அமைதியான “ஓய்வு” RBI பணப்புழக்கத்தை எவ்வளவு திறம்பட பராமரிக்கிறது என்பதைக் காட்டுகிறது.
 
 📜 முழு கதையைப் படிக்க  
-https://bizkit.co.in/blog/20251101/index-ta.html
+https://bizkit.co.in/blog/20251108/index-ta.html
 
 ============================================================================
 
-⭐ *ఓఎఫ్‌ఎస్‌ vs కొత్త షేర్‌ ఇష్యూ ఐపీఓలు: ఒక పబ్లిక్‌ లిస్టింగ్‌లోని రెండు వైపులు అర్థం చేసుకోవడం*  
-_“ఒక ఐపీఓ అంటే ఒక అరుదైన పార్టీ — ఇక్కడ ఆతిథేయులు స్నాక్స్ అమ్మినా, అతిథులు ఆనందంగా చప్పట్లు కొడతారు.” — రాకేశ్ ఝున్‌ఝున్‌వాలా_  
+⭐ *ఒక నోటు జీవితం మరియు ముగింపు: RBI కరెన్సీని ఎలా నిర్వహిస్తుంది*  
+_“కాగితపు డబ్బు చివరికి దాని అసలు విలువ — సున్నా — కి చేరుతుంది.” – వోల్టేర్, ఫ్రెంచ్ రచయిత_  
 
 📌 *ముఖ్యాంశాలు*  
-📊 ఒక ఐపీఓ (IPO) లో, ఒక కంపెనీ కొత్త షేర్లు (ఫ్రెష్ ఇష్యూ) లేదా స్థాపకులు లేదా ప్రారంభ పెట్టుబడిదారులు కలిగి ఉన్న షేర్లు (ఓఎఫ్‌ఎస్‌) ను అమ్మవచ్చు.  
-💰 ఒక ఫ్రెష్ ఇష్యూ లో, కొత్త షేర్లు సృష్టించబడతాయి మరియు ఆ డబ్బు కంపెనీ అభివృద్ధి కోసం కంపెనీకి వెళ్తుంది.  
-💼 ఒక ఓఎఫ్‌ఎస్‌ లో, ఇప్పటికే ఉన్న పెట్టుబడిదారులు తమ షేర్లను అమ్ముతారు — ఆ డబ్బు వారికి వెళ్తుంది, కంపెనీకి కాదు.  
-🕶️ లెన్స్‌కార్ట్ ఐపీఓలో ఫ్రెష్ ఇష్యూ మరియు ఆఫర్ ఫర్ సేల్ (ఓఎఫ్‌ఎస్‌) రెండూ ఉన్నాయి — ఇవి రెండూ వేర్వేరు విధానాల్లో నిధులను సేకరిస్తాయి.  
-📊 లెన్స్‌కార్ట్ సుమారు 5.3 కోట్ల కొత్త షేర్లు (₹2,150 కోట్లు) విడుదల చేయాలని మరియు సుమారు 12.7 కోట్ల పాత షేర్లు (₹5,128 కోట్లు) అమ్మాలని యోచిస్తోంది.  
+💸 ₹2,000 నోట్లలో ₹5,817 కోట్లు ఇప్పటికీ చలామణిలో ఉన్నాయి — ఇది ఒకప్పుడు ఉన్న వాటిలో కేవలం 1.6%!
+🏦 RBI వాటిని నెమ్మదిగా వెనక్కు తీసుకుంటోంది, నోట్ల రద్దు కాదు — అవి ఇంకా చట్టబద్ధమైన నాణెం.
+💰 నోట్లు కాలంతోపాటు దెబ్బతింటాయి; పాతవాటిని నాశనం చేసి కొత్తవాటిని విడుదల చేస్తారు.
+🔐 కొత్త డిజైన్‌లు మెరుగైన భద్రతను, రోజువారీ వినియోగంలో సౌలభ్యాన్ని ఇస్తాయి.
+📉 ₹2,000 నోటు యొక్క నిశ్శబ్ద “రిటైర్మెంట్” RBI డబ్బు ప్రవాహాన్ని ఎంత సమర్థంగా నిర్వహిస్తుందో చూపిస్తుంది.
 
 📜 పూర్తి కథ చదవండి  
-https://bizkit.co.in/blog/20251101/index-te.html
+https://bizkit.co.in/blog/20251108/index-te.html
 
 
 ============================================================================
 
-⭐ *OFS vs Neue Aktienausgabe IPOs: Die zwei Seiten eines Börsengangs verstehen*
-_“Ein Börsengang ist diese seltene Party, bei der die Gastgeber die Snacks verkaufen und die Gäste trotzdem jubeln.” — Rakesh Jhunjhunwala_
+⭐ *Das Leben und Sterben einer Banknote: Wie die RBI den Geldumlauf steuert*
+_“Papiergeld kehrt schließlich zu seinem inneren Wert zurück — null.” – Voltaire, französischer Schriftsteller_
 
 📌 *Hauptpunkte*
-📊 In einem Börsengang (IPO) kann ein Unternehmen entweder neue Aktien (Neue Ausgabe) oder bereits bestehende Aktien (OFS – Angebot zum Verkauf) der Gründer oder frühen Investoren verkaufen.  
-💰 Bei einer Neuen Ausgabe werden neue Aktien geschaffen und das Geld fließt an das Unternehmen für Wachstum.  
-💼 Bei einem OFS verkaufen bestehende Investoren ihre Aktien — das Geld geht an sie, nicht an das Unternehmen.  
-🕶️ Der Börsengang von Lenskart kombiniert eine Neue Ausgabe und ein Angebot zum Verkauf (OFS) — beide bringen auf unterschiedliche Weise Geld ein.  
+💸 Banknoten im Wert von ₹5.817 Crore der ₹2.000-Serie sind noch im Umlauf – nur 1,6 % der einstigen Menge!
+🏦 Die RBI zieht sie schrittweise zurück, keine Demonetisierung – sie bleiben gesetzliches Zahlungsmittel.
+💰 Banknoten nutzen sich mit der Zeit ab; alte werden geschreddert und durch neue ersetzt.
+🔐 Neue Designs sorgen für mehr Sicherheit und einfachere Nutzung im Alltag.
+📉 Der stille „Ruhestand“ der ₹2.000-Banknote zeigt, wie effizient die RBI den Geldfluss steuert.
 
 📜 Ganze Geschichte lesen
-https://bizkit.co.in/blog/20251101/index-de.html
+https://bizkit.co.in/blog/20251108/index-de.html
 
 
 
