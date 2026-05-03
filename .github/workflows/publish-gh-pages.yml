@@ -23,11 +23,13 @@ jobs:
     environment:
       name: github-pages
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       # 1️⃣ Checkout code
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       # 2️⃣ Setup Quarto
       - name: Setup Quarto
@@ -124,15 +126,15 @@ jobs:
 
       # 11️⃣ Configure GitHub Pages
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
 
       # 12️⃣ Upload artifact for gh-pages
       - name: Upload artifact for GitHub Pages
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: _ghpages_temp
 
       # 13️⃣ Deploy to gh-pages branch
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
