@@ -116,8 +116,7 @@ After the English draft is approved, generate the following five .qmd files:
 Execute the terminal commands to render the Quarto project and push the updates to the GitHub repository.
 
 ### Execution Logic:
-1. **Quarto Render**: Run `quarto render` in the terminal to build the static site.
-2. **GitHub Push**: Execute the following git commands:
+1. **GitHub Push**: Execute the following git commands:
    - `git add .`
    - `git commit -m "Add new post: YYYYMMDD"`
    - `git push origin main`
