@@ -128,7 +128,8 @@ Generate a summary for WhatsApp sharing in English.
 1. **Bullet Points**: Create 4-5 bullet points summarizing the main story points.
 2. **Character Limit**: Strictly adhere to a 700-character limit for the bullet points section (including emojis and spaces). If you are exceeding the limit, trim down the bullet points while retaining the core message.
 3. **Link Format**: The link must be: `https://bizkit.co.in/blog/YYYYMMDD/index-en.html`.
-4. **Format**:
+4. **Output Format**: Always present the WhatsApp message inside a plain code block (triple backticks with no language tag) so the user can copy and paste it directly.
+5. **Format**:
 ⭐ *<TITLE>*
 _<SUBTITLE>_
 📌 *Main Points*
@@ -145,3 +146,4 @@ Translate the approved English template into Hindi, Tamil, Telugu, Kannada, and 
 1. **Consistency**: Use the EXACT Title and Subtitle text from the translated `.qmd` files generated in Phase 3.
 2. **Links**: Generate links for each language (e.g., `index-hi.html` for Hindi, `index-ta.html` for Tamil).
 3. **Tone**: Maintain the high-school level accessibility in the bullet point translations.
+4. **Output Format**: Present each language's WhatsApp message in its own plain code block (triple backticks with no language tag), clearly labelled with the language name above it, so the user can copy and paste each one directly.
