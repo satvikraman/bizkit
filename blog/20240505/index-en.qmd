@@ -1,0 +1,40 @@
+---
+title: "The Tax That Comes After Death: Understanding Inheritance Tax"
+date: 2024-05-05
+subtitle: "\"You made wealth in your generation. Half of it should go to the public. That, to me, sounds fair.\" — Sam Pitroda"
+description: "One off-hand comment by Sam Pitroda about taxing inherited wealth turned into the biggest political controversy of April 2024. India has actually tried this tax before, scrapped it, and the debate is now back with full force."
+image: "./title_20240505.png"
+twitter-card: {image: "./title_20240505.png"}
+open-graph: {image: "./title_20240505.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+In April 2024, Sam Pitroda, a telecommunications engineer, entrepreneur, and former advisor to late Prime Minister Rajiv Gandhi, made a comment that set off a wildfire in Indian politics. He pointed to the United States, where wealthy families can only pass about 45% of their fortune to their children when they die, with the remaining 55% going to the government. He called that arrangement fair. India's political parties did not agree. Within days, his remark about inheritance tax was being debated in parliament, on television, and in WhatsApp groups across the country. But what even is inheritance tax, and why does it make people so uncomfortable?
+
+# What is Inheritance Tax?
+
+When a person dies and leaves behind wealth, that wealth passes to their children or other family members. In most countries, including India today, this transfer happens without the government taking a cut. An inheritance tax changes that. It requires the heirs, or sometimes the estate of the deceased person itself, to pay a portion of the inherited wealth as tax to the government. Sam Pitroda's version of this idea was direct, suggesting that half the wealth of a rich person should flow back to the public when they pass away, using the American system as his model.
+
+# The Case For It
+
+The strongest argument for inheritance tax is about fairness. In OECD countries, a group of mostly wealthy nations, the top 20% of households receive inheritances that are nearly 50 times larger than what the bottom 20% receive. That gap does not happen because the wealthy children worked harder. It happens because they were born into the right family. An inheritance tax can slow this cycle down by redirecting some of that wealth to the government, which can then spend it on schools, hospitals, and welfare programmes for those who did not win the birth lottery. A 1993 study called "The Carnegie Conjecture" also found that people who inherited large amounts of money were more likely to work fewer hours, relying on their windfall rather than their own effort.
+
+# India Tried This Before
+
+Here is where the story gets interesting. India actually had an inheritance tax for nearly three decades. It was called estate duty and it was abolished in 1985 by Finance Minister V P Singh, the very government that Sam Pitroda served as an advisor. The government was spending more money administering the tax than it was actually collecting from it. In the final year before abolition, India collected just 20 crore rupees from estate duty, which was only 0.4% of total direct tax revenue at the time. The administrative nightmare of tracking assets, valuing property, and sorting out disputes among legal heirs made the whole exercise more trouble than it was worth.
+
+# The Case Against It
+
+Pitroda's critics were quick to point out the problems. The most intuitive argument is personal. Most people who build wealth do it with their children in mind, and an inheritance tax can feel like a punishment for a lifetime of hard work and careful saving. But beyond the emotional argument, there are practical problems too. Rich families, when faced with inheritance taxes, tend to move their money before it can be taxed. They transfer wealth to their children while still alive if the gift tax rate is lower than the inheritance tax rate. They set up trusts designed to pass assets across generations while reducing the tax hit. In more extreme cases, they move money to countries with no such taxes, or they give up their citizenship entirely, which can result in less wealth staying in the country and defeat the whole purpose of the policy.
+
+# Sam Pitroda and the Political Grenade
+
+Sam Pitroda is not just any commentator on economic policy. He is the man who helped bring telephone exchanges to rural India in the 1980s, a project that genuinely changed millions of lives, and he has spent decades thinking about the gap between India's rich and poor. When he made his inheritance tax comment in April 2024, he was speaking as someone who had watched that gap widen over 40 years. The political reaction was swift and fierce. Opposition parties accused the ruling Congress party of planning to redistribute wealth and tax hard-earned money. Congress distanced itself from Pitroda almost immediately, and he resigned from his position as chairman of the Indian Overseas Congress within days of the controversy erupting. It was a reminder that in a democracy, even a carefully reasoned idea can become a political grenade when it touches people's deepest anxieties about money, family, and fairness.
+
+# Final Thoughts
+
+Inheritance tax is one of those ideas that sounds logical on paper but runs into walls in practice. The economic arguments for it are real, because wealth inequality is a genuine problem, and letting fortunes pass from generation to generation without any public contribution does make that inequality worse over time. But India's own history with estate duty shows that taxing inheritance is easier said than done. Sam Pitroda's comment sparked a national conversation that probably needed to happen, even if his timing made it easy for others to turn it into a political weapon. The question of whether inherited wealth should be taxed is one that every society must answer for itself, and India has clearly not given its final answer yet.
