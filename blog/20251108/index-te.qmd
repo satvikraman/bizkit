@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./title_20251108.png"
 categories:
-  - ఆర్థిక భావనలు
+  - డబ్బు మరియు మార్కెట్
 author: "సాత్విక్ రామన్"
 ---
 

@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./20250830_title.png"
 categories:
-  - टैक्स
+  - अर्थव्यवस्था और नीति
 author: "सात्विक रमन"
 ---
 

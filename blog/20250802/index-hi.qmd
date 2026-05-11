@@ -9,9 +9,7 @@ twitter-card:
 open-graph:
   image: "./tariff.png"
 categories:
-  - व्यापार
-  - अर्थशास्त्र
-  - ग्लोबल मार्केट्स
+  - अर्थव्यवस्था और नीति
 author: "सात्विक रामन"
 ---
 

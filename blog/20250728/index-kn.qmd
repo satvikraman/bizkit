@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./depositories.png"
 categories:
-  - ಷೇರು ಮಾರುಕಟ್ಟೆ
+  - ಹಣ ಮತ್ತು ಮಾರುಕಟ್ಟೆ
 author: "ಸಾತ್ವಿಕ್ ರಾಮನ್"
 ---
 

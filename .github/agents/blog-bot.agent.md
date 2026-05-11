@@ -56,7 +56,7 @@ description: "<A 2-sentence engaging hook>"
 image: "./title_YYYYMMDD.png"
 twitter-card: {image: "./title_YYYYMMDD.png"}
 open-graph: {image: "./title_YYYYMMDD.png"}
-categories: ["Financial Concepts"]
+categories: ["<Pick ONE: Corporate Actions | Money & Markets | Economy & Policy>"]
 author: "Satvik Raman"
 ---
 <p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
@@ -73,6 +73,16 @@ author: "Satvik Raman"
 # Final Thoughts
 <Summarize the concept and provide a concluding thought on the story thread.>
 
+
+# Categories Reference
+
+Pick exactly ONE category per post. Use the English name in `index-en.qmd` and the corresponding translation in each language file.
+
+| English | Hindi | Tamil | Telugu | Kannada | German |
+|---------|-------|-------|--------|---------|--------|
+| Corporate Actions | कॉर्पोरेट एक्शन्स | கார்ப்பரேட் ஆக்ஷன்ஸ் | కార్పొరేట్ యాక్షన్స్ | ಕಾರ್ಪೊರೇಟ್ ಆಕ್ಷನ್ಸ್ | Unternehmensentscheidungen |
+| Money & Markets | पैसा और बाज़ार | பணமும் சந்தையும் | డబ్బు మరియు మార్కెట్ | ಹಣ ಮತ್ತು ಮಾರುಕಟ್ಟೆ | Geld & Märkte |
+| Economy & Policy | अर्थव्यवस्था और नीति | பொருளாதாரமும் கொள்கையும் | ఆర్థిక వ్యవస్థ మరియు విధానం | ಆರ್ಥಿಕತೆ ಮತ್ತು ನೀತಿ | Wirtschaft & Politik |
 
 # Phase 2: Image Processing & Resizing
 Once Phase 1 is complete, you must execute the image resizing script using your terminal access/tool-calling capability.

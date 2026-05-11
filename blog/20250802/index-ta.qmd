@@ -9,9 +9,7 @@ twitter-card:
 open-graph:
   image: "./tariff.png"
 categories:
-  - வர்த்தகம்
-  - பொருளாதாரம்
-  - உலக சந்தைகள்
+  - பொருளாதாரமும் கொள்கையும்
 author: "சாத்விக் ராமன்"
 ---
 

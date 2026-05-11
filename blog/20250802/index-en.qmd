@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./tariff.png"
 categories:
-  - Economics & Policy
+  - Economy & Policy
 author: "Satvik Raman"
 ---
 

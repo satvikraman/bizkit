@@ -11,7 +11,7 @@ twitter-card:
 open-graph:
   image: "./lehman-brothers.png"
 categories:
-  - కార్పొరేట్ ఫైనాన్స్ మరియు వ్యూహం
+  - డబ్బు మరియు మార్కెట్
 author: "సాత్విక్ రామన్"
 ---
 

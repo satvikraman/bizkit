@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./title_20251108.png"
 categories:
-  - நிதி கருத்துகள்
+  - பணமும் சந்தையும்
 author: "சாத்விக் ராமன்"
 ---
 

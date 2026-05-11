@@ -9,9 +9,7 @@ twitter-card:
 open-graph:
   image: "./tariff.png"
 categories:
-  - వాణిజ్యం
-  - ఆర్థిక శాస్త్రం
-  - గ్లోబల్ మార్కెట్లు
+  - ఆర్థిక వ్యవస్థ మరియు విధానం
 author: "సాత్విక్ రామన్"  
 ---
 

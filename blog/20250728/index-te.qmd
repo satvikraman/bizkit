@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./depositories.png"
 categories:
-  - స్టాక్ మార్కెట్
+  - డబ్బు మరియు మార్కెట్
 author: "సాత్విక్ రామన్"
 ---
 

@@ -11,7 +11,7 @@ twitter-card:
 open-graph:
   image: "./mna-tata-iveco.png"
 categories:
-  - Corporate Finance & Strategy
+  - Corporate Actions
 author: "Satvik Raman"
 ---
 

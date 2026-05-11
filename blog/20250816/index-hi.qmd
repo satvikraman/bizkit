@@ -11,7 +11,7 @@ twitter-card:
 open-graph:
   image: "./mna-tata-iveco.png"
 categories:
-  - कॉरपोरेट वित्त और रणनीति
+  - कॉर्पोरेट एक्शन्स
 author: "सात्विक रमन"
 ---
 

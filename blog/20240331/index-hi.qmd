@@ -11,7 +11,7 @@ twitter-card:
 open-graph:
   image: "./lehman-brothers.png"
 categories:
-  - कॉरपोरेट वित्त और रणनीति
+  - पैसा और बाज़ार
 author: "सात्विक रामन"
 ---
 

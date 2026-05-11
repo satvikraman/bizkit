@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./20250830_title.png"
 categories:
-  - పన్ను
+  - ఆర్థిక వ్యవస్థ మరియు విధానం
 author: "సాత్విక్ రామన్"
 ---
 

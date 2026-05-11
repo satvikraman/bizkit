@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./depositories.png"
 categories:
-  - பங்கு சந்தை
+  - பணமும் சந்தையும்
 author: "சாத்விக் ராமன்"
 ---
 

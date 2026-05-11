@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./depositories.png"
 categories:
-  - शेयर बाज़ार
+  - पैसा और बाज़ार
 author: "सात्विक रमन"
 ---
 

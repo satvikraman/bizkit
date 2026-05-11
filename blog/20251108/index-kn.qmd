@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./title_20251108.png"
 categories:
-  - ಹಣಕಾಸು ಪರಿಕಲ್ಪನೆಗಳು
+  - ಹಣ ಮತ್ತು ಮಾರುಕಟ್ಟೆ
 author: "ಸಾತ್ವಿಕ್ ರಾಮನ್"
 ---
 

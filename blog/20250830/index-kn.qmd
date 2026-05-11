@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./20250830_title.png"
 categories:
-  - ತೆರಿಗೆ
+  - ಆರ್ಥಿಕತೆ ಮತ್ತು ನೀತಿ
 author: "ಸಾತ್ವಿಕ್ ರಾಮನ್"
 ---
 

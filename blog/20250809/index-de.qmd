@@ -10,7 +10,7 @@ twitter-card:
 open-graph:
   image: "./esop-musk.png"
 categories:
-  - Unternehmensfinanzierung & Strategie
+  - Unternehmensentscheidungen
 author: "Satvik Raman"
 ---
 

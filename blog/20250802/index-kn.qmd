@@ -9,9 +9,7 @@ twitter-card:
 open-graph:
   image: "./tariff.png"
 categories:
-  - ವ್ಯಾಪಾರ
-  - ಆರ್ಥಿಕಶಾಸ್ತ್ರ
-  - ಜಾಗತಿಕ ಮಾರುಕಟ್ಟೆಗಳು
+  - ಆರ್ಥಿಕತೆ ಮತ್ತು ನೀತಿ
 author: "ಸಾತ್ವಿಕ್ ರಾಮನ್"
 ---
 

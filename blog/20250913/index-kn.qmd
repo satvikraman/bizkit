@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./20250913_title.png"
 categories:
-  - ಸ್ಟಾಕ್ ಮಾರುಕಟ್ಟೆ
+  - ಕಾರ್ಪೊರೇಟ್ ಆಕ್ಷನ್ಸ್
 author: "ಸಾತ್ವಿಕ್ ರಾಮನ್"
 ---
 

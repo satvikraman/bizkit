@@ -11,7 +11,7 @@ twitter-card:
 open-graph:
   image: "./lehman-brothers.png"
 categories:
-  - Corporate Finance & Strategy
+  - Money & Markets
 author: "Satvik Raman"
 ---
 

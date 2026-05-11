@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./title_20251108.png"
 categories:
-  - वित्तीय अवधारणाएँ
+  - पैसा और बाज़ार
 author: "सात्विक रमन"
 ---
 

@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./depositories.png"
 categories:
-  - Markets & Investing
+  - Money & Markets
 author: "Satvik Raman"  
 ---
 

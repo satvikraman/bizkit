@@ -10,7 +10,7 @@ twitter-card:
 open-graph:
   image: "./20250823_title.png"
 categories:
-  - कॉरपोरेट वित्त और रणनीति
+  - कॉर्पोरेट एक्शन्स
 author: "सात्विक रमन"
 ---
 

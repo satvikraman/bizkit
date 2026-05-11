@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./20251101_title.png" 
 categories:
-  - స్టాక్ మార్కెట్
+  - కార్పొరేట్ యాక్షన్స్
 author: "సాత్విక్ రమణ్"
 ---
 

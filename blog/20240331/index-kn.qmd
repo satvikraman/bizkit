@@ -11,7 +11,7 @@ twitter-card:
 open-graph:
   image: "./lehman-brothers.png"
 categories:
-  - ಕಾಂಪೊರೇಟ್ ಹಣಕಾಸು ಮತ್ತು ತಂತ್ರಗಾರಿಕೆ
+  - ಹಣ ಮತ್ತು ಮಾರುಕಟ್ಟೆ
 author: "ಸಾತ್ವಿಕ್ ರಾಮನ್"
 ---
 

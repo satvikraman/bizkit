@@ -11,7 +11,7 @@ twitter-card:
 open-graph:
   image: "./mna-tata-iveco.png"
 categories:
-  - ಕಾಂಪೊರೇಟ್ ಹಣಕಾಸು ಮತ್ತು ತಂತ್ರಗಾರಿಕೆ
+  - ಕಾರ್ಪೊರೇಟ್ ಆಕ್ಷನ್ಸ್
 author: "ಸಾತ್ವಿಕ್ ರಾಮನ್"
 ---
 

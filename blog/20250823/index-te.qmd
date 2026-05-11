@@ -10,7 +10,7 @@ twitter-card:
 open-graph:
   image: "./20250823_title.png"
 categories:
-  - కార్పొరేట్ ఫైనాన్స్ మరియు వ్యూహం
+  - కార్పొరేట్ యాక్షన్స్
 author: "సాత్విక్ రామన్"
 ---
 

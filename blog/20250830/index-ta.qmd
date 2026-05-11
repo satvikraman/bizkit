@@ -9,7 +9,7 @@ twitter-card:
 open-graph:
   image: "./20250830_title.png"
 categories:
-  - வரி
+  - பொருளாதாரமும் கொள்கையும்
 author: "சாத்விக் ராமன்"
 ---
 
