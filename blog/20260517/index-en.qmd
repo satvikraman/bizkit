@@ -1,0 +1,40 @@
+---
+title: "The Metal That Empties India's Wallet"
+date: 2026-05-17
+subtitle: "\"Gold is money. Everything else is credit.\" — J.P. Morgan"
+description: "Prime Minister Narendra Modi asked millions of Indians to skip buying gold, even for weddings. The economics behind that one request reveal exactly how a beloved metal quietly drains the country's foreign exchange."
+image: "./title_20260517.png"
+twitter-card: {image: "./title_20260517.png"}
+open-graph: {image: "./title_20260517.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+When Prime Minister Narendra Modi stood up and asked Indians to hold off on buying gold, even if there was a wedding at home, it made headlines everywhere. Investors in big jewellery brands watched their stocks fall by more than 5% in a matter of days, and people across the country started asking the same simple question: why does it matter so much whether I buy a gold chain or not? The answer has very little to do with the metal itself and almost everything to do with where India's money ends up once that purchase is made. Understanding that connection is a lesson in how trade, currency, and government spending are all tangled together in ways that touch everyday life.
+
+# Why Gold Hurts India's Balance Sheet
+
+India imports nearly 90% of the gold it uses, spending around 6 lakh crore rupees on 700 to 800 tonnes of the metal every single year. When you pay for a 10-gram gold chain, roughly 84% of that price is simply the cost of the raw gold itself, and most of that money leaves the country as foreign exchange used to pay for imported metal. The government earns some import duty and GST along the way, the refiner takes a small margin, and the karigar who hammers the jewellery into shape gets a thin cut at the very end. After all of that, the entire gold industry contributes only about 1.3% to India's GDP, which is a surprisingly small return for something that costs the country so much in imports every year.
+
+# The Current Account Deficit
+
+The thing that really worries the government is something called the current account deficit, which measures how much more money leaves India through imports than comes in through exports. Going into all its details is outside the scope of this post, but the short version is that when this gap grows too large, it puts pressure on India's foreign exchange reserves and can weaken the rupee over time. India's current account deficit reached 13.2 billion dollars, or 1.3% of GDP, in the third quarter of FY26. Gold imports alone account for about 2.1% of India's merchandise trade deficit, so every additional tonne of gold that comes in makes that gap a little harder for the government to manage.
+
+# Why the Timing Made It Worse
+
+The ongoing Middle East conflict has been pushing up the prices of fuel and fertiliser on global markets, and India is particularly exposed because it imports about 85% of its crude oil needs. When fuel gets expensive, transport costs rise, and when fertiliser prices climb, food becomes more costly to grow, which means everyday prices go up for ordinary families. The government has been absorbing some of these costs, keeping fertiliser subsidies running and resisting large hikes in petrol and diesel prices. Prime Minister Modi's request was essentially asking citizens to do their part in that same spirit, by cutting back on imports that drain foreign exchange at a time when India can least afford it.
+
+# What the Government Already Tried
+
+This is not the first time policymakers have tried to reduce India's dependence on imported gold. The Sovereign Gold Bond scheme allowed people to invest in bonds linked to the gold price and earn interest along the way, without India actually having to bring in the physical metal. It was a smart idea that worked up to a point, but it eventually became too expensive for the government to keep subsidising, and new issuances were quietly wound down. The Gold Monetisation Scheme tried a different approach, encouraging Indian households to deposit their idle gold with banks so it could be recycled to jewellers rather than importing fresh supplies. Indian households are estimated to hold around 25,000 tonnes of gold, much of it passed down through generations as heirlooms and wedding gifts, and very few families were willing to hand it over and watch it be melted away.
+
+# The Temples and the Tonnes
+
+One of the most striking details in this whole picture is how much gold sits locked inside Indian temples. Estimates suggest that temples across the country collectively hold between 2,500 and 4,000 tonnes of gold, which is more than half of what the United States stores at Fort Knox. The RBI once tried to convince major temples to disclose their holdings and join the Gold Monetisation Scheme, hoping that recycled temple gold could reduce the need for fresh imports. Most temples were not comfortable with the idea, which is entirely understandable given the deep religious significance of those assets. The Tirumala Tirupati Venkateswara Temple was among the few that did step forward, and by 2024 it had deposited around 11,329 kilograms of gold under these schemes, worth roughly 17,100 crore rupees at current prices.
+
+# Final Thoughts
+
+Since Prime Minister Modi's speech, the government has raised the import duty on gold from 6% to 15%, making the metal significantly more expensive to bring into the country. Whether that actually reduces demand or simply pushes more gold into the smuggling network is a question economists are actively debating. What is clear is that India's deep cultural attachment to gold makes it one of the hardest spending habits to change through policy alone. For the millions of families planning weddings this year, for the karigars whose livelihoods depend on jewellery orders, and for the investors who watched crores disappear after a single speech, the coming months will reveal whether a Prime Minister's request, or a sharp import duty, can actually move the needle on one of India's most enduring economic habits.

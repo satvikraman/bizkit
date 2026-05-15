@@ -1,0 +1,36 @@
+---
+title: "Sand to Silicon: India's Long Race to Make Its Own Chips"
+date: 2024-05-26
+subtitle: "\"Without semiconductors, there is no digital economy.\" — Morris Chang, Founder of TSMC"
+description: "Zoho just announced plans to build chips in Tamil Nadu, and Tata is already breaking ground in Gujarat. Here is why making a semiconductor chip is one of the hardest things a country can attempt."
+image: "./title_20240526.png"
+twitter-card: {image: "./title_20240526.png"}
+open-graph: {image: "./title_20240526.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Earlier this year, Zoho, the Chennai-based software company that millions of people use for everything from email to accounting, made an unusual announcement. It said it plans to build a commercial semiconductor manufacturing unit in Tamil Nadu. This is a company that has spent decades writing software, and now it wants to manufacture physical chips, the tiny components that power every smartphone, laptop, and electric vehicle on the planet. That announcement landed right in the middle of a much bigger national conversation, because India has set itself a bold target of becoming one of the top five semiconductor chip producers in the world by 2029.
+
+# What a Semiconductor Chip Actually Is
+
+A semiconductor chip starts its life as silicon, which is not very different from common sand. That raw material gets transformed through a sequence of highly precise steps, including photolithography, etching, deposition, and doping, into a product so small and so complex that a modern chip can pack billions of transistors into an area smaller than your fingernail. Going into all the details of how this process works is outside the scope of this post, but the important thing to understand is that it requires billions of dollars in equipment, ultra-pure water, controlled clean rooms, and engineers who have spent years mastering a very specific craft. Very few countries in the world have ever managed to build this capability from scratch, which is exactly what makes India's ambition so worth paying attention to.
+
+# Why Making Chips Is So Hard
+
+The honest answer is that chip manufacturing is brutally expensive and takes a very long time to get right. Setting up a fabrication unit, commonly called a fab, can cost anywhere between 10 billion and 20 billion dollars, and that is before you account for the years of trial and error needed to produce reliable chips at scale. Consider TSMC, the Taiwanese company that produces roughly 90% of the world's most advanced semiconductor chips. It took TSMC over three decades to progress from chips made at 3 micrometres down to chips made at 3 nanometres, and that reduction in size represents enormous leaps in precision and engineering that no country has managed to shortcut. India is not starting at the very beginning, but it is starting somewhere in the middle, and the road from there to the cutting edge is still a long and expensive one.
+
+# The Story Deep-Dive
+
+In March 2024, India moved this conversation from aspirational to concrete. The government laid the foundation stones for three separate semiconductor facilities: a chip fabrication plant in Dholera, Gujarat, and two assembly, testing, marking, and packaging facilities in Sanand, Gujarat and Morigaon, Assam. The Dholera fab is a joint venture between Tata Electronics and PSMC, which stands for Powerchip Semiconductor Manufacturing Corporation, a Taiwanese company with deep expertise in running a fab that has agreed to bring that knowledge to India. The plan is for the first chip to roll off the Dholera production line by December 2026, and it will be manufactured at the 28 nanometre process node, meaning it is the kind of chip used in display drivers, audio components, and automotive electronics rather than in AI accelerators. India will spend upwards of 10 billion dollars on this facility alone, and with Zoho now signalling its own entry into chip manufacturing from Tamil Nadu, the momentum behind this national push is clearly building.
+
+# Why India Needs to Do This
+
+For most of its technology history, India has been a consumer of semiconductors rather than a maker of them. Every time someone buys a smartphone, a car, or a television set in India, the chips inside almost certainly came from Taiwan, South Korea, or China. That dependence became painfully visible during the global chip shortage of 2021 and 2022, when car factories around the world shut down production lines because they could not get enough chips to finish their vehicles. A country that makes chips is far less vulnerable to those kinds of supply disruptions, and it also captures far more economic value from the technology boom reshaping the global economy. The chip sector sits at the centre of the competition between the world's biggest powers, and choosing to stay on the sidelines is a decision that carries real and lasting consequences.
+
+# Final Thoughts
+
+India's semiconductor push is a serious, expensive, and slow-moving bet on a future where the country does not have to import the foundations of its own digital economy. Tata's Dholera facility and Zoho's Tamil Nadu plans are genuine signs of momentum, and the partnership with PSMC gives India access to proven manufacturing knowledge that would otherwise take decades to develop independently. The 28-nanometre chips coming out of Dholera will not power the latest AI systems, but they represent a real starting point, and every country that makes chips today had to start somewhere. The question is not whether India can eventually compete in this sector, but whether the investments being made now are large enough and consistent enough to keep pace with a race that moves very fast.

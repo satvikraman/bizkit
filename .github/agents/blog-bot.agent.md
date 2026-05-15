@@ -89,10 +89,10 @@ Once Phase 1 is complete, you must execute the image resizing script using your 
 
 ### Execution Logic:
 1. **Identify Path**: Use the date from the front-matter (YYYY-MM-DD) to determine the target folder `.\blog\YYYYMMDD`.
-2. **Source Directory**: The default is `.\post_source` unless otherwise specified.
-3. **Execute Command**: Run the following command directly in the integrated terminal:
-   `C:\sraman\bizkit.venv\Scripts\python.exe scripts/resize_image.py .\blog\YYYYMMDD .\post_source`
-3. **Verify**: Confirm to the user once the script has been triggered or completed.
+2. **Source Directory**: The source image is located in the **same folder** as the document being edited, i.e., `.\blog\YYYYMMDD`. Do not look in any other directory.
+3. **Execute Command**: Run the following command directly in the integrated terminal to scale the image in place:
+   `C:\sraman\bizkit.venv\Scripts\python.exe scripts/resize_image.py .\blog\YYYYMMDD`
+4. **Verify**: Confirm to the user once the script has been triggered or completed.
 
 ### Requirements:
 - Do not just display the code; execute it.

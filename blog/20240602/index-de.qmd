@@ -1,0 +1,38 @@
+---
+title: "Der wahre Preis des Scheinhandels"
+date: 2024-06-02
+subtitle: "\"Die Börse ist ein Gerät zur Übertragung von Geld vom Ungeduldigen zum Geduldigen.\" — Warren Buffett"
+description: "Fantasy-Aktienspiel-Apps erlaubten es dir, zu handeln, ohne wirklich Geld zu verlieren. SEBI hat jetzt entschieden, dass das nicht so harmlos ist, wie es klingt."
+image: "./title_20240602.png"
+twitter-card: {image: "./title_20240602.png"}
+open-graph: {image: "./title_20240602.png"}
+categories: ["Geld & Märkte"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Stell dir vor, du könntest den Aktienmarkt wie ein Videospiel spielen. Die Preise auf deinem Bildschirm kommen direkt und in Echtzeit von der NSE und BSE, dieselben Zahlen, die echte Händler beobachten. Du wählst eine Aktie, schätzt ob ihr Preis in den nächsten sechzig Sekunden steigt oder fällt, und wenn du richtig liegst, gewinnst du Preise. Liegst du falsch, verlierst du nur eine kleine Teilnahmegebühr, weit weniger als ein echter Handel kosten würde. Genau das haben Fantasy-Aktienspiel-Apps Millionen von Nutzern in ganz Indien geboten, und eine Weile lang schien es ein unterhaltsamer, risikoarmer Weg zu sein, etwas über Märkte zu lernen. SEBI, Indiens Marktaufsichtsbehörde, hat jetzt entschieden, dass es genug gesehen hat.
+
+# Wie Fantasy-Aktienspiele funktionieren
+
+Fantasy-Aktienspiel-Apps funktionieren ähnlich wie Fantasy-Cricket-Plattformen, nur dass man statt Spieler Aktien auswählt. Ein Nutzer zahlt eine kleine Teilnahmegebühr, um an einer Runde teilzunehmen, und sagt dann kurzfristige Preisbewegungen voraus, mithilfe von Live-Daten autorisierter Anbieter, die mit NSE und BSE verbunden sind. Gewinne werden in Punkte auf einer Rangliste umgewandelt, die gegen Geldpreise, Goldmünzen, Apple-Produkte oder sogar Autos eingetauscht werden können. Die Teilnahmegebühr wurde bewusst unter dem gehalten, was ein echtes Maklerbüro verlangen würde, was einen Teil des Reizes ausmacht.
+
+Das Schlüsselwort hier ist "Echtzeit-Daten." Diese Plattformen erfinden die Zahlen nicht. Sie kaufen Live-Marktdaten von autorisierten Anbietern, dieselben Datenfeeds, auf die Broker und Handelsplattformen angewiesen sind. Das ist es, was das Spiel authentisch und aufregend wirken lässt. Es stellt sich heraus, dass genau das auch der Grund war, warum SEBI einschritt und ein Rundschreiben herausgab, das Dritten, einschließlich Spieleplattformen, den Zugriff auf diese Art von Datenfeed für kommerzielle Spielzwecke untersagt.
+
+# Warum SEBI besorgt ist
+
+SEBIs Sorge gilt nicht dem Spaß der Nutzer. Die Sorge ist, dass diese Plattformen in einer regulatorischen Grauzone operierten, während sie echtes Geld von Nutzern einnahmen. Eine Plattform, die Teilnahmegebühren erhebt, betreibt ein kommerzielles Geschäft, das auf billigen, subventionierten Marktdaten aufgebaut ist. Broker in Indien erhalten diese Daten kostenlos von Börsen, und Dritte können sie für ein bescheidenes Monatsabonnement kaufen. Fantasy-Gaming-Unternehmen nutzten diese günstigen Daten, um ein vollständiges Geschäftsmodell aufzubauen, ohne wie ein Broker oder Anlageberater reguliert zu werden.
+
+Es gibt auch eine tiefere Sorge um die Auswirkungen dieser Spiele auf die Spieler. Wenn man bei einem Fantasy-Aktienspiel regelmäßig gewinnt, liegt es sehr nahe zu schlussfolgern, dass man ein Talent für die Aktienauswahl hat. Dieses Selbstvertrauen kann dazu führen, dass man sich dem echten Handel mit echtem Geld zuwendet, und die Ergebnisse dort sind ganz andere. SEBI hat keine Befugnis, Nutzern zu entschädigen, die auf dem echten Markt Geld verlieren, weil sie sich auf ein falsches Gefühl von Können stützten, das durch ein Spiel aufgebaut wurde. Die Behörde kann keine Abhilfe für etwas leisten, das sie nicht beaufsichtigt, und das war ein Problem, das sie nicht ignorieren wollte.
+
+# Die Prominenten, die Plattformen und die Geschichte
+
+SEBI hatte tatsächlich schon 2016 versucht, Fantasy-Aktienspiel-Plattformen zu verbieten, aber dieser Versuch verlief ohne formelles Verbot im Sand. Was damals Aufmerksamkeit erregte, war die enorme Sichtbarkeit dieser Plattformen. Samco Securities betrieb ein Spiel namens India Trading League, das von dem ehemaligen indischen Cricket-Kapitän Kapil Dev beworben wurde. Raj Kundra, besser bekannt als Miteigentümer von IPL's Rajasthan Royals und Ehemann der Schauspielerin Shilpa Shetty, unterstützte eine Plattform namens Stock Race. Das waren keine verdeckten Operationen, sondern lautstark beworbene Produkte, bei denen Prominente an vorderster Stelle standen und die den Handel als Unterhaltung normalisierten.
+
+SEBI entschied sich damals dafür, Warnungen auszusprechen, anstatt entschlossen zu handeln. Aber die Plattformen wuchsen weiter, und der Markt für Echtzeit-Finanzdaten wurde zu einem umkämpfteren Terrain. Das Rundschreiben von 2024 ist der Höhepunkt fast eines Jahrzehnts der Beobachtung dieses Bereichs und zieht eine klare Linie. Plattformen wie Moneybhai, betrieben von Moneycontrol, oder sogar das eigene virtuelle Handelstool der BSE sind nicht betroffen, weil sie keine Gebühren für das Spielen verlangen. Die Regel zielt speziell auf das Modell mit echten Geld-Teilnahmegebühren ab, bei dem die Diskrepanz zwischen Risiko und Regulierung am deutlichsten war.
+
+# Abschließende Gedanken
+
+Es gibt eine unbehagliche Nebenwirkung von SEBIs Schritt. Kostenlose Bildungsplattformen, die Schülern erlauben, mit Spielgeld zu üben und zu verstehen, wie Märkte funktionieren, erhalten die Daten nun mit einem Tag Verzögerung. Die gestrigen Preise sind für jemanden, der verstehen möchte, wie man auf Live-Marktbedingungen reagiert, im Grunde nutzlos. Ob diese unbeabsichtigte Folge später behoben wird, bleibt abzuwarten. Für jetzt ist SEBIs Botschaft klar genug. Man kann über den Aktienmarkt lernen, aber Live-Marktdaten zu nutzen, um ein bezahltes Spiel zu betreiben, ist kein Lernen, das ist ein Geschäft, und dieses Geschäft muss reguliert oder eingestellt werden. Die India Trading League mag Spaß gemacht haben zuzuschauen, aber die Finanzwelt, die sie simulierte, war nie so nachsichtig wie das Spiel vermuten ließ.
