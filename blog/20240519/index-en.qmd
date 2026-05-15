@@ -1,0 +1,36 @@
+---
+title: "The Side Door to the Stock Market: How an SME IPO Got Rigged"
+date: 2024-05-19
+subtitle: "\"Only when the tide goes out do you discover who's been swimming naked.\" — Warren Buffett"
+description: "An SME IPO turned a small Indian tech firm into a 122 crore rupee payday for its promoter. SEBI's investigation shows just how easy it has been to rig the side door to the stock market."
+image: "./title_20240519.png"
+twitter-card: {image: "./title_20240519.png"}
+open-graph: {image: "./title_20240519.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+In 2022, a small Indian tech company called Varanium Cloud listed itself on the SME platform of the Bombay Stock Exchange and raised 33 crore rupees from public investors. Its managing director, Harshawardhan Sabale, told the world that the company was building data centres, running digital learning centres, and even helping startups with online payments. The IPO documents made it look like a hungry, diversified business with real revenue and real ambition. By December 2023, the number of shareholders had grown from about 1,000 to more than 10,000, and the stock price had climbed alongside that excitement. Then SEBI started investigating, and almost nothing inside the company turned out to be real.
+
+# What an SME IPO Actually Is
+
+When a company wants to raise money by selling shares to the public, it has to clear a long list of conditions set by SEBI, the regulator that polices Indian markets. Mainboard listings on the NSE and BSE need a strong net worth, a profitable track record, and document approvals that can take months. To help smaller firms grow, both exchanges opened separate SME platforms about a decade ago with lighter rules. A company can list there without SEBI approving the IPO document, and a green light from the exchange is usually enough. Since then, nearly 950 SMEs have raised around 14,700 crore rupees, which is how a quiet little firm like Varanium Cloud could plausibly walk into the market with a 33 crore offering.
+
+# How Varanium Cloud Built a Mirage
+
+After Varanium Cloud raised the money, the prospectus promised that the funds would be used to set up data centres, open digital learning centres, and buy assets that would expand the business. When SEBI asked for invoices to verify these expenses, the company avoided giving a direct answer, saying the bills had been handed over to the GST department and would be shared later. The regulator did not wait around. It looked at the company's cash flow after the IPO and found that the business itself was generating very little cash from actual operations. Dividend payouts to shareholders and investments in other companies were quietly being funded by the IPO proceeds, which is not a thing you can do with public money.
+
+# The Story Deep-Dive
+
+Once SEBI examined Sabale's strategy, the moves were strikingly simple. Varanium Cloud bought shares in companies where Sabale himself had briefly served as a director, rotating IPO money through his own circle, and it also hired a vendor called Avance Technologies whose quote for building data centres was larger than the entire annual revenue Avance had ever earned in a year. Another partner company was headquartered in Seychelles, a known tax haven where ownership trails are easy to hide. When SEBI inspectors visited the data and education centres, many simply did not exist, and the ones that did housed a few employees doing only paperwork with no real operations. Sabale used a constant stream of cheerful press releases to lift the stock price, sold his own holdings for roughly 122 crore rupees, and then watched as more than 10,000 ordinary shareholders realised what they had actually bought.
+
+# Why This Keeps Happening
+
+SME IPOs have been in a wild bull run lately, and that is exactly what attracts people like Sabale. In FY24 alone, 205 small companies tapped the SME platform, a 64% jump over the previous year, and together they raised nearly three times the money raised in FY23. The S&P BSE SME IPO index, which tracks more than 60 SME stocks, climbed by over 170% in a single year, with listing-day gains of more than 300% in some cases. When ordinary investors see those numbers, they stop reading the fine print and start chasing the potential gains, which is how lighter rules that were meant to help genuine small businesses also end up helping bad actors make an empty company look like the next big thing. SEBI is now openly worried that more Varanium Cloud-style scams are sitting inside that index, and stricter rules are likely on the way, although the details of those new rules are outside the scope of this post.
+
+# Final Thoughts
+
+The SME IPO route was designed to give small Indian businesses a fairer shot at public capital, and on paper it has worked, with thousands of crores flowing to companies that would never have qualified for a mainboard listing. The problem is that lighter rules and excited investors are a risky combination, and Varanium Cloud is a clear example of how badly things can go wrong. Sabale walked away with 122 crore rupees, while more than 10,000 shareholders are now left holding shares in a business that SEBI has effectively shut out of the market. The next time you hear a friend bragging about a 300% gain on a tiny SME IPO, it is worth pausing to ask what the company actually does. Because the side door to the stock market is wide open, and not everyone walking through it has anything real to sell.
