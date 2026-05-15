@@ -1,0 +1,40 @@
+---
+title: "Das Metall, das Indiens Staatskasse leert"
+date: 2026-05-17
+subtitle: "\"Gold ist Geld. Alles andere ist Kredit.\" — J.P. Morgan"
+description: "Premierminister Narendra Modi bat Millionen von Indern, auf den Kauf von Gold zu verzichten, selbst bei Hochzeiten. Die Wirtschaft hinter dieser einen Bitte zeigt, wie ein geliebtes Metall still und leise die Devisenreserven des Landes aufbraucht."
+image: "./title_20260517.png"
+twitter-card: {image: "./title_20260517.png"}
+open-graph: {image: "./title_20260517.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Als Premierminister Narendra Modi die Inder bat, auf den Kauf von Gold zu verzichten, selbst wenn zu Hause eine Hochzeit bevorstand, machte das überall Schlagzeilen. Anleger in großen Schmuckmarken sahen, wie ihre Aktien innerhalb weniger Tage um mehr als 5% fielen, und Menschen im ganzen Land begannen, dieselbe einfache Frage zu stellen, nämlich was es ausmacht, ob man eine Goldkette kauft oder nicht. Die Antwort hat sehr wenig mit dem Metall selbst zu tun und fast alles damit, wohin Indiens Geld fließt, sobald dieser Kauf getätigt wird. Diesen Zusammenhang zu verstehen ist eine Lektion darüber, wie Handel, Währung und Staatsausgaben miteinander verflochten sind und das Alltagsleben berühren.
+
+# Warum Gold Indiens Bilanz schadet
+
+Indien importiert fast 90% des von ihm verwendeten Goldes und gibt dafür jedes Jahr etwa 6 Billionen Rupien für 700 bis 800 Tonnen des Metalls aus. Wenn man eine 10-Gramm-Goldkette kauft, sind etwa 84% des Preises einfach die Kosten für das Rohgold selbst, und dieses Geld verlässt das Land als Devisen zur Bezahlung des importierten Metalls. Unterwegs verdient die Regierung etwas Importzoll und GST, der Raffineriebetreiber nimmt eine kleine Marge, und der Karigar, der den Schmuck formt, bekommt am Ende einen sehr kleinen Anteil. Nach all dem trägt die gesamte Goldindustrie nur etwa 1,3% zum indischen BIP bei, was angesichts der Importkosten überraschend wenig ist.
+
+# Das Leistungsbilanzdefizit
+
+Was die Regierung wirklich besorgt, ist das sogenannte Leistungsbilanzdefizit, das misst, wie viel mehr Geld durch Importe aus Indien abfließt als durch Exporte hereinkommt. Auf alle Details einzugehen würde den Rahmen dieses Beitrags sprengen, aber kurz gesagt gilt, wenn diese Lücke zu groß wird, belastet sie Indiens Devisenreserven und kann die Rupie mit der Zeit schwächen. Im dritten Quartal FY26 erreichte Indiens Leistungsbilanzdefizit 13,2 Milliarden Dollar, also 1,3% des BIP. Goldimporte allein machen etwa 2,1% von Indiens Warenhandelsdefizit aus, sodass jede zusätzliche Tonne importierten Goldes diese Lücke für die Regierung etwas schwerer zu schließen macht.
+
+# Warum das Timing die Lage verschlimmerte
+
+Der anhaltende Nahost-Konflikt treibt die Preise für Treibstoff und Düngemittel auf den Weltmärkten in die Höhe, und Indien ist besonders betroffen, weil es etwa 85% seines Rohölbedarfs importiert. Wenn Kraftstoff teurer wird, steigen die Transportkosten, und wenn Düngerpreise steigen, wird die Nahrungsmittelproduktion teurer, was bedeutet, dass die Lebenshaltungskosten für normale Familien ansteigen. Die Regierung absorbiert einen Teil dieser Kosten selbst, hält Düngemittelsubventionen aufrecht und vermeidet große Erhöhungen der Benzin- und Dieselpreise. Der Appell von Premierminister Modi bat die Bürger im Wesentlichen darum, im gleichen Geiste ihren Teil beizutragen, indem sie Importe reduzieren, die Devisen abfließen lassen.
+
+# Was die Regierung bereits versucht hat
+
+Es ist nicht das erste Mal, dass Politiker versucht haben, Indiens Abhängigkeit von importiertem Gold zu verringern. Das Sovereign Gold Bond-Programm ermöglichte es den Menschen, in an den Goldpreis gekoppelte Anleihen zu investieren und unterwegs Zinsen zu verdienen, ohne dass Indien das physische Metall einführen musste. Es war eine kluge Idee, die bis zu einem gewissen Grad funktionierte, wurde aber letztendlich zu teuer für die Regierung zu subventionieren, und neue Ausgaben wurden stillschweigend eingestellt. Das Gold Monetisation Scheme verfolgte einen anderen Ansatz und ermutigte indische Haushalte, ihr brachliegendes Gold bei Banken zu hinterlegen, damit es an Juweliere zurückgeführt werden konnte, statt frische Importe zu tätigen. Es wird geschätzt, dass indische Haushalte etwa 25.000 Tonnen Gold besitzen, von denen ein Großteil generationenübergreifend als Erbstücke und Hochzeitsgeschenke weitergegeben wird, und sehr wenige Familien waren bereit, es herzugeben und einschmelzen zu sehen.
+
+# Die Tempel und die Tonnen
+
+Eines der auffälligsten Details in diesem gesamten Bild ist, wie viel Gold in indischen Tempeln eingeschlossen liegt. Schätzungen zufolge halten Tempel im ganzen Land zusammen zwischen 2.500 und 4.000 Tonnen Gold, das ist mehr als die Hälfte dessen, was die USA in Fort Knox lagern. Die RBI versuchte einmal, bedeutende Tempel davon zu überzeugen, ihre Bestände offenzulegen und dem Gold Monetisation Scheme beizutreten, in der Hoffnung, dass recyceltes Tempelgold den Bedarf an frischen Importen reduzieren könnte. Die meisten Tempel fühlten sich mit dieser Idee nicht wohl, was angesichts der tiefen religiösen Bedeutung dieser Vermögenswerte völlig verständlich ist. Der Tirumala Tirupati Venkateswara Temple gehörte zu den wenigen, die sich meldeten, und hatte bis 2024 etwa 11.329 Kilogramm Gold im Rahmen dieser Programme hinterlegt, was zum aktuellen Preis etwa 17.100 Crore Rupien entspricht.
+
+# Abschließende Gedanken
+
+Seit der Rede von Premierminister Modi hat die Regierung den Importzoll auf Gold von 6% auf 15% erhöht, wodurch das Metall deutlich teurer in das Land gebracht werden kann. Ob das tatsächlich die Nachfrage reduziert oder einfach mehr Gold in das Schmuggelnetzwerk drängt, ist eine Frage, die Ökonomen aktiv diskutieren. Was klar ist, dass Indiens tiefe kulturelle Bindung an Gold es zu einer der schwierigsten Ausgabengewohnheiten macht, die allein durch Politik geändert werden kann. Für die Millionen von Familien, die in diesem Jahr Hochzeiten planen, für die Karigar, deren Lebensunterhalt von Schmuckaufträgen abhängt, und für die Anleger, die nach einer einzigen Rede Crores verschwinden sahen, werden die kommenden Monate zeigen, ob der Appell eines Premierministers oder ein scharfer Importzoll tatsächlich eine von Indiens beständigsten wirtschaftlichen Gewohnheiten verändern kann.

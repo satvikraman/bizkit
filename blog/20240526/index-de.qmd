@@ -1,0 +1,36 @@
+---
+title: "Von Sand zu Silizium: Indiens langer Weg zur eigenen Chipproduktion"
+date: 2024-05-26
+subtitle: "\"Ohne Halbleiter gibt es keine digitale Wirtschaft.\" — Morris Chang, Gründer von TSMC"
+description: "Zoho hat Pläne zur Chipproduktion in Tamil Nadu angekündigt, und Tata legt bereits in Gujarat den Grundstein. Hier erfahren Sie, warum die Herstellung von Halbleiterchips zu den schwierigsten Dingen gehört, die ein Land versuchen kann."
+image: "./title_20240526.png"
+twitter-card: {image: "./title_20240526.png"}
+open-graph: {image: "./title_20240526.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Zu Beginn dieses Jahres machte Zoho, das in Chennai ansässige Softwareunternehmen, das Millionen von Menschen für alles von E-Mail bis Buchhaltung nutzen, eine ungewöhnliche Ankündigung. Es teilte mit, in Tamil Nadu eine kommerzielle Halbleiter-Fertigungsanlage zu errichten. Dabei handelt es sich um ein Unternehmen, das jahrzehntelang Software geschrieben hat und nun physische Chips herstellen möchte, jene kleinen Bauteile, die jedes Smartphone, jeden Laptop und jedes Elektrofahrzeug auf dem Planeten antreiben. Diese Ankündigung fiel mitten in eine viel größere nationale Debatte, denn Indien hat sich das ehrgeizige Ziel gesetzt, bis 2029 einer der fünf größten Halbleiterchip-Produzenten der Welt zu werden.
+
+# Was ein Halbleiterchip eigentlich ist
+
+Ein Halbleiterchip beginnt sein Leben als Silizium, das sich von gewöhnlichem Sand nicht wesentlich unterscheidet. Dieses Rohmaterial wird durch eine Abfolge hochpräziser Schritte, darunter Fotolithografie, Ätzen, Abscheidung und Dotierung, in ein Produkt verwandelt, das so klein und komplex ist, dass ein moderner Chip auf einer Fläche kleiner als ein Fingernagel Milliarden von Transistoren unterbringen kann. Die vollständigen Details dazu, wie dieser Prozess funktioniert, gehen über den Rahmen dieses Beitrags hinaus, aber das Wesentliche ist folgendes: Es werden Milliarden von Dollar an Ausrüstung, ultreines Wasser, kontrollierte Reinräume und Ingenieure benötigt, die jahrelang ein sehr spezifisches Handwerk gemeistert haben. Sehr wenige Länder der Welt haben diese Fähigkeit jemals von Grund auf aufgebaut, und genau das macht Indiens Ambitionen so bemerkenswert.
+
+# Warum Chip-Herstellung so schwierig ist
+
+Die ehrliche Antwort lautet: Die Chipproduktion ist teuer und braucht sehr lange, bis sie richtig funktioniert. Die Einrichtung einer Fertigungsanlage, im Fachjargon kurz Fab genannt, kann zwischen 10 und 20 Milliarden Dollar kosten, und das ist noch vor den jahrelangen Versuchen und Fehlern, die nötig sind, um zuverlässige Chips in großem Maßstab herzustellen. Man nehme TSMC, das taiwanesische Unternehmen, das rund 90 Prozent der weltweit fortschrittlichsten Halbleiterchips produziert. TSMC brauchte mehr als drei Jahrzehnte, um von Chips mit 3 Mikrometern zu Chips mit 3 Nanometern zu gelangen, und diese Verkleinerung steht für gewaltige Fortschritte in Präzision und Ingenieurskunst. Indien fängt nicht ganz von vorne an, aber es fängt irgendwo in der Mitte an, und der Weg von dort zur Spitzentechnologie ist noch weit und kostspielig.
+
+# Die Geschichte im Detail
+
+Im März 2024 machte Indien diese Diskussion vom Wunschdenken zur Realität. Die Regierung legte den Grundstein für drei separate Halbleiterfabriken: eine Chip-Fabrik in Dholera, Gujarat, sowie zwei Montage-, Test-, Markierungs- und Verpackungsanlagen in Sanand, Gujarat und Morigaon, Assam. Die Dholera-Fab ist ein Gemeinschaftsunternehmen zwischen Tata Electronics und PSMC, der Powerchip Semiconductor Manufacturing Corporation, einem taiwanesischen Unternehmen mit tiefer Expertise im Betrieb einer Fab, das zugesagt hat, dieses Wissen nach Indien zu bringen. Geplant ist, dass der erste Chip im Dezember 2026 das Dholera-Fertigungsband verlässt, gefertigt im 28-Nanometer-Verfahren, was bedeutet, dass es sich um Chips handelt, die in Display-Treibern, Audiokomponenten und Fahrzeugelektronik eingesetzt werden. Indien wird allein für diese Anlage mehr als 10 Milliarden Dollar ausgeben, und da Zoho nun seinen eigenen Einstieg in die Chipproduktion aus Tamil Nadu signalisiert, ist der Schwung hinter diesem nationalen Vorhaben klar erkennbar.
+
+# Warum Indien das braucht
+
+Für den Großteil seiner Technologiegeschichte war Indien eher Verbraucher von Halbleitern als Hersteller. Jedes Mal, wenn jemand in Indien ein Smartphone, ein Auto oder einen Fernseher kauft, stammen die darin verbauten Chips mit größter Wahrscheinlichkeit aus Taiwan, Südkorea oder China. Diese Abhängigkeit wurde während des globalen Chipmangels in den Jahren 2021 und 2022 schmerzhaft deutlich, als Autofabriken weltweit ihre Produktionslinien stoppten, weil sie nicht genug Chips bekamen, um ihre Fahrzeuge fertigzustellen. Ein Land, das selbst Chips herstellt, ist solchen Versorgungsunterbrechungen weit weniger ausgesetzt und schöpft zudem deutlich mehr wirtschaftlichen Wert aus dem technologischen Aufschwung, der die Weltwirtschaft umgestaltet. Der Chipsektor steht im Mittelpunkt des Wettbewerbs zwischen den größten Mächten der Welt, und die Entscheidung, untätig am Rand zu bleiben, hat reale und dauerhafte Folgen.
+
+# Schlussgedanken
+
+Indiens Halbleiter-Initiative ist eine ernsthafte, kostspielige und langsam voranschreitende Wette auf eine Zukunft, in der das Land die Grundlagen seiner eigenen digitalen Wirtschaft nicht mehr importieren muss. Tatas Dholera-Anlage und Zohos Pläne in Tamil Nadu sind echte Zeichen des Aufbruchs, und die Partnerschaft mit PSMC verschafft Indien Zugang zu bewährtem Fertigungs-Know-how, dessen eigenständiger Aufbau sonst Jahrzehnte dauern würde. Die 28-Nanometer-Chips aus Dholera werden die neuesten KI-Systeme nicht antreiben, aber sie markieren einen echten Ausgangspunkt, und jedes Land, das heute Chips herstellt, hat irgendwo anfangen müssen. Die Frage ist nicht, ob Indien in diesem Sektor irgendwann wettbewerbsfähig sein kann, sondern ob die jetzt getätigten Investitionen groß und beständig genug sind, um mit einem Rennen Schritt zu halten, das sich sehr schnell bewegt.
