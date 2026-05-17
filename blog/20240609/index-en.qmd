@@ -1,0 +1,44 @@
+---
+title: "When a Country Prints Too Much Money"
+date: 2024-06-09
+subtitle: "\"Inflation is taxation without legislation.\" — Milton Friedman"
+description: "Zimbabwe has burned through six currencies in 15 years thanks to runaway hyperinflation. Its latest attempt, a gold-backed currency called ZiG, might be the most creative fix yet."
+image: "./title_20240609.png"
+twitter-card: {image: "./title_20240609.png"}
+open-graph: {image: "./title_20240609.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Imagine waking up one morning and finding that the money in your pocket cannot buy a loaf of bread. Now imagine that happening every single day for months, with prices literally doubling every 24 hours. This is not a thought experiment. This is what Zimbabweans actually lived through in 2008 and 2009, when the country's annual inflation rate hit 89.7 sextillion percent, which is the number 89.7 followed by 21 zeros. The Zimbabwean government has now launched its sixth currency in 15 years, called ZiG, short for Zimbabwe Gold, hoping that this one will finally stick. The question everyone is asking is whether a gold-backed currency can fix an economy that has been broken for decades.
+
+# What Is Hyperinflation, and How Does It Start?
+
+Most countries experience some level of inflation every year, where prices go up gradually. Hyperinflation is something far more extreme, and economists generally define it as prices rising more than 50% every single month. It tends to happen when a government prints far more money than its economy can actually justify, flooding the market with currency that is not backed by real goods or production. When too much money chases too few goods, prices spiral out of control, and that is precisely what happened to Zimbabwe over many painful years.
+
+Zimbabwe's troubles started soon after it became independent from Britain in 1980. The new government wanted to win public support, so it pushed aggressive land reforms to transfer commercially farmed land from minority foreign settlers to local Zimbabweans. Over three decades, locals came to own more than 85% of those farms. The problem was that the new owners were simply not equipped for large-scale commercial agriculture. Many switched to growing food for their own families rather than for export. Between 2000 and 2010, food production fell by 60%, the agricultural export industry collapsed, and banks started failing under mountains of bad debt because the farmland used as collateral had lost all commercial value.
+
+# The Trillion-Dollar Banknote
+
+With no exports bringing in foreign currency and banks falling apart, Zimbabwe's government turned to the only tool it felt it had left. It started printing money. The more money it printed, the less each note was worth, and prices climbed faster than anyone could keep track of. By 2009, a single loaf of bread cost 500 million Zimbabwe dollars. The government tried to keep pace by printing notes in absurdly large denominations, eventually releasing a 100 trillion Zimbabwe dollar note that is today more of a collector's item than a working unit of money.
+
+In a move that sounds almost too strange to be real, the government then declared inflation illegal and banned businesses from raising prices. But you cannot fix an economic crisis by pretending it does not exist. The country tried redenominating its currency multiple times, which simply means chopping zeros off existing notes and issuing fresh ones with smaller numbers. Germany had done something similar in the 1920s with the Rentenmark, but Germany backed its new currency with real guarantees tied to land and industry. Zimbabwe had no such backing and just kept issuing new currencies without any meaningful economic reform underneath.
+
+# Zimbabwe Tries Again, and Again, and Again
+
+After its own currency became worthless, Zimbabwe adopted a system where citizens could freely use foreign currencies, mainly the US dollar. This actually worked for a while because the government could no longer print money on a whim. Inflation fell sharply and dropped to around 48% by 2018, which sounds high but was a genuine improvement after years of complete chaos. The government eventually grew impatient and wanted its own currency back, so it introduced the RTGS dollar in 2019. That experiment failed too, and hyperinflation came roaring back, crossing 500% in some recent years.
+
+The Reserve Bank of Zimbabwe now believes the ZiG can succeed where everything before it failed. A couple of years ago the government started selling 22-carat gold coins that Zimbabweans could convert into cash. The central bank took this idea further and began issuing digital tokens backed directly by the country's physical gold reserves. By March 2024, it had sold digital tokens worth over 900 kilograms of gold. The ZiG, launched as a full national currency, ties the total amount of money in circulation directly to how much gold the country actually holds in reserve. In theory this means the government cannot print more money than its gold allows.
+
+# Why Zimbabweans Are Still Cautious
+
+The gold-backing logic sounds solid on paper, but trust is the real problem here. The Zimbabwean government has lied about how much money it printed in the past, deliberately underreporting figures to avoid bad press. When the central bank now reports that its gold and cash reserves are more than three times the value of all issued ZiGs, many citizens simply cannot bring themselves to believe it. Nearly 80% of all transactions in the country still happen in US dollars, partly because there are not enough physical ZiG notes in circulation and partly because people have watched their local currency collapse too many times to risk trusting a new one.
+
+There is also the persistent problem of illegal street currency dealers. When Zimbabweans earn in local currency, many immediately take it to the black market and exchange it at unofficial rates, which weakens the ZiG and undermines whatever exchange rate the central bank tries to maintain. No country in the world uses the gold standard today, so Zimbabwe has no international partners helping it manage gold price swings. It is running this experiment entirely on its own, which makes an already difficult challenge even harder.
+
+# Final Thoughts
+
+Zimbabwe's story is a powerful lesson in what happens when a government tries to spend money it does not have. Printing currency without real economic production behind it is a recipe for disaster, and no number of new currency launches or redenominations can change that underlying truth. The ZiG is an interesting attempt because it returns to an old idea, backing money with gold, in a world that has long moved past it. Whether it works will depend less on the design of the currency and more on whether the government can earn back the trust of the very people it has let down six times over. After 15 years of currency failures, Zimbabweans have every reason to be cautious, and the gold bars sitting in the central bank vault have a lot of heavy lifting ahead of them.

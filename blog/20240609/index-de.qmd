@@ -1,0 +1,44 @@
+---
+title: "Wenn ein Land zu viel Geld druckt"
+date: 2024-06-09
+subtitle: "\"Inflation ist Besteuerung ohne Gesetzgebung.\" — Milton Friedman"
+description: "Simbabwe hat in 15 Jahren sechs Währungen verbraucht, wegen einer außer Kontrolle geratenen Inflation. Sein neuester Versuch, die goldgedeckte Währung ZiG, ist vielleicht der kreativste bisher."
+image: "./title_20240609.png"
+twitter-card: {image: "./title_20240609.png"}
+open-graph: {image: "./title_20240609.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Stell dir vor, du wachst eines Morgens auf und stellst fest, dass das Geld in deiner Tasche nicht mal einen Laib Brot kaufen kann. Stell dir jetzt vor, dass das jeden Tag so passiert und sich die Preise alle 24 Stunden verdoppeln. Das ist keine Gedankenübung. Das haben die Menschen in Simbabwe 2008 und 2009 wirklich erlebt, als die jährliche Inflationsrate des Landes 89,7 Sextillionen Prozent erreichte, also die Zahl 89,7 gefolgt von 21 Nullen. Die Regierung Simbabwes hat jetzt ihre sechste Währung in 15 Jahren vorgestellt, genannt ZiG, kurz für Zimbabwe Gold, in der Hoffnung, dass diese endlich Bestand haben wird. Die Frage, die sich alle stellen, ist, ob eine goldgedeckte Währung eine Volkswirtschaft reparieren kann, die seit Jahrzehnten kaputt ist.
+
+# Was ist Hyperinflation, und wie entsteht sie?
+
+In den meisten Ländern gibt es jedes Jahr eine gewisse Inflation, bei der die Preise allmählich steigen. Hyperinflation ist etwas weitaus Extremeres, und Ökonomen definieren sie üblicherweise als Preissteigerungen von mehr als 50% pro Monat. Sie entsteht typischerweise, wenn eine Regierung viel mehr Geld druckt, als ihre Wirtschaft rechtfertigen kann, und den Markt mit einer Währung überflutet, die nicht durch echte Waren oder Produktion gedeckt ist. Wenn zu viel Geld zu wenige Waren verfolgt, geraten die Preise außer Kontrolle, und genau das ist Simbabwe in vielen schmerzhaften Jahren passiert.
+
+Simbabwes Probleme begannen kurz nachdem das Land 1980 die Unabhängigkeit von Großbritannien erlangte. Die neue Regierung wollte die Unterstützung der Bevölkerung gewinnen und führte aggressive Landreformen durch, um kommerziell bewirtschaftetes Land von einer ausländischen Minderheit auf einheimische Simbabwer zu übertragen. Innerhalb von drei Jahrzehnten besaßen die Einheimischen mehr als 85% dieser Farmen. Das Problem war, dass die neuen Eigentümer für die großangelegte kommerzielle Landwirtschaft einfach nicht gerüstet waren. Viele wechselten dazu über, Nahrung für ihre eigenen Familien anzubauen statt für den Export. Zwischen 2000 und 2010 sank die Nahrungsmittelproduktion um 60%, die Exportlandwirtschaft brach zusammen und die Banken versagten unter Bergen von Schulden, weil das Land, das als Sicherheit diente, jeden kommerziellen Wert verloren hatte.
+
+# Der Billionen-Dollar-Schein
+
+Ohne Exporte, die Devisen einbringen konnten, und mit versagenden Banken wandte sich die Regierung Simbabwes dem einzigen Werkzeug zu, das ihr noch zu verbleiben schien. Sie begann, Geld zu drucken. Je mehr sie druckte, desto weniger war jeder Schein wert, und die Preise stiegen schneller, als irgendjemand mithalten konnte. Im Jahr 2009 kostete ein einziger Laib Brot 500 Millionen Simbabwe-Dollar. Die Regierung versuchte mitzuhalten, indem sie Scheine mit absurd hohen Nennwerten druckte und schließlich einen 100-Billionen-Simbabwe-Dollar-Schein herausgab, der heute eher ein Sammlerstück als ein funktionierendes Zahlungsmittel ist.
+
+In einem Schritt, der fast zu seltsam klingt um wahr zu sein, erklärte die Regierung die Inflation für illegal und verbot Unternehmen, die Preise zu erhöhen. Aber man kann eine Wirtschaftskrise nicht lösen, indem man so tut, als gäbe es sie nicht. Das Land versuchte mehrfach, seine Währung umzubewerten, was einfach bedeutet, Nullen von bestehenden Scheinen zu streichen und neue mit kleineren Zahlen auszugeben. Deutschland hatte in den 1920er Jahren mit der Rentenmark etwas Ähnliches getan, aber Deutschland hatte seine neue Währung mit echten Garantien unterlegt, die an Land und Industrie gebunden waren. Simbabwe hatte keine solche Grundlage und konvertierte einfach immer wieder altes Geld in neue Währungen, ohne echte Wirtschaftsreformen darunter.
+
+# Simbabwe versucht es wieder, und wieder, und wieder
+
+Nachdem die eigene Währung wertlos geworden war, übernahm Simbabwe ein System, in dem die Bürger frei ausländische Währungen verwenden konnten, hauptsächlich den US-Dollar. Das funktionierte tatsächlich eine Weile, da die Regierung kein Geld mehr nach Belieben drucken konnte. Die Inflation sank deutlich und fiel bis 2018 auf etwa 48%, was hoch klingt, aber nach Jahren des völligen Chaos ein echter Fortschritt war. Die Regierung wollte schließlich ihre eigene Währung zurück und führte 2019 den RTGS-Dollar ein. Auch dieses Experiment scheiterte, und die Hyperinflation kehrte zurück und überschritt in einigen der letzten Jahre 500%.
+
+Die Reserve Bank of Zimbabwe glaubt nun, dass ZiG dort erfolgreich sein kann, wo alles andere gescheitert ist. Vor einigen Jahren begann die Regierung, 22-karätige Goldmünzen zu verkaufen, die in Bargeld umgewandelt werden konnten. Die Zentralbank griff diese Idee auf und begann, digitale Token auszugeben, die direkt durch die Goldreserven des Landes gedeckt sind. Bis März 2024 hatte sie digitale Token im Wert von mehr als 900 Kilogramm Gold verkauft. ZiG, als vollwertige nationale Währung eingeführt, knüpft die gesamte Geldmenge im Umlauf direkt an die tatsächlichen Goldreserven des Landes. Theoretisch bedeutet das, dass die Regierung nicht mehr Geld drucken kann, als ihr Gold erlaubt.
+
+# Warum die Simbabwer noch vorsichtig sind
+
+Die Logik der Goldanbindung klingt auf dem Papier solide, aber das eigentliche Problem ist das Vertrauen. Die Regierung Simbabwes hat in der Vergangenheit gelogen, wie viel Geld sie gedruckt hat, und Zahlen absichtlich zu niedrig angegeben, um schlechte Nachrichten zu vermeiden. Wenn die Zentralbank jetzt berichtet, dass ihre Gold- und Barreserven mehr als dreimal so hoch sind wie der Wert aller ausgegebenen ZiGs, können viele Bürger das einfach nicht glauben. Fast 80% aller Transaktionen im Land finden noch immer in US-Dollar statt, teils weil nicht genug physische ZiG-Scheine im Umlauf sind und teils weil die Menschen den Zusammenbruch ihrer Landeswährung schon zu oft erlebt haben.
+
+Es gibt auch das anhaltende Problem illegaler Straßenwechsler. Wenn Simbabwer in der Landeswährung verdienen, gehen viele sofort auf den Schwarzmarkt und tauschen sie zu inoffiziellen Kursen, was den ZiG weiter schwächt und den Wechselkurs untergräbt, den die Zentralbank aufrechtzuerhalten versucht. Kein Land der Welt verwendet heute noch den Goldstandard, daher hat Simbabwe keine internationalen Partner, die ihm helfen, Goldspreisschwankungen zu bewältigen. Es führt dieses Experiment vollständig allein durch, was eine ohnehin schwierige Aufgabe noch schwieriger macht.
+
+# Abschließende Gedanken
+
+Simbabwes Geschichte ist eine kraftvolle Lektion darin, was passiert, wenn eine Regierung versucht, Geld auszugeben, das sie nicht hat. Währungen ohne echte wirtschaftliche Produktion dahinter zu drucken, ist ein Rezept für eine Katastrophe, und keine Anzahl neuer Währungseinführungen oder Umbewertungen kann diese grundlegende Wahrheit ändern. ZiG ist ein interessanter Versuch, weil er zu einer alten Idee zurückkehrt, Geld mit Gold zu decken, in einer Welt, die das längst hinter sich gelassen hat. Ob es funktioniert, hängt weniger vom Design der Währung ab und mehr davon, ob die Regierung das Vertrauen der Menschen zurückgewinnen kann, die sie in 15 Jahren sechsmal enttäuscht hat. Nach so vielen Währungszusammenbrüchen haben die Menschen in Simbabwe jeden Grund, vorsichtig zu sein, und die Goldbarren im Tresor der Zentralbank haben noch viel schwere Arbeit vor sich.

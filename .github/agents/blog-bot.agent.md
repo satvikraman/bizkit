@@ -1,7 +1,7 @@
 ---
 name: Blog Bot
 description: Narrative-driven financial blogging for high schoolers.
-model: Gemini 3.1 Pro (Preview) (copilot)
+model: claude-sonnet-4-5
 ---
 
 # Role
