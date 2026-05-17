@@ -1,0 +1,38 @@
+---
+title: "Wer zahlt, wenn die Großindustrie versagt?"
+date: 2024-06-23
+subtitle: "\"Was du zahlst, ist der Preis. Was du bekommst, ist der Wert.\" — Warren Buffett"
+description: "Die UK-Regierung hat Tata Steel gerade £500 Millionen übergeben. Hier erklären wir, warum Regierungen manchmal keine andere Wahl haben, als einen sehr großen Scheck auszustellen."
+image: "./title_20240623.png"
+twitter-card: {image: "./title_20240623.png"}
+open-graph: {image: "./title_20240623.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einführung
+
+In der walisischen Stadt Port Talbot kommen täglich rund 4.000 Arbeiter in eines der größten Stahlwerke des United Kingdom. Das Werk ist das Herzstück der lokalen Wirtschaft und beschäftigt fast 10% der erwerbstätigen Bevölkerung der gesamten Stadt. Doch dieses Stahlwerk, das Tata Steel gehört, schreibt seit Jahren rote Zahlen, und Mitte 2024 stand es an einem Scheideweg, der Tausende von Familien betreffen würde. Die UK-Regierung hatte eine Wahl, und sie entschied sich, einem privaten indischen Konzern einen Scheck über £500 Millionen Steuergelder auszustellen. Diese Entscheidung wirft eine nachdenklich stimmende Frage auf: Wann hat eine Regierung die Verantwortung, ein scheiterndes privates Unternehmen zu retten?
+
+# Als ein großer Deal gründlich schiefging
+
+Im Jahr 2007 war Tata Steel wachstumshungrig und wollte unter den Top 50 Stahlunternehmen der Welt rangieren. Um schnell dorthin zu gelangen, übernahm das Unternehmen Corus, ein anglo-niederländisches Stahlunternehmen, das viermal so groß war wie Tata Steel selbst, für stattliche $12 Milliarden. Dies war damals die größte Auslandsübernahme eines indischen Unternehmens überhaupt, und sie wurde im Heimatland mit großer Begeisterung aufgenommen. Das Problem war, dass Corus bereits vor dem Abschluss des Deals geringere Gewinne als Tata Steel erwirtschaftete. Tata hatte Größe eingekauft, aber auch ein sehr teures Bündel von Problemen, das sich nicht vollständig abzeichnete.
+
+Die globale Finanzkrise 2008 trat genau ein Jahr nach der Übernahme ein. Banken schränkten die Kreditvergabe ein, die Wohnungsmärkte in den USA brachen ein, und die Branchen, die auf Stahl angewiesen waren, wie Bauwirtschaft und Automobilproduktion, verzeichneten einen starken Nachfragerückgang. Zeitweise brach die weltweite Stahlnachfrage um 21% in einem einzigen Jahr ein. Corus, das in Tata Steel Europe umbenannt wurde, saß ohne Ausweg mitten in diesem Sturm fest.
+
+# Die Kräfte, die Stahl unwirtschaftlich machten
+
+Stahl aus China verschlimmerte die Lage erheblich. China hatte während eines Baubooms stark in seine eigene Stahlproduktion investiert und dabei weit mehr Kapazität geschaffen, als es im Inland benötigte. Als dieser Boom abflaute, begann China, seinen Überschussstahl zu sehr niedrigen Preisen in Märkte weltweit, einschließlich Europa, zu exportieren. Da die Arbeitskosten in China niedrig waren und die Regierung die Branche subventioniert hatte, konnte chinesischer Stahl britischen Stahl fast überall unterbieten. Das Werk von Tata in Port Talbot war gezwungen, seine eigenen Preise erheblich zu senken, um wettbewerbsfähig zu bleiben.
+
+Dann kam 2016 Brexit. Als das UK die European Union verließ, sahen sich British Unternehmen plötzlich mit höheren Zöllen beim Export an europäische Käufer konfrontiert. Für ein Stahlwerk wie Port Talbot, das seit langem vom Verkauf an Hersteller auf dem ganzen Kontinent abhing, bedeutete dies gleichzeitig einen schrumpfenden Kundenstamm und steigende Kosten. Hinzu kommt, dass das Werk in Port Talbot mit blast furnaces betrieben wird, und diese Hochöfen sind zufällig die größte einzelne Quelle von Kohlendioxidemissionen im gesamten UK. Da die britische Regierung sich verpflichtet hat, bis 2050 netto null Emissionen zu erreichen, war das bestehende System schlicht nicht mit den rechtlichen Verpflichtungen des Landes vereinbar. Irgendetwas musste sich ändern.
+
+# Die Geschichte von Port Talbot und eine unmögliche Entscheidung
+
+Bis 2024 hatte Tata Steel Europe seit der Corus-Übernahme Verluste von mehr als £4 Milliarden angehäuft. Das Unternehmen kündigte an, die blast furnaces in Port Talbot stillzulegen und mindestens 2.800 Arbeitnehmer zu entlassen. Für die Stadt war dies nicht nur eine Wirtschaftsschlagzeile. Diese 2.800 Arbeitsplätze stehen für Familien, Hypotheken, Schulgebühren und lokale Unternehmen, die davon abhängen, dass Arbeiter ihr Gehalt in der Nähe ausgeben. Eine Massenentlassung in diesem Ausmaß in einer Stadt, in der das Werk 10% der Bevölkerung beschäftigt, bleibt nicht auf die Fabrikhalle beschränkt. Sie breitet sich auf jeden Laden, jede Klinik und jede Schule in der Umgebung aus. Die UK-Regierung betrachtete diese Situation und kam zu dem Schluss, dass Untätigkeit keine echte Option war.
+
+Die Lösung, auf die die Regierung kam, bestand darin, Tata Steel dabei zu helfen, seine blast furnaces durch electric arc furnaces oder EAFs zu ersetzen. Im Gegensatz zu blast furnaces, die riesige Mengen an coke fuel und Kalkstein verwenden, um Eisenerz zu schmelzen, verwenden EAFs elektrischen Strom, um recycelten Schrott-Stahl zu schmelzen. Sie benötigen weniger Rohstoffe, verursachen weit weniger Umweltverschmutzung und können die Kohlenstoffemissionen am Standort Port Talbot um rund 85% reduzieren. Die Gesamtkosten für diesen Umbau belaufen sich auf etwa £1,25 Milliarden, und die UK-Regierung stimmte zu, davon £500 Millionen beizusteuern. Tata Steel verpflichtete sich, den verbleibenden Betrag selbst zu finanzieren.
+
+# Abschließende Gedanken
+
+Staatliche Subventionen für die Privatwirtschaft sind immer umstritten, und diese hier ist keine Ausnahme. Kritiker weisen darauf hin, dass der britische Steuerzahler nun den Umbau eines Werkes finanziert, das einem der reichsten Konzerne Indiens gehört. Befürworter argumentieren, dass die Alternative, ein geschlossenes Werk, Massenarbeitslosigkeit und vollständige Abhängigkeit von ausländischen Stahlimporten, die Wirtschaft langfristig weit mehr kosten würde. Beide Seiten haben recht. Was diese Geschichte jenseits der Politik veranschaulicht, ist ein Konzept namens Industriepolitik, die Idee, dass Regierungen manchmal in Märkte eingreifen, nicht weil sie glauben, es besser zu wissen als Unternehmen, sondern weil die Folgen eines Marktversagens für gewöhnliche Menschen zu groß und zu konzentriert sind, um sie alleine zu tragen. Für die Arbeiter von Port Talbot bedeutet die Ankunft der electric arc furnaces weniger Arbeitsplätze als zuvor, da die neue Technologie andere Fähigkeiten und eine kleinere Belegschaft erfordert. Aber es bedeutet auch, dass das Werk überlebt, und die Stadt verliert ihren größten Arbeitgeber nicht über Nacht. Das ist kein Triumph im eigentlichen Sinne, aber es ist besser als die Alternative.

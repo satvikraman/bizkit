@@ -1,0 +1,32 @@
+---
+title: "Warum Indiens Gold in London liegt"
+date: 2024-06-16
+subtitle: "\"Gold ist Geld. Alles andere ist Kredit.\" — J.P. Morgan"
+description: "Indiens Zentralbank lagert hunderte Tonnen Gold in einem Tresor in London. Die RBI hat kürzlich einen Teil davon zurückgeholt, und der Grund erklärt, wie das weltweite Finanzsystem wirklich funktioniert."
+image: "./title_20240616.png"
+twitter-card: {image: "./title_20240616.png"}
+open-graph: {image: "./title_20240616.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Indien besitzt 822 Metriken Tonnen Gold, eine der größten Reserven der Welt. Man würde denken, ein solcher Schatz würde irgendwo in einem Tresor in Mumbai oder Neu-Delhi liegen, nah an der Heimat und unter fester nationaler Kontrolle. Stattdessen lag seit Jahrzehnten mehr als die Hälfte davon unter den Straßen von London, bewacht von der Bank of England. Im Finanzjahr 2024 holte die RBI leise 100 Metriken Tonnen dieses Goldes nach Indien zurück, was eine Publikation als eine der größten Goldübertragungen seit 1991 bezeichnete. Dieser eine Fakt wirft eine sehr einfache Frage auf: Warum war es dort überhaupt?
+
+# Gold ist nur nützlich, wenn man es handeln kann
+
+Kein Land lagert Gold nur um es zu bewundern. Gold ist ein Reservevermögen, also etwas, das eine Zentralbank in einer Krise verkaufen oder als Sicherheit für Fremdwährung verwenden kann. Aber hunderte Tonnen Gold zu verkaufen oder zu verpfänden ist nicht wie ein Auto verkaufen. Dafür braucht man einen liquiden Markt, also einen Ort, an dem genug Käufer und Verkäufer vorhanden sind, damit man schnell und zu einem fairen Preis handeln kann. London ist dieser Ort. Die London Bullion Market Association, also die LBMA, überwacht dort den Handel mit physischem Gold und sorgt für Qualitätsstandards und faire Geschäftspraktiken. Der Tresor der Bank of England, in dem die RBI einen Teil ihrer Reserven hält, verfügt über biometrische Scanner, Bewegungsmelder und verstärkte Bauweise und wurde in seiner gesamten Geschichte noch nie beraubt. Falls die RBI jemals Gold verkaufen oder verpfänden müsste, bedeutet seine Lagerung in London, dass es bereits im liquidesten und sichersten Goldhandelszentrum der Welt sitzt.
+
+# Wie London zur Goldkammer der Welt wurde
+
+Londons Stellung in den globalen Goldmärkten entstand weder zufällig noch durch moderne Planung. Sie wuchs über Hunderte von Jahren. In den 1600er Jahren legten Schiffe mit Gold und Edelmetallen aus Indien, den Amerikas und später Afrika in britischen Häfen an. In den 1800er Jahren hatten Raffinerien, Banken und Händler ein vollständiges System zum Kauf, Verkauf und Lagerung von Gold in der Stadt aufgebaut. Die Familie Rothschild gründete 1852 in London die Royal Mint Refinery, genau als Goldrausche California, Australia und schließlich South Africa erschütterten. Zu Beginn des 20. Jahrhunderts, als die meisten Länder den Goldstandard einführten, also den Wert einer Währung an physisches Gold knüpften, war London bereits zum weltweiten Zentrum des Goldhandels geworden. Keine andere Stadt hatte ein ebenso tiefes Netz spezialisierter Lagereinrichtungen, Versicherungsanbieter und Transportnetzwerke. Dieser Netzwerkeffekt ist bis heute weitgehend intakt.
+
+# Die Geschichte von 100 Tonnen, die nach Hause kamen
+
+Die Entscheidung der RBI im Finanzjahr 2024, 100 Metriken Tonnen nach Hause zu holen, ist der Teil dieser Geschichte, der einer genaueren Betrachtung verdient. Die Zentralbank erklärte offiziell, die Maßnahme sei routinemäßig, eine Frage der Diversifizierung der Goldlagerung. Aber der Kontext gibt dieser Aussage einen anderen Anstrich. Im Jahr 2022, nachdem Russia Ukraine angegriffen hatte, froren die USA und das Vereinigte Königreich die russischen Devisenreserven ein und versuchten, in westlichen Banken gehaltenes russisches Gold zu beschlagnahmen. Die Botschaft an den Rest der Welt war klar: Im Ausland gehaltene Vermögenswerte sind nur so sicher, wie die politische Beziehung es ist. Indien und die USA pflegen heute starke Beziehungen, aber für eine Zentralbank, die in Jahrzehnten denkt, war dieses Ereignis schwer zu ignorieren. Der Vergleich mit 1991 ist ebenfalls aufschlussreich. In jenem Jahr befand sich Indien in einer schweren Zahlungsbilanzkrise und schickte Gold nach London und Switzerland, um Notfallkredite zu sichern. Das Land hat seither einen weiten Weg zurückgelegt, und das Zurückbringen des Goldes ist ein Signal dieses Selbstvertrauens.
+
+# Abschließende Gedanken
+
+Die Geschichte von Indiens Gold in London ist eigentlich eine Geschichte darüber, wie Vertrauen, Geschichte und Pragmatismus die Entscheidungen selbst der mächtigsten Institutionen prägen. Die RBI wählte London nicht wegen des Wetters. Sie wählte London, weil dort der globale Goldmarkt ist und weil dort die vertrauenswürdigste Infrastruktur zum Halten und Handeln von Gold vorhanden ist. Die Entscheidung, etwas davon nach Hause zu bringen, ist genauso rational. Ein Land, das wirtschaftlich stärker und geopolitisch aufmerksamer ist, hat jeden Grund, sein wichtigstes Reservevermögen näher an der Heimat zu halten. Gold in einem Tresor verdient alleine nichts, aber die Möglichkeit, die es bietet, also die Fähigkeit, es im Krisenfall schnell zu nutzen, ist sehr viel wert. Und diese Möglichkeit ist etwas sicherer, wenn der Tresor im eigenen Hinterhof steht.
