@@ -1,0 +1,40 @@
+---
+title: "Why GST Cannot Fix Your Fuel Bill"
+date: 2024-06-30
+subtitle: "\"In this world, nothing can be said to be certain, except death and taxes.\" — Benjamin Franklin"
+description: "Raman crosses state lines every trip just to save a few rupees per litre of diesel. His small habit reveals why India's biggest tax reform cannot actually bring fuel prices down."
+image: "./title_20240630.png"
+twitter-card: {image: "./title_20240630.png"}
+open-graph: {image: "./title_20240630.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Raman runs a long haul taxi service out of Narayanpet, a small town in Telangana sitting very close to the Karnataka border. Whenever a customer books him for a trip to a Karnataka city, he makes a habit of filling his fuel tank to the brim before driving back home. The reason is simple enough. Diesel in Karnataka costs at least 6 rupees less per litre than it does in Telangana, and petrol is at least 4 rupees cheaper. Over a full tank, those savings add up to a meaningful sum for someone who earns his living behind the wheel. Raman's habit opens up a question that millions of Indians have started asking louder and louder: will bringing petrol and diesel under GST finally make fuel prices uniform and affordable across the country?
+
+# Why Fuel Prices Change the Moment You Cross a State Border
+
+India's Goods and Services Tax, or GST, was introduced in 2017 with a bold promise. The goal was one country, one tax. Before GST arrived, a product being sold across multiple states was taxed at each step of its journey, and every state charged a different rate. GST replaced that system with a single, uniform tax shared between the central government and the states. For most goods in India, this meant prices became more predictable and businesses found it easier to operate across state lines. Fuel, however, was deliberately kept outside the GST framework right from the start.
+
+The reason petrol and diesel sit outside GST comes down to money and political reality. State governments in India depend quite heavily on fuel taxes, with revenue from petrol and diesel making up somewhere between 11 and 17 percent of their total tax collection. When GST was being negotiated, states were already agreeing to give up revenues from dozens of local taxes. Fuel was the cushion that made the entire transition bearable for them. The central government essentially agreed to leave fuel, alcohol, and electricity under state control so that states would not walk away from the deal entirely.
+
+# What GST Can and Cannot Do for Fuel
+
+To understand what is really at stake, it helps to look at how fuel is priced today. Roughly 40 percent of what Raman pays at the pump is tax. Oil marketing companies sell fuel to dealers at a base price, and then the central government adds its own uniform levy on top. States then add their own tax, called VAT, at rates they each set independently. This is why Raman pays more per litre in Telangana than he would in Karnataka. Telangana simply charges a higher VAT, driven by its own revenue needs and spending commitments.
+
+Here is where the GST argument runs into a wall. The highest rate available under the GST system is 28 percent. But when you compare the base cost of fuel against all the taxes stacked on top of it, the effective tax burden works out to roughly 67 percent of the base price. Bringing fuel under GST at 28 percent would therefore represent a massive drop in revenue for both the central government and for every state. To recover that lost money, governments would have no choice but to raise taxes on other goods and services, which would push up the cost of everyday items for ordinary households. The math simply does not work in favour of cheaper fuel at the pump.
+
+# The Story Behind the Border Tank
+
+Raman is not the only one bothered by this patchwork of fuel prices across states. Fuel station dealers in high-tax states that share a border with cheaper-fuel neighbours have been lobbying the central government to bring petrol and diesel under GST for years. Their frustration is straightforward. Every time a driver like Raman crosses the border to refuel, the local dealer loses the commission he would have earned on that sale. A 2021 survey found that a large majority of ordinary consumers were also in favour of bringing fuel under GST, because they saw it as a way to cut rising household costs. The problem is that what consumers want and what the government can afford to offer are two very different things.
+
+Raman's habit of crossing into Karnataka also reveals how fuel price differences quietly shape economic behaviour in ways that are easy to overlook. Truck operators plan their routes around cheaper refuelling stops. Small businesses in border towns factor the fuel price gap into their daily calculations. Dealers in high-tax states watch their revenue thin out with each vehicle that fills up on the other side. None of this is irrational behaviour. All of it is a direct consequence of a tax system where states control the rates on one of the most-consumed commodities in the country, and where no two states have agreed to charge the same amount.
+
+# Final Thoughts
+
+The campaign to bring fuel under GST sounds appealing, and it is easy to understand why someone like Raman would welcome it. A single, uniform fuel price across the country would end the border-hopping and make life simpler for drivers, dealers, and everyone in between. But the numbers behind that idea tell a harder story. States simply cannot afford to give up that revenue without receiving something substantial in return, and no clear plan for that exchange exists yet. Until one does, the question of fuel under GST will keep coming up and keep going nowhere.
+
+For now, Raman will keep filling his tank on the Karnataka side of the border, and the fuel dealers of Narayanpet will keep watching business drive away. The problem is not that no one wants cheaper fuel. Everyone does. The problem is that cheaper fuel, in the current setup, means less money for governments to spend on roads, hospitals, and schools. Someone always pays in the end, and the debate about GST on fuel is really a debate about who that someone should be.
