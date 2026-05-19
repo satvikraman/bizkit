@@ -1,0 +1,38 @@
+---
+title: "The Billion-Dollar House of Cards"
+date: 2024-07-07
+subtitle: "\"90% of clients who spend over $500,000 per year renew with our company.\" — Outcome Health"
+description: "Rishi Shah made it onto the Forbes 400 richest list with a reported net worth of $3.6 billion. There was just one problem: almost all of it was built on lies."
+image: "./title_20240707.png"
+twitter-card: {image: "./title_20240707.png"}
+open-graph: {image: "./title_20240707.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+In 2017, Rishi Shah's name appeared on the Forbes 400 list of the richest Americans. He was 29 years old, worth a reported $3.6 billion, and the co-founder of Outcome Health, a Chicago startup valued at $5 billion. His business partner, Shradha Agarwal, was featured alongside him in Fortune's 40 Under 40. From the outside, this was a textbook success story of two young founders building something that mattered. From the inside, it was something else entirely.
+
+# What Outcome Health Actually Did
+
+Rishi and Shradha had a genuinely clever idea when they launched Context Media in 2006, fresh out of Northwestern University. Pharmaceutical companies needed a way to reach patients at the exact moment those patients were sitting in a doctor's office, nervous and looking for answers. Context Media offered to install TV screens and tablets in clinics for free, and then sell advertising space on those screens to drug companies. If you made a medication for high blood pressure, you could pay Context Media to run your ads in a cardiologist's waiting room. By 2012, the concept had attracted real clients, the company had screens in over 2,200 hospital waiting rooms, and annual revenues had reached $20 million.
+
+# When "Fake It Till You Make It" Goes Too Far
+
+There is an expression common in startup culture, "fake it till you make it," which is usually meant to encourage founders to project confidence and believe in their vision even before the world does. Rishi Shah and Shradha Agarwal used it to mean something far more literal. Starting around 2011, they began telling pharmaceutical clients they were running ads on more screens than actually existed. Between 2014 and 2016, clients were sometimes charged double the correct amount, because Outcome reported far more screen installations than it had actually completed. The founders wanted to grow revenues fivefold within five years and saw no other way to bridge the gap between their ambition and their reality.
+
+When clients grew suspicious and asked for proof, the team had a ready answer. Employees took screenshots of ads from their own computers, then edited those images to add fake timestamps and fake doctor identification numbers, making them look like genuine records from real clinics. These doctored images were sent to clients like Pfizer and Novo Nordisk to assure them that everything was running as promised. A policy called "make goods" gave clients written assurances that any shortfall in ad impressions would be compensated in the next campaign, which bought the company more time and more goodwill than it had earned.
+
+# The Rise and Collapse of a Unicorn Built on Thin Air
+
+Rishi and Shradha had done something impressive in the early years. They built a real business by spotting a gap nobody else had filled, giving pharmaceutical companies a direct channel to patients who were already at a clinic and already primed to ask their doctor about a treatment. The problem was that the founders let their ambition outrun their honesty. Johnson and Johnson eventually noticed that some offices where it was being charged for ads had no screens at all. Pfizer saw no meaningful return from its campaigns and demanded a full refund of $4 million. Field representatives were reporting empty waiting rooms to their head offices, and journalists began publishing investigations into the company's falsified performance data.
+
+The investors who had trusted Outcome with their money were some of the most sophisticated financial institutions in the world. Goldman Sachs had put money in. So had CapitalG, the investment arm of Alphabet, and the prominent Pritzker family. In total, Outcome raised nearly $900 million from investors and lenders. When the scale of the deception became clear, every one of those backers realised they were sitting on a stake in a company worth far less than they had been told. The US Department of Justice confirmed their fears, and a US court eventually handed down prison sentences. The scheme ran from 2011 to 2017 and resulted in at least $45 million of overbilled advertising services, all of it used to fund the founders' expensive lifestyles and inflate the company's apparent value.
+
+# Final Thoughts
+
+The Outcome Health story is a reminder that numbers in business are only as trustworthy as the people reporting them. Investors pour money into companies based on the metrics they are shown, and verifying every claim a startup makes is genuinely difficult, which is part of why fraud like this can survive for years before it comes apart. Rishi Shah was clever enough to build a product that filled a real need. The painful irony is that the company might have grown into something legitimate if the founders had been willing to grow at an honest pace rather than a fabricated one.
+
+For anyone learning about business for the first time, the Outcome Health case is worth remembering the next time you hear a company quote an impressive-sounding statistic. A business that grows on real numbers, at whatever speed the market allows, is worth far more than one that looks large on paper but is hollow underneath. The investors who backed Rishi Shah and Shradha Agarwal discovered that the hard way, and so did every client who paid for ads that never ran.

@@ -1,0 +1,38 @@
+---
+title: "Das Milliarden-Dollar-Kartenhaus"
+date: 2024-07-07
+subtitle: "\"90% unserer Kunden, die mehr als $500.000 pro Jahr ausgeben, verlängern ihren Vertrag jedes Jahr.\" — Outcome Health"
+description: "Rishi Shah schaffte es auf die Forbes 400 Liste der reichsten Amerikaner mit einem berichteten Vermögen von $3,6 Milliarden. Es gab nur ein Problem: Fast alles davon war auf Lügen aufgebaut."
+image: "./title_20240707.png"
+twitter-card: {image: "./title_20240707.png"}
+open-graph: {image: "./title_20240707.png"}
+categories: ["Unternehmensentscheidungen"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Im Jahr 2017 tauchte Rishi Shahs Name auf der Forbes 400 Liste der reichsten Amerikaner auf. Er war gerade einmal 29 Jahre alt, sein berichtetes Vermögen betrug $3,6 Milliarden, und er war Mitgründer von Outcome Health, einem Chicagoer Startup mit einem Wert von $5 Milliarden. Seine Geschäftspartnerin Shradha Agarwal wurde zusammen mit ihm in Fortunes 40 Under 40 Liste aufgenommen. Von außen betrachtet sah dies wie eine mustergültige Erfolgsgeschichte zweier junger Gründer aus, die etwas Bedeutendes aufbauten. Von innen betrachtet war die Situation etwas völlig anderes.
+
+# Was Outcome Health wirklich tat
+
+Rishi und Shradha gründeten Context Media im Jahr 2006, kurz nachdem sie die Northwestern University verlassen hatten, und ihre Idee war wirklich clever. Pharmaunternehmen brauchten eine Möglichkeit, Patienten genau in dem Moment zu erreichen, in dem diese in einer Arztpraxis saßen, nervös und auf der Suche nach Informationen. Context Media bot an, in Kliniken kostenlos TV-Bildschirme und Tablets zu installieren und dann den Pharmaunternehmen Werbeflächen auf diesen Bildschirmen zu verkaufen. Wer ein Medikament gegen Bluthochdruck herstellte, konnte Context Media bezahlen, um seine Werbung in einem Kardiologen-Wartezimmer zu schalten. Bis 2012 hatte das Unternehmen Bildschirme in über 2.200 Krankenhaus-Wartezimmern und der Jahresumsatz hatte $20 Millionen erreicht.
+
+# Wenn "so tun als ob" zu weit geht
+
+In der Startup-Welt gibt es einen gebräuchlichen Ausdruck, "fake it till you make it," was bedeutet, an seine Vision zu glauben und Zuversicht auszustrahlen, auch wenn die Welt noch nicht mit einem ist. Rishi Shah und Shradha Agarwal nahmen dies sehr wörtlich. Ab etwa 2011 begannen sie, Pharmakunden zu erzählen, dass sie Werbung auf mehr Bildschirmen schalteten als tatsächlich vorhanden waren. Zwischen 2014 und 2016 wurden Kunden manchmal doppelt so viel berechnet, weil Outcome weit mehr Bildschirminstallationen meldete, als tatsächlich abgeschlossen worden waren. Die Gründer wollten den Umsatz in fünf Jahren verfünffachen und sahen keinen anderen Weg, um die Lücke zwischen ihrem Ehrgeiz und der Realität zu schließen.
+
+Als Kunden misstrauisch wurden und nach Beweisen fragten, hatte das Team eine fertige Antwort. Mitarbeiter machten Screenshots von Werbeanzeigen von ihren eigenen Computern, bearbeiteten diese Bilder dann mit gefälschten Zeitstempeln und gefälschten Arzt-Identifikationsnummern, sodass sie wie echte Aufzeichnungen aus echten Kliniken aussahen. Diese gefälschten Bilder wurden an Kunden wie Pfizer und Novo Nordisk geschickt. Eine Richtlinie namens "make goods" gab Kunden schriftliche Zusicherungen, dass etwaige Fehlmengen in der nächsten Kampagne ausgeglichen werden würden, was dem Unternehmen mehr Zeit und Vertrauen einbrachte, als es verdient hatte.
+
+# Aufstieg und Fall eines Einhorns
+
+In den frühen Jahren hatten Rishi und Shradha wirklich etwas Beeindruckendes geleistet. Sie hatten ein echtes Unternehmen aufgebaut, indem sie eine Lücke füllten, die niemand sonst bedient hatte. Das Problem war, dass die Gründer ihren Ehrgeiz weiter gehen ließen als ihre Ehrlichkeit. Johnson and Johnson bemerkte schließlich, dass in einigen Büros, für die Werbeanzeigen berechnet wurden, gar keine Bildschirme vorhanden waren. Pfizer sah keinen nennenswerten Nutzen aus seinen Kampagnen und forderte eine vollständige Rückerstattung von $4 Millionen. Journalisten begannen, Berichte über die gefälschten Leistungsdaten des Unternehmens zu veröffentlichen.
+
+Die Investoren, die Outcome ihr Geld anvertraut hatten, gehörten zu den angesehensten Finanzinstitutionen der Welt. Goldman Sachs hatte Geld eingesetzt. So auch CapitalG, der Investmentarm von Alphabet, und die prominente Familie Pritzker. Insgesamt sammelte Outcome fast $900 Millionen von Investoren und Kreditgebern ein. Als das Ausmaß des Betrugs klar wurde, erkannte jeder Investor, dass er eine Beteiligung an einem Unternehmen hielt, das weit weniger wert war, als ihm mitgeteilt worden war. Das US-Justizministerium bestätigte ihre Befürchtungen, und ein amerikanisches Gericht verhängte Gefängnisstrafen. Das System lief von 2011 bis 2017 und umfasste mindestens $45 Millionen zu viel abgerechneter Werbedienstleistungen.
+
+# Abschließende Gedanken
+
+Die Geschichte von Outcome Health erinnert daran, dass Zahlen im Geschäftsleben nur so vertrauenswürdig sind wie die Menschen, die sie berichten. Investoren stecken Geld in Unternehmen, basierend auf den Kennzahlen, die ihnen gezeigt werden, und jede Behauptung eines Startups zu überprüfen ist wirklich schwierig, weshalb ein solcher Betrug jahrelang andauern kann, bevor er auffliegt. Rishi Shah war klug genug, ein Produkt zu entwickeln, das einen echten Bedarf deckte. Die schmerzliche Ironie ist, dass das Unternehmen zu etwas Legalem hätte werden können, wenn die Gründer bereit gewesen wären, in einem ehrlichen Tempo zu wachsen, anstatt in einem erfundenen.
+
+Für jeden, der zum ersten Mal etwas über Wirtschaft lernt, ist der Fall Outcome Health einen Gedanken wert, wenn das nächste Mal ein Unternehmen eine beeindruckend klingende Statistik zitiert. Ein Unternehmen, das auf echten Zahlen wächst, in welchem Tempo der Markt auch immer erlaubt, ist weit mehr wert als eines, das auf dem Papier groß aussieht, innen aber hohl ist. Die Investoren, die Rishi Shah und Shradha Agarwal unterstützten, mussten das auf die harte Tour lernen, und ebenso jeder Kunde, der für Werbung bezahlte, die nie geschaltet wurde.

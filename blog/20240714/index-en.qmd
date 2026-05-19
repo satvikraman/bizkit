@@ -1,0 +1,40 @@
+---
+title: "The 2% Fix for a $7 Trillion Problem"
+date: 2024-07-14
+subtitle: "\"The ultra-wealthy end up paying a measly 0.3% of their wealth in annual taxes.\" — Gabriel Zucman"
+description: "French economist Gabriel Zucman wants every billionaire on earth to pay a minimum 2% tax on their wealth. The G20 is listening, but is the idea realistic?"
+image: "./title_20240714.png"
+twitter-card: {image: "./title_20240714.png"}
+open-graph: {image: "./title_20240714.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Imagine you earned a salary and the government took its cut before you ever saw the full amount. Now imagine you were so wealthy that your money grew by 7.5% every year after taxes, and governments around the world still could not figure out how to collect a fair share from you. That is the reality for approximately 3,000 billionaires worldwide, and it is the problem that French economist Gabriel Zucman walked into the G20 Finance Ministers' meeting in Brazil to solve. His pitch was simple. If governments cannot track how much billionaires earn, they should stop trying and instead tax what billionaires own. A flat 2% annual levy on anyone whose assets exceed $1 billion, he argued, could raise $250 billion every year for governments that desperately need the money.
+
+# Why Billionaires Pay So Little
+
+Most working people earn a salary, and the tax system catches that salary with reliable precision. Billionaires are different. A significant portion of their wealth sits in company shares, real estate, and other investments that increase in value over time but are not technically "income" until they are sold. Many countries tax these capital gains at rates far below what they charge on regular wages. But it gets worse. The ultra-wealthy also have access to offshore accounts, shell companies, and trust structures that legally shield their wealth from tax authorities. According to Zucman's research, at least $7 trillion sits hidden in tax havens outside the countries where these billionaires actually live. That is roughly 8% of all household financial wealth on the planet. The result is staggering. Billionaires end up paying an effective annual tax rate of just 0.3% on their total wealth, costing governments an estimated $200 billion in lost revenue every single year.
+
+# The Zucman Proposal
+
+Gabriel Zucman first made waves when he addressed the G20 Finance Ministers at Brazil's São Paulo earlier in 2024. Brazil, which held the G20 presidency that year, then asked him to draft an actual blueprint that countries could follow. His proposal, released in early July 2024, is deliberately straightforward. Governments should identify every individual who owns $1 billion or more in combined assets, including equities, real estate, and company holdings. Those individuals would then pay a minimum annual tax equal to 2% of that total wealth, regardless of whether they sold anything or booked any "income" that year. Zucman estimated this would affect roughly 3,000 people globally and generate close to $250 billion annually. If governments extended the same logic to centimillionaires, people with $100 million or more, it could bring in an additional $140 billion.
+
+The clever part of the proposal is that it does not require all countries to agree at once. Unlike a global treaty, this would function as an additional domestic tax policy that each country could adopt on its own, layering on top of whatever system it already has. That feature is what makes it politically feasible, at least on paper.
+
+# The Pushback from Powerful Nations
+
+Brazil wanted to put Zucman's proposal on the table at the G20 meeting in July 2024, but resistance arrived before the delegates did. The United States was the most vocal opponent, and its reasoning is worth understanding. Nine of the world's ten richest people are American. A wealth tax could push those individuals to spend their money rather than invest it in businesses, research, and development. Worse, it might encourage them to relocate their assets to countries that do not participate in the scheme, which would hurt the American economy rather than help it. There was also a political angle. The Biden administration, which had previously championed a global minimum corporate tax of 15%, did not want to alienate wealthy donors and voters in an election year.
+
+Germany had its own concerns. The country has a large number of family-owned businesses, the so-called Mittelstand, where a single family might technically own a billion dollars in factory equipment and inventory without actually being "cash rich." A wealth tax applied bluntly could force these families to sell off parts of their businesses just to pay the annual bill, potentially triggering layoffs. Germany itself abandoned a wealth tax in the 1990s after encountering exactly these kinds of problems.
+
+# The Deeper Problem of Wealth Inequality
+
+Here is why Zucman's proposal resonated with so many countries despite the pushback. Over the last four decades, the wealth of the global ultra-rich has grown at an average rate of 7.5% per year after taxes. Meanwhile, governments have had less to spend on healthcare, education, and infrastructure because their tax base keeps shrinking relative to the wealth that exists. The gap between what the richest 0.001% own and what everyone else owns has widened every single year, and the traditional tools of income taxation have proven powerless to reverse that trend. Zucman's argument is that a wealth tax is not about punishing success. It is about recognizing that the current system has a structural blind spot, and that 80% of what the world's wealthiest own remains invisible to the governments meant to tax it.
+
+# Final Thoughts
+
+Gabriel Zucman's 2% billionaire tax is one of those ideas that sounds almost too simple to work. Track what people own, not what they earn, and charge them a small fraction of it every year. The math is persuasive. The politics are brutal. Without the backing of the United States, the proposal will struggle to gain momentum, because other countries will fear that their own billionaires will simply move assets to American shores where no such tax exists. But the conversation itself matters. The fact that Brazil put this on the G20 agenda, that an economist was invited to address finance ministers with a concrete plan, signals that the world is at least starting to acknowledge a problem it spent decades ignoring. Whether the solution looks like Zucman's blueprint or something else entirely, the era of billionaires paying 0.3% while workers pay 30% is becoming harder to justify with a straight face.
