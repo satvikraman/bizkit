@@ -1,0 +1,40 @@
+---
+title: "Die 2%-Loesung fuer ein 7-Billionen-Dollar-Problem"
+date: 2024-07-14
+subtitle: "\"Die Superreichen zahlen nur magere 0,3% ihres Vermoegen als jaehrliche Steuern.\" — Gabriel Zucman"
+description: "Der franzoesische Oekonom Gabriel Zucman moechte, dass jeder Milliardaer der Welt mindestens 2% seines Vermoegens als Steuer zahlt. Die G20 hoert zu, aber ist die Idee realistisch?"
+image: "./title_20240714.png"
+twitter-card: {image: "./title_20240714.png"}
+open-graph: {image: "./title_20240714.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einfuehrung
+
+Stell dir vor, du verdienst ein Gehalt, und die Regierung zieht ihren Anteil ab, bevor du den vollen Betrag siehst. Jetzt stell dir vor, du bist so reich, dass dein Geld nach Steuern jedes Jahr um 7,5% waechst, und keine Regierung der Welt kann dir einen fairen Anteil abnehmen. Das ist die Realitaet fuer etwa 3.000 Milliardaere weltweit, und genau dieses Problem wollte der franzoesische Oekonom Gabriel Zucman beim Treffen der G20-Finanzminister in Brazil loesen. Sein Vorschlag war einfach. Wenn Regierungen nicht verfolgen koennen, wie viel Milliardaere verdienen, sollten sie es aufgeben und stattdessen besteuern, was Milliardaere besitzen. Eine pauschale jaehrliche Abgabe von 2% auf alle Vermoegen ueber $1 Milliarde koennte Regierungen, die das Geld dringend brauchen, jedes Jahr $250 Milliarden einbringen, argumentierte er.
+
+# Warum Milliardaere so wenig Steuern zahlen
+
+Die meisten berufstaetigen Menschen verdienen ein Gehalt, und das Steuersystem erfasst dieses Gehalt mit zuverlaessiger Praezision. Milliardaere sind anders. Ein erheblicher Teil ihres Vermoegens steckt in Unternehmensanteilen, Immobilien und anderen Investitionen, die im Laufe der Zeit an Wert gewinnen, aber technisch gesehen kein "Einkommen" sind, bis sie verkauft werden. Viele Laender besteuern diese Kapitalgewinne zu Saetzen, die weit unter dem liegen, was sie auf regulaere Loehne erheben. Aber es kommt noch schlimmer. Die Superreichen haben Zugang zu Offshore-Konten, Briefkastenfirmen und Treuhandstrukturen, die ihr Vermoegen legal vor den Steuerbehoerden schuetzen. Laut Zucmans Forschung verstecken sich mindestens $7 Billionen in Steueroasen ausserhalb der Laender, in denen diese Milliardaere tatsaechlich leben. Das sind etwa 8% des gesamten finanziellen Haushaltsvermoegens der Welt. Das Ergebnis ist erschreckend. Milliardaere zahlen auf ihr Gesamtvermoegen nur einen effektiven jaehrlichen Steuersatz von 0,3%, was Regierungen jedes Jahr geschaetzte $200 Milliarden an entgangenen Einnahmen kostet.
+
+# Der Zucman-Vorschlag
+
+Gabriel Zucman sorgte erstmals fuer Aufsehen, als er Anfang 2024 die G20-Finanzminister in Brazil's São Paulo ansprach. Brazil, das in jenem Jahr die G20-Praesidentschaft innehatte, bat ihn daraufhin, einen praktischen Entwurf auszuarbeiten, dem die Laender folgen koennen. Sein Anfang Juli 2024 veroeffentlichter Vorschlag ist bewusst unkompliziert. Regierungen sollten jede Person identifizieren, die Vermoegen von $1 Milliarde oder mehr besitzt, einschliesslich Aktien, Immobilien und Unternehmensanteilen. Diese Personen sollen dann eine jaehrliche Mindeststeuer in Hoehe von 2% dieses Gesamtvermoegen zahlen, unabhaengig davon, ob sie in jenem Jahr etwas verkauft oder irgendein "Einkommen" verbucht haben. Zucman schaetzte, dass dies weltweit etwa 3.000 Menschen betreffen und jaehrlich nahezu $250 Milliarden einbringen wuerde. Wenn Regierungen dieselbe Logik auf Centimillionaere, also Menschen mit $100 Millionen oder mehr, ausdehnten, koennte das weitere $140 Milliarden einbringen.
+
+Der clevere Teil des Vorschlags ist, dass er keine gleichzeitige Zustimmung aller Laender erfordert. Anders als ein globaler Vertrag wuerde er als zusaetzliche inlaendische Steuerpolitik funktionieren, die jedes Land fuer sich selbst einsetzen koennte, als weitere Schicht auf dem bestehenden System. Genau diese Eigenschaft macht ihn politisch machbar, zumindest auf dem Papier.
+
+# Der Widerstand maechtiger Nationen
+
+Brazil wollte Zucmans Vorschlag beim G20-Treffen im Juli 2024 auf den Tisch legen, aber der Widerstand kam, bevor die Delegierten eintrafen. Die USA lehnten am lautesten ab, und ihre Begruendung ist es wert, sie zu verstehen. Neun der zehn reichsten Menschen der Welt sind Amerikaner. Eine Vermoegenssteuer koennte diese Personen dazu bringen, ihr Geld auszugeben, anstatt es in Unternehmen, Forschung und Entwicklung zu investieren. Schlimmer noch, sie koennte sie dazu ermutigen, ihre Vermoegen in Laender zu verlagern, die nicht am Programm teilnehmen, was der amerikanischen Wirtschaft schaden wuerde, anstatt ihr zu helfen. Es gab auch eine politische Dimension. Die Biden-Regierung, die zuvor eine globale Mindestkoerperschaftsteuer von 15% befuerwortet hatte, wollte in einem Wahljahr wohlhabende Spender und Waehler nicht vor den Kopf stossen.
+
+Deutschland hatte eigene Bedenken. Das Land hat eine grosse Anzahl familiengeführter Unternehmen, den sogenannten Mittelstand, wo eine einzelne Familie technisch gesehen Fabrikausruestung und Vorraete im Wert von einer Milliarde Dollar besitzen koennte, ohne tatsaechlich "geldreich" zu sein. Eine pauschal angewendete Vermoegenssteuer koennte diese Familien zwingen, Teile ihrer Unternehmen zu verkaufen, um die jaehrliche Rechnung zu bezahlen, was moeglicherweise zu Entlassungen fuehren wuerde. Deutschland selbst hatte die Vermoegenssteuer in den 1990er Jahren abgeschafft, nachdem es genau diese Probleme erlebt hatte.
+
+# Das tiefere Problem der Ungleichheit
+
+Deshalb fand Zucmans Vorschlag trotz des Widerstands bei so vielen Laendern Anklang. In den letzten vier Jahrzehnten ist das Vermoegen der globalen Superreichen nach Steuern durchschnittlich um 7,5% pro Jahr gewachsen. Gleichzeitig hatten Regierungen weniger Mittel fuer Gesundheit, Bildung und Infrastruktur, weil ihre Steuerbasis im Verhaeltnis zum vorhandenen Reichtum immer kleiner wurde. Die Luecke zwischen dem, was die reichsten 0,001% besitzen, und dem, was alle anderen haben, hat sich Jahr fuer Jahr vergroessert, und die traditionellen Instrumente der Einkommensbesteuerung haben sich als machtlos erwiesen, diesen Trend umzukehren. Zucmans Argument ist, dass eine Vermoegenssteuer nicht darum geht, Erfolg zu bestrafen. Es geht darum anzuerkennen, dass das aktuelle System einen strukturellen blinden Fleck hat, und dass 80% dessen, was die Reichsten der Welt besitzen, fuer die Regierungen unsichtbar bleibt, die es besteuern sollten.
+
+# Abschliessende Gedanken
+
+Gabriel Zucmans 2%-Milliardaerssteuer ist eine dieser Ideen, die fast zu einfach klingen, um zu funktionieren. Verfolge, was die Leute besitzen, nicht was sie verdienen, und erhebe jedes Jahr einen kleinen Bruchteil davon. Die Mathematik ist ueberzeugend. Die Politik ist brutal. Ohne die Unterstuetzung der USA wird der Vorschlag Muehe haben, Fahrt aufzunehmen, denn andere Laender werden befuerchten, dass ihre eigenen Milliardaere ihr Vermoegen einfach an amerikanische Kuesten verlagern, wo es keine solche Steuer gibt. Aber das Gespraech selbst ist bedeutsam. Die Tatsache, dass Brazil dies auf die G20-Agenda gesetzt hat, dass ein Oekonom eingeladen wurde, Finanzminister mit einem konkreten Plan anzusprechen, signalisiert, dass die Welt zumindest beginnt, ein Problem anzuerkennen, das sie jahrzehntelang ignoriert hat. Ob die Loesung wie Zucmans Entwurf aussieht oder ganz anders, die Aera, in der Milliardaere 0,3% zahlen, waehrend Arbeiter 30% zahlen, wird immer schwerer mit gerader Miene zu rechtfertigen.
