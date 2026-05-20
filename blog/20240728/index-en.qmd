@@ -1,0 +1,36 @@
+---
+title: "Can't Live With It, Can't Live Without It"
+date: 2024-07-28
+subtitle: "\"Trade doesn't follow flags. Supply chains go where the costs are lowest, regardless of what the diplomats are doing.\" — Raghuram Rajan, Former RBI Governor"
+description: "India's imports from China just crossed $100 billion, even as the two countries have strained ties. India's own Economic Survey is now asking how this makes any sense."
+image: "./title_20240728.png"
+twitter-card: {image: "./title_20240728.png"}
+open-graph: {image: "./title_20240728.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+India and China share one of the most complicated trading relationships in the world. In the same week that India's Finance Minister tabled the country's Economic Survey, an uncomfortable number surfaced. India's imports from China had crossed $100 billion in the financial year 2024, while its exports to China were only about $16 billion. That gap, roughly $85 billion, is what economists call a trade deficit, and the Economic Survey called this situation out plainly as a paradox. The two countries have clashed at their borders, banned each other's apps, and tightened rules on Chinese investments, yet India buys more from China than from almost any other country on earth.
+
+# What a Trade Deficit Actually Means
+
+When a country imports more than it exports from a trading partner, money flows outward more than it flows inward. For India, that means Indian consumers, businesses, and factories send far more money to Chinese companies than Chinese customers send back. A persistent deficit with one country is not automatically dangerous, but when the country on the other side of that deficit also controls critical parts of your supply chain, the math starts to feel political. China processes over three-quarters of the world's lithium, which powers electric vehicle batteries. It dominates the supply of Active Pharmaceutical Ingredients that Indian drug makers depend on. It manufactures telecom equipment and components that show up in infrastructure projects across dozens of nations. The Economic Survey argued that India needs to think carefully about how much of this dependency it wants to carry forward.
+
+# The Belt and Road and What It Taught the World
+
+China spent roughly $1 trillion building energy and transport projects in other countries through a program called the Belt and Road Initiative. On paper, this looked like a generous offer to lower-income nations. China loaned money, sent engineers, and built roads, railways, and ports across Africa, South Asia, and Southeast Asia. The problem came later, when countries that had borrowed heavily found themselves unable to repay. Sri Lanka is the most cited example. After borrowing billions from China to build the Hambantota Port, the country ran into financial trouble and ultimately handed over the port to a Chinese company on a 99-year lease in 2017. Critics called this debt trap diplomacy, a strategy where a creditor lends more than a borrower can repay and then claims infrastructure as collateral. China has disputed this framing, and the full argument over whether this was deliberate policy or simply the outcome of risky loans is outside the scope of this post. But the outcome for Sri Lanka was real, and it made many governments, including India's, far more cautious about Chinese capital on their soil.
+
+# India's Manufacturing Dream and the China Plus One Shift
+
+After the pandemic exposed how fragile supply chains were when they all ran through one country, large companies began looking for alternatives. This produced what analysts now call the China Plus One strategy, or C+1. The idea was that companies would keep some operations in China but add a second country to reduce risk. Countries like Vietnam, Bangladesh, and India all competed for a share of this shift. Vietnam, with lower import duties on technology products and simpler regulations, captured a large slice of electronics manufacturing early. India, despite being the fastest-growing large economy in the world, found that infrastructure gaps, higher tariffs on tech components, and a focus on domestic self-sufficiency made it a slower starter in the race for exports. David Roche, the founder of the research firm Independent Strategy, noted that China's early success as a manufacturer came from its Special Economic Zones, which offered tax breaks, solid infrastructure, and streamlined rules to pull foreign factories in. India has its own version of these zones, but its economic strategy has been aimed primarily at feeding its vast domestic market rather than competing on a global export scale.
+
+# The Balancing Act That Brazil and Turkey Found
+
+The Economic Survey pointed to something interesting rather than just calling for less China. Both Brazil and Turkey raised tariffs on Chinese electric vehicles to protect their local manufacturers, but at the same time, they actively invited Chinese companies to invest and set up factories on their soil. The logic was direct. If you import a smartphone component from China, your factories do only the final assembly and the money mostly flows out. But if you can convince a Chinese component maker to build a factory in your country, local workers produce the part, local suppliers get orders, and the country moves up the value chain. India faces a version of this choice right now. The geopolitics are genuinely complicated, and the country has every reason to be selective about which Chinese companies gain a foothold and in which industries. But the Economic Survey's point is that blocking investment while still importing the same goods is not a position that holds forever.
+
+# Final Thoughts
+
+The $85 billion trade deficit with China is not just a statistic in a government report. It reflects where India's factories are not yet strong enough, where its infrastructure still needs investment, and where the tensions of recent years have made attracting manufacturing capital harder. The Economic Survey did not claim to have easy answers, because none exist. But the stories of Sri Lanka, Brazil, and Turkey give India a useful map of what can go wrong and what can go right. A country that only imports and never builds stays dependent. A country that finds the right terms to attract manufacturing investment, even from a complicated neighbor, starts to build something more durable over time.
