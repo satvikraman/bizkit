@@ -1,0 +1,36 @@
+---
+title: "The Ladder With a Broken Rung"
+date: 2024-08-11
+subtitle: "\"Even if India seems to be growing right now, this growth might be more illusion than reality.\" — Dr. Rathin Roy, Former Economic Advisor to the Finance Commission"
+description: "India has been a middle-income country for nearly two decades. NITI Aayog now has a plan to finally climb out, but the trap it must escape is one that has swallowed entire economies before."
+image: "./title_20240811.png"
+twitter-card: {image: "./title_20240811.png"}
+open-graph: {image: "./title_20240811.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Imagine climbing a ladder and reaching a rung that simply will not hold your weight no matter how hard you push. That is more or less the situation that dozens of countries have found themselves in over the past century, stuck at a certain level of income, unable to climb higher. Economists call this the middle-income trap, and India is staring right at it. In 2007, the World Bank upgraded India from a low-income country to a lower-middle-income country, a genuine achievement earned through years of steady economic growth averaging 6 to 7 percent annually. But here is the problem. India has remained in that same lower-middle-income bracket ever since, and with NITI Aayog's new report titled "Vision for Viksit Bharat @ 2047" now circulating, the government has made it clear it intends to do something about that.
+
+# What the Middle-Income Trap Actually Is
+
+The middle-income trap is not simply about slow growth. It describes a condition where a country has grown wealthy enough to lose its advantage as a cheap place to manufacture things, but has not yet built the technology, institutions, or skilled workforce to compete with richer nations. Growth stalls, wages stop rising for most people, and the economy circles in place. Dr. Rathin Roy, a former economic advisor to the Finance Commission, offered a pointed diagnosis of India's version of this problem. He argued that India's current economic growth is not as broad-based as the headline numbers suggest, because it is largely driven by what a small, wealthy segment of Indians choose to buy, things like air conditioners, cars, and premium gadgets, rather than by meeting the basic needs of the majority, which include nutritious food, decent housing, clothing, healthcare, and education.
+
+# The Math Behind the Inequality
+
+To understand why this matters, it helps to look at a framework developed by the French economist Thomas Piketty in his book "Capital in the 21st Century." Piketty identified two key variables. The first is the rate of return on capital, which he calls r, meaning the returns people earn from owning stocks, real estate, or savings. The second is g, the overall rate at which the economy grows. His central finding was that when r is greater than g, the people who own assets get richer faster than the people who earn wages. Going into the full details of Piketty's model is outside the scope of this post, but the practical outcome for India is visible in the data. According to an Oxfam India report, between 2012 and 2021, over 40 percent of the wealth generated in India went to just 1 percent of the population, while the bottom 50 percent received only 3 percent of it. That kind of inequality puts a ceiling on broad-based growth, because most people simply do not have enough purchasing power to drive demand for the goods and services that would make the economy expand faster.
+
+# Brazil's Story and What It Warns
+
+Brazil arrived at this same crossroads decades before India, and its experience is worth examining closely. In the early 2000s, Brazil looked like a genuine success story. Booming commodity prices, successful social programs, and years of GDP growth had lifted millions out of poverty. By the mid-2000s, analysts were predicting that Brazil would make the leap to high-income status within a generation. Instead, the country stalled. By 2024, Brazil's per capita income sits at around $10,000, which is a real achievement, but the top 10 percent of its population still holds more than half the country's total wealth, and ordinary Brazilians have seen minimal income gains over a long stretch. Structural problems like corruption, an over-reliance on commodity exports whose prices swing with global markets, and a failure to build a globally competitive manufacturing sector all kept Brazil locked on that same broken rung of the ladder. Dr. Rathin Roy specifically warned that India risks a similar outcome if it does not correct the way its growth is distributed.
+
+# NITI Aayog's Targets and the Road Out
+
+NITI Aayog's paper sets out goals that look ambitious on paper. India wants to grow its GDP from roughly $3 trillion today to $27 trillion by 2047, and raise the average income per person from about $2,400 to $19,000. To get there, the report argues that India must escape the middle-income trap by generating growth that reaches a much wider base of the population. Dr. Roy's practical suggestion is direct. Instead of relying on subsidies to make essentials affordable, India should focus on producing them more cost-effectively. He uses the textile industry as a concrete example. Indian textile manufacturing is concentrated in states like Gujarat and Tamil Nadu, but the workers who run those factories often migrate from Bihar, Uttar Pradesh, West Bengal, Chhattisgarh, and Odisha. Because wages in manufacturing hubs are higher than in those home states, the cost of production rises. Dr. Roy's argument is that if India were to set up textile production in Bihar and UP instead, using the same skilled workers who already know the trade, wages would be lower, goods would become cheaper, and economic opportunity would spread to regions that have historically been left behind.
+
+# Final Thoughts
+
+The middle-income trap is not an abstract theory written in economics textbooks. Brazil lived it. Several countries in Southeast Asia wrestled with it. India is now at a point where the choices it makes in the next decade will determine which side of that broken rung it lands on. Dr. Rathin Roy's warning that India's growth might be more illusion than reality is an uncomfortable one, but it points at something genuine. An economy that grows by selling luxury goods to a few million wealthy consumers is not the same as an economy that raises the standard of living for hundreds of millions. NITI Aayog's 2047 vision is a statement of ambition. Whether India can back that ambition with the structural changes needed to fix how its growth is distributed is the real question, and the answer will take years to reveal itself.
