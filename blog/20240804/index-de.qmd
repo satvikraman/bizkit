@@ -1,0 +1,42 @@
+---
+title: "Der günstigste Kredit der Welt"
+date: 2024-08-04
+subtitle: "Ich werde Japans Wirtschaft mit einer entschlossenen Geldpolitik wieder aufbauen. — Shinzo Abe"
+description: "Indien nimmt in großem Umfang Kredite auf, aber nicht in US-Dollar. Die neue bevorzugte Währung für große Darlehen ist der japanische Yen, und die Gründe dafür sind überraschend klug."
+image: "./title_20240804.png"
+twitter-card: {image: "./title_20240804.png"}
+open-graph: {image: "./title_20240804.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Im Dezember 2023 sicherte sich die indische Regierung einen Kredit von 250 Millionen Dollar von der Asian Development Bank für das Delhi-Meerut Regional Rapid Transit System. Das ist ein riesiges Projekt, das zwei wichtige Städte in einem schnell wachsenden Korridor verbindet. Aber das Interessante war weder der Betrag noch das Projekt. Das Interessante war die Währung. Das Darlehen war nicht in US-Dollar. Es war in japanischen Yen.
+
+# Warum alle in US-Dollar Kredite aufnehmen
+
+Um zu verstehen, warum Yen-Kredite ungewöhnlich sind, muss man zunächst verstehen, warum der US-Dollar den globalen Kreditmarkt dominiert. Der Dollar ist die Weltreservewährung, was bedeutet, dass der größte Teil des internationalen Handels und der Finanztransaktionen darüber abgewickelt wird. Wenn indische Unternehmen oder die Regierung Geld von ausländischen Banken oder Institutionen leihen möchten, sind die Verträge fast immer in Dollar gehalten. Bis Mitte 2024 belief sich Indiens gesamte Auslandsverschuldung auf 663,8 Milliarden Dollar, davon mehr als die Hälfte in Dollar. Diese Dominanz ist nicht nur eine Gewohnheit, sie ist eine praktische Realität des globalen Handels.
+
+# Wie Japan seine eigene Wirtschaft zerstörte
+
+Um die heutige Attraktivität des Yen zu verstehen, braucht man einen kurzen Ausflug in Japans Wirtschaftsgeschichte. In den 1980er Jahren boomte Japan. Immobilienpreise stiegen, Aktienmärkte erklommen Höchststände, und Menschen nahmen hohe Kredite auf, um zu investieren. Die Regierung wurde besorgt und erhöhte die Zinsen, um die Entwicklung zu bremsen. 1990 platzte die Blase, und was folgte, waren Jahrzehnte mit langsamen Wachstum, sinkenden Löhnen und Banken, die unter faulen Krediten litten.
+
+Als Premierminister Shinzo Abe 2012 wieder an die Macht kam, lancierte er eine Reihe von Wirtschaftsreformen, die als "Abenomics" bezeichnet wurden. Ein wesentlicher Pfeiler war die Zusammenarbeit mit der Bank of Japan, um die Zinsen nahe null zu senken und massiv neues Geld zu drucken. Japan druckte im Rahmen dieser Maßnahme zwischen 60 und 70 Billionen Yen. Mehr Geld im Umlauf bedeutete, dass der Yen an Wert verlor. Japans alternde Bevölkerung sparte mehr und gab weniger aus, was die Zinsen jahrelang niedrig hielt. Bis Mitte 2024 hatte der Yen gegenüber dem Dollar ein 34-Jahres-Tief erreicht.
+
+# Die Rechnung, die Yen-Kredite unwiderstehlich macht
+
+Als indische Unternehmen und staatliche Stellen über Yen-Kredite nachdachten, waren die Zahlen schwer zu ignorieren. Die Zinssätze für Yen-Kredite liegen oft unter 1%, verglichen mit rund 5% für einen typischen US-Dollar-Kredit. Allein dieser Unterschied spart bei großen Summen enorme Beträge an jährlichen Zinszahlungen. Aber die Einsparungen hören da nicht auf. Von Anfang 2023 bis Mitte 2024 wertete die indische Rupie gegenüber dem Yen um rund 18% auf. Das bedeutet, dass der Kreditnehmer bei der Rückzahlung eines Yen-Kredits weniger Rupien benötigt, um die gleiche Menge Yen zu kaufen, was den Kredit in der Praxis noch günstiger macht.
+
+# Der Ansturm auf Yen-Kredite
+
+Zu den Unternehmen und staatlichen Stellen, die bei Yen-Krediten als erste zugriffen, gehören einige der größten Namen Indiens. JSW Steel, REC, PFC und HUDCO sammelten in etwa einem Jahr zusammen mehr als 11.000 Crore Rupien an Yen-Schulden ein. Die Regierung von Tamil Nadu erhielt im April 2024 einen Kredit von 300 Millionen Dollar von der World Bank, um ihre städtischen Wasser- und Sanitärversorgungsdienste zu modernisieren, auch dieser Kredit war in Yen denominiert. Für ein Unternehmen wie JSW Steel, das für seine Expansion großes Kapital benötigt, ist der Unterschied zwischen 1% und 5% Zinsen auf Tausende von Crores keine Kleinigkeit, es ist ein erheblicher strategischer Vorteil. Diese Organisationen zeigten nicht nur Cleverness, sie reagierten rational auf eine historische Gelegenheit, die durch Japans jahrzehntelange wirtschaftliche Schwierigkeiten entstanden war.
+
+# Das Risiko, das niemand vergessen sollte
+
+Es gibt eine warnende Geschichte aus dem anderen Ende der Welt, die jeder Yen-Kreditnehmer kennen sollte. In den frühen 1980er Jahren begannen australische Banken, kleinen Unternehmen und Landwirten Kredite in Schweizer Franken anzubieten, weil die Zinssätze weit unter den lokalen Optionen lagen. Das Konzept funktionierte zunächst gut. Dann fiel der australische Dollar gegenüber dem Schweizer Franken stark, und plötzlich stellten die Kreditnehmer fest, dass der Betrag, den sie in australischen Dollar zurückzahlen mussten, weit über dem lag, was sie ursprünglich aufgenommen hatten. Viele Bauern und Kleinunternehmer gerieten in schwere finanzielle Not, und dies wurde als die "Swiss loans affair" bekannt. Die Lehre ist klar. Ein günstiger Fremdwährungskredit kann sehr teuer werden, wenn sich die Wechselkurse gegen einen wenden.
+
+# Abschließende Gedanken
+
+Indiens Verlagerung zu Yen-Krediten ist eine rationale Reaktion auf eine ungewöhnliche Kombination von Faktoren, ein schwacher Yen, nahezu null Zinsen in Japan und eine stärker werdende Rupie. Für Projekte wie das Delhi-Meerut-Schnellverkehrssystem oder Tamilnadus Wasserinfrastruktur sind die Einsparungen real und erheblich. Aber dieselbe Logik, die diese Kredite heute attraktiv macht, macht sie auch riskant, wenn sich die Umstände ändern. Sollte der Yen gegenüber der Rupie aufwerten, werden Organisationen wie JSW Steel und HUDCO ihre Rückzahlungskosten schnell steigen sehen. Vorerst scheint die Wette klug zu sein, und das Entscheidende ist, dass die Kreditnehmer wissen, dass es eine Wette ist.
