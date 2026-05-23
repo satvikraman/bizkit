@@ -1,0 +1,40 @@
+---
+title: "Der Seifenherstellers Pharmatraum"
+date: 2024-08-18
+subtitle: "\"Das Geheimnis des Geschäfts ist, etwas zu wissen, das sonst niemand weiß.\" — Aristotle Onassis"
+description: "Nirma, das Unternehmen hinter Indiens bekanntestem Waschmittel-Jingle, hat sich gerade an einem Pharmaunternehmen beteiligt. Hier ist, warum ein Seifenhersteller, der in die Pharmaindustrie einsteigt, bedeutender ist als es klingt."
+image: "./title_20240818.png"
+twitter-card: {image: "./title_20240818.png"}
+open-graph: {image: "./title_20240818.png"}
+categories: ["Unternehmensentscheidungen"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Wenn du in Indien aufgewachsen bist, kannst du den Nirma-Jingle höchstwahrscheinlich auswendig summen. "Waschmittel Nirma, Waschmittel Nirma, Nirma!" Diese einprägsame Melodie brachte Millionen indischer Haushalte ein günstiges, phosphatfreies Waschmittel, das in den 1970er Jahren von einem gujaratischen Chemiker namens Karsanbhai Patel entwickelt wurde. Er war der Meinung, dass die Surf-Pakete von Hindustan Lever für gewöhnliche Menschen einfach zu teuer waren. Heute macht dasselbe Unternehmen aus einem völlig anderen Grund Schlagzeilen. Im September 2023 erwarb Nirma einen 75-prozentigen Anteil an einem börsennotierten Pharmaunternehmen namens Glenmark Life Sciences und startete dann ein öffentliches Angebot, um weitere 17% von den Aktionären zu kaufen. Der Seifenhersteller möchte nun ein Pharmaunternehmen werden, und die Geschäftslogik hinter dieser Entscheidung ist deutlich interessanter als der Jingle.
+
+# Was Nirma genau gekauft hat
+
+Glenmark Life Sciences, in der Branche auch GLS genannt, ist kein Unternehmen, das Medikamente verkauft, die man in der Apotheke kauft. Es stellt sogenannte Active Pharmaceutical Ingredients, kurz APIs, her, also die chemischen Rohverbindungen, die in jedem Medikament enthalten sind. Man kann sich ein API wie das Mehl in einem Brot vorstellen, ohne es kann das fertige Produkt nicht existieren. GLS hat eine starke Position bei APIs aufgebaut, die zur Behandlung chronischer Erkrankungen wie Herzerkrankungen, neurologischen Störungen, Diabetes und Schmerzen eingesetzt werden, und diese vier Segmente machen zusammen mehr als 60% des Umsatzes aus. Da Medikamente für chronische Erkrankungen regelmäßig eingenommen werden und nicht einfach durch günstigere Alternativen ersetzt werden können, können die Hersteller dieser APIs bessere Preise verlangen. Deshalb verzeichnet GLS eine EBITDA-Marge von rund 30%, verglichen mit einem Branchendurchschnitt von nur 19%.
+
+# Warum dieses Unternehmen begehrenswert ist
+
+Die Zahlen, die wirklich auffallen, betreffen den Marktanteil. GLS kontrolliert bei mehreren wichtigen Arzneimittelstoffen über 30% des Weltmarkts, was bedeutet, dass es echte Preissetzungsmacht hat und nicht von allen Seiten durch den Wettbewerb unter Druck gesetzt wird. Darüber hinaus fördert die indische Regierung aktiv, dass inländische Unternehmen mehr APIs im Land herstellen, da Indien 70 bis 80% seines API-Bedarfs aus China importiert. Regierungsanreize, diese Produktion zurück auf indischen Boden zu bringen, könnten einem Unternehmen wie GLS direkt zugutekommen, was die Investition für Nirma noch attraktiver erscheinen lässt. GLS ist außerdem kürzlich in den Bereich Onkologie-APIs eingestiegen, die in der Krebsbehandlung eingesetzt werden und die höchsten Margen der gesamten Branche aufweisen.
+
+# Die Geschichte von Glenmark Life Sciences
+
+Glenmark Life Sciences begann sein Leben als interner API-Lieferant für seine Muttergesellschaft Glenmark Pharma. Glenmark Pharma hatte sein Geschäft auf Generika aufgebaut, also Kopien bestehender Medikamente, deren Patente abgelaufen waren, und wollte die Kosten für Rohstoffe durch eigene Herstellung kontrollieren. Doch Glenmark Pharma entschied schließlich, dass seine Zukunft in der Entwicklung völlig neuer Medikamente liegt, was ein deutlich teurerer und zeitaufwändigerer Weg ist und eine ganz andere Art von Investition erfordert, wobei das Unternehmen zusätzlich erhebliche Schulden hatte. Also trennte es das API-Geschäft ab und listete es als eigenständiges Unternehmen an der Börse. Kaum auf eigenen Beinen, fand GLS schnell externe Kunden, und heute kommen nur noch 30% seiner Einnahmen von Glenmark Pharma, was bedeutet, dass Nirma ein Unternehmen kauft, das seine Fähigkeit, eigenständig zu bestehen, bereits bewiesen hat.
+
+# Das Risiko, das Nirma eingeht
+
+Nirma hat bereits früher versucht, sich zu diversifizieren, und die Bilanz ist bestenfalls gemischt. Im Jahr 2004 kaufte Karsanbhai Patels Unternehmen ein angeschlagenes Pharmaunternehmen namens Core Healthcare, das IV-Lösungen herstellte, in der Hoffnung, dieselbe Niedrigpreisstrategie anzuwenden, die Nirma-Waschmittel so erfolgreich gemacht hatte. Doch die Pharmaindustrie erwies sich als ein völlig anderes Spiel, andere kleine Hersteller glichen Core's Preise aus, Qualitätsbedenken tauchten auf, und Nirma konnte das Unternehmen nicht umkehren. Dann zahlte Nirma 2016 rund 9.000 Crore, um das indische Geschäft des Zementherstellers Lafarge zu kaufen, und übernahm später auch Emamis Zementsegment, wodurch ein Unternehmen namens Nuvoco Vistas entstand, das zum fünftgrößten Zementhersteller des Landes wurde. Diese Wette hat die erhofften Ergebnisse nicht gebracht, da die Nuvoco-Vistas-Aktie seit der Börsennotierung um rund 30% gefallen ist. Viele Anleger fragen sich, ob GLS sich wirklich von diesen früheren Experimenten unterscheidet oder ob sich die Geschichte wiederholen wird.
+
+# Was das CDMO-Geschäft bedeuten könnte
+
+Ein Bereich, in dem GLS erheblichen neuen Mehrwert schaffen könnte, ist das CDMO-Geschäft, was für Contract Development and Manufacturing Organisation steht. Ein CDMO fungiert als Vollservicepartner für große Pharmaunternehmen und übernimmt alles von der Formulierungsentwicklung über die Unterstützung klinischer Studien bis hin zu Verpackung und Supply-Chain-Management. Auf alle technischen Details der Arbeitsweise eines CDMO einzugehen, würde den Rahmen dieses Beitrags sprengen, aber der entscheidende Punkt ist, dass diese Art von Geschäft weit höhere Margen erzielt als die bloße Lieferung von Roh-APIs, weil der Kunde nicht für ein Rohprodukt, sondern für Fachwissen und Zuverlässigkeit zahlt. GLS hat dieses Segment in seinen Jahresberichten als große Wachstumspriorität hervorgehoben. Wenn Nirma das nötige Kapital und die Stabilität mitbringen kann, um diesen Bereich richtig aufzubauen, könnte das das finanzielle Profil von GLS vollständig verändern.
+
+# Abschließende Gedanken
+
+Nirmas Einstieg bei Glenmark Life Sciences ist eine Wette darauf, dass die Stärken, die ein günstiges Waschmittel zum Haushaltsnamen gemacht haben, nämlich Kostendisziplin und die Bereitschaft, Märkte zu bedienen, die andere ignorieren, sich auch in der Pharmabranche übertragen lassen. GLS ist ein wirklich starkes Unternehmen mit soliden Margen, echtem globalem Marktanteil und einem Rückenwind durch die Regierung. Ob Nirma das aufrechterhalten und ausbauen kann, ohne die früheren Fehler bei Core Healthcare oder Nuvoco Vistas zu wiederholen, ist die Frage, die dieses Kapitel von Karsanbhai Patels bemerkenswerter Unternehmensreise definieren wird. Für alle, die lernen möchten, wie Kapitalmärkte und Unternehmensstrategie funktionieren, ist diese Geschichte eine nützliche Erinnerung daran, dass der Kauf eines guten Unternehmens nur die Hälfte der Gleichung ist, und es besser zu machen ist der Teil, der wirklich zählt.
