@@ -1,0 +1,40 @@
+---
+title: "Borrowed Names, Borrowed Time"
+date: 2026-05-23
+subtitle: "\"Brand is just a perception, and perception will match reality over time.\" — Elon Musk"
+description: "Jyothy Labs spent 15 years turning Pril into one of India's top dishwash brands. Then Henkel AG walked in and asked for it back. The story of how a licensing deal quietly determined the fate of a company."
+image: "./title_20260523.png"
+twitter-card: {image: "./title_20260523.png"}
+open-graph: {image: "./title_20260523.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+On a Monday in May 2026, shares of Jyothy Labs fell more than 11% in a single trading session. The stock had already dropped 55% from its all-time high, so this was not just a bad day. It was the market reacting to one specific piece of news from Germany. Henkel AG, a large consumer goods company, had told Jyothy Labs that it would not be renewing the licensing agreements for the Pril dishwash brand and the Fa personal care brand once they expired on May 31st, 2026. To understand why that announcement hit Jyothy so hard, you first need to understand what a brand license actually is and why borrowing a name is fundamentally different from owning one.
+
+# What Is a Brand License
+
+A brand license is a formal agreement where the company that owns a brand, called the licensor, gives another company, called the licensee, permission to use that brand name to manufacture and sell products. The licensee pays fees or royalties in return for access to a brand that consumers already recognise and trust. For the licensee, it is a shortcut into the market. But the shortcut comes with a built-in expiry date, because the brand never truly belongs to the licensee and can be taken back once the contract runs out. Jyothy Labs was the licensee for Pril and Fa in India, which meant it had the right to sell those products but not the right to keep them forever.
+
+# How Jyothy Labs Got Here
+
+Jyothy Labs is a company most people associate with Ujala, the bright blue fabric whitener that M.P. Ramachandran started selling door-to-door in Kerala in 1983 with initial capital of just 5,000 rupees. By 2011, the company had grown enough to acquire a 50.97% stake in Henkel's India consumer business for 118.7 crore rupees. But that deal came in three very different forms. Some brands like Margo soap and Chek detergent were permanently transferred to Jyothy Labs, while others like Henko and Mr. White came with lifetime licensing agreements. And then there were Pril and Fa, which came with fixed-term licenses expiring after exactly 15 years, meaning Jyothy knew from day one that these brands were borrowed.
+
+# The Value of a Name in FMCG
+
+The FMCG industry, which stands for Fast Moving Consumer Goods, is built on brand loyalty. A consumer in a supermarket picks up a product within seconds and almost always reaches for a name they recognise. Jyothy Labs understood this well, and over 15 years it poured money into advertising, expanded its distribution to nearly 4 million retail outlets, and turned Pril into a brand commanding a 13% market share in the liquid dishwash segment, which happens to be the fastest-growing part of the dishwashing market. Part of why this matters so much is the economics of dishwash liquids compared to dishwash bars. Liquids come in bottles and pump formats that feel more premium, they are used faster and replenished more often, and companies can charge significantly more per use, making liquid dishwash the most profitable slice of the category.
+
+# The Story Behind the Numbers
+
+The human story inside this corporate event is striking. When M.P. Ramachandran's team first acquired the Henkel brands in 2011, Pril was actually a struggling product at the time, because Henkel had been running all of India from a single manufacturing plant in Karaikal, Puducherry, and the transport costs were eating nearly 10% of its profit margins. Jyothy then spent 15 years rebuilding that business from the ground up, expanding to 23 manufacturing plants, building a direct distribution network reaching 1.4 million outlets, and transforming Pril into a premium urban brand that consumers actively sought out. The irony is that the harder Jyothy worked, the more valuable a brand it was handing back to Henkel at the end of the contract. Analysts at Equirus Securities estimate the loss of Pril and Fa could shave 6 to 8% of revenues in FY27, but the damage to profits could be far sharper at 14 to 16%, because these were the company's higher-margin products.
+
+# What Jyothy Does Now
+
+The company's most immediate answer is its own brand Exo, which has long held a strong position in the dishwash bar category with a 14% market share. But converting Exo into a serious competitor in the premium liquid segment is genuinely hard work. Exo built its identity as an affordable product in Tier 2 and Tier 3 cities, and changing consumer perception toward a premium positioning is not done quickly. Jyothy does have 997 crore rupees in cash and an almost debt-free balance sheet, which gives it the firepower to invest heavily in Exo Liquid if it chooses to. The bigger worry is that Henkel, now that Pril is back in its hands and it has already been quietly rebuilding its India presence through Schwarzkopf hair care products, could re-enter the market and compete directly against the brand that Jyothy spent 15 years building from scratch.
+
+# Final Thoughts
+
+The Jyothy Labs story is a clear reminder that in business, not everything you build belongs to you. Jyothy turned Pril from a struggling brand into a market leader, but because the license was fixed at 15 years and not forever, the brand walked out the door with Henkel when the time was up. The concept here is straightforward but important: building value on someone else's asset is always a risk, because the value you create can end up benefiting the original owner when the contract expires. For Jyothy Labs, the next chapter is about proving that what it really built over 15 years was not Pril, but the capability to create a market-leading brand. Whether Exo Liquid can carry that story forward is the question India's investors are watching very carefully now.

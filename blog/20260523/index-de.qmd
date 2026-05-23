@@ -1,0 +1,40 @@
+---
+title: "Geliehene Namen, geliehene Zeit"
+date: 2026-05-23
+subtitle: "\"Eine Marke ist nur eine Wahrnehmung, und Wahrnehmung wird mit der Zeit zur Realität.\" — Elon Musk"
+description: "Jyothy Labs hat 15 Jahre damit verbracht, Pril zu einer der führenden Geschirrspülmarken Indiens zu machen. Dann kam Henkel AG und verlangte sie zurück. Die Geschichte, wie ein Lizenzvertrag das Schicksal eines Unternehmens bestimmte."
+image: "./title_20260523.png"
+twitter-card: {image: "./title_20260523.png"}
+open-graph: {image: "./title_20260523.png"}
+categories: ["Unternehmensentscheidungen"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+An einem Montag im Mai 2026 fielen die Aktien von Jyothy Labs in einer einzigen Handelssitzung um mehr als 11%. Die Aktie war bereits 55% von ihrem Allzeithoch gefallen, also war das kein gewöhnlich schlechter Tag. Der Markt reagierte auf eine ganz bestimmte Nachricht aus Deutschland. Henkel AG, ein großes Konsumgüterunternehmen, hatte Jyothy Labs mitgeteilt, dass es die Lizenzvereinbarungen für die Geschirrspülmarke Pril und die Körperpflegemarke Fa nach dem 31. Mai 2026 nicht verlängern würde. Um zu verstehen, warum diese Ankündigung Jyothy so hart getroffen hat, muss man zunächst verstehen, was eine Markenlizenz eigentlich ist und warum das Ausleihen eines Namens sich grundlegend vom Besitzen eines solchen unterscheidet.
+
+# Was ist eine Markenlizenz
+
+Eine Markenlizenz ist eine formelle Vereinbarung, bei der das Unternehmen, dem die Marke gehört, der sogenannte Lizenzgeber, einem anderen Unternehmen, dem sogenannten Lizenznehmer, die Erlaubnis erteilt, diese Marke zur Herstellung und zum Verkauf von Produkten zu nutzen. Der Lizenznehmer zahlt Gebühren oder Lizenzgebühren im Austausch für den Zugang zu einer Marke, die Verbraucher bereits kennen und vertrauen. Für den Lizenznehmer ist das ein schneller Weg in den Markt. Dieser Weg hat jedoch ein eingebautes Ablaufdatum, denn die Marke gehört dem Lizenznehmer nie wirklich, und sie kann nach Vertragsende zurückgenommen werden. Jyothy Labs war der Lizenznehmer für Pril und Fa in Indien, was bedeutete, dass das Unternehmen das Recht hatte, diese Produkte zu verkaufen, aber nicht das Recht, sie für immer zu behalten.
+
+# Wie Jyothy Labs dorthin gelangte
+
+Jyothy Labs ist ein Unternehmen, das die meisten Menschen mit Ujala verbinden, dem leuchtend blauen Waschmittelaufheller, den M.P. Ramachandran 1983 in Kerala mit einem Startkapital von nur 5.000 Rupien begann, von Haus zu Haus zu verkaufen. Bis 2011 war das Unternehmen so weit gewachsen, dass es einen Anteil von 50,97% an Henkels indischem Verbrauchergeschäft für 118,7 Crore Rupien kaufen konnte. Doch dieser Deal kam in drei sehr unterschiedlichen Formen. Einige Marken wie Margo-Seife und Chek-Waschmittel wurden dauerhaft an Jyothy Labs übertragen, während andere wie Henko und Mr. White mit lebenslangen Lizenzvereinbarungen kamen. Und dann gab es Pril und Fa, die mit Festlaufzeitlizenzen kamen, die nach genau 15 Jahren abliefen, was bedeutete, dass Jyothy von Anfang an wusste, dass diese Marken geliehen waren.
+
+# Der Wert eines Namens im FMCG-Bereich
+
+Die FMCG-Branche, also Fast Moving Consumer Goods, ist auf Markentreue aufgebaut. Ein Verbraucher im Supermarkt greift innerhalb von Sekunden zu einem Produkt und sucht fast immer nach einem Namen, den er kennt. Jyothy Labs hat das gut verstanden und über 15 Jahre hinweg Geld in Werbung investiert, den Vertrieb auf fast 4 Millionen Einzelhandelsgeschäfte ausgeweitet und Pril zu einer Marke mit 13% Marktanteil im Segment der flüssigen Geschirrspülmittel gemacht, das der am schnellsten wachsende Teil des Geschirrspülmarktes ist. Das ist deshalb so wichtig, weil die Wirtschaftlichkeit von Geschirrspülflüssigkeiten und Geschirrspülriegeln sehr unterschiedlich ist. Flüssige Produkte kommen in Flaschen und Pumpspenderformaten, die hochwertiger wirken, sie werden schneller verbraucht und häufiger nachgekauft, und Unternehmen können pro Nutzung deutlich mehr verlangen, was flüssige Geschirrspülmittel zum profitabelsten Teil dieser Kategorie macht.
+
+# Die Geschichte hinter den Zahlen
+
+Die menschliche Geschichte hinter diesem Unternehmensereignis ist bemerkenswert. Als das Team von M.P. Ramachandran die Henkel-Marken 2011 übernahm, war Pril damals tatsächlich ein kämpfendes Produkt, weil Henkel ganz Indien von einem einzigen Produktionswerk in Karaikal, Puducherry, aus betrieb und die Transportkosten fast 10% der Gewinnmargen aufzehrten. Jyothy baute dieses Geschäft dann von Grund auf neu auf, expandierte auf 23 Produktionswerke, baute ein Vertriebsnetz auf, das 1,4 Millionen Geschäfte direkt erreicht, und verwandelte Pril in eine Premium-Stadtmarke, die Verbraucher aktiv suchten. Die Ironie ist, dass je härter Jyothy arbeitete, desto wertvoller war die Marke, die es am Ende des Vertrags an Henkel zurückgeben würde. Analysten von Equirus Securities schätzen, dass der Verlust von Pril und Fa in FY27 den Umsatz um 6 bis 8% senken könnte, aber der Schaden für die Gewinne könnte mit 14 bis 16% weit schärfer ausfallen, da dies die Produkte mit den höchsten Margen des Unternehmens waren.
+
+# Was Jyothy jetzt tut
+
+Die unmittelbarste Antwort des Unternehmens ist seine eigene Marke Exo, die im Segment der Geschirrspülriegel mit einem Marktanteil von 14% seit langem eine starke Stellung innehat. Aber Exo zu einem ernsthaften Wettbewerber im Premium-Flüssigsegment zu machen, ist wirklich harte Arbeit. Exo hat seine Identität als erschwingliches Produkt in Tier-2- und Tier-3-Städten aufgebaut, und die Verbraucherwahrnehmung in Richtung einer Premium-Positionierung zu verändern, geht nicht schnell. Jyothy verfügt über 997 Crore Rupien Bargeld und eine nahezu schuldenfreie Bilanz, die dem Unternehmen die Möglichkeit gibt, massiv in Exo Liquid zu investieren, wenn es das wählt. Die größere Sorge ist, dass Henkel, nun da Pril wieder in seinen Händen ist und es seine Präsenz in Indien bereits über Schwarzkopf-Haarpflegeprodukte leise wieder aufbaut, in den Markt zurückkehren und direkt gegen die Marke konkurrieren könnte, die Jyothy 15 Jahre lang aufgebaut hat.
+
+# Abschließende Gedanken
+
+Die Geschichte von Jyothy Labs ist eine klare Erinnerung daran, dass im Geschäftsleben nicht alles, was man aufbaut, einem gehört. Jyothy verwandelte Pril von einer kämpfenden Marke in einen Marktführer, aber weil die Lizenz auf 15 Jahre und nicht auf immer festgelegt war, ging die Marke mit Henkel, als die Zeit abgelaufen war. Das Konzept hier ist einfach, aber wichtig: Wert auf dem Vermögen eines anderen aufzubauen ist immer ein Risiko, weil der Wert, den man schafft, bei Vertragsende dem ursprünglichen Eigentümer zugutekommen kann. Für Jyothy Labs geht es im nächsten Kapitel darum zu beweisen, dass das, was es in 15 Jahren wirklich aufgebaut hat, nicht Pril war, sondern die Fähigkeit, eine marktführende Marke zu schaffen. Ob Exo Liquid diese Geschichte weitertragen kann, ist die Frage, die Indiens Investoren jetzt sehr genau beobachten.
