@@ -1,0 +1,36 @@
+---
+title: "The Government's Expensive Gold Promise"
+date: 2024-08-25
+subtitle: "\"The government solution to a problem is usually as bad as the problem.\" — Milton Friedman"
+description: "India's Sovereign Gold Bond scheme was meant to wean the country off physical gold and save the government money. Nine years later, soaring gold prices have turned a clever idea into a very costly one."
+image: "./title_20240825.png"
+twitter-card: {image: "./title_20240825.png"}
+open-graph: {image: "./title_20240825.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Imagine you lend your friend 100 rupees and promise to pay them back whatever that money is worth in gold eight years from now, plus a little extra interest on top. If gold prices stay flat, that is a perfectly sensible deal. But if gold prices triple, you are suddenly on the hook for 300 rupees plus interest, having originally pocketed only 100. That is roughly the situation the Indian government finds itself in today with Sovereign Gold Bonds, or SGBs, the scheme it launched back in 2015 with then-Finance Minister Arun Jaitley and the Reserve Bank of India hoping to solve two big problems at once. What looked like a clever policy when gold prices were sliding has quietly turned into one of the more expensive financial commitments the government has made in recent years.
+
+# What an SGB Actually Is
+
+A Sovereign Gold Bond is a paper instrument issued by the RBI that tracks the price of gold. Instead of walking into a jewellery store and buying a 10-gram coin, you buy a bond that represents the same amount of gold in value. The bond pays you a fixed annual interest of 2.5% every year, and when you hold it for the full eight-year term, any profit you make from the rise in gold prices is completely tax-free. The issue price is calculated using the average closing price of the highest purity gold, which is called 999 gold, over the last three business days before the subscription window opens. This mechanism ensures the bond always reflects current market prices, making it a financially sound alternative to buying physical gold and storing it somewhere.
+
+# The Two Problems the Government Wanted to Solve
+
+In 2015, the Indian economy was dealing with a persistent problem around gold imports. Indians were buying enormous quantities of physical gold every year, and since India mines almost none of its own gold, virtually all of it had to be imported and paid for in foreign currency. This put pressure on the current account, which is the account that tracks all the money flowing in and out of the country. A large current account deficit weakens the rupee and creates broader economic instability, and the RBI had already been dealing with a painful currency crisis in 2013. SGBs offered a way to redirect that demand for gold into a paper instrument, keeping the money inside the Indian financial system rather than sending it abroad. At the same time, the government could borrow this money from investors at just 2.5% interest, far cheaper than the roughly 7% it would have to pay on a regular government bond.
+
+# The Story That Explains the Problem
+
+The first tranche of SGBs was issued in November 2015, raising 245 crores of rupees at a gold price of 2,684 rupees per gram. At that point the government expected a relatively modest payout eight years down the line, since gold had actually been falling in price for a few years before the scheme launched. But gold had other plans. By the time those first bonds matured, gold was trading at 6,132 rupees per gram, a 128% increase. The RBI had to pay back investors at this new, much higher price, plus all the interest it had accumulated over eight years. In total, the government ended up paying back 609 crores on the 245 crores it had originally raised. A regular government bond paying 7% over 10 years would have cost about 416 crores for the same amount borrowed. The extra bill from choosing SGBs instead came to around 193 crores, for that one batch alone. There are 67 batches in total, and 63 of them have not yet matured.
+
+# Why the Original Bet Made Sense at the Time
+
+It is worth being fair to Arun Jaitley and the RBI here. When the scheme was designed, gold had been in a multi-year slump. Between 2012 and 2015, gold prices in India had fallen by about 15%, and there was no obvious reason to expect a sudden turnaround. Betting that gold would stay quiet or decline further, while offering investors a modest 2.5% interest rate on a government-backed instrument, was a reasonable gamble. The problem with commodities is that their prices are driven by forces that are very hard to predict, including global conflict, central bank buying decisions, and investor panic during economic uncertainty. All of these factors converged after 2015 to push gold prices up sharply. Between 2015 and August 2024, gold prices in India rose by an extraordinary 180%, turning a cheap borrowing tool into a liability that grows with every passing year.
+
+# Final Thoughts
+
+The SGB story is a useful lesson in how good policy intentions can collide with unpredictable markets. The scheme genuinely achieved some of its goals in the early years, it gave investors a safe and regulated way to hold gold, and it channelled some demand away from physical imports. But the financial cost of the gold price surge has forced the government to reconsider. New SGB issuances have been quietly scaled back, with the target for FY25 cut from 29,600 crores to 18,500 crores. The government still has 63 tranches of outstanding bonds to honour before 2032, and if gold prices keep rising, that bill will only grow. For anyone trying to understand how government finance works, this is a clear example of why policy designers must think hard about the worst-case scenario, not just the most likely one.

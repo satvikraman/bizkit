@@ -1,0 +1,36 @@
+---
+title: "Das teure Goldversprechen der Regierung"
+date: 2024-08-25
+subtitle: "\"Die staatliche Lösung für ein Problem ist meistens genauso schlimm wie das Problem selbst.\" — Milton Friedman"
+description: "Indiens Sovereign Gold Bond Programm sollte das Land von physischem Gold entwöhnen und der Regierung Geld sparen. Neun Jahre später haben steigende Goldpreise aus einer cleveren Idee eine sehr kostspielige gemacht."
+image: "./title_20240825.png"
+twitter-card: {image: "./title_20240825.png"}
+open-graph: {image: "./title_20240825.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Stell dir vor, du leihst deinem Freund 100 Rupien und versprichst, ihm in acht Jahren den Gegenwert in Gold zurückzuzahlen, plus etwas Zinsen obendrauf. Wenn der Goldpreis gleich bleibt, ist das ein vollkommen sinnvolles Geschäft. Wenn der Preis sich aber verdreifacht, musst du plötzlich 300 Rupien plus Zinsen zurückzahlen, obwohl du ursprünglich nur 100 eingesteckt hast. Ungefähr in dieser Lage befindet sich die indische Regierung heute mit den Sovereign Gold Bonds, kurz SGB, dem Programm, das sie 2015 zusammen mit dem damaligen Finanzminister Arun Jaitley und der Reserve Bank of India gestartet hat, in der Hoffnung, zwei grosse Probleme auf einmal zu lösen. Was wie eine clevere Politik wirkte, als die Goldpreise noch sanken, hat sich still und leise zu einer der kostspieligsten finanziellen Verpflichtungen entwickelt, die die Regierung in den letzten Jahren eingegangen ist.
+
+# Was ein SGB wirklich ist
+
+Ein Sovereign Gold Bond ist ein von der RBI ausgegebenes Papierinstrument, das den Goldpreis nachbildet. Statt in ein Schmuckgeschäft zu gehen und eine 10-Gramm-Münze zu kaufen, kaufst du eine Anleihe, die denselben Goldwert darstellt. Die Anleihe zahlt dir jedes Jahr einen festen Zinssatz von 2,5%, und wenn du sie die vollen acht Jahre hältst, ist jeder Gewinn aus dem Anstieg des Goldpreises vollständig steuerfrei. Der Ausgabepreis wird auf Basis des durchschnittlichen Schlusskurses von Gold höchster Reinheit, sogenanntem 999-Gold, über die letzten drei Handelstage vor dem Zeichnungsfenster berechnet. Dieser Mechanismus stellt sicher, dass die Anleihe stets den aktuellen Marktpreis widerspiegelt, was sie zu einer finanziell soliden Alternative gegenüber dem Kauf und der Lagerung von physischem Gold macht.
+
+# Welche zwei Probleme die Regierung lösen wollte
+
+Im Jahr 2015 kämpfte die indische Wirtschaft mit einem anhaltenden Problem rund um Goldimporte. Inder kaufen jedes Jahr riesige Mengen physisches Gold, und da Indien selbst kaum Gold abbaut, muss nahezu alles mit Fremdwährung importiert werden. Das belastete das Leistungskonto, also das Konto, das alle Geldflüsse in das Land hinein und aus dem Land heraus erfasst. Ein grosses Leistungsbilanzdefizit schwächt die Rupie und erzeugt wirtschaftliche Instabilität, und die RBI hatte bereits 2013 eine schmerzhafte Währungskrise erlebt. SGBs boten einen Weg, diese Goldnachfrage in ein Papierinstrument umzulenken, sodass das Geld im indischen Finanzsystem bleibt, anstatt ins Ausland zu fliessen. Gleichzeitig konnte sich die Regierung dieses Geld von Investoren zu lediglich 2,5% Zinsen leihen, was weit günstiger ist als die rund 7%, die sie auf eine normale Staatsanleihe zahlen müsste.
+
+# Die Geschichte, die das Problem erklärt
+
+Die erste Tranche der SGBs wurde im November 2015 ausgegeben, wobei bei einem Goldpreis von 2.684 Rupien pro Gramm 245 Crore Rupien eingesammelt wurden. Zu diesem Zeitpunkt rechnete die Regierung mit einer vergleichsweise bescheidenen Auszahlung acht Jahre später, da der Goldpreis in den Jahren vor dem Programmstart tatsächlich gesunken war. Aber das Gold hatte andere Pläne. Als diese ersten Anleihen fällig wurden, notierte Gold bei 6.132 Rupien pro Gramm, ein Anstieg von 128%. Die RBI musste den Investoren zu diesem neuen, deutlich höheren Preis zurückzahlen, zuzüglich aller über acht Jahre angesammelten Zinsen. Insgesamt zahlte die Regierung 609 Crore auf die ursprünglich eingenommenen 245 Crore zurück. Eine normale Staatsanleihe mit 7% Zinsen über 10 Jahre hätte für denselben Betrag rund 416 Crore gekostet. Die Mehrkosten durch die Wahl der SGBs beliefen sich allein für diese eine Tranche auf etwa 193 Crore. Es gibt insgesamt 67 Tranchen, und 63 davon sind noch nicht fällig.
+
+# Warum die ursprüngliche Wette damals sinnvoll wirkte
+
+Es ist wichtig, hier fair gegenüber Arun Jaitley und der RBI zu sein. Als das Programm entworfen wurde, befand sich Gold in einem mehrjährigen Abwärtstrend. Zwischen 2012 und 2015 sanken die Goldpreise in Indien um etwa 15%, und es gab keinen offensichtlichen Grund, eine plötzliche Wende zu erwarten. Darauf zu setzen, dass Gold ruhig bleibt oder weiter fällt, während man sich von Investoren zu einem bescheidenen Zinssatz von 2,5% auf ein staatlich gedecktes Instrument Geld leiht, war eine vernünftige Wette. Das Problem bei Rohstoffen ist, dass ihre Preise von Kräften getrieben werden, die sehr schwer vorherzusagen sind, darunter globale Konflikte, Kaufentscheidungen der Zentralbanken und die Panik der Investoren in Zeiten wirtschaftlicher Unsicherheit. All diese Faktoren kamen nach 2015 zusammen und trieben die Goldpreise stark nach oben. Zwischen 2015 und August 2024 stiegen die Goldpreise in Indien aussergewöhnlich um 180%, was aus einem günstigen Finanzierungsinstrument eine Verbindlichkeit machte, die mit jedem Jahr wächst.
+
+# Abschliessende Gedanken
+
+Die SGB-Geschichte ist eine lehrreiche Lektion darüber, wie gute politische Absichten auf unvorhersehbare Märkte treffen können. Das Programm hat in den Anfangsjahren einige seiner Ziele wirklich erreicht, es gab Investoren einen sicheren und regulierten Weg, Gold zu halten, und es lenkte einen Teil der Nachfrage weg von physischen Importen. Aber die finanziellen Kosten des Goldpreisanstiegs haben die Regierung zum Umdenken gezwungen. Neue SGB-Ausgaben werden still und leise zurückgefahren, das Ziel für FY25 wurde von 29.600 Crore auf 18.500 Crore gesenkt. Die Regierung hat noch 63 ausstehende Tranchen, die vor 2032 bedient werden müssen, und wenn die Goldpreise weiter steigen, wird diese Rechnung nur grösser. Für jeden, der verstehen möchte, wie Staatsfinanzierung funktioniert, ist dies ein klares Beispiel dafür, warum Politikgestalter ernsthaft über das schlimmste Szenario nachdenken müssen, nicht nur über das wahrscheinlichste.
