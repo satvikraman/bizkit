@@ -1,0 +1,36 @@
+---
+title: "Die lange Reise der Rupie in Richtung Einhundertfünfzig"
+date: 2026-05-24
+subtitle: "\"Inflation ist Besteuerung ohne Gesetzgebung.\" — Milton Friedman"
+description: "Die Rupie hat mit 96 ein historisches Tief gegenüber dem Dollar erreicht, und die Menschen fragen ernsthaft, ob sie bis auf 150 fallen könnte. Hier sind die echten Gründe hinter dieser Befürchtung."
+image: "./title_20260524.png"
+twitter-card: {image: "./title_20260524.png"}
+open-graph: {image: "./title_20260524.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Wer heute durch die sozialen Medien scrollt oder einen Finanz-Podcast hört, begegnet fast unweigerlich einer großen Zahl: 150. Das heißt, es könnte bald 150 Rupien kosten, um einen einzigen US-Dollar zu kaufen. Noch vor Kurzem wäre das wie reine Fantasie geklungen, aber die Rupie liegt gerade bei rund 96 zum Dollar, was bereits ein historisches Tief ist, und sie hat im Jahr 2026 bereits mehr als 7% ihres Wertes verloren. Damit ist die indische Rupie in diesem Jahr die am schlechtesten abschneidende Währung in Asien. Wenn sowohl normale Menschen als auch Wirtschaftswissenschaftler beginnen, eine Zahl als ernsthafte Möglichkeit zu betrachten, lohnt es sich, innezuhalten und zu fragen, wie Währungen überhaupt ihren Wert verlieren.
+
+# Warum Währungen mit der Zeit an Wert verlieren
+
+Als Indien seine Wirtschaft 1991 öffnete, kostete ein US-Dollar rund 17 Rupien. Bis 2025 war derselbe Dollar auf rund 90 Rupien gestiegen, was wie ein dramatischer Einbruch wirkt, bis man erkennt, dass dieser über 34 lange Jahre mit einem durchschnittlichen Tempo von etwa 4,5% pro Jahr geschah. Wirtschaftswissenschaftler erklären diesen schrittweisen Rückgang durch ein Konzept namens Purchasing Power Parity, also die Idee, dass sich Wechselkurse mit der Zeit anpassen und widerspiegeln, wie schnell die Preise in den verschiedenen Ländern steigen. In Indien sind die Preise historisch gesehen schneller gestiegen als in den USA, sodass im Laufe vieler Jahre mehr Rupien benötigt werden, um die Kaufkraft eines Dollars auszugleichen. Auf die genauen Mechanismen der Purchasing Power Parity einzugehen, würde den Rahmen dieses Beitrags sprengen, aber die wichtigste Erkenntnis ist folgende: Ein gewisser Rückgang der Rupie pro Jahr ist völlig normal und erwartet und kein automatisches Anzeichen einer Krise.
+
+# Was 2026 anders macht
+
+Was den aktuellen Moment beunruhigend macht, ist, dass mehrere ungewöhnliche Druckfaktoren gleichzeitig aufgetaucht sind. Die Ölpreise sind aufgrund der anhaltenden Westasien-Krise auf über 110 Dollar pro Barrel gestiegen, und Indien importiert rund 85% seines Rohölbedarfs. Wenn Öl so teuer ist, brauchen Unternehmen und Importeure viel mehr Dollar, um ihre Kraftstoffrechnungen zu bezahlen, und um diese Dollar zu bekommen, verkaufen sie Rupien und überschwemmen den Markt mit indischer Währung. Wenn mehr Rupien um dieselbe Anzahl von Dollars konkurrieren, schwächt sich die Rupie ab, und diese Schwäche macht den nächsten Ölimport in Rupien noch teurer. Dazu kommt, dass ausländische Portfolio-Investoren im Jahr 2026 bereits mehr als 2,17 Billionen Rupien aus den indischen Märkten abgezogen haben, was bereits mehr ist als die 1,66 Billionen Rupien, die sie im gesamten Jahr 2025 abgezogen haben.
+
+# Geld fließt ab und kommt nicht zurück
+
+Indiens Leistungsbilanzdefizit misst, wie viel mehr durch Importe aus dem Land abfließt als durch Exporte hereinkommt, und es liegt derzeit auf einem überschaubaren Niveau von unter 1% des BIP. Analysten warnen jedoch, dass es auf 2% steigen könnte, da die Ölpreise hoch bleiben und ausländisches Geld weiter abfließt. Die ausländischen Direktinvestitionen, also solche, bei denen Unternehmen Fabriken bauen und dauerhafte Arbeitsplätze schaffen, erreichten in FY25 einen Rekordwert von 81 Milliarden Dollar. Das Problem ist, dass viele ausländische Firmen, die im letzten Jahrzehnt stark in Indien investiert haben, nun ihre Gewinne nach Hause schicken, während indische Unternehmen ebenfalls mehr Geld im Ausland investieren. Geld kommt also herein, fließt aber mehr als zuvor ab, und diese wachsende Lücke muss aus Indiens Devisenreserven gedeckt werden.
+
+# Das Versprechen der RBI, das eingelöst werden muss
+
+Ein Detail aus dieser ganzen Geschichte, das in alltäglichen Gesprächen selten erwähnt wird, ist das, was die Reserve Bank of India still und leise an den sogenannten Terminmärkten tut. Wenn zu viele Importeure gleichzeitig um Dollars konkurrieren und die Rupie zum Absturz zu bringen drohen, verspricht die RBI manchmal, Dollar zu einem späteren Zeitpunkt zu liefern, anstatt sie sofort aus den Reserven zu verkaufen. Vor wenigen Wochen überschritt die Netto-Short-Dollar-Position Indiens an diesen Terminmärkten zum ersten Mal in der Geschichte die Marke von 100 Milliarden Dollar. Das bedeutet, dass die RBI Zukunftsverpflichtungen im Wert von 100 Milliarden Dollar eingegangen ist, um die Rupie heute stabil erscheinen zu lassen. Wenn diese Verpflichtungen fällig werden, muss die RBI echte Dollars liefern, was zu diesem Zeitpunkt seinen eigenen Druck auf die Währung erzeugt. Das Instrument, das heute zum Schutz der Rupie eingesetzt wird, borgt sich gewissermaßen Stabilität aus der Zukunft, und diese Rechnung wird irgendwann ankommen.
+
+# Abschließende Gedanken
+
+Dass die Rupie 150 zum Dollar erreicht, gehört nicht mehr nur zu den extremen Worst-Case-Szenarien. Es ist das Ende eines Weges, den Indien bereits beschreitet, und die eigentliche Frage ist nur das Tempo. Es gibt eine Messgröße namens Real Effective Exchange Rate, die Inflationsunterschiede zwischen Ländern bereinigt. Auf deren Details einzugehen würde den Rahmen dieses Beitrags sprengen, aber sie ist in diesem Jahr bereits auf ihren tiefsten Stand seit 2014 gefallen. Die meisten führenden Analysten sagen bereits voraus, dass die Rupie bis 2027 die 98 überschreiten und sich der psychologisch wichtigen Marke von 100 nähern wird, was gar nicht so weit entfernt ist. Eine schwächere Rupie bedeutet teureres Öl, höhere Kosten für importierte Medikamente und Elektronik sowie langsam schmelzende Ersparnisse für normale Familien. Im Moment ist 150 sowohl ein reales Ziel als auch eine nützliche Erinnerung daran, dass Währungen ihrer eigenen langsamen, unerbittlichen Logik folgen, und niemand, nicht einmal die RBI, kann dieser Logik auf Dauer entgegenwirken.

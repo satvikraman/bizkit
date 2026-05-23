@@ -1,0 +1,36 @@
+---
+title: "The Rupee's Long Walk to One-Fifty"
+date: 2026-05-24
+subtitle: "\"Inflation is taxation without legislation.\" — Milton Friedman"
+description: "The rupee has hit a record low of 96 to the dollar, and people are seriously asking if it could fall all the way to 150. Here is what is actually driving that fear, and how much of it is real."
+image: "./title_20260524.png"
+twitter-card: {image: "./title_20260524.png"}
+open-graph: {image: "./title_20260524.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Scroll through social media today or tune into a financial podcast, and you will almost certainly run into one loud number: 150. As in, it could soon take 150 rupees to buy a single US dollar. Not too long ago, that would have sounded like pure fantasy, but the rupee is sitting at around 96 to the dollar right now, which is already a record low, and it has shed more than 7% of its value in 2026 alone. That makes the Indian rupee the worst-performing currency in Asia this year. When both ordinary people and economists start treating a number as a serious possibility rather than an extreme edge case, it is worth slowing down and asking how currencies lose their value in the first place.
+
+# Why Currencies Lose Value Over Time
+
+When India opened up its economy in 1991, one US dollar cost about 17 rupees. By 2025, that same dollar cost close to 90 rupees, which looks like a dramatic collapse until you realise it happened over 34 long years at an average pace of roughly 4.5% per year. Economists explain this gradual slide through a concept called Purchasing Power Parity, the idea that exchange rates adjust over time to reflect how fast prices rise in each country. India has historically seen prices go up faster than the United States, so over many years it simply takes more rupees to match the buying power of a dollar. Going deeper into the exact mechanics of Purchasing Power Parity is outside the scope of this post, but the core insight is straightforward: some rupee depreciation every year is completely normal and expected, and is not automatically a sign of crisis.
+
+# What Makes 2026 Different
+
+What is alarming about the current moment is that several unusual pressures have stacked up at the same time. Oil prices have climbed past 110 dollars a barrel because of the ongoing West Asia crisis, and India imports about 85% of the crude oil it needs. When oil gets this expensive, companies and importers need far more dollars to pay their fuel bills, and to get those dollars they sell rupees, flooding the market with Indian currency. When more rupees chase the same number of dollars, the rupee weakens, and that weakening makes the next oil import even more expensive in rupee terms. On top of that, foreign portfolio investors, the global funds that buy Indian stocks and bonds, have already pulled out more than 2.17 lakh crore rupees from Indian markets in 2026 alone, which is already higher than the 1.66 lakh crore they withdrew in all of 2025.
+
+# The Money Going Out and Not Coming Back
+
+India's current account deficit measures how much more flows out of the country through imports than flows in through exports, and right now it sits at a manageable level below 1% of GDP. But analysts warn it could rise toward 2% as oil prices stay high and foreign money keeps leaving. Foreign direct investment, the kind where companies build factories and create lasting jobs, actually hit a record 81 billion dollars in FY25. The problem is that many foreign firms which invested heavily in India over the past decade are now sending their profits back home, while Indian companies are also investing more money abroad. So while fresh money is still coming in, more is flowing out than before, and that growing gap has to be covered by drawing down India's foreign exchange reserves.
+
+# The RBI's Promise That Will Come Due
+
+One detail from this whole story that rarely gets discussed in everyday conversation is what the Reserve Bank of India has been doing quietly in what are called forward markets. When too many importers rush to buy dollars at once and risk crashing the rupee, the RBI sometimes steps in and makes a promise to deliver dollars at a later date rather than selling from its reserves right away. Just a few weeks ago, India's net short dollar position in these forward markets crossed a record 100 billion dollars for the first time in history. That means the RBI has made future obligations worth 100 billion dollars as a way to keep the rupee looking stable today. When those obligations come due, the RBI will have to deliver actual dollars, which will create its own pressure on the currency at that point. The tool being used to protect the rupee today is, in a sense, borrowing stability from the future, and that bill will eventually arrive.
+
+# Final Thoughts
+
+The rupee hitting 150 to the dollar is no longer a number that belongs only in extreme worst-case scenarios. It is the end of a road India is already walking down, and the real question is just how fast the walk becomes a jog. There is also a measure called the Real Effective Exchange Rate, which adjusts for inflation differences between countries, and going into its full details is outside the scope of this post, but it has already fallen to its lowest point since 2014 this year. Most mainstream forecasters already see the rupee breaching 98 and approaching the psychologically important 100 mark by 2027, which is not far away at all. A weaker rupee means more expensive oil, higher costs for imported medicines and electronics, and steadily eroded savings for ordinary families. For now, 150 is both a real destination and a useful reminder that currencies follow their own slow, relentless logic, and no one, not even the RBI, can fight that logic forever.
