@@ -1,0 +1,38 @@
+---
+title: "The Grocery Bill the RBI Cannot Control"
+date: 2024-09-01
+subtitle: "\"Inflation is always and everywhere a monetary phenomenon.\" — Milton Friedman"
+description: "India's central bank has brought core inflation to a four-year low, but stubborn food prices keep getting in the way. Here is the story of why a trip to the fish market is making monetary policy so complicated."
+image: "./title_20240901.png"
+twitter-card: {image: "./title_20240901.png"}
+open-graph: {image: "./title_20240901.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Imagine going to your local fish market on an ordinary Tuesday morning with just enough money in your wallet for a kilo of fish and the vegetables you need for the rest of the week. You pay for the fish and find there is nothing left for the vegetables. That is not a made-up scenario. That is how everyday price rises feel to millions of Indian households in 2024, and it is exactly the kind of problem that has been troubling economists and policymakers at the Reserve Bank of India. The RBI has been fighting to keep prices under control for years, but food has turned out to be a remarkably stubborn part of the problem, and the reasons why reveal something surprising about how India measures inflation in the first place.
+
+# The Two Faces of Rising Prices
+
+Economists use the word inflation to describe the general rise in prices over time, and India's central bank measures it using something called the Consumer Price Index, or CPI. The CPI tracks the prices of nearly 300 items that Indian households buy, from rice and transport fares to school fees and clothing, assigning each item a weight based on how much of household spending it represents. In 2016, the RBI and the Indian government made a formal agreement to target a 4% inflation rate, with a tolerance range of 2% on either side, and the RBI has been working toward that goal ever since.
+
+Not all price rises come from the same cause, and that distinction matters greatly when you are trying to fix them. Demand-pull inflation happens when lots of people want something and prices rise because buyers are willing to pay more, like flight tickets during a long school holiday. Cost-push inflation is different. It happens when prices go up due to external shocks like bad weather or supply chain disruptions, not because demand suddenly jumped. Onions, tomatoes, and potatoes in India have been getting more expensive for exactly this second reason, as heatwaves and unpredictable monsoons have hit farmers hard, shrinking supply even as households need these basics every single day.
+
+# When Good Results Are Not Enough
+
+The CPI is split into two main parts. Core inflation covers things like education, rent, clothing, transportation, and healthcare, and it excludes food and fuel entirely. Non-core inflation is what brings food and fuel prices into the picture, and together these two parts form the headline inflation number the RBI is responsible for managing. On the core side, the RBI has actually performed well. Core inflation dropped to 4.3% in the financial year 2024, a four-year low, and India's overall headline inflation was the lowest among all emerging market and developing economies in that same year.
+
+But food prices have kept the overall headline number stubbornly above the 4% target, and this puts the RBI in a difficult position. The RBI's primary tool is the interest rate. When rates go up, borrowing costs more, people and businesses spend less, and prices gradually cool down. The RBI has held rates steady since February 2023 without cutting them, even though core inflation is well-behaved, because cutting rates now could leave more money in people's hands and push food prices even higher. Making things harder, expensive food also pushes households to demand wage increases, and when employers raise wages, they raise prices to cover the extra cost, creating a cycle that feeds on itself.
+
+# Inside an Outdated Basket
+
+Here is where the story of India's inflation struggle takes a genuinely unexpected turn. The CPI basket, the official list of goods and services used to calculate the inflation number, still contains items like horse cart fares, video cassette recorder prices, and audio cassette costs. Very few Indian households use any of those things in 2024. More significantly, the weight assigned to food in the CPI has been frozen in place for over a decade, based on a Household Consumption Expenditure Survey conducted when rural households spent close to 53% of their income on food and urban households spent around 43%. A more recent survey shows those numbers have since fallen, to about 46% for rural households and 40% for urban households, but the CPI still applies the old, higher food weight of around 46%. This matters because it causes the headline inflation number to look somewhat worse than the underlying reality might justify, which in turn shapes the decisions that the RBI makes about interest rates.
+
+Some analysts have pushed for the most drastic fix, removing food from the inflation targeting framework entirely so the RBI can concentrate only on the parts of inflation it can actually influence through monetary policy. RBI Governor Shaktikanta Das has publicly resisted that idea, and he is not alone in his hesitation. A more practical and measured proposal, one that the government is reportedly considering, is to simply update the weights in the CPI basket to reflect how people spend their money today and to retire the items that nobody buys anymore. This would not require dismantling the existing framework, just making it more honest.
+
+# Final Thoughts
+
+Updating a government formula will not make your grocery bill cheaper. The real forces behind expensive onions and tomatoes, erratic weather patterns and fragile agricultural supply chains, require solutions that go far beyond what an interest rate decision can achieve on its own. But an accurate inflation measure is still worth getting right. If the RBI is making decisions based on numbers distorted by data that is more than a decade old, every business that borrows and every household that saves feels the downstream effects. Fixing the CPI basket is not a dramatic headline, but getting the foundations right is exactly the kind of quiet, necessary work that better economic outcomes depend on.

@@ -1,0 +1,38 @@
+---
+title: "Die Lebensmittelrechnung, die die RBI nicht kontrollieren kann"
+date: 2024-09-01
+subtitle: "\"Inflation ist immer und überall ein monetäres Phänomen.\" — Milton Friedman"
+description: "Indiens Zentralbank hat die Kerninflation auf ein Vier-Jahres-Tief gesenkt, doch hartnäckige Lebensmittelpreise stehen weiterhin im Weg. Dies ist die Geschichte, warum ein Besuch auf dem Fischmarkt die Geldpolitik so kompliziert macht."
+image: "./title_20240901.png"
+twitter-card: {image: "./title_20240901.png"}
+open-graph: {image: "./title_20240901.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Stell dir vor, du gehst an einem ganz normalen Dienstagmorgen auf deinen lokalen Fischmarkt, und in deinem Geldbeutel ist gerade genug Geld für ein Kilo Fisch und das Gemüse, das du für den Rest der Woche brauchst. Du bezahlst den Fisch und stellst fest, dass für das Gemüse nichts mehr übrig ist. Das ist kein erfundenes Szenario. So fühlen sich täglich steigende Preise für Millionen indischer Haushalte im Jahr 2024 an, und genau das ist das Problem, das die Verantwortlichen bei der Reserve Bank of India beschäftigt. Die RBI kämpft seit Jahren darum, die Preise unter Kontrolle zu halten, doch Lebensmittel haben sich als besonders hartnäckiger Teil des Problems erwiesen, und die Gründe dafür zeigen etwas Überraschendes darüber, wie Indien die Inflation überhaupt misst.
+
+# Die zwei Gesichter steigender Preise
+
+Ökonomen bezeichnen den allgemeinen Anstieg der Preise über die Zeit als Inflation, und Indiens Zentralbank misst sie mithilfe des Verbraucherpreisindex, kurz CPI. Der CPI verfolgt die Preise von fast 300 Waren, die indische Haushalte kaufen, von Reis und Fahrtkosten bis hin zu Schulgebühren und Kleidung, und jeder Ware wird ein Gewicht entsprechend ihrer Bedeutung für die Haushaltsausgaben zugewiesen. Im Jahr 2016 vereinbarten die RBI und die indische Regierung offiziell, auf ein Inflationsziel von 4% hinzuarbeiten, mit einer Toleranzspanne von 2% auf beiden Seiten, und seitdem arbeitet die RBI auf dieses Ziel hin.
+
+Nicht alle Preissteigerungen haben dieselbe Ursache, und dieser Unterschied ist entscheidend, wenn man versucht, sie zu beheben. Nachfrageinduzierte Inflation entsteht, wenn viele Menschen etwas wollen und die Preise steigen, weil Käufer bereit sind, mehr zu zahlen, zum Beispiel Flugtickets während langer Schulferien. Angebotsinduzierte Inflation ist anders. Sie entsteht, wenn Preise aufgrund äußerer Einflüsse wie schlechtem Wetter oder Störungen in der Lieferkette steigen, nicht weil die Nachfrage plötzlich gestiegen ist. Zwiebeln, Tomaten und Kartoffeln in Indien sind genau aus diesem zweiten Grund teurer geworden, weil Hitzewellen und unberechenbare Monsune Bauern hart getroffen haben und das Angebot gesunken ist, während Haushalte diese Grundnahrungsmittel jeden Tag benötigen.
+
+# Wenn gute Ergebnisse nicht reichen
+
+Der CPI wird in zwei Hauptteile unterteilt. Die Kerninflation umfasst Bereiche wie Bildung, Miete, Kleidung, Transport und Gesundheitsversorgung und schließt Lebensmittel und Energie vollständig aus. Die Nicht-Kerninflation bringt Lebensmittel- und Energiepreise ins Bild, und diese beiden zusammen bilden die Gesamt-Inflationszahl, für deren Steuerung die RBI verantwortlich ist. Bei der Kerninflation hat die RBI tatsächlich gute Arbeit geleistet. Im Finanzjahr 2024 sank die Kerninflation auf 4,3%, den niedrigsten Stand seit vier Jahren, und in diesem Jahr war Indiens Gesamt-Inflationsrate die niedrigste unter allen aufstrebenden Markt- und Entwicklungsländern.
+
+Doch Lebensmittelpreise haben die Gesamtinflationszahl hartnäckig über dem 4%-Ziel gehalten, was die RBI in eine schwierige Lage bringt. Das wichtigste Instrument der RBI ist der Zinssatz. Wenn die Zinsen steigen, wird Kreditaufnahme teurer, Menschen und Unternehmen geben weniger aus, und die Preise kühlen sich allmählich ab. Die RBI hat die Zinsen seit Februar 2023 unverändert gelassen und sich gegen Senkungen entschieden, auch wenn die Kerninflation unter Kontrolle ist, weil Zinssenkungen jetzt mehr Geld in die Taschen der Menschen bringen könnten und die Lebensmittelpreise weiter anheizen könnten. Erschwerend kommt hinzu, dass teure Lebensmittel Arbeitnehmer dazu bringen, Lohnerhöhungen zu fordern, und wenn Arbeitgeber die Löhne erhöhen, erhöhen sie die Preise, um die zusätzlichen Kosten zu decken, und es entsteht ein Kreislauf, der sich selbst nährt.
+
+# Blick in einen veralteten Warenkorb
+
+Hier nimmt die Geschichte von Indiens Inflationskampf eine wirklich unerwartete Wendung. Der CPI-Warenkorb, also die offizielle Liste der Waren und Dienstleistungen, die zur Berechnung der Inflation verwendet werden, enthält immer noch Positionen wie Pferdewagentarife, Video-Kassettenrekorder-Preise und Audio-Kassettenkosten. Im Jahr 2024 nutzen sehr wenige indische Haushalte noch irgendetwas davon. Noch bedeutsamer ist, dass das Gewicht, das Lebensmitteln im CPI zugewiesen wird, seit über einem Jahrzehnt eingefroren ist, basierend auf einer Erhebung, die zu einem Zeitpunkt durchgeführt wurde, als ländliche Haushalte etwa 53% ihres Einkommens für Lebensmittel ausgaben und städtische Haushalte etwa 43%. Eine aktuellere Erhebung zeigt, dass diese Zahlen auf etwa 46% für ländliche Haushalte und 40% für städtische Haushalte gesunken sind, aber der CPI wendet immer noch das alte, höhere Lebensmittelgewicht von etwa 46% an. Das ist bedeutsam, weil es die Gesamt-Inflationszahl etwas schlimmer erscheinen lässt, als die zugrunde liegende Realität es rechtfertigen würde, was wiederum die Entscheidungen der RBI über Zinssätze beeinflusst.
+
+Einige Analysten haben die radikalste Lösung vorgeschlagen, nämlich Lebensmittel vollständig aus dem Inflations-Zielrahmen herauszunehmen, damit sich die RBI nur auf die Teile der Inflation konzentrieren kann, die sie durch die Geldpolitik tatsächlich beeinflussen kann. RBI-Gouverneur Shaktikanta Das hat diese Idee öffentlich abgelehnt, und er steht mit seinem Zögern nicht allein. Ein praktischerer und maßvollerer Vorschlag, den die Regierung angeblich prüft, ist, die Gewichtungen im CPI-Warenkorb zu aktualisieren, um widerzuspiegeln, wie Menschen heute ihr Geld ausgeben, und Positionen zu streichen, die niemand mehr kauft. Das würde nicht erfordern, den bestehenden Rahmen zu zerstören, sondern ihn nur ehrlicher zu machen.
+
+# Abschließende Gedanken
+
+Eine Regierungsformel zu aktualisieren wird deine Lebensmittelrechnung nicht günstiger machen. Die eigentlichen Kräfte hinter teuren Zwiebeln und Tomaten, unregelmäßige Wettermuster und fragile landwirtschaftliche Lieferketten, erfordern Lösungen, die weit über das hinausgehen, was eine Zinsentscheidung allein erreichen kann. Aber eine genaue Inflationsmessung richtig hinzubekommen ist dennoch wichtig. Wenn die RBI Entscheidungen auf der Grundlage von Zahlen trifft, die durch mehr als ein Jahrzehnt alte Daten verzerrt sind, spüren jedes Unternehmen, das Kredite aufnimmt, und jeder Haushalt, der spart, die Folgen. Den CPI-Warenkorb zu korrigieren ist keine dramatische Schlagzeile, aber das Fundament richtig zu legen ist genau die ruhige, notwendige Arbeit, von der bessere wirtschaftliche Ergebnisse abhängen.
