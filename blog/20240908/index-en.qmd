@@ -1,0 +1,40 @@
+---
+title: "The Meatball That Moves the Furniture"
+date: 2024-09-08
+subtitle: "\"Wasting resources is a mortal sin at IKEA.\" — Ingvar Kamprad"
+description: "IKEA has only managed to open 4 stores in India and has been losing crores every day. Its plan to turn things around does not involve a new sofa design. It involves Swedish meatballs."
+image: "./title_20240908.png"
+twitter-card: {image: "./title_20240908.png"}
+open-graph: {image: "./title_20240908.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+When IKEA opened its first Indian store in Hyderabad in August 2018, the queues stretched around the building. People were genuinely excited about the prospect of affordable Scandinavian design finally arriving on Indian soil. But somewhere between that opening-day buzz and today, things did not quite go to plan. IKEA has only managed to keep four stores running across the country, far short of the twenty-five it had planned to open by 2025. Over the last five years, despite growing sales, the company has been losing around three crore rupees every single day in India. So how does a global furniture giant plan to turn that around? The answer, somewhat surprisingly, is Swedish meatballs.
+
+# The Loss Leader Strategy
+
+The idea behind IKEA's food business is a textbook example of something economists call the loss leader strategy. A loss leader is a product sold at a very low price, sometimes even below cost, not to make money on that product itself, but to pull customers through the door so they spend money on other, more profitable things. Think of a grocery store that places milk and bread at the very back of the shop, forcing you to walk past dozens of tempting items before you reach what you actually came for. For IKEA, the in-store cafeteria works the same way. An affordable plate of meatballs keeps visitors happy, keeps them in the store longer, and increases the chance that they will eventually push a flat-box bookshelf toward the checkout counter. The food is not the point. What happens after the food is the point.
+
+The numbers back this up in a striking way. Globally, food already accounts for around 6% of IKEA's total revenue, which works out to roughly 2.5 billion dollars a year, and the food business has been growing at 8% annually since 2016. Around a third of IKEA's global store visitors say that food is one of the primary reasons they showed up. In India, the pull of the cafeteria is even stronger, with roughly 20% more visitors coming in to eat rather than to browse for furniture. Given those figures, IKEA's plan to double its food sales in India is not a desperate pivot, it is a calculated bet on what is already working.
+
+# From Matchsticks to Meatballs
+
+Ingvar Kamprad's genius for turning a simple idea into something much larger goes all the way back to his childhood in rural Sweden. As a seven-year-old, he bought matchsticks in bulk in Stockholm and resold them to his neighbours for a small profit. He understood early that selling things cheaply was not the same as losing money, it meant reaching more people by moving more volume. That instinct shaped everything IKEA eventually became. By the time he launched his retail business in the 1940s, he had spotted a problem that everyone else had accepted as simply normal, furniture was too expensive for ordinary working-class families, and he decided to do something about it.
+
+The road was not smooth. Established furniture retailers in Sweden were furious about IKEA's low prices and pressured local suppliers to cut ties with Kamprad entirely. Rather than give in, he turned to Poland, where he found that furniture could be manufactured for a fraction of Swedish costs. That forced pivot became one of IKEA's most durable competitive advantages. The famous flat-pack design came later, also born from a practical problem, when someone suggested removing the legs of a table to fit it into a car for a photoshoot. The compact box that resulted made shipping cheaper, reduced breakage in transit, and let customers carry pieces home themselves. Every iconic feature of the IKEA model was essentially an improvised response to a constraint, and that adaptability has been the company's defining trait for nearly eight decades.
+
+The food story follows the same pattern. Kamprad introduced cafeterias in his stores in the 1960s after noticing that hungry shoppers were leaving to grab a meal and sometimes not coming back. His fix was to feed them on-site and remove any reason to walk out the door. A few decades later, IKEA developed a signature dish that was easy to serve at scale and immediately recognisable, and the Swedish meatball became a global icon. In Portland, IKEA went even further with an experiment where customers received discount coupons worth exactly the amount they had spent on food, which they could apply directly to a furniture purchase at checkout. The cafeteria became a direct engine for furniture sales.
+
+# India: A Familiar Kind of Bump
+
+The India chapter of IKEA's story has that same pattern of running into obstacles and being forced to improvise. Flat-pack furniture has not found the enthusiastic audience in India that it enjoys in Europe or North America. Many Indian families prefer furniture made by a local carpenter using solid wood, something built to last for generations and carry a sense of craft and tradition. The assembly-at-home approach feels like an unnecessary hassle to a large part of the market. Competitors like Wooden Street, Pepperfry, and Urban Ladder have built strong businesses by understanding and adapting to exactly these local preferences, making IKEA's furniture pitch a harder sell than it expected.
+
+On top of that, the Indian expectation for what counts as affordable furniture sits at a level that is genuinely difficult for IKEA to meet without pushing its profit margins even further into the negative. The company went into India expecting to build scale fast, and the slow store expansion has meant that the fixed costs of operating in a large, complex market have been spread very thin. Doubling down on food, where customer appetite is already demonstrated and margins can be managed more flexibly, is the kind of practical adaptation that Kamprad himself would likely have approved of.
+
+# Final Thoughts
+
+IKEA's food business is not a side hobby. It is a deliberate, economically calculated tool for solving a retail problem that furniture alone cannot fix. Ingvar Kamprad learned as a child that volume and accessibility are their own kind of advantage, and every chapter of IKEA's history, from the Swedish supplier boycott to the Polish factories to the flat-pack table, has been built on that same logic. In India, where the meatball may well outlast the Billy bookshelf in popularity, IKEA is once again betting that feeding people first is the smartest way to eventually sell them something else. Whether it works will depend on how well the company can keep adapting to a market that has been polite, but consistent, in pushing back against the global script.
