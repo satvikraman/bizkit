@@ -1,0 +1,36 @@
+---
+title: "Der Wächter, der wegschaute"
+date: 2024-07-21
+subtitle: "\"Die Unabhängigkeit des Abschlussprüfers ist der Eckpfeiler des Anlegerschutzes. Ohne sie bricht das gesamte System der Finanzberichterstattung zusammen.\" — Arthur Levitt, ehemaliger SEC-Vorsitzender"
+description: "PwC prüfte Evergrande 14 Jahre lang und äußerte keine einzige Bedenken, obwohl das Unternehmen $78 Milliarden gefälschte Einnahmen versteckte. China fragt sich jetzt, wozu Wirtschaftsprüfer überhaupt da sind."
+image: "./title_20240721.png"
+twitter-card: {image: "./title_20240721.png"}
+open-graph: {image: "./title_20240721.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Jedes große Unternehmen, das Aktien an die Öffentlichkeit verkauft, braucht jemanden, der seine Bücher überprüft. Diese Aufgabe gehört einem Wirtschaftsprüfer, einer unabhängigen Buchhaltungsfirma, die die Jahresabschlüsse eines Unternehmens prüft und den Anlegern mitteilt, ob die Zahlen ehrlich sind. Das klingt einfach genug, aber was passiert, wenn die prüfende Firma von genau dem Unternehmen bezahlt wird, das sie überwachen soll? Das ist die Frage, die Chinas Finanzministerium jetzt laut stellt, nachdem der Zusammenbruch von Evergrande eine der größten Prüfungsversagen der modernen Geschichte aufgedeckt hat. Im Zentrum dieses Sturms steht PwC, eine der vier mächtigsten Buchhaltungsfirmen der Welt.
+
+# Was ein Wirtschaftsprüfer wirklich macht
+
+Wenn ein Unternehmen seinen Jahresbericht veröffentlicht, enthält er einen Abschnitt, der von einem externen Wirtschaftsprüfer unterzeichnet wurde. Diese Unterschrift teilt Anlegern, Banken und Aufsichtsbehörden mit, dass jemand Unabhängiges die Konten des Unternehmens geprüft und festgestellt hat, dass sie ein faires Bild der Realität darstellen. Wirtschaftsprüfer suchen nach aufgeblähten Umsätzen, nicht offengelegten Schulden und riskanten Finanzpositionen, die das Unternehmen möglicherweise vor der Öffentlichkeit verbirgt. Ihre Unabhängigkeit gilt als ihr größtes Gut, denn ein guter Wirtschaftsprüfer berichtet, was er findet, auch wenn diese Erkenntnisse für den zahlenden Klienten unangenehm sind. Im Fall von Evergrande hatte PwC diese Verantwortung 14 Jahre in Folge inne und äußerte nie öffentlich eine Bedenken.
+
+# Evergrandes Aufstieg und Fall
+
+Hui Ka Yan, der Gründer von Evergrande, baute sein Immobilienimperium auf einem Modell auf, das jahrzehntelang brillant erschien. Durch hohe Schulden zu günstigen Zinsen und den Verkauf von Häusern, bevor sie überhaupt gebaut wurden, verwandelte er einen kleinen Entwickler in Chinas zweitgrößtes Immobilienunternehmen mit schließlich 190 Quadratkilometern Landreserven. Bis 2021 wurden in China fast 90% der Häuser verkauft, bevor der Bau abgeschlossen war, und das Vorauszahlungsgeld hielt Unternehmen wie Evergrande mit Mitteln für neue Grundstücke und Projekte versorgt. Das Problem war, dass dieses Modell einen endlosen Strom neuer Käufer und billiger Kredite benötigte. Als die chinesische Regierung 2020 ihre Politik der "drei roten Linien" einführte, die begrenzte, wie viel Schulden Immobilienunternehmen im Verhältnis zu ihren Vermögenswerten haben dürfen, überschritt Evergrande alle drei Grenzen, Banken hörten auf zu leihen, und bis Dezember 2021 zahlte das Unternehmen seine $300 Milliarden Schulden offiziell nicht mehr, was eine Krise in einem Sektor auslöste, der zwischen 20% und 30% von Chinas gesamtem BIP beiträgt.
+
+# Die Zahlen, die nie das waren, was sie zu sein schienen
+
+Hier wird die Rolle des Wirtschaftsprüfers zum zentralen Problem. Evergrandes Tochtergesellschaft Hengda hatte ihre Einnahmen zwischen 2016 und 2020 um etwa $78 Milliarden aufgebläht und ein falsches Bild eines wachsenden und florierenden Unternehmens geschaffen, das in Wirklichkeit einen Berg von Risiken ansammelte. Dieses gefälschte Wachstum half Evergrande dabei, weiterhin Geld von Anlegern zu beschaffen und neue Kredite von Banken zu sichern, die den veröffentlichten Abschlüssen vertrauten. All dies geschah, während PwC Jahr für Jahr diese Abschlüsse unterzeichnete. Chinas Finanzministerium hat PwC seitdem direkt dafür verantwortlich gemacht, die tatsächliche finanzielle Gesundheit des Unternehmens nicht offengelegt zu haben, und die Firma steht nun vor einer Geldstrafe von etwa 1 Milliarde Yuan. Diese Zahl schmerzt, wenn man bedenkt, dass PwC in diesen 14 Jahren nur 400 Millionen Yuan von Evergrande verdient hatte.
+
+# Ein Muster, das größer ist als eine Firma
+
+PwC ist nicht das einzige Mitglied der sogenannten Big Four unter Prüfung. Deloitte wurde mit einer Geldstrafe von $30,8 Millionen belegt, weil es die Qualität der Vermögenswerte von China Huarong Asset Management nicht ordnungsgemäß bewertet hatte, einem weiteren wichtigen Finanzinstitut, das in ernsthafte Schwierigkeiten geraten ist. Die chinesische Regierung drängt staatliche Unternehmen nun, die Big Four vollständig aufzugeben und zu inländischen Firmen zu wechseln. Die Sorge gilt nicht nur isolierten Versagen, sondern auch der Frage, ob das Geschäftsmodell globaler Wirtschaftsprüfungsgesellschaften einen stetigen Anreiz schafft, still zu bleiben, da eine Prüfungsfirma ihre Honorare genau von dem Klienten verdient, den sie prüfen soll, und je länger diese Beziehung andauert, desto schwieriger wird es, Erkenntnisse zu veröffentlichen, die sie beenden könnten. Die gesamte Debatte über die Unabhängigkeit der Wirtschaftsprüfer geht über den Rahmen dieses Beitrags hinaus, aber die grundlegende Spannung ist leicht zu verstehen.
+
+# Abschließende Gedanken
+
+Der Zusammenbruch von Evergrande war nicht nur eine Immobilienkrise. Es war auch ein Versagen des Systems, das dazu gedacht ist, Probleme zu erkennen, bevor sie zu Katastrophen werden. PwC hatte über ein Jahrzehnt Zugang zu Evergrandes Büchern, und die aufgeblähten Umsatzzahlen, die schließlich ans Licht kamen, hätten viel früher schwierige Fragen aufwerfen müssen. Chinas Entscheidung, die Big Four zu untersuchen und zu bestrafen, ist ein Signal, dass die Unabhängigkeit der Wirtschaftsprüfer nicht nur ein technisches Rechnungslegungsprinzip ist, sondern ein Schutz für gewöhnliche Anleger, die keine andere Möglichkeit haben zu überprüfen, ob die Zahlen, die sie lesen, real sind. Für jeden, der jemals eine Aktie kauft oder Geld auf einer Bank einzahlt, ist die Lektion aus Evergrande unbequem: Selbst die bekanntesten Namen in der globalen Buchhaltung können wegschauen, wenn die Anreize sie dazu drängen.
