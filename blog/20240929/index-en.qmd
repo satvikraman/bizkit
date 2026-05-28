@@ -1,0 +1,38 @@
+---
+title: "The Brand That Priced Itself Out"
+date: 2024-09-29
+subtitle: "\"We are not in the coffee business serving people. We are in the people business serving coffee.\" — Howard Schultz"
+description: "Tata Starbucks has over 450 stores across India and ₹82 crore in losses. The company that turned coffee into a status symbol is now learning that status symbols have an expiry date in price-sensitive markets."
+image: "./title_20240929.png"
+twitter-card: {image: "./title_20240929.png"}
+open-graph: {image: "./title_20240929.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+When Tata Starbucks opened its first Indian outlet in Mumbai in October 2012, it felt like more than just a new café. The 50:50 joint venture between the American coffee chain and Tata Consumer Products was betting that Indians were ready to pay ₹300 for a cup of coffee, sit in a carefully designed space with green logos and soft lighting, and call it a lifestyle. For over a decade, that bet held up remarkably well. Between FY17 and FY23, Tata Starbucks grew at a compound annual growth rate of over 20%, which means its revenues were nearly doubling every four years. But in FY24, with sales of ₹1,218 crore and losses jumping to ₹82 crore, almost three times the year before, the question that had always been waiting finally surfaced. Does India actually want to pay ₹300 for a cup of coffee?
+
+# The Premium Pricing Trap
+
+A brand premium is the extra amount consumers pay for a product not because it is physically different from cheaper alternatives, but because the brand itself carries a meaning. A basic latte from a local café and a latte from Starbucks might taste similar. But the Starbucks version costs significantly more, and for years, people paid it willingly, because the green siren, the customised cup with your name in marker, and the specific language of tall, grande, and venti all carried a signal. That signal said something about the person holding the cup, about ambition, about belonging to a certain kind of urban life. This is what economists call "willingness to pay," and for a while, enough Indians in Mumbai, Bengaluru, and Delhi had it in abundance.
+
+The trouble with premium pricing is that it is fragile. By 2024, inflation had quietly changed the maths for many Starbucks regulars. Rent, groceries, and fuel were all more expensive than they had been two years earlier, and in that environment a ₹300 cappuccino stopped feeling like an easy treat and started feeling like a choice that needed justification. This shift is captured in a concept called price elasticity, which measures how sensitive demand is to price changes. For most goods, a small price increase reduces demand slightly. But for aspirational products like premium coffee, once the price crosses a psychological threshold, demand can fall much faster than the price increase would suggest, because consumers start questioning whether the signal the brand provides is worth the cost anymore.
+
+# The Joint Venture Model
+
+Starbucks did not enter India alone, and that structural choice carries its own logic. When a foreign company enters a new market, it faces a difficult trade-off. Going in independently gives full control over the brand but means navigating unfamiliar regulations, distribution networks, and consumer preferences entirely on your own. Finding a local partner means sharing both the upside and the downside but with the benefit of local knowledge and relationships. Starbucks chose the second path by forming a 50:50 joint venture with Tata Consumer Products in 2012. Tata brought decades of experience sourcing and distributing tea and coffee across India, a deep understanding of Indian consumer habits, and a name that carried trust in a market where Starbucks had none. This kind of arrangement is common in food and retail when a global brand is serious about a new market but smart enough to know it cannot figure the market out alone.
+
+A 50:50 split means the gains and losses land equally on both companies. In the years when Tata Starbucks grew at 20% annually, that was an excellent arrangement for both Tata Consumer Products and Starbucks Corporation. In FY24, when losses reached ₹82 crore, both partners absorbed exactly half of that pain. Joint ventures do not guarantee success, but they lower the cost of a mistaken entry and give a foreign brand a partner who has a direct financial reason to help them succeed locally.
+
+# The Cafés That Closed and the Ones That Did Not
+
+Starbucks has faced this exact problem before. When it entered Australia in 2000, the country already had a deeply established café culture built around quality espresso. Australians found Starbucks' sweeter, flavoured drinks too foreign and its expansion too aggressive. By 2008, the company had shut more than two-thirds of its Australian stores. Italy was no easier. The birthplace of espresso had century-old café traditions, and a customer who paid one euro for a perfect quick shot standing at a bar counter was never going to pay six euros for a frappuccino to go. Even a premium Reserve Roastery in Milan, designed to appeal to coffee purists, could not shake the perception that Starbucks was commercialised and unnecessary. The lesson both markets delivered was the same. A brand that works in one country does not automatically travel to another, no matter how many stores it opens.
+
+India is writing a similar chapter, with the added complication that local competitors are getting stronger. Blue Tokai and Third Wave Coffee serve specialty coffee for around ₹230 a cup, roughly ₹70 less than Starbucks, and both chains are growing quickly among the exact urban, young, quality-conscious consumers that Starbucks has always targeted. Starbucks has started fighting back by introducing local flavours like iced espresso with jaggery and milk, with prices starting at ₹150, and by targeting tier-2 cities, airports, and drive-throughs as part of its plan to reach 1,000 stores by 2028. Whether that is adaptation or just a delayed response to a market that shifted faster than expected is the question Tata Starbucks has to answer over the next few years.
+
+# Final Thoughts
+
+Brand premiums are real but not permanent. The ₹82 crore loss that Tata Starbucks posted in FY24 is a signal from Indian consumers that the gap between what Starbucks charges and what a Blue Tokai or Third Wave Coffee charges is now wider than the gap in what the experience actually feels like. Starbucks built a global business on the belief that people pay more for a brand than for a commodity, and in India that belief was well-founded for nearly a decade. The market is now testing it more seriously, and the result will determine whether the 1,000-store ambition is a genuine growth story or another example of global success failing to translate into local staying power.
