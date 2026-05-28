@@ -1,0 +1,38 @@
+---
+title: "The Key That Was Never Yours"
+date: 2024-09-15
+subtitle: "\"Not your keys, not your coins.\" — Andreas Antonopoulos"
+description: "Hackers stole $230 million from WazirX, India's largest crypto exchange, in a single night. The blockchain was never touched. So what exactly went wrong?"
+image: "./title_20240915.png"
+twitter-card: {image: "./title_20240915.png"}
+open-graph: {image: "./title_20240915.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+On July 18, 2024, millions of Indians who had parked their savings in WazirX, one of the country's largest cryptocurrency exchanges, woke up to find that their balances had been cut by nearly half overnight. Hackers had pulled off what would become one of the biggest digital thefts in Indian history, walking away with $230 million worth of cryptocurrency in a matter of hours. What makes this especially unsettling is that the attackers never touched the blockchain, the technology that is supposed to make crypto tamper-proof and nearly impossible to steal. They targeted something far simpler and far more vulnerable. They targeted a wallet.
+
+# What Is Crypto and Why Do People Trust It
+
+Cryptocurrency works on a foundation called blockchain, and understanding it is worth the effort even if you have no plans to buy any. A blockchain is a shared record of every transaction ever made, stored not on one central computer but across millions of machines around the world at the same time. Every time someone buys, sells, or transfers a cryptocurrency like Bitcoin, that transaction is logged on this shared record, and changing any past entry would require simultaneously altering it on millions of computers, which makes it practically impossible to fake or reverse. That is why people call blockchain trustless, meaning the system works without requiring you to rely on any bank, government, or individual to keep it honest.
+
+India took to this technology with genuine enthusiasm. Between October 2023 and March 2024, WazirX saw a 122% spike in sign-ups and a 217% jump in trading volumes, partly because the Finance Ministry had blocked access to foreign crypto platforms in December 2023, pushing Indian investors toward domestic exchanges. By the time hackers struck in July 2024, WazirX was holding $570 million in customer funds, a remarkable concentration of value in a single place. That concentration turned out to be precisely the problem.
+
+# Hot Wallets, Cold Wallets, and Who Really Holds Your Crypto
+
+Here is something most first-time crypto buyers never stop to think about. When you create an account on an exchange like WazirX and buy some Bitcoin, you receive a login password. What you do not receive is something called a private key, which is the actual code that grants ownership and control over your digital assets on the blockchain. The exchange holds the private key on your behalf, much the way a bank holds custody of the money you deposit. This is called a custodial wallet, and the trade-off is simple: the exchange handles the technical complexity for you, but if something goes wrong at the exchange, your crypto is caught in the middle of someone else's problem.
+
+The alternative is a cold wallet, a physical device roughly the size of a USB drive that stores your private key entirely offline, disconnected from the internet and therefore unreachable by remote attackers. Global investors have been quietly moving in this direction. The total Bitcoin balance sitting on exchanges fell from 2.7 million BTC in January 2024 to 2.4 million BTC by mid-year, meaning hundreds of thousands of Bitcoins were being pulled off platforms and stored in personal cold wallets. Indian investors, however, were moving the other way, pouring more money onto domestic exchanges even as global confidence in them was quietly declining.
+
+# The Night WazirX Lost Everything
+
+On July 18, 2024, hackers breached one of WazirX's multi-signature wallets, which are wallets that require several approvals before any transaction can go through and are generally considered among the more secure setups in the crypto world. The attackers found and exploited a flaw in the approval process itself, and within hours they had drained $230 million from the wallet and moved it beyond reach. Of WazirX's 16 million registered users, around 4.2 million, roughly one in four, saw their holdings cut by nearly half with no warning. The exchange immediately froze all trading and suspended withdrawals, and when it eventually permitted limited access to funds again, users could only retrieve two-thirds of their balances, and even that came in slow phases. WazirX's parent company, a Singapore-based firm called Zettai Pte, subsequently filed for legal protection in the High Court of Singapore, pulling the entire dispute into a complicated cross-border proceeding with no clear resolution in sight.
+
+The struggle faced by affected users trying to recover their money points to a gap in India's financial system that most people only discover after something goes wrong. Bank deposits in India are regulated by the Reserve Bank of India and insured up to a limit, so savers have a safety net. Crypto exchanges operate in a very different environment, one where regulation is still being worked out and no comparable protection exists for investors. When something breaks on a crypto platform, the only path available is slow and expensive civil litigation across jurisdictions that may not even cooperate with each other.
+
+# Final Thoughts
+
+The WazirX hack is not a story about crypto failing as a technology. The blockchain itself worked exactly as designed, and no transaction was forged on it. What failed was the layer of infrastructure built around crypto, the exchanges, the wallets, and the trust that millions of users placed in platforms they could not fully see or audit. For anyone thinking about putting money into digital assets, the lesson is about custody. Keeping crypto on an exchange is genuinely convenient, but it means handing control of your private key to someone else and accepting whatever security standards they happen to maintain. Cold wallets address that risk directly, though they require more technical comfort than most beginners have. As India's crypto market grows, and the numbers suggest it will keep growing, the gap between what investors assume about safety and what actually protects them is a gap worth closing sooner rather than later.
