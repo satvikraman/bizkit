@@ -1,0 +1,36 @@
+---
+title: "Das Abnehmmittel, das das Gesundheitswesen umgestalten könnte"
+date: 2024-12-29
+subtitle: "\"Die größte Medizin ist es, Menschen beizubringen, wie sie sie nicht brauchen.\" — Hippokrates"
+description: "Medikamente wie Ozempic, Wegovy und Mounjaro haben Millionen von Menschen geholfen, erheblich Gewicht zu verlieren. Ihre Hersteller behaupten, diese Medikamente könnten die Gesundheitskosten dramatisch senken, indem sie adipositasbedingte Erkrankungen verhindern. Eine neue Studie zeigt jedoch, dass Menschen, die diese Medikamente einnehmen, tatsächlich mehr für das Gesundheitswesen ausgeben, nicht weniger."
+image: "./title_20241229.png"
+twitter-card: {image: "./title_20241229.png"}
+open-graph: {image: "./title_20241229.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einführung
+
+Adipositas ist eine der teuersten medizinischen Erkrankungen der Welt. Sie erhöht das Risiko für Typ-2-Diabetes, Herzerkrankungen, Schlaganfall, bestimmte Krebsarten und eine Reihe von Gelenkproblemen. Als eine neue Klasse von GLP-1-Agonisten-Medikamenten einen erheblichen und anhaltenden Gewichtsverlust zu bewirken schien, begannen die Pharmaunternehmen und viele Forscher im Bereich der öffentlichen Gesundheit zu argumentieren, diese Medikamente könnten die Gesamtkosten des Gesundheitswesens für ganze Bevölkerungen senken. Eine kürzliche Studie hat diesen Anspruch getestet, und die Ergebnisse sind komplizierter als die ursprüngliche Geschichte vermuten ließ.
+
+# Was GLP-1-Medikamente bewirken
+
+GLP-1 ist ein Hormon, das der menschliche Körper nach dem Essen natürlicherweise produziert. Seine Hauptaufgaben sind, die Insulinfreisetzung auszulösen, die Magenentleerung zu verlangsamen und dem Gehirn signale zu senden, dass der Körper genug gegessen hat. GLP-1-Agonisten-Medikamente ahmen dieses Hormon nach und verstärken seine Wirkung. In klinischen Studien haben Patienten mit diesen Medikamenten fünfzehn bis zwanzig Prozent ihres Körpergewichts verloren.
+
+# Der unerwartete Befund
+
+Die Studie, die dieses Argument testete, lieferte ein kontraintuitives Ergebnis. Forscher betrachteten die tatsächlichen Gesundheitsausgaben von adipösen Patienten vor und nach Beginn der GLP-1-Medikamente. Vor Beginn der Medikation betrugen die durchschnittlichen jährlichen Kosten pro Patient etwa zwölftausend siebenhundert Dollar. Zwei Jahre nach Beginn der Medikation stiegen die durchschnittlichen jährlichen Kosten für dieselbe Gruppe auf etwa achtzehntausend fünfhundert Dollar, ein Anstieg von sechsundvierzig Prozent. Adipöse Patienten, die keine Medikamente nahmen, sahen ihre Kosten im gleichen Zeitraum um nur vierzehn Prozent steigen. Besonders besorgniserregend ist, dass Patienten auf GLP-1-Medikamenten weiterhin Medikamente gegen Bluthochdruck und hohen Cholesterin benötigten. Die Raten von Herzinfarkten, Schlaganfällen und Typ-2-Diabetes fielen nicht merklich.
+
+# Warum die Zahlen so aussehen
+
+Für diesen Befund wurden mehrere Erklärungen vorgeschlagen. Erstens sind die Medikamente selbst extrem teuer. In den USA kostet Ozempic für Patienten ohne Versicherung über tausend Dollar pro Monat. Zweitens löst ein erheblicher Gewichtsverlust häufig andere medizinische Probleme aus oder enthüllt sie. Drittens kann es länger als zwei Jahre dauern, bis die Vorteile einer reduzierten Adipositas bei langfristigen Erkrankungen wie Herzerkrankungen im Datenmaterial sichtbar werden.
+
+# Was das für Indien bedeutet
+
+Indien hat eine komplexe Beziehung zu diesen Medikamenten. Einerseits steht Indien durch veränderte Ernährungsgewohnheiten, Urbanisierung und zunehmend sesshafte Lebensweisen vor einer wachsenden Belastung durch Adipositas und Typ-2-Diabetes. Andererseits kosten die Medikamente mehrere tausend Rupien pro Dosis. Eli Lilly hat Mounjaro kürzlich in Indien zu etwa viertausend Rupien pro wöchentlicher Injektion eingeführt, was bedeutet, dass ein Patient jährlich etwa zwei Lakh Rupien für das Medikament ausgeben müsste.
+
+# Abschließende Gedanken
+
+Die Geschichte des Abnehmmittels veranschaulicht eine breitere Herausforderung in der Gesundheitsökonomie: die Lücke zwischen dem, was eine Behandlung in einer klinischen Studie bewirkt, und dem, was sie auf der Ebene eines gesamten Gesundheitssystems erreicht, ist oft größer als anfängliche Projektionen vermuten lassen. Das bedeutet nicht, dass GLP-1-Medikamente nicht wertvoll sind. Für die einzelnen Patienten, die sie wirksam einsetzen, sind die Vorteile real und bedeutsam. Es bedeutet jedoch, dass der Anspruch, diese Medikamente würden sich durch die Senkung adipositasbedingter Gesundheitskosten selbst finanzieren, mehr Prüfung verdient als die Werbematerialien der Pharmaindustrie typischerweise liefern.

@@ -1,0 +1,32 @@
+---
+title: "Der indische Whisky, der Schottland besiegte"
+date: 2024-12-15
+subtitle: "\"Es gibt keinen schlechten Whisky. Es gibt nur einige Whiskys, die nicht so gut sind wie andere.\" — Raymond Chandler"
+description: "Vor zwanzig Jahren hätte man in einer Bar in Edinburgh gelacht, wenn jemand 'indischer Single-Malt-Whisky' gesagt hätte. Im Jahr 2004 wurde ein Whisky aus Bengaluru namens Amrut Fusion zum drittbesten Whisky der Welt gewählt. Bis 2024 hatten indische Single Malts zum ersten Mal schottische Single Malts im Inland beim Absatz überholt. Dies ist die Geschichte, wie eine gesamte Branche ihre Identität veränderte."
+image: "./title_20241215.png"
+twitter-card: {image: "./title_20241215.png"}
+open-graph: {image: "./title_20241215.png"}
+categories: ["Unternehmensnachrichten"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einführung
+
+Indien ist der weltweit größte Whisky-Konsument. Jede zweite Flasche Whisky, die weltweit verkauft wird, wird in Indien verkauft. Für den größten Teil seiner Geschichte war dieser Whisky jedoch nicht das, was ein Kenner in Edinburgh oder Tokio als Whisky anerkennen würde. Indian Made Foreign Liquor (IMFL) wird typischerweise aus Melasse hergestellt, einem Nebenprodukt der Zuckerproduktion, und ist deutlich billiger als alles, was nach traditionellen Destillationsmethoden hergestellt wird. Der Premiummarkt wurde von importiertem Scotch dominiert, der trotz Importzöllen von bis zu hundertfünfzig Prozent erhältlich war. Indischer Whisky hatte ein klares Identitätsproblem: Er war billig, hart und wurde von der weltweiten Spirituosenindustrie nicht ernst genommen. Was in den nächsten zwei Jahrzehnten geschah, änderte das vollständig.
+
+# Der Moment, der alles veränderte
+
+Dieser Wendepunkt wird allgemein auf 2010 datiert, obwohl das Fundament früher gelegt wurde. Amrut Distilleries, ein 1948 gegründetes Unternehmen mit Sitz in Bengaluru, hatte jahrelang mit der Produktion von Single-Malt-Whisky experimentiert. Im Jahr 2004 lancierte es Amrut Fusion. Im Jahr 2010 nannte Jim Murrays Whisky Bible Amrut Fusion den drittbesten Whisky der Welt. Die Reaktion der weltweiten Whisky-Gemeinschaft war eine Art verblüffter Anerkennung. Indien, das Land, das weltweit am meisten Whisky trank, war plötzlich auch ein Land, das einige der besten herstellen konnte. Paul John Whisky (Goa), Rampur (Uttar Pradesh) und Indri (Haryana) erlangten in den folgenden Jahren Anerkennung.
+
+# Die Zahlen hinter dem Boom
+
+Die Wachstumszahlen sind bemerkenswert. Im Jahr 2022 wuchsen die inländischen Verkäufe von indischem Single-Malt-Whisky um zweihundertundvierzig Prozent, verglichen mit fünfunddreißig Prozent Wachstum für schottischen Single Malt im selben Markt. Im Jahr 2023 machte indischer Single Malt dreiundfünfzig Prozent aller in Indien verkauften Single-Malt-Kisten aus, womit importierte Marken erstmals in der Geschichte übertroffen wurden. Indien hat jetzt etwa zwanzig Destillerien, die Single-Malt-Whisky produzieren und in über sechzig Länder exportieren. Pernod Ricard hat eine Investition von achtzehnhundert Crore Rupien angekündigt, um seine größte Destillerie in Asien in Nagpur zu bauen.
+
+# Warum Indien natürliche Vorteile hat
+
+Es gibt einen echten Grund jenseits des Marketings, warum indischer Single Malt internationale Liebhaber anzieht. Whisky reift in Fässern, und wie schnell er reift, hängt stark vom Klima ab. In Schottland ändert sich Whisky bei kühlen und stabilen Temperaturen langsam. In Indien können die Sommertemperaturen extrem sein, daher ist die Wechselwirkung zwischen dem Destillat und dem Holz im Fass viel schneller und intensiver. Ein dreijähriger indischer Single Malt kann Aromen entwickeln, die einem zehnjährigen Scotch vergleichbar sind. Das indische Klima, das die Scotch-Industrie lange als Hindernis für die Premiumproduktion betrachtete, erwies sich als deutlicher Vorteil.
+
+# Abschließende Gedanken
+
+Die Geschichte des indischen Single-Malt-Whiskys veranschaulicht ein breiteres Prinzip über Industrien und Identität. Rufe sind hartnäckig: Sobald ein Produkt als billig abgestempelt wurde, bedarf es erheblicher und anhaltender Anstrengungen, diese Wahrnehmung zu ändern, selbst wenn die zugrundeliegende Qualität wirklich verbessert wird. Der Amrut-Moment 2010 funktionierte teilweise, weil er aus einer unerwarteten Richtung kam. Für Unternehmer und Unternehmen bietet die indische Single-Malt-Geschichte eine Erinnerung: Herkunft ist kein Schicksal, Stigma kann umgekehrt werden, und dieselben Bedingungen, die einst wie Nachteile erschienen, können manchmal zur Quelle der unverwechselbarsten Eigenschaften eines Produkts werden.

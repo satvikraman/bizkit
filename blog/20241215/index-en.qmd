@@ -1,0 +1,32 @@
+---
+title: "The Indian Whisky That Beat Scotland"
+date: 2024-12-15
+subtitle: "\"There is no bad whisky. There are only some whiskies that aren't as good as others.\" — Raymond Chandler"
+description: "Twenty years ago, if you said 'Indian single malt whisky' at a bar in Edinburgh, people would have laughed. In 2004, a whisky named Amrut Fusion from Bengaluru was ranked the third-best whisky in the world. By 2024, Indian single malts had outsold Scottish single malts inside India for the first time. This is the story of how an entire industry changed its identity."
+image: "./title_20241215.png"
+twitter-card: {image: "./title_20241215.png"}
+open-graph: {image: "./title_20241215.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+India is the largest whisky-consuming country in the world. One in every two bottles of whisky sold anywhere on the planet is sold in India. For most of its history, however, that whisky was not what a connoisseur in Edinburgh or Tokyo would recognise as whisky at all. Indian Made Foreign Liquor, or IMFL, is typically produced from molasses, a byproduct of sugar production, rather than from grain, and it is far cheaper than anything produced by traditional distilling methods. The premium market in India was dominated by imported Scotch, available at very high prices due to import duties that could reach one hundred and fifty percent. Indian whisky had a clear identity problem: it was cheap, it was harsh, and it was not taken seriously by the global spirits industry. What happened over the next two decades transformed that completely, and the story of how Indian single malt went from a domestic curiosity to an internationally acclaimed category is a useful illustration of how industries reinvent themselves.
+
+# The Moment That Changed Everything
+
+The turning point is generally dated to 2010, though the groundwork was laid earlier. Amrut Distilleries, a Bengaluru-based company founded in 1948, had been experimenting with single malt whisky production for years. In 2004, it launched Amrut Fusion, a whisky blended from Scottish and Indian barley, aged in conditions that are very different from anything in Scotland because of India's heat and altitude. In 2010, Jim Murray's Whisky Bible, one of the most influential guides to whisky in the world, named Amrut Fusion the third-best whisky on the planet. The reaction from the global whisky community was one of stunned recognition. India, the country that drank the most whisky in the world, had suddenly become a country that could also make some of the best. The announcement attracted international attention to a handful of other Indian distilleries that had been quietly working toward the same goal. Paul John Whisky from Goa, Rampur from Uttar Pradesh, and Indri from Haryana all gained recognition in subsequent years.
+
+# The Numbers Behind the Boom
+
+The growth figures are remarkable. In 2022, domestic sales of Indian single malt whiskies grew by two hundred and forty percent, compared to thirty-five percent growth for Scottish single malts in the same market. In 2023, Indian single malts accounted for fifty-three percent of all single malt cases sold in India, surpassing imported brands for the first time in history. India now has approximately twenty distilleries producing single malt whisky, exporting to over sixty countries. Global drinks companies have taken notice. Pernod Ricard, the French beverage giant that produces famous Scotch brands such as Chivas Regal and Royal Salute, announced plans to invest eighteen hundred crore rupees to build its largest distillery in Asia in Nagpur, designed specifically to produce world-class Indian single malt for both domestic consumption and export. This is a striking signal: the company that profits most from Indian consumers buying imported Scotch has decided it wants to profit from Indian consumers buying Indian malt instead.
+
+# Why India Has Natural Advantages
+
+There is a genuine reason beyond marketing for why Indian single malt has developed a distinctive character that appeals to international drinkers. Whisky is matured in barrels, and the speed at which it matures depends heavily on climate. In Scotland, where temperatures are cool and stable, whisky aged in barrels changes slowly, requiring many years to develop complexity. In India, where summer temperatures can be extreme, the interaction between the spirit and the wood in the barrel is much faster and more intense. A three-year-old Indian single malt may develop flavours comparable to a ten-year-old Scotch, because the heat accelerates the extraction of compounds from the wood. This means Indian whisky can offer concentrated and often fruit-forward flavour profiles at ages that would be unremarkable by Scottish standards. The Indian climate, which the Scotch industry long considered an obstacle to premium production, turned out to be a distinctive advantage.
+
+# Final Thoughts
+
+The story of Indian single malt whisky illustrates a broader principle about industries and identity. Reputations are sticky: once a product has been labelled cheap, it takes significant and sustained effort to change that perception, even when the underlying quality genuinely improves. The Amrut moment in 2010 worked partly because it came from an unexpected direction, a third-party verdict from a credible international source rather than a self-promotional claim by the industry itself. The subsequent decade of consistent award-winning production, growing export volumes, and investment from global giants has reinforced that initial credibility and transformed what people around the world think when they hear the phrase Indian whisky. For entrepreneurs and businesses in any field, the Indian single malt story offers a reminder that origin is not destiny, that stigma can be reversed, and that the same conditions that once seemed to be disadvantages can sometimes become the source of a product's most distinctive qualities.
