@@ -1,0 +1,48 @@
+---
+title: "India's Credit Boom: What the Rise in Personal Loans Tells Us About the New Indian Consumer"
+date: 2026-06-14
+subtitle: "\"A generation ago, borrowing was associated with need and hardship. Today, a young Indian takes a personal loan to buy a phone, a holiday, or a course. That shift tells you something important about how India has changed.\""
+description: "India's retail credit market has grown explosively in the past five years. Personal loans, consumer durables loans, and buy-now-pay-later schemes have transformed how Indians consume. But rapid credit growth also carries risks — and regulators are paying close attention."
+image: "./title_20260614.png"
+twitter-card: {image: "./title_20260614.png"}
+open-graph: {image: "./title_20260614.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# The Changed Relationship With Debt
+
+For much of India's post-independence history, debt was something to be avoided — a sign of financial difficulty, to be repaid as quickly as possible and never discussed openly. The ideal Indian household saved first and spent later.
+
+That relationship has fundamentally changed. Young Indians today think about credit differently. A personal loan is not a mark of failure; it is a tool for accessing consumption now rather than later. Buy-now-pay-later (BNPL) services, credit cards, and app-based instant loans have made borrowing frictionless. And millions of Indians are using these tools.
+
+# The Numbers
+
+India's retail credit market — the segment covering personal loans, consumer durable loans, credit cards, and similar products — has grown at approximately 20% per year for several years running. At the time of writing, personal loans outstanding from scheduled commercial banks exceed ₹50 lakh crore.
+
+That is an extraordinary number for a country where, a decade ago, the majority of the population had limited access to formal credit at all. The penetration of credit is widening rapidly — driven by fintech companies (CreditAccess, Slice, Kreditbee, Axio, and others), NBFCs, and increasingly aggressive consumer lending by traditional banks.
+
+# The Fintech Revolution
+
+The growth of digital lending has been particularly rapid. Fintech companies use alternative data — phone usage patterns, transaction histories, social media signals — to assess creditworthiness for people without formal credit histories. This has opened credit to millions who would previously have been turned away by traditional banks.
+
+The result is a massive expansion of credit access. A migrant worker in Delhi can now get a small loan in minutes from their phone, at an interest rate that — while high — is far lower than what informal moneylenders would charge.
+
+# The Risks
+
+Rapid credit growth, particularly in unsecured personal loans, carries risks that the RBI has been watching carefully.
+
+In 2023, the RBI raised risk weights on consumer credit, effectively making it more expensive for banks to lend in this segment. The move was intended to slow down what the RBI saw as potentially dangerous credit growth.
+
+Several warning signs have appeared. Delinquency rates in certain BNPL and personal loan categories have risen. Some younger borrowers — particularly those using multiple credit apps simultaneously — have ended up in debt traps that are difficult to exit.
+
+The ghost of the US subprime mortgage crisis looms in discussions of India's retail credit boom. There, rapid expansion of credit to borrowers who could not repay eventually triggered a global financial crisis. India's situation is different in important ways — the scale is smaller, collateral requirements vary, and the RBI is vigilant. But the lesson about the dangers of ignoring underwriting standards is a universal one.
+
+# The Balance Sheet of Borrowing
+
+For all the risks, the expansion of credit has genuine benefits. Access to finance allows households to smooth consumption — borrowing during a medical emergency, for example, rather than selling assets. It enables small investments in education or equipment that can raise future incomes. It makes the economy more dynamic.
+
+The challenge, for policymakers and lenders alike, is ensuring that credit growth is accompanied by responsible lending practices and financial literacy. A loan that cannot be repaid destroys wealth. A loan that enables productive investment creates it. The difference is in the underwriting — and in the borrower's understanding of what they are taking on.
+
+India's credit boom is both an opportunity and a warning. It can be a sign of an economy maturing and becoming more financially integrated. Or it can be a prelude to a painful correction. Which one it becomes depends on choices being made right now.

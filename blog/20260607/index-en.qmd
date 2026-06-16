@@ -1,0 +1,46 @@
+---
+title: "Electric Vehicles in India: The Race to Electrify the World's Second-Largest Two-Wheeler Market"
+date: 2026-06-07
+subtitle: "\"The electric vehicle revolution in India is not starting with cars. It is starting with scooters — and that might be exactly the right place to start.\""
+description: "India's EV market is growing faster than almost any other in the world, led by two-wheelers and three-wheelers. Ola Electric, Tata Motors, Hero MotoCorp, and dozens of startups are competing in a race that will determine who powers India's roads for the next generation."
+image: "./title_20260607.png"
+twitter-card: {image: "./title_20260607.png"}
+open-graph: {image: "./title_20260607.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Not the Car. The Scooter.
+
+In most of the world, the electric vehicle conversation is about cars. In India, it starts with the two-wheeler.
+
+India is the world's largest two-wheeler market. Around 20 million motorcycles and scooters are sold every year. For most Indian families, the two-wheeler is the primary mode of transportation — far more common than a car. So when electric vehicles start displacing petrol vehicles in India, they will largely be displacing scooters, not sedans.
+
+This matters for several reasons. Two-wheelers have shorter ranges and lower speeds than cars — which makes the battery size needed more manageable and the charging anxiety less severe. For urban commuting — which is where most two-wheelers are used — a range of 80-120 km per charge is often more than enough. This makes the economics of electric two-wheelers more favourable than electric cars.
+
+# The Players
+
+The electric two-wheeler market in India has attracted an unusually diverse set of competitors.
+
+Ola Electric, the most aggressive new entrant, was founded by Bhavish Aggarwal of Ola Cabs. It built what it claims is the world's largest scooter manufacturing facility in Tamil Nadu. It went public in 2024, in India's first large tech IPO of the year. Despite enormous early sales, Ola Electric has faced significant quality complaints and after-sales service problems that have tested customer loyalty.
+
+Tata Motors, the established conglomerate, has taken a different approach — focusing on the electric car segment with its Nexon EV and Tiago EV. It has captured a dominant share of the electric car market with a strategy that emphasises reliability and an existing dealer network.
+
+Hero MotoCorp, India's largest motorcycle maker, was slow to enter the EV space but has been accelerating. Bajaj Auto and TVS Motor are also significant players, each with their own EV portfolios.
+
+# The Charging Infrastructure Challenge
+
+The biggest practical obstacle to mass EV adoption in India is charging infrastructure. Unlike petrol stations — which exist in virtually every town — public EV chargers are concentrated in a handful of major cities. Most EV owners in India charge at home, which requires a parking space (not available to many apartment dwellers) and a reliable power connection.
+
+Charging infrastructure is being built, but slowly. The government has set targets, and private companies including Tata Power, Ather Energy, and others are deploying chargers. But the gap between ambition and reality remains large.
+
+# The Battery Question
+
+Almost all EV batteries sold in India today use cells imported from China. India has no meaningful battery cell manufacturing capacity yet, which creates a strategic vulnerability — and adds to costs.
+
+The government's PLI scheme for Advanced Chemistry Cell (ACC) batteries is designed to change this. Several Indian companies and global battery makers have committed to building battery manufacturing plants in India. But the timelines are long, and the technology challenging.
+
+# What It Means for India
+
+If India can make the EV transition work — building domestic manufacturing, fixing charging infrastructure, and creating reliable, affordable products — the benefits would be substantial. Less dependence on imported oil. Cleaner air in cities that suffer from extreme pollution. A new manufacturing industry that could compete globally. India has already demonstrated it can build a world-class payments system and software industry. The EV sector is the next test.

@@ -1,0 +1,28 @@
+---
+title: "Elektrofahrzeuge in Indien: Das Rennen um die Elektrifizierung des zweitgrößten Zweiradmarktes der Welt"
+date: 2026-06-07
+subtitle: "\"Die Elektrofahrzeug-Revolution in Indien beginnt nicht mit Autos. Sie beginnt mit Rollern — und das könnte genau der richtige Ausgangspunkt sein.\""
+description: "Indiens EV-Markt wächst schneller als fast jeder andere auf der Welt, angeführt von Zwei- und Dreirädern. Ola Electric, Tata Motors, Hero MotoCorp und Dutzende Start-ups konkurrieren in einem Rennen."
+image: "./title_20260607.png"
+twitter-card: {image: "./title_20260607.png"}
+open-graph: {image: "./title_20260607.png"}
+categories: ["Unternehmensaktivitäten"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Kein Auto. Der Roller.
+
+Indien ist der größte Zweiradmarkt der Welt. Jedes Jahr werden rund 20 Millionen Motorräder und Roller verkauft. Für die meisten indischen Familien ist das Zweirad das primäre Transportmittel.
+
+# Die Akteure
+
+Ola Electric, der aggressivste neue Marktteilnehmer, wurde 2024 börsennotiert. Tata Motors konzentriert sich mit Nexon EV und Tiago EV auf das Elektroauto-Segment. Hero MotoCorp, Bajaj Auto und TVS Motor sind ebenfalls bedeutende Akteure.
+
+# Die Ladeinfrastruktur-Herausforderung
+
+Das größte praktische Hindernis für die Massenadoption von EVs in Indien ist die Ladeinfrastruktur. Öffentliche EV-Ladestationen sind auf wenige große Städte konzentriert.
+
+# Was es für Indien bedeutet
+
+Wenn Indien den EV-Übergang meistern kann — weniger Abhängigkeit von importiertem Öl, sauberere Luft, eine neue Fertigungsindustrie — wären die Vorteile erheblich.
