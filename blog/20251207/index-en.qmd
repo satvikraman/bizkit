@@ -1,0 +1,40 @@
+---
+title: "How Apple Making iPhones in India Changes the Country's Industrial Story"
+date: 2025-12-07
+subtitle: "\"Manufacturing is not just about jobs. It is about building the knowledge and capability to make the next thing.\""
+description: "Apple's manufacturing expansion in India reached a significant milestone in 2025, with India now accounting for a meaningful share of global iPhone production. This post explains how Apple's supply chain shift happened, what it means for India's industrial ambitions, and what lessons it offers for students thinking about the economics of global manufacturing."
+image: "./title_20251207.png"
+twitter-card: {image: "./title_20251207.png"}
+open-graph: {image: "./title_20251207.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+For decades, when people said something was made in China, they meant it was made efficiently, at scale, and at low cost. The concentration of manufacturing in China across consumer electronics, textiles, chemicals, and industrial components was one of the defining economic facts of the late twentieth and early twenty-first centuries. That concentration is now shifting, and India is one of the main beneficiaries of that shift.
+
+Apple's decision to manufacture iPhones in India is the most high-profile example of this change. In 2025, India's share of global iPhone production crossed a threshold that no analyst would have predicted ten years ago, when Apple manufactured virtually nothing in India. The journey from zero to a meaningful percentage of the world's most valuable consumer device being made in Tamil Nadu and Karnataka is a story about geopolitics, supply chain resilience, government policy, and the gradual but real development of industrial capability.
+
+# How the Shift Started
+
+Apple began cautiously testing Indian manufacturing around 2017 through its contract manufacturer Foxconn, which had existing operations in Chennai. The initial production was limited to older iPhone models for the domestic market, taking advantage of India's import duty differential for locally assembled devices.
+
+The momentum accelerated dramatically after 2020. The India-China border clash, combined with US-China trade tensions and the COVID-19 supply chain disruptions, made Apple's concentrated dependence on China an obvious strategic risk. Apple and its major contract manufacturers — Foxconn, Pegatron, and Wistron (later rebranded as Tata Electronics after Tata acquired the Indian operations) — began investing in genuine capacity to manufacture current-generation iPhones in India.
+
+# The PLI Scheme's Role
+
+The Indian government's Production Linked Incentive scheme for smartphones was central to this expansion. The PLI scheme offers cash payouts to manufacturers who hit defined production targets. For Apple's contract manufacturers, the scheme made the economics of Indian production more attractive. Combined with India's large and growing consumer base, its significant engineering talent pool, and its lower wage costs compared to China, the incentive tipped investment decisions that might otherwise have been borderline.
+
+Tata Electronics became particularly significant in this story. When Tata acquired Wistron's India operations in 2024 and subsequently invested in Pegatron's India facilities, it became Apple's first Indian supplier managing final assembly of iPhones. This is not a small thing: Tata Group, one of India's most trusted industrial conglomerates, is now assembling the iPhone alongside Foxconn. It represents a genuine integration of an Indian industrial house into the world's most demanding technology supply chain.
+
+# What India Has Gained and What Remains Challenging
+
+The direct gains are clear: tens of thousands of jobs, foreign exchange from exports, and the development of industrial expertise that did not exist before. The Foxconn and Tata facilities in Chennai and Karnataka employ large numbers of people, including a significant proportion of women workers.
+
+But the gains are also partial. India is primarily assembling iPhones from components imported largely from China and Taiwan. The screens, chips, and core components still come from outside India. The value addition that happens in India — assembly — is real but represents a fraction of the total value of the iPhone. For India to capture more of the value chain, it needs to develop the capacity to make components domestically, which requires a deeper and more capable industrial ecosystem than currently exists.
+
+# Final Thoughts
+
+Apple's manufacturing expansion in India is a genuine success story for Indian industrial policy. It demonstrates that global supply chains can be shifted, that India can build manufacturing credibility on the world stage, and that the combination of government incentives, industrial investment, and geopolitical tailwinds can move the needle meaningfully. The harder challenge now is to move beyond assembly into component manufacturing — to become not just the place where iPhones are put together, but the place where the parts that make them up are designed and built. That is a longer and more difficult journey, but India's progress on the first step makes the second step more credible than it would have seemed a decade ago.

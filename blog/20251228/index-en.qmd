@@ -1,0 +1,46 @@
+---
+title: "Indian Stocks in 2025: A Year That Started in Correction and Ended With Comeback"
+date: 2025-12-28
+subtitle: "\"The stock market is a device for transferring money from the impatient to the patient.\" — Warren Buffett"
+description: "2025 was a year of two halves for Indian stock markets. The Sensex and Nifty fell sharply in early 2025, unsettling millions of first-time investors who had entered the market during the boom years. Then recovery set in, and by year's end, indices were at fresh highs. This post reviews the year in Indian markets and draws out lessons about market cycles and investor behavior."
+image: "./title_20251228.png"
+twitter-card: {image: "./title_20251228.png"}
+open-graph: {image: "./title_20251228.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Any year in the stock market contains enough drama to fill a book. The year 2025 was no exception for Indian investors. It began with volatility and corrections that shook many first-time retail investors who had entered the market during the exuberant bull run of 2023 and 2024. By mid-year, the picture had stabilised. And by December 2025, both the Sensex and the Nifty 50 had recovered their lost ground and were testing new highs, delivering positive returns for the full year to patient investors who had stayed the course.
+
+The story of 2025 is not just a story about market levels. It is a story about how Indian retail investors are maturing, how the ecosystem of mutual funds and SIPs is providing a buffer against market swings, and how the sectors that drive returns keep evolving.
+
+# How the Year Began
+
+Early 2025 was uncomfortable for Indian equity investors. Markets had run up strongly in 2023 and 2024 on the back of strong corporate earnings, robust GDP growth, and a wave of retail investor participation. By late 2024, valuations in many segments of the market — particularly in the small-cap and mid-cap space — had become stretched. When foreign institutional investors began reducing their India allocations in late 2024 and early 2025, partly in response to a stronger US dollar and partly due to concerns about Indian valuations relative to other emerging markets, markets fell.
+
+The Nifty 50 fell roughly 12 to 15% from its peak in late 2024 to its trough in early 2025. Mid-cap and small-cap indices fell more sharply, sometimes by 20 to 25% from their highs. For investors who had entered the market recently and had never experienced a proper correction, this was alarming.
+
+# What Steadied the Market
+
+Several factors contributed to recovery through the middle of the year. Corporate earnings came in better than feared in the first quarter of 2025. RBI began cutting interest rates, supporting both the economy and market sentiment. Oil prices remained range-bound, which is generally positive for India as a net oil importer. And crucially, domestic retail investors did not panic sell at scale. Monthly SIP flows into mutual funds remained resilient even during the correction, providing a steady floor of demand for equities.
+
+Foreign institutional investors returned later in the year as India's relative attractiveness improved and as global risk appetite recovered. The combination of domestic and foreign buying drove the recovery that brought markets to record levels by December.
+
+# Sectors That Led and Sectors That Lagged
+
+The year's performance was not uniform across sectors. Capital goods and infrastructure stocks continued to do well, benefiting from the government's sustained focus on infrastructure spending. Banking stocks were mixed — some large private sector banks delivered excellent returns while public sector banks underperformed. Technology stocks, which had been a drag in 2023 and 2024 as IT spending globally slowed, began recovering in 2025 as large enterprise customers started fresh spending cycles.
+
+Consumer stocks were a mixed picture. Premium consumer goods companies did well as urban spending held up. Mass market consumer goods companies faced pressure from rural demand that was slower to recover.
+
+# What Long-Term Investors Learned in 2025
+
+For investors who had never seen a correction, 2025 was an education. The lesson most commonly drawn is also the most durable one: corrections are normal parts of market cycles, not signals that the market is broken or that investing is no longer viable. Every significant correction in Indian markets over the past two decades has eventually been followed by recovery to new highs.
+
+The investors who did best in 2025 were those who neither panicked during the correction nor tried to time an exact entry at the bottom. They simply continued their SIPs, held their diversified portfolios, and waited.
+
+# Final Thoughts
+
+Indian stock markets in 2025 delivered a full course in investor education: fear, uncertainty, recovery, and eventual reward for patience. The broader story is that India's capital markets are maturing rapidly. With over 15 crore demat accounts and SIP inflows that now comfortably exceed Rs 20,000 crore per month, retail participation has reached a scale that meaningfully affects market dynamics. This is a structural change in Indian finance — for the better, if investors approach it with the patience and diversification it requires.

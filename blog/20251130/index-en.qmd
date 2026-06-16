@@ -1,0 +1,42 @@
+---
+title: "Why India Imports So Much From China Even When Relations Are Tense"
+date: 2025-11-30
+subtitle: "\"Trade and diplomacy do not always point in the same direction.\""
+description: "India-China diplomatic relations have had a turbulent few years, with a border standoff in the Himalayas followed by gradual normalisation. Yet through all of this, India's trade deficit with China has grown consistently. This post explains why the two countries' economic relationship is far more entangled than the political narrative suggests, and what India can realistically do about it."
+image: "./title_20251130.png"
+twitter-card: {image: "./title_20251130.png"}
+open-graph: {image: "./title_20251130.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+In June 2020, Indian and Chinese soldiers clashed in the Galwan Valley in a violent confrontation that left soldiers dead on both sides and escalated into the most serious border crisis between the two countries in decades. The Indian government responded with a series of economic measures: banning dozens of Chinese apps including TikTok and several utility apps, restricting Chinese investment in Indian companies, and encouraging a mood of economic nationalism around reducing dependence on China. Five years later, the border situation has partially normalised, diplomatic channels have reopened, and bilateral talks have continued. What has not changed is India's trade relationship with China. The trade deficit has not shrunk. If anything, it has grown.
+
+In 2025, India's trade deficit with China crossed $100 billion for the first time. India exported roughly $16 billion worth of goods to China and imported over $117 billion. The gap is enormous, persistent, and structurally difficult to close. Understanding why requires going beyond the political narrative.
+
+# What India Buys From China and Why
+
+The bulk of India's imports from China fall into categories where India has either no domestic production at all or domestic production that is significantly more expensive and lower quality. The largest categories include electronics components, solar panels and related equipment, industrial machinery, active pharmaceutical ingredients (the chemical building blocks of medicines), and consumer goods of all kinds.
+
+Take electronics. India assembles smartphones at scale — Apple makes iPhones in Tamil Nadu, Samsung makes phones in Noida, and dozens of other companies have manufacturing operations. But the components that go into those phones — screens, chips, camera modules, power management integrated circuits — largely come from China and Taiwan. India does not yet have the industrial ecosystem to make these components domestically at competitive cost and quality. When an Indian company buys components to assemble a phone, buying from China is often the only practical option.
+
+Or take solar panels. India has ambitious renewable energy targets, and solar power is central to reaching them. The cheapest solar panels in the world are made in China, benefiting from decades of scale, government support, and supply chain depth that India cannot match in the short term. Choosing to buy Indian-made solar panels at higher cost means higher electricity prices or slower adoption of renewable energy. Every policy lever involves a trade-off.
+
+# The Pharmaceutical Dependency
+
+One area that deserves particular attention is pharmaceuticals. India is known as the pharmacy of the world — it is one of the largest exporters of generic medicines globally. But this export machine is built on a quiet dependency. The active pharmaceutical ingredients used to make those medicines are overwhelmingly imported from China. India's domestic API manufacturing has declined over decades as Chinese suppliers offered lower prices.
+
+This dependency became a visible risk during COVID-19, when supply chain disruptions briefly threatened India's ability to produce medicines. The government responded with Production Linked Incentive schemes for pharmaceutical manufacturing. Some domestic API production has been revived. But the structural change is slow and incomplete.
+
+# What India Can Realistically Do
+
+The honest answer is that India cannot quickly reduce its trade deficit with China without either accepting higher costs in key sectors or building the industrial capacity to replace Chinese imports over a longer period. Both paths are being pursued simultaneously. The PLI scheme offers cash incentives for domestic manufacturing in targeted sectors. Tariffs on some Chinese goods have been raised. Chinese investments are subject to additional scrutiny.
+
+The more realistic expectation is that India's trade deficit with China will remain large for the foreseeable future while gradually being diversified at the margin. The diplomatic relationship will continue to be managed pragmatically — strategic rivals economically entangled with each other is not unusual in global trade. The US and China were in a similar position for years.
+
+# Final Thoughts
+
+India's trade relationship with China is one of the most interesting and complex bilateral economic stories in the world right now. The political desire to reduce dependence on China is genuine and understandable. But the economic reality is that the dependence is deeply structural, built over decades, and cannot be unwound quickly without real cost. For students of economics and international relations, the India-China trade story is a valuable lesson in how political preferences and economic incentives often pull in opposite directions — and why the solution is rarely as simple as the narrative suggests.
