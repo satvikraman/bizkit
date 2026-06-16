@@ -1,0 +1,36 @@
+---
+title: "Die Aktie, die ihren wahren Wert fand"
+date: 2024-11-10
+subtitle: "\"Preis ist, was du bezahlst. Wert ist, was du bekommst.\" — Warren Buffett"
+description: "Im Oktober 2024 stieg der Aktienkurs des kleinen Unternehmens Elcid Investments an einem einzigen Tag von ₹3,53 auf ₹2,36,250. Das war kein Marktwunder und kein Betrug. Eine Aufsichtsbehörde zwang den Markt, die Wahrheit über den tatsächlichen Wert eines Unternehmens zu sagen."
+image: "./title_20241110.png"
+twitter-card: {image: "./title_20241110.png"}
+open-graph: {image: "./title_20241110.png"}
+categories: ["Geld & Märkte"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Ende Oktober 2024 machte ein Unternehmen, das fast niemand kannte, in ganz Indien Finanzschlagzeilen. Elcid Investments, ein kleines Nichtbanken-Finanzunternehmen, das an der Bombay Stock Exchange notiert ist, sah seinen Aktienkurs in einer einzigen Handelssitzung um etwa siebenundsechzig Lakh Prozent steigen. Die Aktie hatte jahrelang bei rund dreieinhalb Rupien gelegen. Am Ende dieser Sitzung wurde jede Aktie für über zwei Lakh sechsunddreißig Tausend Rupien gehandelt, womit ihr Preis sogar MRF überstieg, das lange den Titel der teuersten indischen Aktie innehatte. Was mit Elcid Investments geschah, war keine Manipulation, kein Betrug und kein Zufall. Es war das Ergebnis einer bewussten politischen Entscheidung des Securities and Exchange Board of India (SEBI).
+
+# Was ist eine Holdinggesellschaft und warum wird sie billig gehandelt?
+
+Um das Geschehene zu verstehen, muss man erst begreifen, was Elcid Investments tatsächlich ist. Elcid ist eine Investmentgesellschaft, das heißt, anstatt Waren herzustellen oder Dienstleistungen zu erbringen, hält sie einfach Anteile an anderen Unternehmen. Etwa dreiundneunzig Prozent von Elcids Vermögen bestehen aus Anteilen an anderen börsennotierten Unternehmen. Wäre man Eigentümer von Elcid, besäße man praktisch einen Anteil an diesen Tochtergesellschaften, verpackt in einer Unternehmenshülle. In der Theorie sollte der Wert von Elcid also dem kombinierten Marktwert all seiner Beteiligungen eng folgen. In der Praxis werden Holdinggesellschaften in Indien und weltweit traditionell mit einem erheblichen Abschlag zu ihren Tochterunternehmen gehandelt, ein Phänomen, das Ökonomen und Analysten als Holdinggesellschafts-Discount bezeichnen.
+
+Die Gründe für diesen Abschlag sind nicht rätselhaft. Ein Anleger, der Anteile an den von Elcid gehaltenen Unternehmen besitzen möchte, kann diese oft direkt kaufen. Holdinggesellschaften sind zudem oft illiquide, das heißt an einem bestimmten Tag werden sehr wenige Anteile gehandelt, was das Kaufen oder Verkaufen ohne Preisveränderung erschwert. Wenn etwas schwer zu verkaufen ist, bieten Käufer nur einen niedrigen Preis, um diese Schwierigkeit auszugleichen.
+
+# Das Problem, das SEBI beheben wollte
+
+Elcid Investments ist ein eindrucksvolles Beispiel für dieses Problem. Sein Buchwert je Aktie betrug etwa fünf Lakh achtzigtausend Rupien. Dennoch wurde die Aktie für dreieinhalb Rupien gehandelt. Das bedeutete, die Aktie wurde prozentual gesehen um Hunderte Millionen Prozent unter dem tatsächlichen Wert der Vermögenswerte gehandelt. Anleger, die Elcid jahrelang gehalten hatten, saßen auf enormem verstecktem Vermögen, das sie nicht realisieren konnten, weil der Markt einfach nie auf den fairen Preis der Aktien aufmerksam geworden war.
+
+SEBI bemerkte, dass dies nicht nur bei Elcid, sondern bei Dutzenden von Holdinggesellschaften an indischen Börsen passierte. Im Jahr 2024 führte SEBI ein neues Instrument ein, das als spezielle Aufrufauktion bezeichnet wird, das speziell entwickelt wurde, um dieses Problem zu lösen.
+
+# Der Tag, an dem sich alles änderte
+
+Eine spezielle Aufrufauktion funktioniert anders als normaler Aktienhandel. SEBI bestimmte ein spezifisches Zeitfenster an einem bestimmten Tag, in dem Anleger Aufträge für qualifizierte Holdinggesellschaftsaktien aufgeben konnten. Alle in diesem Fenster aufgegebenen Aufträge wurden am Ende der Sitzung auf einmal abgeglichen, was die Märkte als Preisfindungsereignis bezeichnen. Für Elcid kam dieser Moment im Oktober 2024. Als das Auktionsfenster öffnete, sahen Käufer und Verkäufer den tatsächlichen Nettovermögenswert des Unternehmens und gaben entsprechend Aufträge auf. Das Ergebnis war, dass sich der Preis in einer einzigen Sitzung von dreieinhalb Rupien auf über zwei Lakh sechsunddreißig Tausend Rupien anpasste. Hätte man vor der Auktion ein Lakh Rupien in Elcid investiert, wäre dieses Investment danach rund sechshundertsiebzig Crore Rupien wert gewesen. Die Aktie wurde zur teuersten Aktie in der Geschichte des indischen Marktes.
+
+# Abschließende Gedanken
+
+Die Geschichte von Elcid Investments handelt nicht wirklich davon, dass ein Unternehmen über Nacht spektakulär wertvoll wurde. Der Wert war schon immer vorhanden. Was die Auktion tat, war, den Markt zu zwingen, ihn nicht länger zu ignorieren. Dies ist einer der zentralen Gedanken hinter der Art und Weise, wie Aktienmärkte funktionieren sollen. Märkte funktionieren am besten, wenn Käufer und Verkäufer gleichberechtigten Zugang zu Informationen haben, wenn zu transparenten Preisen gehandelt werden kann und wenn keine strukturellen Hindernisse eine faire Preisfindung verhindern. SEBIs Eingriff ist eine Erinnerung daran, dass Regulatoren nicht nur dazu da sind, Betrug zu stoppen, sondern auch die Marktmechanik zu reparieren, wenn sie nicht mehr funktioniert. Preis und Wert sind nicht immer dasselbe, und manchmal braucht die Lücke zwischen ihnen etwas Hilfe beim Schließen.

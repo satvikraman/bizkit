@@ -1,0 +1,36 @@
+---
+title: "The Stock That Found Its True Worth"
+date: 2024-11-10
+subtitle: "\"Price is what you pay. Value is what you get.\" — Warren Buffett"
+description: "In October 2024, a tiny company called Elcid Investments watched its share price jump from ₹3.53 to ₹2,36,250 in a single day. This was not a market miracle or a scam. It was a regulator finally forcing the market to tell the truth about what a company was actually worth."
+image: "./title_20241110.png"
+twitter-card: {image: "./title_20241110.png"}
+open-graph: {image: "./title_20241110.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+In late October 2024, a company that almost nobody had heard of made financial headlines across India. Elcid Investments, a small non-banking financial company listed on the Bombay Stock Exchange, saw its share price rise by approximately sixty-seven lakh percent in the space of a single trading session. The stock had been sitting at roughly three and a half rupees for years. By the end of that session, each share was trading at over two lakh thirty-six thousand rupees, placing its price higher than even MRF, which had long held the title of India's most expensive stock. To anyone watching a stock ticker that morning, the numbers seemed impossible. But what happened to Elcid Investments was not manipulation, not a scam, and not a coincidence. It was the result of a deliberate policy decision by the Securities and Exchange Board of India, and it teaches one of the most important lessons about how financial markets are supposed to work.
+
+# What Is a Holding Company and Why Does It Trade Cheap?
+
+To understand what happened, you first need to understand what Elcid Investments actually is. Elcid is an investment company, or IC, which means that instead of manufacturing goods or delivering services, it simply holds shares in other companies. About ninety-three percent of Elcid's assets consist of stakes in other publicly listed businesses. If you owned Elcid, you would effectively own a slice of those underlying companies, carried inside a corporate wrapper. In theory, this means the value of Elcid should closely track the combined market value of everything it owns. In practice, holding companies across India and the world have historically traded at a significant discount to the value of their underlying assets, a phenomenon economists and analysts call the holding company discount.
+
+The reasons for this discount are not mysterious. An investor who wants to own shares of the companies Elcid holds can often buy those shares directly, without paying any extra fees or layers of management. Holding companies also tend to be illiquid, meaning very few shares change hands on a given day, which makes it harder to buy or sell without moving the price. When something is hard to sell, buyers will only offer a low price to compensate for that difficulty. And so, for years, companies like Elcid sat on assets worth several lakhs per share while their market prices hovered at a few rupees, simply because nobody was trading them and nobody was paying attention.
+
+# The Problem SEBI Decided to Fix
+
+Elcid Investments is a striking example of this problem. Its book value per share, which is calculated by dividing the net value of everything it owns by the number of shares outstanding, was approximately five lakh eighty thousand rupees. Yet the stock was trading at three and a half rupees. This meant the stock was priced at a level that was, in percentage terms, millions of percent below what the underlying assets were actually worth. Investors who had held Elcid for years were sitting on enormous hidden wealth they could not realize, because the market had simply never woken up to the true price of the shares. Minority shareholders who wanted to sell had no realistic buyers at a fair price, and the company's promoters were not legally allowed to buy back shares in ways that would have corrected this imbalance.
+
+The Securities and Exchange Board of India noticed this was happening not just at Elcid but at dozens of holding companies across Indian exchanges. It identified that the root cause was a structural problem with liquidity. Because so few shares of these companies traded on a daily basis, the market had no mechanism to discover what a fair price actually looked like. In 2024, SEBI introduced a new tool called the special call auction, designed specifically to solve this problem.
+
+# The Day Everything Changed
+
+A special call auction works differently from normal stock trading. Instead of a continuous market where buyers and sellers meet throughout the day, SEBI designated a specific time window on a specific day during which investors could place orders for qualifying holding company stocks. All orders placed during that window would be matched at once at the end of the session, creating what markets call a price discovery event. For Elcid, this moment arrived in October 2024. When the auction window opened, buyers and sellers looked at the company's actual underlying asset value and placed orders accordingly. The result was that the price adjusted to reflect reality in a single session, moving from three and a half rupees to over two lakh thirty-six thousand rupees. If you had invested one lakh rupees in Elcid before the auction, that investment would have been worth roughly six hundred and seventy crore rupees afterward. The stock became the most expensive share in Indian market history, surpassing even MRF.
+
+# Final Thoughts
+
+The story of Elcid Investments is not really about one company becoming spectacularly valuable overnight. The value was always there. What the auction did was force the market to stop ignoring it. This is one of the central ideas behind how stock markets are supposed to function. Markets work best when buyers and sellers have the same access to information, when trading is possible at transparent prices, and when no structural barriers prevent honest price discovery. When those conditions break down, as they did for years in India's holding company sector, the market price of an asset can drift far away from what the asset is genuinely worth. SEBI's intervention is a reminder that regulators are not just there to stop fraud but to repair the machinery of markets when it stops working. For the minority shareholders of Elcid who finally saw their investment reflect its true value after years of waiting, the auction was overdue. For the rest of us, it is a useful prompt to remember that price and value are not always the same thing, and the gap between them sometimes needs a little help to close.
