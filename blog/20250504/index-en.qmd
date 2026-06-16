@@ -1,0 +1,36 @@
+---
+title: "The Water Agreement India Just Paused With Pakistan"
+date: 2025-05-04
+subtitle: "\"Water is the new oil.\" — Anonymous"
+description: "After the Pahalgam terror attack killed 26 tourists in Kashmir, India suspended the Indus Waters Treaty — a landmark 1960 agreement that had survived three wars between the two countries. What is the Indus Waters Treaty, why does it matter, and what happens now that India has pressed pause?"
+image: "./title_20250504.png"
+twitter-card: {image: "./title_20250504.png"}
+open-graph: {image: "./title_20250504.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+On April 22, 2025, terrorists killed 26 tourists in Pahalgam, Kashmir. India blamed Pakistan-based groups. In response, India took several strong diplomatic steps, including suspending the Indus Waters Treaty — a 65-year-old water-sharing agreement between the two countries. The treaty had survived three full-scale wars, the Kargil conflict, and decades of hostility. So suspending it is a big deal. But what exactly is the treaty, and why does water become a weapon in geopolitics?
+
+# What Is the Indus Waters Treaty
+
+The Indus Waters Treaty was signed in 1960 between India and Pakistan, brokered by the World Bank. The Indus river system has six rivers: the Indus, Jhelum, Chenab, Ravi, Beas, and Sutlej. The treaty divided them: India got the three eastern rivers (Ravi, Beas, Sutlej), and Pakistan got the three western ones (Indus, Jhelum, Chenab). This was mostly fine for India, but the three western rivers carry nearly 80 percent of the total water flow. Pakistan built its entire agricultural and power infrastructure around access to those western rivers.
+
+# Why Pakistan Depends So Much on This Water
+
+Pakistan is heavily dependent on agriculture, which accounts for roughly 20 percent of its GDP and employs nearly half its workforce. Its most important crops — cotton, wheat, rice — all depend on water from the Indus system. If that water slows down significantly, Pakistan's food production collapses, electricity from its hydro projects drops, and an economy already strained by $130 billion in external debt faces a crisis.
+
+# What India Can Actually Do
+
+Here is the important nuance: India cannot just "turn off" the water. The treaty does not allow for unilateral suspension. Even under suspension, completely blocking western river flows would require massive infrastructure that India hasn't built. What India can do is accelerate construction of dams and hydropower projects on the western rivers — something the treaty allowed India to build under strict limits. India can also stop sharing hydrological data with Pakistan, which helps them plan for floods.
+
+# What This Means for the Conflict
+
+Suspending the treaty is more of a political and economic pressure move than an immediate physical threat to Pakistan's water supply. But it signals that India is willing to use economic tools as leverage in geopolitical conflicts. The long-term risk is that India could build more storage and divert water, gradually reducing Pakistan's share over years. For a country already struggling economically, that is a serious long-term threat.
+
+# Final Thoughts
+
+The Indus Waters Treaty story is a reminder that natural resources — water, minerals, energy routes — sit at the heart of geopolitics. For students, this is a powerful example of how economics and foreign policy are inseparable: the most powerful weapon a country can use is sometimes not a missile, but a dam.

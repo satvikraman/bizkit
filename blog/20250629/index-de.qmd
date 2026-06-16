@@ -1,0 +1,28 @@
+---
+title: "Warum Iran diese Wasserstraße nie wirklich schließen kann"
+date: 2025-06-29
+subtitle: "\"Wer das Meer kontrolliert, kontrolliert den Handel. Wer den Handel kontrolliert, kontrolliert die Welt.\" — Alfred Thayer Mahan"
+description: "Immer wenn die Spannungen im Nahen Osten steigen, droht Iran, die Straße von Hormus zu schließen. 20 Prozent der weltweiten Ölversorgung passieren diesen Engpass. Aber Iran hat sie nie geschlossen — warum?"
+image: "./title_20250629.png"
+twitter-card: {image: "./title_20250629.png"}
+open-graph: {image: "./title_20250629.png"}
+categories: ["Wirtschaft und Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einführung
+
+Die Straße von Hormus ist eine schmale Wasserstraße zwischen Oman und Iran. An ihrer engsten Stelle nur 33 Kilometer breit. Dennoch ist sie der wichtigste Energieengpass der Welt. Saudi-Arabiens, der UAE, Kuwaits, Iraks und Irans Öl fließt durch diese Meerenge. Jeden Tag etwa 20 Millionen Barrel Öl — 20 Prozent der weltweiten Versorgung.
+
+# Die Realität von Irans Drohungen
+
+Iran hat in den letzten 40 Jahren Dutzende Male gedroht, die Meerenge zu schließen. Aber warum hat Iran sie nie geschlossen? Weil Iran sich selbst ruinieren würde. Irans gesamte Ölexporte gehen ebenfalls durch diese Meerenge.
+
+# Was für Indien auf dem Spiel steht
+
+Indien importiert etwa 85 Prozent seines Ölbedarfs. Ein großer Teil davon kommt aus den Golfstaaten — und passiert Hormus. Wenn die Meerenge jemals blockiert würde, würde die indische Wirtschaft sofortige Auswirkungen spüren.
+
+# Abschließende Gedanken
+
+Die Straße von Hormus ist ein klassisches Beispiel geopolitischer gegenseitiger Abhängigkeit. Iran hat technisch die Macht, die Meerenge zu schließen, aber dies zu tun wäre auch für Iran selbst suizidal. Für Schüler ist dies eine wichtige Lektion: In der realen Welt ist Macht oft komplexer als es scheint.

@@ -1,0 +1,38 @@
+---
+title: "Why Iran Can Never Really Close This Waterway"
+date: 2025-06-29
+subtitle: "\"Geography is destiny.\" — Napoleon Bonaparte"
+description: "The Strait of Hormuz is a narrow strip of water between Iran and Oman. About 20 percent of the world's oil travels through it every single day. Iran has repeatedly threatened to close it during moments of tension. In 2025, with Middle East conflicts escalating, this threat resurfaced. But can Iran actually close the Strait? And what would happen to India if it did?"
+image: "./title_20250629.png"
+twitter-card: {image: "./title_20250629.png"}
+open-graph: {image: "./title_20250629.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Look at a map. The Persian Gulf is a large body of water surrounded by some of the world's biggest oil producers: Saudi Arabia, Iraq, Kuwait, UAE, Bahrain, Qatar, and Iran. But there is only one way in and out of this gulf by sea: a narrow passage at its southern end, between Iran and the Sultanate of Oman. This is the Strait of Hormuz — just 33 kilometres wide at its narrowest point. Through this bottleneck, roughly 20 to 21 million barrels of oil flow every day. That is about 20 percent of the world's total oil consumption. In 2025, with escalating conflict in the Middle East, Iran renewed its threats to close the strait. Every time it does, oil prices spike worldwide. But can Iran actually follow through?
+
+# Why the Strait of Hormuz Is Irreplaceable
+
+The short answer: geography. The Gulf states cannot simply reroute their oil. Saudi Arabia built the East-West pipeline to bypass the strait — it can carry about 5 million barrels per day, far less than what passes through Hormuz. The UAE has a similar pipeline. But these pipelines together cover only a fraction of the total flow. There are no other practical sea routes for the remaining oil. Container ships carrying global trade goods also use the strait. Closing it would not just be an oil crisis — it would disrupt global trade on a massive scale.
+
+# Can Iran Actually Close It
+
+Technically, Iran has the capability to create serious disruptions. It has mines, submarines, fast attack boats, and missiles that could make the strait extremely dangerous for tankers. In past crises, Iran has seized tankers and attacked ships. The US Fifth Fleet is permanently stationed in Bahrain specifically to deter this scenario.
+
+But here is the key constraint: closing the strait would hurt Iran too. Iran itself exports oil through the strait. A closure would cut off Iran's own oil revenues. More importantly, the US and its allies would respond with massive military force to reopen it — which is why Iran has never actually closed it despite decades of threats. The threat is a leverage tool in negotiations, not a realistic military strategy.
+
+# What Happens to India If the Strait Is Disrupted
+
+India is deeply exposed. India imports roughly 85 percent of its oil, and a significant portion comes from Gulf countries that ship through the strait. India's oil refineries in Jamnagar, Kochi, and Mumbai depend on this supply. Any serious disruption would cause immediate oil price spikes — and India imports oil in dollars, so a price spike combines with currency pressure to hit the economy hard. Inflation rises. The government's fuel subsidy bill balloons. Economic growth slows.
+
+# India's Response Strategy
+
+India has been working to diversify its oil sources — buying more from Russia (discounted due to sanctions), the US, and Africa. But the Gulf remains central. India is also building Strategic Petroleum Reserves (oil stored underground) to buffer against short-term supply disruptions. It currently has reserves for roughly 12-14 days of consumption. More storage facilities are being built.
+
+# Final Thoughts
+
+The Strait of Hormuz is a geography lesson that explains why a tiny patch of water dominates global economic conversations. For students, it shows the concept of a chokepoint — a geographic location so strategically important that controlling it gives enormous leverage. The world's economy is not just about factories and technology. It is also about shipping lanes, trade routes, and the physical geography that connects them.

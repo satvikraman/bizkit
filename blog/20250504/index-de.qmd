@@ -1,0 +1,32 @@
+---
+title: "Das Wasserabkommen, das India mit Pakistan auf Eis legte"
+date: 2025-05-04
+subtitle: "\"Wasser ist das neue Öl.\" — Unbekannt"
+description: "Nach dem Terroranschlag in Pahalgam, bei dem 26 Touristen getötet wurden, setzte India den Indus-Wasservertrag aus — ein historisches Abkommen von 1960, das drei Kriege überdauert hatte. Was ist der Indus-Wasservertrag, warum ist er wichtig, und was passiert jetzt?"
+image: "./title_20250504.png"
+twitter-card: {image: "./title_20250504.png"}
+open-graph: {image: "./title_20250504.png"}
+categories: ["Wirtschaft und Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Am 22. April 2025 töteten Terroristen 26 Touristen in Pahalgam, Kaschmir. India machte Pakistan-basierte Gruppen verantwortlich. Als Reaktion ergriff India mehrere starke diplomatische Maßnahmen, darunter die Aussetzung des Indus-Wasservertrags — ein 65 Jahre altes Wasserabkommen, das drei vollständige Kriege überlebt hatte. Die Aussetzung ist bedeutsam.
+
+# Was ist der Indus-Wasservertrag
+
+Der Vertrag wurde 1960 zwischen India und Pakistan unter Vermittlung der Weltbank unterzeichnet. Das Indus-Flusssystem hat sechs Flüsse: Indus, Jhelum, Chenab, Ravi, Beas und Sutlej. Der Vertrag teilte sie auf: India bekam drei östliche Flüsse, Pakistan bekam drei westliche. Die westlichen Flüsse führen etwa 80 Prozent des gesamten Wasservolumens. Pakistan hat seine gesamte landwirtschaftliche und Energieinfrastruktur um diese westlichen Flüsse herum aufgebaut.
+
+# Warum Pakistan so sehr von diesem Wasser abhängig ist
+
+Die Landwirtschaft trägt etwa 20 Prozent zu Pakistans BIP bei und beschäftigt fast die Hälfte der Arbeitskräfte. Baumwolle, Weizen, Reis — alles hängt vom Wasser des Indus-Systems ab. Pakistan kämpft bereits mit Auslandsschulden von 130 Milliarden Dollar.
+
+# Was India tatsächlich tun kann
+
+India kann das Wasser nicht einfach "abschalten". Der Vertrag sieht keine einseitige Aussetzung vor. Was India tun kann: den Bau von Staudämmen und Wasserkraftprojekten an den westlichen Flüssen beschleunigen und den Austausch hydrologischer Daten mit Pakistan einstellen.
+
+# Abschließende Gedanken
+
+Die Geschichte des Indus-Wasservertrags erinnert uns daran, dass natürliche Ressourcen — Wasser, Mineralien, Energierouten — im Mittelpunkt der Geopolitik stehen. Für Schüler ist dies ein eindringliches Beispiel dafür, wie Wirtschaft und Außenpolitik untrennbar miteinander verbunden sind: Die mächtigste Waffe eines Landes ist manchmal keine Rakete, sondern ein Damm.

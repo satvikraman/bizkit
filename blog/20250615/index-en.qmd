@@ -1,0 +1,36 @@
+---
+title: "India Is Quietly Becoming the World's Anti-Drone Supplier"
+date: 2025-06-15
+subtitle: "\"The best defence is a good offence — and sometimes, the best offence is a very good sensor.\" — Anonymous"
+description: "As drone warfare has become central to modern conflicts — from Ukraine to the Middle East — demand for counter-drone technology has exploded. India has quietly built up expertise in detecting, jamming, and neutralising drones. And it is now exporting this technology around the world. How did India get here, and what does this mean for India's defence exports?"
+image: "./title_20250615.png"
+twitter-card: {image: "./title_20250615.png"}
+open-graph: {image: "./title_20250615.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Over the past three years, drones have transformed modern warfare. In Ukraine, cheap commercial drones modified for military use have proven devastatingly effective. In the Middle East, drone swarms have been used in attacks on military and civilian infrastructure. As a result, every military in the world is now racing to develop systems that can detect, track, and destroy hostile drones before they cause damage. India has developed significant expertise in this counter-drone space — and it is now exporting that technology to countries around the world.
+
+# What Is Counter-Drone Technology
+
+Counter-drone systems, also called C-UAS (Counter-Unmanned Aerial Systems), are designed to detect and neutralise hostile drones. They can work in several ways. Some use radar or radio frequency sensors to detect drones by their signal signatures. Others use AI-powered cameras to identify drones visually. Once detected, the system can either jam the drone's communications (so it loses contact with its operator and lands or crashes), shoot it down with a laser or interceptor missile, or use a trained eagle (yes, some countries do this). The challenge is doing all of this quickly and accurately in real time, without accidentally disrupting civilian air traffic.
+
+# How India Built This Expertise
+
+India's expertise in counter-drone technology grew out of two things: necessity and policy push. India has faced drone-based threats from Pakistan for years — there have been repeated incidents of drones dropping weapons and drugs across the border. This forced India's military and defence research organisations to invest in counter-drone solutions early. The Defence Research and Development Organisation (DRDO) developed several indigenous systems. Private companies like IdeaForge (which makes drones itself and therefore understands them well), Tata Advanced Systems, and several startups have developed counter-drone products.
+
+# The Export Opportunity
+
+Global demand for counter-drone technology has surged. The Russia-Ukraine war showed every government in the world that drone warfare is real and happening now. Countries across Asia, the Middle East, Africa, and Southeast Asia are looking to buy counter-drone systems. India's systems have proven themselves in real-world conditions — a strong selling point. India's defence exports have grown dramatically in recent years, from just ₹686 crore in 2014 to over ₹21,000 crore in 2024. Counter-drone technology is becoming an important part of this export story.
+
+# What This Means for India's Defence Industry
+
+India's emergence as a defence exporter is a strategic and economic milestone. It reduces India's own defence import bills, creates high-technology manufacturing jobs, and gives India geopolitical influence. When a country relies on your weapons or technology, it builds a relationship of trust and dependency. India has traditionally been the world's largest arms importer. Becoming an exporter in even one niche category — counter-drones — represents a genuine shift in capability.
+
+# Final Thoughts
+
+The anti-drone story is about more than weapons. It is about how a country converts a security challenge into an economic opportunity. For students, it demonstrates an important principle: necessity drives innovation. India's border security challenges pushed its researchers and companies to solve a hard problem. Now that solution is valuable to the world.

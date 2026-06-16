@@ -1,0 +1,32 @@
+---
+title: "Der berühmteste Investor der Welt verabschiedet sich"
+date: 2025-05-11
+subtitle: "\"Jemand sitzt heute im Schatten, weil jemand vor langer Zeit einen Baum gepflanzt hat.\" — Warren Buffett"
+description: "Warren Buffett, 94, gab seinen Rücktritt als CEO von Berkshire Hathaway bekannt — dem Unternehmen, das er in sechs Jahrzehnten zu einem Imperium von 1 Billion Dollar aufgebaut hat. Greg Abel übernimmt die Zügel. Was ist Buffetts Vermächtnis, und was kann ein Schüler aus seiner Anlagephilosophie lernen?"
+image: "./title_20250511.png"
+twitter-card: {image: "./title_20250511.png"}
+open-graph: {image: "./title_20250511.png"}
+categories: ["Unternehmensaktivitäten"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Im Mai 2025 gab Warren Buffett bekannt, als CEO von Berkshire Hathaway zurückzutreten. Er hat das Unternehmen 60 Jahre lang geleitet. Greg Abel übernimmt die Kontrolle. Buffett bleibt als Chairman tätig. Mit 94 Jahren hat er eine gescheiterte Textilfabrik in eines der wertvollsten Unternehmen der Welt verwandelt — von Coca-Cola bis Apple, von der BNSF-Eisenbahn bis zur GEICO-Versicherung.
+
+# Wer ist Warren Buffett und warum ist er wichtig
+
+Buffett wird das "Orakel von Omaha" genannt. 1930 in Nebraska geboren, begann er mit 11 Jahren zu investieren. Sein Mentor Benjamin Graham lehrte ihn "Value Investing": Kaufe Unternehmen, die mehr wert sind als du bezahlst. Über sechs Jahrzehnte erzielte Berkshire eine durchschnittliche Jahresrendite von etwa 20 Prozent — doppelt so viel wie der S&P 500.
+
+# Was Buffett einzigartig machte
+
+Buffett jagte nie Trends nach. In den 1990er Jahren, als Dot-com-Aktien in die Höhe schossen, kaufte Buffett nicht. Die Leute spotteten. Als die Blase platzte, wurde Buffett recht gegeben.
+
+# Warum er jetzt abtritt
+
+Berkshire ist jetzt so groß, dass es schwer ist, Deals zu finden, die groß genug sind, um einen Unterschied zu machen. Außerdem ist der technologiegetriebene Markt von 2025 sehr anders als der Markt, in dem Buffett aufblühte.
+
+# Abschließende Gedanken
+
+Buffetts Rücktritt markiert das Ende eines Kapitels der Finanzgeschichte. Für Schüler bietet seine Geschichte eine zeitlose Lektion: Im Investieren schlägt Geduld Begeisterung. Er jagte nie dem nächsten großen Ding nach. Er fand gute Unternehmen, verstand sie tief, zahlte faire Preise und wartete. Jahrzehnte der Aufzinsung erledigten den Rest.

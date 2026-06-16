@@ -1,0 +1,36 @@
+---
+title: "The Tiny Magnets That Could Stall India's Electric Cars"
+date: 2025-06-08
+subtitle: "\"He who controls the supply chain controls the future.\" — Anonymous"
+description: "China controls 90 percent of the world's supply of rare earth magnets — the components that power electric motors in EVs, wind turbines, and defence systems. In 2025, China began restricting exports of these materials. India's fast-growing EV industry is suddenly staring at a serious supply chain problem. What are rare earths, why does China dominate them, and what can India do?"
+image: "./title_20250608.png"
+twitter-card: {image: "./title_20250608.png"}
+open-graph: {image: "./title_20250608.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Your electric car, your smartphone, your earphones, the wind turbines generating clean energy, and most modern weapons systems all depend on rare earth minerals. These 17 elements — with names like neodymium, dysprosium, and praseodymium — are found in the earth in relatively small quantities. They are used to make powerful permanent magnets that are essential for electric motors. And here is the uncomfortable truth: China mines, processes, and refines about 90 percent of the world's supply. In 2025, China started restricting exports of these critical materials, partly as a response to US tariffs and the global trade war. India's fast-growing auto industry is feeling the pressure.
+
+# What Are Rare Earth Magnets and Why Do They Matter
+
+The rare earth magnets used in electric vehicles are called NdFeB magnets — made primarily from neodymium and iron. These are the strongest type of permanent magnet available. A small NdFeB magnet can hold hundreds of times its own weight. In an EV motor, these magnets do the work of converting electrical energy into mechanical motion. Without them, the motor either does not work or must be replaced with an inferior design that is heavier and less efficient. Every Tata Nexon EV, every Ola Electric scooter, every electric bus in India depends on a supply of these magnets.
+
+# Why China Dominates
+
+China did not become dominant in rare earths by accident. In the 1990s, China made a strategic decision to develop its rare earth industry. It subsidised mining, processing, and refining operations heavily. It also consolidated the industry under government-backed companies. Other countries — including the US, Australia, and India — had rare earth deposits but found it hard to compete with China's prices. Gradually, global production shifted almost entirely to China. By 2025, it processes over 85 percent of the world's rare earth minerals even when mining happens elsewhere.
+
+# What This Means for India's EV Industry
+
+India wants to become a global EV manufacturing hub. The government has set ambitious targets and is attracting investments from Tata Motors, Maruti Suzuki, Hyundai, Ola Electric, and more. But if rare earth magnet supply gets disrupted, these manufacturers either face price spikes or actual shortages. EV production could slow. Prices could rise, making EVs less affordable for Indian consumers who are already on the fence about switching from petrol vehicles.
+
+# India's Response
+
+India is not without options. India has significant reserves of rare earth minerals itself — particularly monazite sands along its eastern and southern coastlines. But India has not built the processing capacity to turn raw ore into usable magnets. The government is now pushing to develop this capacity. India is also exploring partnerships with the US, Australia, and Japan — countries that are all working to reduce their dependence on Chinese rare earths. India signed onto a critical minerals partnership with the US and Australia in 2024.
+
+# Final Thoughts
+
+The rare earth story is a vivid example of why supply chains matter in modern geopolitics. It is not just about who makes the product. It is about who controls the ingredients. For students, this is a lesson in strategic thinking: the most powerful economic leverage often comes from controlling the inputs that everyone else needs.

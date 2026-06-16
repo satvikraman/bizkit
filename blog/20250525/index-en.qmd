@@ -1,0 +1,38 @@
+---
+title: "India Is About to Let Private Companies Build Nuclear Power Plants"
+date: 2025-05-25
+subtitle: "\"The atom bomb is a paper tiger.\" — Mao Zedong. Nuclear energy, however, is a very real force."
+description: "For 65 years, only the government could run nuclear reactors in India. A new amendment to the Atomic Energy Act could change that, allowing private companies — and even foreign players — to build nuclear plants. Why is India making this move now, and what does it mean for the country's energy future?"
+image: "./title_20250525.png"
+twitter-card: {image: "./title_20250525.png"}
+open-graph: {image: "./title_20250525.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Since 1962, India's Atomic Energy Act has kept nuclear power exclusively in the hands of the government. No private company — Indian or foreign — could own or operate a nuclear reactor. In May 2025, the government proposed amending this law to allow private players like Adani, L&T, and potentially foreign companies to build and run nuclear power plants. The goal is enormous: a 12-fold increase in India's nuclear capacity by 2047, to help the country phase out coal and meet clean energy targets. This is one of the most significant energy policy shifts in India's modern history.
+
+# Why Nuclear Energy Now
+
+India has a problem. It needs a lot more electricity — its economy is growing fast and electrification is accelerating. Solar and wind energy are great, but they are intermittent: the sun does not always shine and the wind does not always blow. Coal is reliable but dirty and increasingly expensive given global carbon pressure. Nuclear energy offers something unique: it generates massive amounts of clean, reliable electricity 24 hours a day, 7 days a week, regardless of weather. It produces almost no carbon emissions during operation.
+
+India currently gets only about 3 percent of its electricity from nuclear sources — far below countries like France (70 percent), South Korea (30 percent), or even the US (18 percent). The government wants to fix this gap dramatically.
+
+# Why Government Cannot Do It Alone
+
+Building nuclear plants is expensive and slow. The government-owned Nuclear Power Corporation of India (NPCIL) has been the only builder for decades, and it has moved at a glacial pace. India has just 7.5 GW of nuclear capacity today. Reaching 100 GW by 2047 would require a pace of construction the government alone cannot achieve. Private capital and private expertise can speed this up significantly.
+
+# The Risks of Private Nuclear
+
+This is not a simple decision. Nuclear power carries risks that other energy sources do not. Safety, waste management, and the possibility of accidents require strict regulation. There are also security concerns: nuclear plants produce waste that can potentially be weaponized. Allowing private and foreign companies into this space raises questions about oversight and accountability. The government has said strict regulation and government oversight will remain in place, but critics are watching closely.
+
+# What This Means for Companies Like Adani
+
+For large Indian conglomerates, nuclear energy represents a massive business opportunity. Nuclear plants are expensive to build but generate reliable cash flows for decades once operating. Companies like Adani, which already has significant renewable energy businesses, are positioning themselves as potential builders and operators. This could transform them from infrastructure companies into energy utilities with nuclear capacity.
+
+# Final Thoughts
+
+India's nuclear energy opening is a bold bet on the future. For students, it raises important questions: How do we weigh the risks of nuclear energy against its benefits? What is the right role for private companies in managing dangerous technology? And how does a country balance the urgency of clean energy with the caution that nuclear power requires?

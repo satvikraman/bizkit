@@ -1,0 +1,36 @@
+---
+title: "The Wall Street Firm That SEBI Put Under Its Microscope"
+date: 2025-06-22
+subtitle: "\"In markets, information advantage is everything — until it isn't.\" — Anonymous"
+description: "Jane Street is one of the most profitable trading firms in the world — a secretive quantitative hedge fund known for its brilliant mathematicians and massive profits. In 2025, India's market regulator SEBI began investigating whether Jane Street had been using its trading strategies in a way that was unfair to Indian retail investors. What is Jane Street, how does it make money, and what does SEBI's investigation mean?"
+image: "./title_20250622.png"
+twitter-card: {image: "./title_20250622.png"}
+open-graph: {image: "./title_20250622.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Jane Street Capital is not a household name. But in trading circles, it is legendary. The New York-based quantitative trading firm reportedly made $21 billion in profit in 2023 alone — more than Goldman Sachs. It is known for recruiting top mathematicians and physicists from MIT, Harvard, and Stanford. Its traders do not meet with company executives or invest in long-term business strategies. They write algorithms, model probabilities, and exploit tiny price differences across financial markets at high speed. In 2025, India's SEBI (Securities and Exchange Board of India) opened an investigation into whether Jane Street's trading in Indian derivatives markets was creating an uneven playing field for ordinary Indian investors.
+
+# How Jane Street Makes Money
+
+Jane Street is a market maker and quantitative trader. It makes money by exploiting tiny inefficiencies between markets. For example: if an option on Nifty 50 futures is priced slightly differently on the NSE versus what it theoretically should be worth based on the underlying index, Jane Street's algorithms will instantly buy the cheap version and sell the expensive one, locking in a small profit. Do this millions of times a day, and the profits add up to billions. This is called arbitrage, and it is generally considered a legitimate activity that actually helps markets work more efficiently.
+
+# What SEBI Is Investigating
+
+SEBI's concern is more specific: there are allegations that Jane Street was using its trading activity in India to front-run price movements — essentially, trading in a way that moved prices in a direction that benefited other positions it held. This is a form of market manipulation. The allegation is that by trading very large volumes at specific times — especially around the expiry of futures and options contracts — Jane Street was influencing prices in ways that hurt retail traders on the other side of those trades.
+
+# Why This Matters for Indian Retail Investors
+
+India has seen an explosion of retail participation in the derivatives market — specifically in weekly futures and options (F&O) on indices like Nifty 50 and Bank Nifty. Millions of Indian retail investors, many of whom are young and relatively inexperienced, trade these instruments. Studies show that the vast majority of retail F&O traders lose money. If large algorithmic firms are systematically exploiting retail traders, that would be a serious issue for market fairness and financial inclusion.
+
+# What SEBI Has Done
+
+SEBI has introduced new rules for the F&O market in 2025, including tighter position limits and new requirements around large traders' exposure. The Jane Street investigation is part of a broader effort to make Indian markets more fair for retail participants. India is one of the fastest-growing derivatives markets in the world, with trading volumes that now rival or exceed major global exchanges. Protecting retail investors in this market is a priority.
+
+# Final Thoughts
+
+The Jane Street story raises a fundamental question about market fairness: is it okay for the smartest, best-resourced firms to use their mathematical edge to extract profits from markets where millions of ordinary people are also participating? Markets are supposed to be places where risk is priced fairly. For students, this is a useful reminder that financial markets are not a level playing field — and regulators exist to make them as fair as possible.
