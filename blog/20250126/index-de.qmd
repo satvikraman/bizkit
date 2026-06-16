@@ -1,0 +1,32 @@
+---
+title: "Das Startup, das Silicon Valley schockierte"
+date: 2025-01-26
+subtitle: "\"Wettbewerb ist immer gut. Er zwingt uns, unser Bestes zu geben.\" — Nancy Pearcey"
+description: "Im Januar 2025 veröffentlichte ein chinesisches KI-Startup namens DeepSeek ein Modell, das mit den besten amerikanischen KI-Modellen mithalten konnte oder sie übertraf — zu einem Bruchteil der Kosten. Die Nachricht tilgte an einem einzigen Tag etwa 600 Milliarden Dollar vom Marktwert amerikanischer KI-Unternehmen."
+image: "./title_20250126.png"
+twitter-card: {image: "./title_20250126.png"}
+open-graph: {image: "./title_20250126.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einführung
+
+Ende Januar 2025 erlebte die KI-Branche einen Schock, den niemand vollständig vorhergesehen hatte. Ein chinesisches KI-Forschungsunternehmen namens DeepSeek veröffentlichte ein neues Sprachmodell namens DeepSeek R1. Unabhängige Evaluierungen zeigten, dass R1 die führenden Modelle amerikanischer Unternehmen, darunter OpenAI, Google und Anthropic, bei vielen Standard-Benchmarks erreichte oder übertraf. Nvidia verlor an einem einzigen Handelstag etwa sechshundert Milliarden Dollar an Marktkapitalisierung.
+
+# Warum Chips so wichtig sind
+
+KI-Training erfordert Grafikprozessoren, oder GPUs. Nvidia hat ein nahezu monopolistisches Stellung im Hochleistungs-GPU-Markt für KI-Training. US-Exportkontrollen sollten verhindern, dass China fortschrittliche Chips erhält. Wenn DeepSeek mit weit weniger Chips eine wettbewerbsfähige Leistung erzielt hätte, wurden sowohl die Investitionsthese für Nvidia als auch die Wirksamkeit der Exportkontrollen gleichzeitig in Frage gestellt.
+
+# Wie DeepSeek es gemacht hat
+
+DeepSeeks technische Berichte beschrieben eine Mixture-of-Experts-Architektur, bei der nur ein Bruchteil der Gesamtparameter des Modells für eine bestimmte Berechnung verwendet wird. Forscher weltweit bestätigten, dass das Unternehmen tatsächlich innovativ beim effizienten Einsatz begrenzter Rechenressourcen war.
+
+# Was das für Indien bedeutet
+
+Indien positioniert sich als bedeutender Akteur in der globalen KI-Landschaft. Die DeepSeek-Geschichte legt nahe, dass Software-Effizienz Hardware-Einschränkungen kompensieren kann. Indiens Technologiebranche hat sich historisch stärker auf Software-Dienstleistungen konzentriert.
+
+# Abschließende Gedanken
+
+Die wichtigste Lektion aus der DeepSeek-Geschichte handelt nicht von China oder den Vereinigten Staaten, sondern von der Natur der Innovation selbst: Durchbrüche kommen oft von Menschen, die unter Einschränkungen arbeiten und clevere Lösungen für Probleme finden, die diejenigen mit üppigen Ressourcen nie lösen mussten.

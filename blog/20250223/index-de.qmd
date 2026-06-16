@@ -1,0 +1,32 @@
+---
+title: "Der Sport, der Indien im Sturm nimmt"
+date: 2025-02-23
+subtitle: "\"Sport hat die Kraft, die Welt zu verändern.\" — Nelson Mandela"
+description: "Pickleball kam vor einigen Jahren nach Indien. Fast niemand wusste, was es war. Bis 2025 war die Zahl der aktiven Spieler in Indien in drei Jahren um 275% gewachsen. Startups sammeln Geld, um Plätze zu bauen. Was ist Pickleball, warum breitet es sich so schnell aus?"
+image: "./title_20250223.png"
+twitter-card: {image: "./title_20250223.png"}
+open-graph: {image: "./title_20250223.png"}
+categories: ["Unternehmensaktionen"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einführung
+
+Pickleball ist ein Sport, der Elemente von Tennis, Badminton und Tischtennis kombiniert. Es wurde 1965 in den USA erfunden. Lange Zeit war es hauptsächlich ein Freizeitsport, der von Rentnern in amerikanischen Vorstadtgemeinden gespielt wurde. Bis 2025 waren die aktiven Pickleball-Spieler in Indien in drei Jahren um etwa zweihundertfünfundsiebzig Prozent gewachsen.
+
+# Warum Pickleball so schnell wächst
+
+Pickleball hat mehrere strukturelle Merkmale, die es besonders gut darin macht, neue Spieler zu gewinnen. Erstens ist es wirklich zugänglich — die Regeln können in etwa fünfzehn Minuten gelernt werden. Zweitens sind die körperlichen Anforderungen geringer als bei den meisten Schlägersportarten. Drittens ist die Ausrüstung im Vergleich zu anderen Sportarten günstig.
+
+# Das Geschäft mit neuen Sportarten
+
+Das schnelle Wachstum von Pickleball in Indien hat Unternehmer und Investoren angezogen. Startups bauen Pickleball-Spielfelder, organisieren Ligen und Turniere, verkaufen Ausrüstungen und bieten Coaching-Programme an.
+
+# Die Gefahr der Premiumisierung
+
+Nicht alle sind optimistisch. Eine Sorge, die erfahrene Beobachter des Sportgeschäfts ansprechen, ist das Risiko der Premiumisierung. Das ist mit Squash bereits passiert.
+
+# Abschließende Gedanken
+
+Die Pickleball-Geschichte handelt letztlich von den Bedingungen, unter denen sich neue Sport- und Freizeitgewohnheiten bilden. Ein Sport, der leicht zu lernen, körperlich zugänglich, sozial konzipiert und günstig in der Anschaffung ist, breitet sich schnell aus, wenn er die richtigen Vertriebskanäle findet.

@@ -1,0 +1,32 @@
+---
+title: "India's New Love for Digital Gold"
+date: 2025-01-12
+subtitle: "\"Gold is money. Everything else is credit.\" — J.P. Morgan"
+description: "Indians have always loved gold. But now they are buying it differently. In 2024, the amount of money flowing into Gold ETFs — digital units that track the price of gold without you needing to own the physical metal — more than doubled compared to the year before. What changed, and should you care?"
+image: "./title_20250112.png"
+twitter-card: {image: "./title_20250112.png"}
+open-graph: {image: "./title_20250112.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+India's relationship with gold is centuries old and deeply cultural. Gold is bought at weddings, gifted at festivals, stored as generational wealth, and worn as jewellery that signals both beauty and financial security. India is the world's second-largest consumer of gold, after China, and the country imports enormous quantities of the metal every year, which is one of the reasons India tends to run a large current account deficit. For most of that history, Indians have owned their gold as physical objects: bars, coins, and jewellery stored in bank lockers or at home. More recently, the government introduced Sovereign Gold Bonds, a paper instrument that paid interest and tracked the gold price. But something shifted in 2024. The amount flowing into Gold Exchange Traded Funds, or Gold ETFs, more than doubled compared to 2023, reaching approximately twenty-six thousand five hundred crore rupees. To understand why, it helps to understand what a Gold ETF actually is and how it fits into the broader picture of how Indians save and invest.
+
+# How a Gold ETF Works
+
+A Gold ETF is a financial instrument that trades on a stock exchange, like BSE or NSE, exactly as shares of a company would trade. Each unit of a Gold ETF represents a small fraction of a gram of physical gold, which is purchased and stored in a vault by the fund house managing the ETF. When you buy one unit of a Gold ETF through your brokerage account, you are effectively buying a claim on a specific amount of physical gold held in that vault. The price of the ETF unit moves in line with the current market price of gold, so if gold prices rise by ten percent, the value of your Gold ETF units rises by roughly ten percent as well. The gold itself never moves to you, but that is precisely the point: you gain exposure to gold's price movements without the hassle of physically storing, insuring, and eventually selling a piece of metal. When you decide to exit your investment, you simply sell the units on the exchange and receive cash in your account.
+
+# Why 2024 Was Different
+
+Several factors combined to accelerate the shift toward Gold ETFs in 2024. The most direct was a tax policy change in the Union Budget 2024. The government reduced the holding period for Gold ETF investments to qualify for long-term capital gains tax from three years to two years, and it also reduced the long-term capital gains tax rate that applies to these instruments to twelve and a half percent. Previously, Gold ETFs were taxed at the investor's income tax slab rate if held for fewer than three years, which made them less attractive than direct gold for shorter holding periods. The change made Gold ETFs significantly more tax-efficient as an investment vehicle. Simultaneously, the government stopped issuing new tranches of Sovereign Gold Bonds, a competing product that had attracted significant investment because it paid a two and a half percent annual interest rate in addition to tracking gold prices. With Sovereign Gold Bonds effectively unavailable, investors looking for paper gold exposure had fewer alternatives, and Gold ETFs benefited from the redirected demand. Underlying all of this was the performance of gold itself: in 2024, gold prices rose by approximately eighteen to twenty percent in rupee terms, delivering strong returns for investors.
+
+# The Limits of the Story
+
+Gold ETFs are genuinely useful financial instruments, and the shift toward them represents a welcome modernisation of how Indians hold their gold exposure. But it is worth being precise about what Gold ETFs are and are not. They are still a bet on gold prices, with all the volatility that implies. Gold does not generate income, unlike a bond that pays interest or a stock that may pay dividends. Its long-term real returns, after adjusting for inflation, are positive but modest compared to equities over very long periods. Gold serves as a hedge against currency depreciation and geopolitical uncertainty, which makes it genuinely valuable as one part of a diversified portfolio. But investors drawn to Gold ETFs primarily because of strong recent performance should be aware that past performance in any asset class, including gold, does not predict future performance.
+
+# Final Thoughts
+
+The rise of Gold ETFs in India is a small but meaningful indicator of a broader shift in how ordinary investors are engaging with financial markets. A decade ago, the typical Indian investor's portfolio was dominated by fixed deposits, physical gold, and life insurance policies that functioned as savings instruments. Today, mutual funds, ETFs, and direct equity investments are increasingly common, facilitated by cheaper smartphones, easy-to-use brokerage platforms, and a wave of financial literacy content. Gold ETFs sit within this larger story of financial inclusion, offering a way to hold a culturally familiar asset in a format that is safer, cheaper, and more liquid than the physical alternative. Understanding why that matters is one of the most practical applications of financial knowledge for any young investor in India today.

@@ -1,0 +1,32 @@
+---
+title: "What India's Budget Tells Us About Its Priorities"
+date: 2025-02-02
+subtitle: "\"A budget is not just a collection of numbers, but an expression of our values and aspirations.\" — Jacob Lew"
+description: "On February 1, 2025, India's Finance Minister Nirmala Sitharaman presented the Union Budget. For ordinary citizens, the most noticed change was the income tax revision: people earning up to ₹12 lakh annually will now pay zero income tax. But a budget is not just about who pays less — it also tells you what the government thinks the country needs most right now."
+image: "./title_20250202.png"
+twitter-card: {image: "./title_20250202.png"}
+open-graph: {image: "./title_20250202.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Every year on the first day of February, the Indian government delivers its Union Budget, and the country stops to listen. The budget is simultaneously a financial plan, a political statement, and a window into what the government believes are the most pressing challenges the economy faces. The 2025 Union Budget, presented by Finance Minister Nirmala Sitharaman on February 1, 2025, was widely anticipated because of signals from the government that it intended to boost consumer spending, which had been sluggish following a period of higher inflation and interest rates. The headline announcement did not disappoint: individuals earning up to twelve lakh rupees annually would effectively pay zero income tax under the revised tax structure, a significant relief for a large segment of India's formal middle class. But the budget contained many other choices, and understanding those choices tells you something important about how the government is thinking about the country's economic challenges at this moment.
+
+# The Income Tax Change
+
+The income tax relief in the 2025 budget was the largest expansion of the zero-tax bracket in recent memory. Under the new structure, individuals earning up to twelve lakh rupees annually under the new tax regime would owe no income tax at all, due to a combination of the raised basic exemption limit and an enhanced rebate. For those earning between twelve and fifteen lakh rupees, the marginal tax rate was also reduced. The government estimated this would put approximately one lakh crore rupees directly back into the hands of taxpayers over the course of the year. The purpose is straightforward: if middle-class households have more disposable income, they are likely to spend it on goods and services, which generates economic activity, employment, and ultimately tax revenues from other sources. India's economic growth in 2024 had shown signs of slowing, particularly in private consumption, and this tax cut was explicitly designed to address that.
+
+# What Else the Budget Said
+
+Beyond income taxes, the 2025 budget continued the government's emphasis on capital expenditure, maintaining a high allocation for infrastructure projects including roads, railways, airports, and urban development. This reflects a strategic choice that has been consistent across recent budgets: the government believes that investment in physical infrastructure creates more durable economic benefits than equivalent spending on direct transfers or subsidies. The budget also introduced measures aimed at supporting the agriculture sector, including higher investment limits for Kisan Credit Cards, which farmers use to access short-term credit, and an initiative called a five-year mission for cotton productivity. For startups and the technology sector, the budget proposed an extension of tax benefits for eligible startups and an allocation for AI infrastructure development.
+
+# The Fiscal Arithmetic
+
+A budget is not complete without examining the numbers on revenue and spending. The government projected a fiscal deficit of approximately four and a half percent of GDP for 2025-26, continuing its gradual path of deficit reduction from the elevated levels reached during the pandemic years. Meeting this target while also delivering a major income tax cut required the government to make assumptions about strong GDP growth and consequent tax revenue increases. India's Economic Survey, released the day before the budget, projected that the economy would grow at between six and a half and seven percent in the coming fiscal year, which, if accurate, would support the revenue projections. Critics noted that this path requires the growth projections to prove correct and leaves limited room for unexpected spending pressures.
+
+# Final Thoughts
+
+The Union Budget is the most visible and most consequential annual policy statement from the Indian government. Understanding it is not merely an exercise for economists. The decisions it reflects, about who bears the tax burden, what infrastructure gets built, how farmers are supported, and how the country manages its debt, shape the conditions in which every Indian lives and works. The 2025 budget's central bet is that putting more money in the hands of the middle class, alongside continued infrastructure investment, will sustain the economic momentum India needs to meet its development goals. Whether that bet proves correct will become apparent over the coming year, as spending data, employment figures, and growth numbers accumulate.

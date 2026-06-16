@@ -1,0 +1,32 @@
+---
+title: "Why Goldman Sachs Is Betting on India's Stock Exchange"
+date: 2025-02-09
+subtitle: "\"The stock market is a device for transferring money from the impatient to the patient.\" — Warren Buffett"
+description: "Goldman Sachs, one of the world's most powerful investment banks, recently told its clients that BSE — Bombay Stock Exchange — was among its top investment picks. Not a company listed on BSE, but the exchange itself. Why would you invest in a stock exchange? And what does Goldman's call tell us about where Indian markets are headed?"
+image: "./title_20250209.png"
+twitter-card: {image: "./title_20250209.png"}
+open-graph: {image: "./title_20250209.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Most people who invest in the Indian stock market think about which companies to buy shares in. They research businesses, analyse earnings, and form views about which firms are likely to grow. Fewer people think about the infrastructure that makes all that trading possible. But stock exchanges, the organisations that operate the platforms where buyers and sellers of securities meet, are themselves businesses that can be invested in. In early 2025, Goldman Sachs, one of the most closely watched investment banks in the world, published a report recommending BSE Limited, which operates the Bombay Stock Exchange, as one of its top investment picks in the Indian market. The recommendation drew attention partly because of its source and partly because the logic behind it reveals something interesting about how the investment case for Indian markets is shifting.
+
+# What BSE Actually Is
+
+The Bombay Stock Exchange, or BSE, is the oldest stock exchange in Asia, founded in 1875 when a group of stockbrokers gathered under a banyan tree on Dalal Street in Mumbai to trade shares. Today it is a publicly listed company that earns revenue primarily by charging fees for the transactions that take place on its platform. These fees are small per transaction but add up to significant amounts when you multiply them across the enormous number of trades that happen every day. BSE also earns revenue from listing fees paid by companies that list their shares on the exchange, from data and information services sold to financial firms, and from its derivatives trading platform, which has been growing rapidly. BSE's main competitor is the National Stock Exchange, or NSE, which is the larger exchange by trading volume for equities. BSE has differentiated itself partly through its derivatives and currency trading products and through its strong position in the mutual fund transaction infrastructure.
+
+# The Logic Behind Goldman's Call
+
+Goldman Sachs's bullish case for BSE rests on a simple underlying thesis: the number of Indians actively participating in financial markets is growing rapidly and is still far below its potential level. India has approximately one hundred and seventy million demat accounts, which are the accounts required to hold and trade shares electronically. This sounds like a large number, but against a population of one point four billion, it represents a penetration rate of roughly twelve percent of the total population, or approximately twenty to twenty-five percent of the adult working-age population. By comparison, the United States has equity market participation rates that are far higher. As India's middle class grows, as incomes rise, as financial literacy improves, and as technology makes investing increasingly accessible through smartphones and low-cost platforms, Goldman's analysts expect the pool of active investors to continue growing substantially. Every new investor who opens a demat account and makes a trade generates a small fee for the exchange. Multiply that by tens of millions of new investors over the coming decade, and the revenue opportunity for exchanges becomes very large.
+
+# BSE's Derivatives Bet
+
+The more specific driver of Goldman's enthusiasm for BSE is the exchange's position in the options and futures market. Derivatives markets, where traders buy and sell contracts that derive their value from an underlying asset, have been one of the fastest-growing segments of Indian financial markets. The number of contracts traded on Indian derivatives exchanges has grown at extraordinary rates. BSE has been gaining market share in this segment, particularly in options on the Sensex index, which have seen volumes grow dramatically. Derivatives contracts generate higher revenue per transaction than simple stock trades, which means BSE's growing derivatives business improves the economics of the exchange even without a proportional increase in the number of equity investors.
+
+# Final Thoughts
+
+Investing in a stock exchange is a distinctive way of investing in the idea that financial market participation itself will grow. When Goldman Sachs recommends BSE, it is essentially saying that it believes more Indians will trade more financial instruments more frequently over the coming years, and that the company operating the platform for that trading will capture a predictable share of the value created. This is a different kind of investment thesis from betting on the performance of a specific company or industry. For anyone trying to understand Indian financial markets, the Goldman thesis for BSE is worth understanding regardless of whether you agree with it, because it makes explicit a set of assumptions about India's economic trajectory that are deeply embedded in much of the optimism surrounding the country's markets.

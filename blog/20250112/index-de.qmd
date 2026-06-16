@@ -1,0 +1,28 @@
+---
+title: "Indiens neue Liebe zu digitalem Gold"
+date: 2025-01-12
+subtitle: "\"Gold ist Geld. Alles andere ist Kredit.\" — J.P. Morgan"
+description: "Inder haben schon immer Gold geliebt. Aber jetzt kaufen sie es anders. Im Jahr 2024 verdoppelte sich das in Gold-ETFs fließende Geld. Das sind digitale Einheiten, die den Goldpreis nachbilden, ohne dass man das physische Metall besitzen muss. Was hat sich geändert, und warum sollte man das wissen?"
+image: "./title_20250112.png"
+twitter-card: {image: "./title_20250112.png"}
+open-graph: {image: "./title_20250112.png"}
+categories: ["Geld & Märkte"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einführung
+
+Die Beziehung Indiens zu Gold ist jahrhundertealt und tief kulturell verwurzelt. Gold wird bei Hochzeiten gekauft, bei Festen verschenkt und als Generationenvermögen aufbewahrt. Indien ist nach China der zweitgrößte Goldkonsument der Welt. Im Jahr 2024 änderte sich etwas. Der Betrag, der in Gold-ETFs floss, verdoppelte sich im Vergleich zu 2023, und erreichte etwa sechsundzwanzigtausend fünfhundert Crore Rupien.
+
+# Wie ein Gold-ETF funktioniert
+
+Ein Gold-ETF ist ein Finanzinstrument, das an einer Börse wie der BSE oder NSE genau wie Unternehmensaktien gehandelt wird. Jede Einheit eines Gold-ETF repräsentiert einen kleinen Bruchteil eines Gramms physischen Goldes, das vom Fondshaus gekauft und in einem Tresor aufbewahrt wird. Wenn Sie über Ihr Brokerkonto eine Einheit eines Gold-ETF kaufen, erwerben Sie effektiv einen Anspruch auf eine bestimmte Menge physischen Goldes in diesem Tresor.
+
+# Warum 2024 anders war
+
+Eine Steuerrechtsänderung im Unionshaushalt 2024 beschleunigte die Verlagerung hin zu Gold-ETFs. Die Haltedauer für die Qualifikation für die Kapitalertragsteuer wurde von drei auf zwei Jahre verkürzt. Gleichzeitig stellte die Regierung die Ausgabe neuer Tranchen von Sovereign Gold Bonds ein. Der Goldpreis stieg 2024 in Rupien gemessen um etwa achtzehn bis zwanzig Prozent.
+
+# Abschließende Gedanken
+
+Gold-ETFs sind wirklich nützliche Finanzinstrumente. Gold generiert jedoch keine Einkünfte. Im Vergleich zu Aktien über sehr lange Zeiträume sind die langfristigen realen Renditen von Gold zwar positiv, aber bescheiden. Der Aufstieg von Gold-ETFs in Indien ist ein kleiner, aber bedeutsamer Indikator für einen breiteren Wandel in der Art und Weise, wie indische Anleger mit den Finanzmärkten interagieren.

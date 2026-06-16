@@ -1,0 +1,32 @@
+---
+title: "The Sport That Is Taking India by Storm"
+date: 2025-02-23
+subtitle: "\"Sport has the power to change the world.\" — Nelson Mandela"
+description: "Pickleball arrived in India a few years ago. Almost nobody knew what it was. By 2025, the number of active players in India had grown by 275% in three years. Startups are raising money to build courts. Celebrities are endorsing the sport. What is pickleball, why is it spreading so fast, and what does its rise tell us about the business of sport?"
+image: "./title_20250223.png"
+twitter-card: {image: "./title_20250223.png"}
+open-graph: {image: "./title_20250223.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Pickleball is a sport that combines elements of tennis, badminton, and ping-pong, played on a court roughly the size of a badminton court using a solid paddle and a perforated plastic ball. It was invented in 1965 in the United States by a man who was improvising games on a summer afternoon with his family. For most of its existence, pickleball was primarily a recreational sport played by retired people in American suburban communities. Something changed in the mid-2010s, and the sport began spreading far beyond its original demographic. By 2023, it was the fastest-growing sport in the United States by participation numbers. By 2025, the wave had reached India. Active pickleball players in India had grown by approximately two hundred and seventy-five percent over three years, making it one of the fastest-growing sports in the country. Venture capital firms were investing in pickleball court infrastructure and equipment businesses. Former professional cricketers were lending their names to pickleball academies. The sport that nobody had heard of a few years earlier was suddenly everywhere, and understanding why reveals something interesting about how sports spread and how businesses are built around them.
+
+# Why Pickleball Grows So Fast
+
+Pickleball's extraordinary growth rate is not accidental. The sport has several structural features that make it particularly good at acquiring new players and retaining them. First, it is genuinely accessible. The rules can be learned in about fifteen minutes, and a new player can have a reasonably fun game on their first day, which is not true of tennis or badminton, where significant skill is required before the game becomes enjoyable. Second, the physical demands are lower than most racquet sports. The court is small, the ball moves relatively slowly, and the serve is underhand, which means players across a wide age range and fitness level can compete together. This is a significant advantage in India, where many recreational sports participants are adults with limited time to train. Third, the equipment is cheap by sporting standards. A set of paddles and a pack of balls costs a fraction of what quality tennis equipment costs.
+
+# The Business of New Sports
+
+The rapid growth of pickleball in India has attracted entrepreneurs and investors for the same reason any fast-growing market does: early entrants in a growing space often have advantages that are difficult for later competitors to replicate. Startups are building dedicated pickleball court facilities, running leagues and tournaments, selling equipment, and offering coaching programmes. The business model is not unlike what happened with squash or badminton clubs in earlier decades, but with the advantage of a sport whose accessibility drives faster community formation. The investment case is essentially a bet that the rate of conversion from casual trial to committed regular player will be high enough to justify the capital required to build courts, which are the main fixed cost in the ecosystem. Courts are expensive to build but, once built, generate recurring revenue through court rentals, memberships, and lesson fees.
+
+# The Danger of Premiumisation
+
+Not everyone is optimistic. One concern that experienced sports business observers raise is the risk of premiumisation: the process by which a sport that is initially accessible because it is cheap and grassroots gradually becomes expensive as commercial operators charge high prices for courts and equipment. This has happened before. Squash was once a widely played sport in Indian cities, but it has retreated into expensive clubs. If pickleball follows the same trajectory, its impressive participation growth numbers may slow once the sport moves beyond its early adopter community and faces the resistance of people who cannot afford membership at a dedicated facility.
+
+# Final Thoughts
+
+The pickleball story is ultimately about the conditions under which new sporting and recreational habits form. A sport that is easy to learn, physically accessible, social by design, and inexpensive to start spreads quickly when it finds the right distribution channels, which in pickleball's case were social media, WhatsApp groups, and corporate wellness programmes. The business challenge is to convert that initial accessibility into a commercially sustainable model without raising prices so high that the grassroots appeal is lost. For entrepreneurs building sports businesses in India, and for anyone thinking about how cultural and recreational habits change, pickleball offers a real-time case study in the economics of recreational adoption at scale.

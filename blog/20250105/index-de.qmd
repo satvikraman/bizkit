@@ -1,0 +1,28 @@
+---
+title: "Das Visum, das Silicon Valley erschuf"
+date: 2025-01-05
+subtitle: "\"Gebt mir eure Müden, eure Armen, eure unterdrückten Massen, die frei zu atmen begehren.\" — Emma Lazarus"
+description: "Ende Dezember 2024 entbrannte in Amerika eine heftige Debatte um das H-1B-Visum — ein Programm, das US-Unternehmen erlaubt, Fachkräfte aus dem Ausland anzustellen. Elon Musk und Vivek Ramaswamy verteidigten es leidenschaftlich. Andere Trump-Anhänger wollten es abschaffen. Hinter diesem politischen Streit steckt eine echte wirtschaftliche Frage: Was bewirkt qualifizierte Einwanderung tatsächlich für ein Land?"
+image: "./title_20250105.png"
+twitter-card: {image: "./title_20250105.png"}
+open-graph: {image: "./title_20250105.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einführung
+
+Ende Dezember 2024 entbrannte in den amerikanischen sozialen Medien eine unerwartete Debatte. Die Frage war, ob hochqualifizierte Einwanderer amerikanischen Arbeitnehmern Arbeitsplätze wegnehmen. Elon Musk, selbst aus Südafrika eingewandert und Mitgründer von PayPal, bevor er Tesla und SpaceX aufbaute, verteidigte das Programm vehement. Vivek Ramaswamy, Sohn indischer Einwanderer, schloss sich ihm an. Auf der anderen Seite argumentierten einige Trump-Anhänger, dass das H-1B-Visum ein Mechanismus sei, mit dem Unternehmen amerikanische Löhne durch die Einfuhr billigerer ausländischer Arbeitskräfte drücken. Indien, das mehr H-1B-Visainhaber in die USA schickt als jedes andere Land, beobachtete die Debatte aufmerksam.
+
+# Was das H-1B-Visum tatsächlich ist
+
+Das H-1B-Visum ist ein Nichteinwanderungsvisum, das amerikanischen Arbeitgebern erlaubt, ausländische Arbeitnehmer in Spezialberufen vorübergehend anzustellen. Es wurde 1990 eingeführt. Die US-Regierung stellt jährlich etwa fünfundachtzigtausend neue H-1B-Visa aus. Indische Staatsbürger erhalten etwa siebzig Prozent aller H-1B-Visa. Sundar Pichai (Google-CEO) und Satya Nadella (Microsoft-CEO) sind beide in Indien geboren.
+
+# Die Argumente beider Seiten
+
+Das Argument für das H-1B-Visum basiert auf der Idee, dass Talente knapp und geografisch verteilt sind. Das Gegenargument konzentriert sich auf zwei Bedenken: Einige Arbeitgeber haben das H-1B-Visum genutzt, um amerikanische Arbeitnehmer durch niedrigere Löhne zu verdrängen, und das Programm verringert den Druck auf Unternehmen, amerikanische Arbeitnehmer auszubilden.
+
+# Abschließende Gedanken
+
+Die H-1B-Debatte dreht sich im Kern um die Frage, wozu Einwanderung dient. Für die Millionen indischer Ingenieure und Fachkräfte, die ihre Karriere rund um das Programm aufgebaut haben, ist es eine nützliche Erinnerung: Keine Visumkategorie, kein Einwanderungsprogramm und kein Karriereweg ist dauerhaft vor politischer Überprüfung sicher.

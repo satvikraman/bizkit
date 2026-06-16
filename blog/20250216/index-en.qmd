@@ -1,0 +1,32 @@
+---
+title: "When a Bank Gets Its Own Numbers Wrong"
+date: 2025-02-16
+subtitle: "\"Banking is very good business if you don't do anything dumb.\" — Warren Buffett"
+description: "In February 2025, IndusInd Bank disclosed that it had been accounting for a category of foreign exchange derivatives incorrectly for years — and in a way that understated its losses. The revelation wiped ₹19,000 crore from its market value in a single day. How did this happen, and what does it tell us about the hidden risks inside banks?"
+image: "./title_20250216.png"
+twitter-card: {image: "./title_20250216.png"}
+open-graph: {image: "./title_20250216.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+In early 2025, IndusInd Bank, one of India's significant private sector banks, announced that it had discovered accounting irregularities in how it had been handling a category of financial instruments called foreign exchange derivatives. The bank disclosed that it had been accounting for certain currency derivative contracts in a way that did not comply with standard accounting rules, and that this had resulted in the bank overstating its financial position for a period of years. When adjusted correctly, the bank would need to book additional losses of approximately fifteen hundred to two thousand crore rupees, or roughly two percent of its net worth. The stock market's reaction was harsh: IndusInd Bank's share price fell by approximately twenty-seven percent in a single day, wiping out approximately nineteen thousand crore rupees in market value. The Reserve Bank of India announced that it was investigating whether similar practices existed at other banks. To understand what went wrong and why it matters, it helps to understand what derivatives are and what mark-to-market accounting means.
+
+# What Are Derivatives and Why Do Banks Use Them?
+
+A derivative is a financial contract whose value is derived from the price of something else, called the underlying asset. Foreign exchange derivatives are contracts whose value depends on exchange rates between currencies. Banks use these instruments routinely for legitimate purposes. When an Indian company exports goods and expects to receive payment in US dollars in three months, it faces the risk that the dollar will weaken against the rupee before the payment arrives, leaving it with less money than expected. A bank can offer the company a forward contract, which locks in today's exchange rate for the future payment. The bank now holds the other side of that contract. To manage its own risk, the bank may enter offsetting derivatives contracts with other financial institutions. Done properly, this hedging activity protects both the bank and its corporate clients from currency risk.
+
+# Mark-to-Market Accounting: What It Is and Why It Matters
+
+Accounting rules require that financial instruments held by banks be valued regularly at their current market value, rather than at the price at which they were originally acquired. This is called mark-to-market accounting. The purpose is transparency: investors and regulators looking at a bank's balance sheet should be able to see the current economic value of everything the bank holds, not just the historical cost. If a bank holds a derivative contract that has moved against it because exchange rates have changed unfavourably, mark-to-market accounting requires the bank to recognise that loss on its financial statements immediately, even before the contract expires. IndusInd Bank's problem arose because it had been accounting for a category of derivative contracts in a way that deferred the recognition of losses, booking them as receivables rather than as immediate losses. This is the practice that did not comply with the relevant accounting standards.
+
+# The Barings Bank Echo
+
+The IndusInd Bank situation invoked comparisons to one of the most famous banking disasters in history: the collapse of Barings Bank in 1995. Barings was the UK's oldest merchant bank, and it collapsed when a single trader named Nick Leeson, operating out of Singapore, accumulated enormous losses on derivatives trades and concealed them through accounting manipulations. The losses eventually totalled approximately one billion pounds, and when they were revealed, Barings went bankrupt within days. IndusInd Bank's situation is materially different: the losses are smaller relative to the bank's size, there is no allegation of fraud, and the discrepancy appears to have resulted from a breakdown in accounting controls rather than deliberate concealment. But the episode illustrates the same underlying principle: derivatives are complex instruments whose risks can be difficult to monitor, and accounting errors in this area, if allowed to compound over time, can produce surprises that are damaging to investor confidence even when they do not threaten the bank's solvency.
+
+# Final Thoughts
+
+The IndusInd Bank episode is a reminder that banking, which is fundamentally about managing risk, contains categories of risk that are genuinely difficult to understand and monitor. Derivatives used properly are valuable tools for managing currency and interest rate risk. But they create obligations that can grow substantially if markets move in unexpected directions, and accounting for them correctly requires both technical sophistication and rigorous internal controls. For investors, the episode reinforces the importance of understanding that a bank's disclosed financial position is only as reliable as the accounting processes underlying it. For regulators, it highlights the value of regular, detailed scrutiny of how banks value and account for their derivatives portfolios. For everyone else, it is a useful reminder that the numbers reported by large, complex financial institutions are not always a complete or immediately accurate picture of what is actually happening inside.
