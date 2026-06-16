@@ -1,0 +1,32 @@
+---
+title: "Warum Preise immer weiter steigen: Die Ökonomie der Inflation, einfach erklärt"
+date: 2026-04-05
+subtitle: "\"Inflation ist die grausamste Steuer — sie trifft die Armen härter als die Reichen, ist in jeder einzelnen Transaktion unsichtbar, und wenn man sie bemerkt, hat sie ihre Wirkung schon erzielt.\""
+description: "Warum kostet eine Tasse Tee dieses Jahr mehr als letztes Jahr? Die Antwort beinhaltet Zentralbanken, Lieferketten, Bauern und die heikle Kunst, eine Wirtschaft auf der richtigen Temperatur zu halten."
+image: "./title_20260405.png"
+twitter-card: {image: "./title_20260405.png"}
+open-graph: {image: "./title_20260405.png"}
+categories: ["Geld und Märkte"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Das Tee-Problem
+
+Angenommen, eine Tasse Tee kostete vor fünf Jahren ₹10 am Nachbarschaftsstand. Heute kostet sie ₹15. Das ist eine Steigerung von 50%. Der Standbetreiber ist nicht plötzlich gieriger geworden. Warum stieg der Preis? Die Antwort ist Inflation.
+
+# Zwei Arten von Inflation
+
+Nachfragesog-Inflation entsteht, wenn mehr Geld dieselbe Menge an Waren jagt. Kostendruck-Inflation entsteht, wenn es teurer wird, Waren herzustellen. In Indien ist Nahrungsmittelinflation oft ein dritter Faktor.
+
+# Was die RBI versucht zu tun
+
+Die RBI hat ein formales Mandat: CPI-Inflation zwischen 2% und 6% zu halten, mit 4% als Idealziel. Zinssätze sind ihr primäres Werkzeug.
+
+# Warum Inflation die Armen mehr trifft
+
+Ersparnisse in bar zu halten bedeutet, dass Inflation deren realen Wert aufzehrt. Investitionen in Aktien, Gold und Immobilien bieten Schutz.
+
+# Was Sie tun können
+
+Inflation zu verstehen ist der erste Schritt, um damit umzugehen. Es ist eine Kraft, die die materiellen Bedingungen jedes Haushalts prägt.

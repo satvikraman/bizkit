@@ -1,0 +1,60 @@
+---
+title: "Why Prices Keep Rising: The Economics of Inflation, Explained Plainly"
+date: 2026-04-05
+subtitle: "\"Inflation is the cruelest tax — it hits the poor harder than the rich, it is invisible in any single transaction, and by the time you notice it, it has already taken its toll.\""
+description: "Why does a cup of chai cost more this year than last year? The answer involves central banks, supply chains, farmers, and the delicate art of keeping an economy at the right temperature. This post explains inflation the way it should be explained."
+image: "./title_20260405.png"
+twitter-card: {image: "./title_20260405.png"}
+open-graph: {image: "./title_20260405.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# The Chai Problem
+
+Let us start with something concrete. Suppose a cup of tea cost ₹10 at your neighbourhood stall five years ago. Today it costs ₹15. That is a 50% increase. Now, nothing dramatic happened. The stall owner did not suddenly become greedier. So why did the price go up?
+
+The answer is inflation — a sustained, general increase in the prices of goods and services across an economy. Understanding it matters, because inflation shapes your savings, your salary, your investments, and the decisions of every government and central bank in the world.
+
+# Two Kinds of Inflation
+
+Economists broadly recognise two main drivers of inflation.
+
+The first is demand-pull inflation. This happens when there is more money chasing the same amount of goods. After the COVID-19 pandemic, governments around the world injected enormous amounts of money into their economies to prevent collapse. Consumers, now flush with cash and eager to spend after months of lockdowns, went on a buying spree. But factories, farms, and ships could not immediately produce more goods. Result: prices rose.
+
+The second is cost-push inflation. This happens when it costs more to produce goods — and producers pass that cost on to consumers. When the price of crude oil spikes (as it did when Russia invaded Ukraine), the cost of transportation, fertiliser, and plastic packaging all rise. Everything made with or moved by energy gets more expensive.
+
+India often faces a third, distinctive driver: food inflation. Because food is a large share of the spending basket for most Indian households, a bad monsoon or a crop disease can push inflation up significantly — even if the rest of the economy is functioning normally.
+
+# How Inflation Is Measured
+
+In India, the primary inflation measure is the Consumer Price Index (CPI). The government surveys a basket of goods and services — food, fuel, clothing, education, healthcare — and tracks how the cost of that basket changes over time.
+
+CPI is not perfect. The basket is an average, so it may not reflect your personal experience. If you spend a lot on education and education prices are rising fast, your personal inflation may be higher than the CPI number suggests.
+
+A secondary measure, the Wholesale Price Index (WPI), tracks prices at the level of factories and wholesale markets. It tends to move earlier than CPI, because price changes at the production level eventually trickle down to consumers.
+
+# What the RBI Tries to Do
+
+The Reserve Bank of India (RBI) has a formal mandate: keep CPI inflation between 2% and 6%, with 4% as the ideal target. To do this, the RBI uses interest rates as its primary tool.
+
+When inflation is too high, the RBI raises interest rates. This makes borrowing more expensive for businesses and consumers. They borrow less. They spend less. Demand falls. Prices stabilise.
+
+When inflation is too low (or the economy is slowing), the RBI cuts rates. Borrowing becomes cheaper. Spending rises. Growth is stimulated.
+
+This is a blunt instrument. The challenge is that rate changes take six to eighteen months to fully work their way through the economy. And they can have unintended consequences — higher rates may cool inflation, but they also slow growth and make it harder for businesses to invest.
+
+# Why Inflation Hurts the Poor More
+
+This is the uncomfortable truth about inflation. When prices rise uniformly, the pain is not uniformly distributed.
+
+A wealthy family that owns property and financial assets benefits when inflation rises — the value of their assets often rises too. A poor family that depends on a fixed daily wage, keeps savings in cash, and spends almost all its income on food and fuel has no such protection. Inflation quietly erodes their purchasing power, month by month.
+
+This is why controlling food and fuel inflation, in particular, is a political and moral priority — not just an economic one.
+
+# What You Can Do
+
+You cannot control inflation. But you can protect yourself from it. Keeping savings in cash means inflation eats into their real value. Investing in assets that grow with or above inflation — equities, gold, property — provides a hedge. Understanding that a 7% salary raise in a year with 6% inflation is actually only a 1% real raise helps you negotiate and plan better.
+
+Inflation is not just a macroeconomic concept. It is a force that shapes the material conditions of every household. Understanding it is the first step to navigating it.

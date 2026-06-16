@@ -1,0 +1,48 @@
+---
+title: "The Port That Could Change India's Place in Global Trade"
+date: 2026-03-22
+subtitle: "\"Every great trading nation in history — Britain, the Netherlands, Singapore — was built on great ports. India has the coastline. The question is whether it can build the infrastructure.\""
+description: "India is betting billions on port-led industrial development. The Sagarmala project, Vadhavan port, and India's ambition to become a global maritime hub are reshaping how the country connects to the world economy."
+image: "./title_20260322.png"
+twitter-card: {image: "./title_20260322.png"}
+open-graph: {image: "./title_20260322.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# India Has a Coastline. It Has Not Always Used It Well.
+
+India has 7,500 kilometres of coastline — one of the longest in Asia — and yet its ports have for decades been a bottleneck rather than an engine of growth. Ships waited for days to berth. Cargo sat in queues. Turnaround times were embarrassingly slow compared to Singapore, Rotterdam, or Shanghai.
+
+The cost was real. Inefficient ports added cost to exports, made Indian manufacturers less competitive globally, and slowed the movement of goods in a country that desperately needed logistics to work.
+
+# What Is Sagarmala?
+
+Launched in 2015, Sagarmala is the government's flagship programme to modernise India's maritime infrastructure. The idea is straightforward: ports are not just docking facilities. They can be the anchors of entire industrial zones, drawing in factories, warehouses, and service businesses in their vicinity.
+
+Sagarmala envisions port-led industrialisation — building new ports, upgrading existing ones, connecting them to hinterlands with better roads and rail, and developing coastal economic zones where manufacturing can flourish.
+
+# The Numbers
+
+The numbers behind Sagarmala are large. Over 800 projects worth more than ₹5 lakh crore have been identified. They span port modernisation, coastal connectivity, port-linked industrialisation, and coastal community development.
+
+Port capacity has grown substantially. The turnaround time for ships at major ports has improved significantly. Container traffic is rising. The government's target is to double the share of waterways in India's freight movement, from about 6% today to over 12%.
+
+# Vadhavan: India's Deep-Water Ambition
+
+One of the most significant projects is Vadhavan port in Maharashtra. India's existing major ports — Mumbai, JNPT, Mundra — are reaching capacity limits. They also face constraints on the size of ships they can handle. The world's largest container ships, which carry enormous volumes at low cost per unit, cannot dock at most Indian ports.
+
+Vadhavan is designed to be India's first deep-water greenfield port — capable of handling the world's biggest vessels. At ₹76,000 crore, it is one of the largest infrastructure investments in India's port history. When complete, it could become one of Asia's top container ports.
+
+# Why This Matters for Manufacturing
+
+India's ambition to become a global manufacturing hub — to attract the companies diversifying away from China — depends critically on logistics. A factory that cannot get goods to port efficiently and cheaply will struggle to compete globally.
+
+Port improvement is therefore not just a transport story. It is a Make in India story. Better ports make India more competitive as a place to make things for the world.
+
+# What Still Needs to Happen
+
+Ports are necessary but not sufficient. The last-mile connectivity — the roads and rail connecting ports to industrial zones and to the rest of the country — remains incomplete in many areas. Customs procedures, though improving, still add time. And labour at ports, while more efficient than before, needs further reform.
+
+India's port story is improving. But to truly compete with maritime giants, the pace of improvement needs to accelerate. The coastline is an asset waiting to be fully used.

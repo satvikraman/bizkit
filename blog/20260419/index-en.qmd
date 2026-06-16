@@ -1,0 +1,56 @@
+---
+title: "The Global Companies Choosing India: What the New Wave of Foreign Investment Means"
+date: 2026-04-19
+subtitle: "\"A decade ago, global manufacturers looked at India and saw promise but also hesitation. Today, they are signing lease agreements, hiring engineers, and filing production plans.\""
+description: "Apple, Samsung, Foxconn, Micron, and dozens of other global companies have made significant investment commitments in India. This post examines why the shift is happening, what India is offering, and what it needs to get right to sustain the momentum."
+image: "./title_20260419.png"
+twitter-card: {image: "./title_20260419.png"}
+open-graph: {image: "./title_20260419.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# The Shift That Everyone Noticed
+
+Something changed around 2020-2022. The combination of the COVID-19 pandemic (which exposed the risk of over-reliance on a single country for supply chains), US-China trade tensions, and India's improved business environment created a moment of opportunity. Companies that had been quietly considering India as an alternative to China began making decisions.
+
+Apple made the most visible move. Through its suppliers — primarily Foxconn and Tata Electronics — it began manufacturing iPhones in India. By 2025, roughly one in seven iPhones sold globally was made in India. The government's ambition is to reach one in four.
+
+Samsung, which has long had a factory in Noida, has expanded its footprint. Micron, the American semiconductor company, committed to building a chip assembly and testing facility in Gujarat. Several defence manufacturers, attracted by India's liberalised defence production policies, have set up or announced plants.
+
+# Why India, Why Now?
+
+Several factors are converging.
+
+Labour costs in China have risen significantly over the past decade. India's wage rates are lower, particularly for mid-skill manufacturing.
+
+India's domestic market is enormous and growing. A factory in India is not just a cost base — it is a gateway to over a billion consumers.
+
+The Production Linked Incentive (PLI) scheme, launched in 2020, offers financial incentives to companies that manufacture in India and grow their production over time. Over ₹2 lakh crore in PLI incentives have been committed across sectors including electronics, pharmaceuticals, textiles, specialty chemicals, and food processing.
+
+Geopolitics is accelerating the shift. Companies and governments in the West are explicitly seeking to reduce their dependence on China for critical goods. India — a democracy, a strategic partner, and a significant economy — is positioned as the preferred alternative.
+
+# The Foxconn-Tata Reality
+
+The Apple story in India is really two stories. Foxconn, the Taiwanese contract manufacturer, has a massive facility in Tamil Nadu and is expanding further. Tata Electronics, which acquired a Foxconn plant in Karnataka, has become one of the rare Indian companies to break into the global electronics supply chain at scale.
+
+Both stories represent something new: serious, large-scale, export-oriented manufacturing in a sector that India had largely written off as too difficult.
+
+# What India Still Needs to Fix
+
+For all the momentum, India faces real challenges in sustaining and deepening foreign investment.
+
+Infrastructure remains a gap. Power reliability, port efficiency, and road quality vary widely. Companies building globally competitive factories need globally competitive surroundings.
+
+Land acquisition is complicated. Assembling large parcels of land for industrial use involves navigating complex state laws, multiple stakeholders, and often protracted legal processes.
+
+Regulatory complexity, while improving, is not yet at the level of China or Vietnam. The ease of doing business has improved on paper, but the lived experience of setting up and running a factory still involves friction.
+
+Skilled labour at scale is the deepest challenge. India produces millions of engineering graduates, but the specific skills needed for precision manufacturing, quality control, and supply chain management are in shorter supply than the headline numbers suggest.
+
+# The Opportunity Is Real
+
+None of this should obscure the fundamental shift underway. India is receiving foreign direct investment at a pace and in sectors it has never seen before. The question is whether it can execute on the opportunity — fix the infrastructure, streamline the regulations, develop the skills — before the window of advantage closes.
+
+History suggests windows of this kind do not stay open forever. Countries that seized theirs — South Korea in the 1970s, China in the 1990s, Vietnam in the 2010s — transformed their economies in a generation. India is being offered a similar chance.

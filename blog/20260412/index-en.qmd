@@ -1,0 +1,56 @@
+---
+title: "Vande Bharat and Beyond: How India Is Reinventing Its Railways"
+date: 2026-04-12
+subtitle: "\"Indian Railways is not just a transport system. It is a metaphor for India itself — massive, complicated, essential, and slowly but unmistakably changing.\""
+description: "Indian Railways is the world's fourth-largest rail network and carries 23 million passengers a day. The modernisation drive — Vande Bharat trains, station redevelopment, freight corridor upgrades, and Kavach safety technology — is changing what travelling by train in India feels like."
+image: "./title_20260412.png"
+twitter-card: {image: "./title_20260412.png"}
+open-graph: {image: "./title_20260412.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# The Scale of the Thing
+
+Before talking about change, it is worth appreciating what Indian Railways actually is. At over 67,000 kilometres of track, it is one of the largest rail networks in the world. It runs about 13,000 passenger trains and 9,000 freight trains daily. Around 23 million people use it every single day. The system employs over 1.2 million people, making it one of the largest employers anywhere on Earth.
+
+Any organisation at this scale is hard to change. And yet, change is happening.
+
+# Vande Bharat: A Different Kind of Train
+
+When the first Vande Bharat Express was flagged off in 2019, it felt like a genuine departure from what Indian passengers had come to expect from trains. Faster, quieter, cleaner, with aircraft-style seats and better lighting — Vande Bharat was the first train to be fully designed and manufactured in India, under the Make in India programme.
+
+The trains are semi-high speed, capable of 160 kmph (though most routes run them at lower speeds due to track limitations). They are self-propelled — meaning every coach has its own motor — which allows faster acceleration and deceleration than traditional locomotive-hauled trains. By early 2026, over 130 Vande Bharat sets were running across India.
+
+The government's target is to run these trains on all major routes. A newer version — Vande Bharat Sleeper — is being introduced for overnight journeys, which would upgrade a segment of the market that has barely changed since the 1990s.
+
+# The Freight Corridor: Moving Goods, Not Just People
+
+While passenger travel gets the headlines, the more economically significant modernisation may be in freight.
+
+India's rail network has historically prioritised passengers over freight. This has made freight slower and less predictable, pushing goods traffic onto roads — which are more expensive, more polluting, and more congested.
+
+The Dedicated Freight Corridor (DFC) is a solution to this. Two massive freight-only corridors — the Eastern DFC from Ludhiana to Kolkata and the Western DFC from Delhi to Mumbai — have been largely completed. These run heavy freight trains at 100 kmph, dramatically faster than the 25-35 kmph average on the congested existing network.
+
+The freight corridors are already moving significant cargo volumes. As factories, ports, and logistics hubs integrate with the corridors, their economic impact is expected to multiply.
+
+# Kavach: Safety That India Built
+
+Kavach — which means "armour" in Hindi — is an automatic train protection system developed by Indian engineers. Its purpose is to prevent the most common type of train accident: a collision caused by a signal passed at danger (when a driver runs through a red signal).
+
+Kavach uses radio frequency and GPS to monitor the position of trains and automatically applies brakes if two trains are on a collision course. It is designed to prevent disasters like the Odisha train collision of 2023, which killed nearly 300 people.
+
+The rollout of Kavach is underway across thousands of kilometres of high-density routes. When complete, it could make India's railways among the safer systems in the world.
+
+# Station Redevelopment
+
+Hundreds of Indian railway stations are being transformed under an ambitious redevelopment programme. The goal is to turn major stations into integrated, airport-like hubs — with better facilities, commercial spaces, connectivity to metro systems, and modern architecture.
+
+The Gandhinagar, Rani Kamalapati (Bhopal), and Ayodhya stations are early examples of what this can look like. Whether the programme can be delivered at scale — given the complexity of operating stations while simultaneously redeveloping them — remains the challenge.
+
+# The Money Question
+
+All of this modernisation costs money. The railway budget has grown substantially in recent years — the Union Budget 2026 allocated over ₹2.5 lakh crore to railways, one of the largest allocations in Indian history.
+
+The question is whether that investment generates returns — both the financial return needed to sustain the system and the broader economic return of making India more competitive and connected. The early evidence is encouraging. The bet, for now, seems to be paying off.

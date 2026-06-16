@@ -1,0 +1,48 @@
+---
+title: "PhonePe's Journey: How a Flipkart Side Project Became India's Most-Used App"
+date: 2026-03-29
+subtitle: "\"On a typical day, more Indians open PhonePe than any other app on their phone. That dominance was not inevitable. It was built, fight by fight, feature by feature.\""
+description: "PhonePe started as an experiment inside Flipkart and now processes over a billion transactions a month. Its story is the story of how UPI transformed Indian finance — and how one company seized that moment better than almost anyone else."
+image: "./title_20260329.png"
+twitter-card: {image: "./title_20260329.png"}
+open-graph: {image: "./title_20260329.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# The Beginning: A Side Bet Inside Flipkart
+
+In 2015, three Flipkart employees — Sameer Nigam, Rahul Chari, and Burzin Engineer — pitched a simple idea to their bosses: build a UPI-based payments app. Flipkart said yes. The app launched in 2016, just as the National Payments Corporation of India (NPCI) was rolling out UPI to the public.
+
+Then demonetisation happened. In November 2016, the Indian government invalidated 86% of the currency in circulation overnight. Cash was suddenly hard to come by. Digital payments were not. Paytm, which already had a wallet product, was the initial beneficiary. But PhonePe, operating on the cleaner UPI rails, was positioned for the long game.
+
+# Separation from Flipkart
+
+When Walmart acquired Flipkart in 2018, the PhonePe team negotiated a partial separation. In 2022, PhonePe formally became a standalone company, relocating its registered office from Singapore to India — a move that had significant tax and regulatory implications. Sameer Nigam led the company independently for the first time.
+
+The separation was messy. It cost PhonePe and Flipkart several hundred million dollars in tax payments. But it gave PhonePe the freedom to raise its own capital, pursue its own IPO, and build a financial services empire without being tied to an e-commerce parent.
+
+# Building the Super App
+
+PhonePe's strategy has been to convert its payments leadership into a financial services platform. If someone opens PhonePe to pay for groceries, can they also buy insurance? Can they invest in mutual funds? Can they get a small loan?
+
+The answer has been yes. PhonePe's insurance distribution business has become one of the largest in India. Its mutual fund platform, Wealth, manages substantial assets. Its merchant payments business, including Pincode (its e-commerce play) and Indus Appstore (an alternative to Google Play Store), are bets on capturing the next tier of digital commerce.
+
+# The Numbers Are Remarkable
+
+PhonePe processes over a billion transactions a month. It has about 500 million registered users. Its UPI market share consistently sits above 45% — meaning nearly half of all UPI payments in India go through PhonePe.
+
+For context, UPI now processes over 15 billion transactions a month across all apps. PhonePe's share of that is substantial.
+
+# The Challenge: Monetisation
+
+The peculiarity of UPI is that, by regulatory design, it is free. Banks and payment apps cannot charge merchants or consumers for standard UPI transactions. PhonePe moves enormous volumes of money but earns almost nothing directly from payments.
+
+The business model therefore depends on financial services — insurance premiums, investment management fees, lending margins — where PhonePe gets a slice of each product sold through its platform. This is the race: convert payments users into financial services customers before competitors do the same.
+
+# What Comes Next
+
+PhonePe is widely expected to pursue an IPO in the next couple of years. Its valuation, last pegged at around $12 billion in private markets, would make it one of India's largest tech listings.
+
+The bigger question is whether PhonePe can break out of India. The company has made moves in Southeast Asia and the Middle East, where Indian diaspora populations are large. International expansion is the next frontier — and the hardest one.
