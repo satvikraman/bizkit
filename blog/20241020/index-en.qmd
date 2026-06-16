@@ -1,0 +1,40 @@
+---
+title: "The Rules That Made Nations Rich or Poor"
+date: 2024-10-20
+subtitle: "\"Nations fail because of extractive institutions.\" — Daron Acemoglu"
+description: "In October 2024, three economists won the Nobel Prize for answering one of the biggest questions in history. Why is India, which was once one of the richest nations on earth, still a developing country today? The answer has nothing to do with geography or luck."
+image: "./title_20241020.png"
+twitter-card: {image: "./title_20241020.png"}
+open-graph: {image: "./title_20241020.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+In October 2024, three economists named Daron Acemoglu, Simon Johnson, and James Robinson won the Nobel Prize in Economics, one of the most respected awards in the world. Their research answered a question that most Indians have quietly carried for a long time. If India was one of the wealthiest nations on earth until the 18th century, producing more manufactured goods than most of Europe and exporting spices, silk, and minerals across the globe, why does it remain a developing country today? The answer, these three researchers spent decades proving, is not geography, not climate, and not the natural intelligence of a population. The answer is the rules and systems that a country runs on.
+
+# What Are Institutions?
+
+When economists like Acemoglu, Johnson, and Robinson use the word "institutions," they are not talking about office buildings or government departments. They mean the rules, laws, and systems that decide who holds power in a society and who gets to benefit from it. A country where ordinary people can own property, start businesses, and vote out corrupt politicians has what researchers call inclusive institutions. A country where a small group controls all the resources and actively prevents everyone else from participating has what they call extractive institutions. Acemoglu and his colleagues showed, through decades of research across dozens of countries, that this single difference explains more about global wealth than almost anything else.
+
+# The City That Splits the World in Half
+
+The most striking example in Acemoglu, Johnson, and Robinson's research is a city called Nogales, which sits directly on the border between the United States and Mexico. The northern half of Nogales is in the state of Arizona, and the southern half is in the Mexican state of Sonora. Both halves share the same geography, the same climate, the same cultural origins, and even many of the same family surnames. Yet residents of Arizona's Nogales live measurably longer, earn far more, and have access to much better schools and hospitals than residents of Sonora's Nogales just across the street. In Arizona, property rights are protected by law, courts are functional, and elections allow citizens to remove politicians who do not perform. In Sonora, corruption is more common, property rights are weaker, and replacing a bad leader is more difficult. The border did not separate two geographies. It separated two completely different sets of rules.
+
+# How Colonial Rulers Set the Pattern
+
+Acemoglu, Johnson, and Robinson spent years figuring out why some countries ended up with inclusive institutions and others ended up with extractive ones, and their answer points directly at colonial history. When European powers arrived in places with large local populations, such as India, they built extractive systems designed to move resources, money, and labour toward Europe rather than toward local development. When European powers arrived in places with smaller local populations, such as Australia, Canada, and parts of North America, they brought large numbers of settlers who demanded property rights and political representation for themselves, and eventually for everyone. Those demands produced inclusive institutions. The richest 20 percent of countries in the world today are 30 times wealthier than the poorest 20 percent, and Acemoglu, Johnson, and Robinson's data shows that this gap maps almost perfectly onto which colonial strategy was used in each place.
+
+# The Role of Disease in Shaping History
+
+One of the most surprising parts of the research by Acemoglu, Johnson, and Robinson involves the role that disease played in directing colonial strategy. British soldiers and officials stationed in Bengal and Madras faced death rates from malaria and cholera that were four to ten times higher than what British soldiers experienced back home in England. Local Indian troops stationed in the same regions saw about 12 deaths per 1,000 soldiers each year, while British troops in those same areas faced between 70 and 170 deaths per 1,000. Because surviving in India was so dangerous for Europeans, fewer British settlers chose to move there permanently. And because settler numbers stayed low, the British built an extractive system designed to pull resources out quickly rather than a system designed to be lived in and built upon. The decision that shaped India's institutions for the next two centuries was partly decided by a mosquito.
+
+# Why the Old Rules Are Hard to Change
+
+When India won independence in 1947, a reasonable question arises. Why did the new government not simply remove all the extractive systems that colonizers had built? Acemoglu, Johnson, and Robinson identified what they call the commitment problem. When a group of people gains power through an extractive system, they have little reason to give that power up, even if a fairer system would make the entire country richer. The people who benefit from the existing rules cannot be sure that they will be treated fairly if they give up control, so they hold on. Going into all the ways this dynamic plays out across different governments is outside the scope of this post, but the core idea is that bad institutions tend to survive not because nobody sees the problem, but because the people who benefit from them work actively to protect them.
+
+# Final Thoughts
+
+The 2024 Nobel Prize in Economics recognized three researchers who spent their careers proving that the rules of a society matter more than its natural resources or its location on a map. Acemoglu, Johnson, and Robinson showed that what happened to India, what happened to Nogales in Mexico, and what happened to dozens of other countries was not inevitable. It was the result of choices made by colonial powers about what systems to build and for whose benefit. India today is one of the fastest-growing large economies in the world, steadily reforming its institutions and expanding opportunity for millions of people. Knowing where the old rules came from, and understanding why some of them are still difficult to change, is the clearest starting point for building the kind of inclusive institutions that create lasting prosperity for everyone inside them.

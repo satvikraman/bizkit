@@ -1,0 +1,38 @@
+---
+title: "The Game Netflix Refused to Play"
+date: 2024-10-27
+subtitle: "\"A delayed game is eventually good, but a rushed game is forever bad.\" — Shigeru Miyamoto, Creator of Mario and The Legend of Zelda"
+description: "Netflix assembled a team of gaming legends, including the creative director of Halo and the art director of God of War, and then shut the whole studio down without ever shipping a single game. The real story is about a concept every business eventually faces, which is figuring out when building something yourself is the right call and when it is simply too expensive a risk to take."
+image: "./title_20241027.png"
+twitter-card: {image: "./title_20241027.png"}
+open-graph: {image: "./title_20241027.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+In early October 2024, Netflix quietly shut down Team Blue, an internal gaming studio it had built in Southern California. The studio had recruited three of the most accomplished names in the games industry. Chacko Sonny had been the executive producer of Overwatch, one of the most played multiplayer games ever made. Joseph Staten had spent years shaping the Halo franchise at Microsoft and was brought in as Team Blue's creative director. Rafael Grassetti had been the art director at Santa Monica Studio, the team behind God of War.
+
+Despite that roster, Team Blue was dissolved without ever releasing a single game. That sequence of events is not just a story about Netflix making a bad bet. It is a lesson in a concept called opportunity cost, which is the idea that every choice you make means giving up something else, and that sometimes the most honest thing a company can do is admit that what it gave up was more valuable than what it was chasing.
+
+# The Price Tag on a Blockbuster Game
+
+The term AAA is not an acronym. It is simply the industry's label for the highest-budget, highest-ambition video games, the kind that take several years, hundreds of people, and enormous amounts of money to produce. Rockstar Games spent approximately $170 million making Grand Theft Auto V, and that game eventually earned over $9 billion across two versions, which is roughly 25 times the development cost. That sounds like a remarkable return. But Grand Theft Auto V is an outlier, not a template. For every franchise that earns billions, there are dozens of expensive games that failed to connect with players and disappeared quickly, leaving studios with nothing to show for years of work except a bill.
+
+The risk in AAA development is not simply that your game might be mediocre. It is that you can spend hundreds of millions of dollars and several years finding out whether it is good enough. When Netflix looked at what Team Blue would require, with no existing IP to lean on and no guarantee of landing a hit, the math became increasingly hard to defend. The team included genuine talent, Chacko Sonny and Joseph Staten among them, but talent alone cannot eliminate the fundamental uncertainty that comes with building a new gaming franchise from nothing.
+
+# When Licensing Is Smarter Than Building
+
+Every company that wants to offer a product faces a choice between creating it themselves and paying someone else for the rights to use a finished version. Building in-house gives full control and lets you keep all the profit inside the company, but it costs more, takes longer, and can fail entirely. Licensing means paying another company for the right to use their work, which carries less risk and requires far less upfront investment, but it also means sharing the upside and depending on something you did not create. Netflix had already seen the licensing model work well in gaming. The Grand Theft Auto mobile titles, which Netflix did not develop, accounted for roughly 17% of all Netflix gaming downloads in 2023 entirely on their own. Team Blue was Netflix's attempt to own a franchise like that rather than renting someone else's, and when the costs became clear, the company chose to step back.
+
+The decision also reflects something deeper about how Netflix thinks about its money. The company had set aside $17 billion for content in 2024. Every dollar committed to Team Blue was a dollar unavailable for shows, films, and licensed games that could drive engagement across the full subscriber base. Economists call this opportunity cost, and it is one of the most important ideas in understanding how businesses actually make decisions, because the real question is never just whether a project is good but whether it is the best use of the money compared to everything else on the table.
+
+# The Team That Never Got to Ship
+
+The story of Team Blue deserves a closer look because real careers were at stake. Chacko Sonny left a senior role at Activision Blizzard to build something new at Netflix. Joseph Staten gave up his position at Microsoft, where he had worked on Halo for years, to serve as creative director on what Netflix was describing as a fresh and ambitious multiplatform title. Rafael Grassetti departed from his role as art director on one of Sony's most celebrated franchises to join a studio that had no released games and no announced projects. Each of them made a significant professional bet on Netflix's gaming ambitions. The game they were building was reported to be a multiplayer shooter, something with the potential to grow into a full franchise. It was cancelled before anyone outside the building ever saw it. Netflix confirmed the closure with minimal public comment, and the people who had taken the risk of joining were left without a shipped title to their name at the company.
+
+# Final Thoughts
+
+Opportunity cost shows up in every business decision, but it is easiest to see when the stakes are high and the choice involves something genuinely exciting. Building the next Grand Theft Auto is a compelling ambition. Licensing games that millions of players already love is a quieter approach. Netflix chose the quieter approach, and given that only about 1% of its subscribers currently play any games on the platform at all, that choice was probably the more rational one. The shutdown of Team Blue was not a sign that Netflix is giving up on gaming. The company is still expanding its catalogue of licensed titles and has other studios working on smaller projects. What it signals is that Netflix has learned to apply the same logic to games that it applies to everything else, which is that the smartest investment is not always the most dramatic one, and that knowing when to stop is just as important as knowing when to start.

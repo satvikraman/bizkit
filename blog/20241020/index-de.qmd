@@ -1,0 +1,40 @@
+---
+title: "Die Regeln, die Nationen reich oder arm machten"
+date: 2024-10-20
+subtitle: "\"Nationen scheitern wegen extraktiver Institutionen.\" — Daron Acemoglu"
+description: "Im Oktober 2024 gewannen drei Ökonomen den Nobelpreis für die Beantwortung einer der größten Fragen der Geschichte. Warum ist Indien, das einst zu den reichsten Nationen der Erde zählte, heute noch ein Entwicklungsland? Die Antwort hat nichts mit Geografie oder Glück zu tun."
+image: "./title_20241020.png"
+twitter-card: {image: "./title_20241020.png"}
+open-graph: {image: "./title_20241020.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Im Oktober 2024 gewannen drei Ökonomen namens Daron Acemoglu, Simon Johnson und James Robinson den Nobelpreis für Wirtschaftswissenschaften, eine der angesehensten Auszeichnungen der Welt. Ihre Forschung beantwortete eine Frage, die die meisten Inder lange Zeit mit sich getragen haben. Wenn Indien bis zum 18. Jahrhundert eine der reichsten Nationen der Erde war, mehr Industriegüter als der Großteil Europas produzierte und Gewürze, Seide und Mineralien in die ganze Welt exportierte, warum ist es dann heute noch ein Entwicklungsland? Diese drei Forscher haben jahrzehntelang bewiesen, dass die Antwort weder in der Geografie noch im Klima und auch nicht in der natürlichen Intelligenz einer Bevölkerung liegt. Die Antwort liegt in den Regeln und Systemen, auf denen ein Land basiert.
+
+# Was sind Institutionen?
+
+Wenn Ökonomen wie Acemoglu, Johnson und Robinson das Wort "Institutionen" verwenden, meinen sie nicht Bürogebäude oder Regierungsabteilungen. Sie meinen die Regeln, Gesetze und Systeme, die bestimmen, wer in einer Gesellschaft Macht hat und wer davon profitiert. Ein Land, in dem normale Menschen Eigentum besitzen, Unternehmen gründen und korrupte Politiker abwählen können, hat nach Ansicht der Forscher inklusive Institutionen. Ein Land, in dem eine kleine Gruppe alle Ressourcen kontrolliert und aktiv verhindert, dass alle anderen teilnehmen, hat extraktive Institutionen. Acemoglu und seine Kollegen haben durch jahrzehntelange Forschung in Dutzenden von Ländern gezeigt, dass dieser einzige Unterschied mehr über globalen Reichtum erklärt als fast alles andere.
+
+# Die Stadt, die die Welt in zwei Hälften teilt
+
+Das eindrucksvollste Beispiel in Acemoglu, Johnson und Robinsons Forschung ist eine Stadt namens Nogales, die direkt an der Grenze zwischen den USA und Mexiko liegt. Die nördliche Hälfte von Nogales liegt im US-Bundesstaat Arizona, die südliche Hälfte im mexikanischen Bundesstaat Sonora. Beide Hälften teilen dieselbe Geografie, dasselbe Klima, dieselben kulturellen Ursprünge und sogar viele derselben Familiennamen. Dennoch leben die Bewohner des Arizona-Nogales messbar länger, verdienen deutlich mehr und haben Zugang zu viel besseren Schulen und Krankenhäusern als die Bewohner des Sonora-Nogales, die nur auf der anderen Straßenseite leben. In Arizona werden Eigentumsrechte durch Gesetze geschützt, Gerichte funktionieren ordnungsgemäß und Wahlen ermöglichen es den Bürgern, schlechte Politiker abzusetzen. In Sonora ist Korruption häufiger, Eigentumsrechte sind schwächer und einen schlechten Politiker zu ersetzen, ist schwieriger. Die Grenze trennte keine zwei Geografien. Sie trennte zwei völlig verschiedene Regelwerke.
+
+# Wie Kolonialherrscher das Muster festlegten
+
+Acemoglu, Johnson und Robinson verbrachten Jahre damit herauszufinden, warum manche Länder inklusive Institutionen bekamen und andere extraktive, und ihre Antwort zeigt direkt auf die Kolonialgeschichte. Als europäische Mächte in Gebiete mit großer einheimischer Bevölkerung wie Indien kamen, bauten sie extraktive Systeme auf, die darauf ausgelegt waren, Ressourcen, Geld und Arbeit nach Europa zu leiten. Die Daten der Forschung decken sich nahezu vollständig damit, welche Kolonialstrategie an jedem Ort verwendet wurde.
+
+# Die Rolle von Krankheiten bei der Gestaltung der Geschichte
+
+Ein der überraschendsten Teile der Forschung von Acemoglu, Johnson und Robinson betrifft die Rolle, die Krankheiten bei der Ausrichtung der Kolonialstrategie spielten. Britische Soldaten und Beamte, die in Bengalen und Madras stationiert waren, sahen sich mit Malaria- und Cholera-Sterblichkeitsraten konfrontiert, die vier- bis zehnmal höher waren als die britischer Soldaten in England. Britische Truppen in denselben Gebieten standen vor 70 bis 170 Todesfällen pro 1.000 Soldaten jährlich. Da das Überleben in Indien für Europäer so gefährlich war, wollten weniger britische Siedler dauerhaft dorthin ziehen. Diese Entscheidung, die zum Teil von einer Mücke getroffen wurde, prägte Indiens Institutionen für die nächsten zwei Jahrhunderte.
+
+# Warum alte Regeln schwer zu ändern sind
+
+Als Indien 1947 die Unabhängigkeit erlangte, stellt sich eine berechtigte Frage. Warum hat die neue Regierung nicht einfach alle extraktiven Systeme entfernt, die die Kolonisatoren aufgebaut hatten? Acemoglu, Johnson und Robinson identifizierten, was sie das Bindungsproblem nennen. Wenn eine Gruppe von Menschen durch ein extraktives System Macht gewinnt, haben sie wenig Grund, diese Macht aufzugeben, selbst wenn ein gerechteres System das gesamte Land reicher machen würde. In alle Einzelheiten einzutauchen, wie sich diese Dynamik in verschiedenen Regierungen abspielt, geht über den Rahmen dieses Beitrags hinaus, aber die Kernidee ist, dass schlechte Institutionen nicht deshalb überleben, weil niemand das Problem sieht, sondern weil die Menschen, die von ihnen profitieren, aktiv daran arbeiten, sie zu schützen.
+
+# Abschließende Gedanken
+
+Der Wirtschaftsnobelpreis 2024 würdigte drei Forscher, die ihr Leben damit verbracht haben zu beweisen, dass die Regeln einer Gesellschaft wichtiger sind als ihre natürlichen Ressourcen oder ihre Lage auf einer Karte. Acemoglu, Johnson und Robinson zeigten, dass das, was Indien passierte, nicht unausweichlich war. Es war das Ergebnis von Entscheidungen, die Kolonialmächte darüber trafen, welche Systeme sie aufbauen sollten und zu wessen Gunsten. Indien ist heute eine der am schnellsten wachsenden großen Volkswirtschaften der Welt. Zu wissen, woher die alten Regeln kamen, und zu verstehen, warum einige davon noch immer schwer zu ändern sind, ist der deutlichste Ausgangspunkt für den Aufbau jener inklusiven Institutionen, die dauerhaften Wohlstand für alle in ihnen schaffen.

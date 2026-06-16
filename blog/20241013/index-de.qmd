@@ -1,0 +1,34 @@
+---
+title: "Der Kredit, den das Gold nicht decken konnte"
+date: 2024-10-13
+subtitle: "\"Gold ist Geld. Alles andere ist Kredit.\" — J.P. Morgan"
+description: "Im Jahr 2024 entdeckten Prüfer der Bank of Baroda, dass in mehreren Filialen Goldkredite ohne echtes Gold als Sicherheit vergeben wurden. Was folgte, war eine landesweite Untersuchung der Reserve Bank of India, die Missstände in einer Branche mit einem Volumen von sechs Billionen Rupien aufdeckte."
+image: "./title_20241013.png"
+twitter-card: {image: "./title_20241013.png"}
+open-graph: {image: "./title_20241013.png"}
+categories: ["Geld & Märkte"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Im Jahr 2024 lief in einigen Filialen der Bank of Baroda etwas Ungewöhnliches ab, und es brauchte ein internes Prüfungsteam, um es aufzudecken. Goldkreditkonten wurden am selben Tag eröffnet und geschlossen, was bei einem seriösen Kreditgeschäft nicht vorkommt. Als die Prüfer genauer hinsahen, stellten sie fest, dass einige Mitarbeiter, die unbedingt ihre Kreditvorgaben erfüllen wollten, Goldkredite auszahlen, ohne tatsächlich Gold entgegenzunehmen. Sie taten sich mit einer Handvoll Kunden zusammen, blähten die Kreditbeträge auf dem Papier auf und nutzten das interne Ausgabenkonto der Filiale, um die Bearbeitungsgebühren zu decken. Kein echtes Gold wechselte den Besitzer, kein echtes Geld floss, und die gesamte Aktion diente nur dazu, die Zahlen der Filiale im Leistungsbericht gut aussehen zu lassen. Als die Reserve Bank of India davon erfuhr, beschloss sie, nicht nur eine Bank, sondern die gesamte Goldkreditbranche zu untersuchen.
+
+# Wie ein Goldkredit funktioniert
+
+Goldkredite sind eines der unkompliziertesten Finanzprodukte in Indien und existieren schon viel länger als das moderne Bankwesen. Man geht zu einer Bank oder einem Nichtbanken-Finanzinstitut, hinterlegt seinen Goldschmuck oder Goldmünzen als Sicherheit und geht mit Bargeld heraus. Der Kreditgeber verwahrt das Gold sicher, bis der Kredit zurückgezahlt wird, und gibt es dann zurück. Diese Art der Kreditvergabe nennt sich besicherter Kredit, da der Kreditgeber ein physisches Gut besitzt, das er verkaufen kann, wenn der Kreditnehmer aufhört zu zahlen. Die betrügerischen Mitarbeiter der Bank of Baroda verstanden diese Logik genau, weshalb sie wussten, dass das Fehlen des Goldes vertuscht werden musste.
+
+Die Zahl, die die gesamte Transaktion bestimmt, nennt sich Beleihungsquote oder LTV. Die LTV gibt an, welchen Prozentsatz des aktuellen Marktwertes des Goldes der Kreditgeber als Kredit gewährt. Wenn Ihr Gold eine Lakh Rupien wert ist und die LTV bei fünfundsiebzig Prozent liegt, gehen Sie mit fünfundsiebzigtausend Rupien heraus. Die verbleibenden fünfundzwanzigtausend Rupien dienen als Puffer, der den Kreditgeber schützt, falls die Goldpreise fallen. Die Reserve Bank of India hat die maximal zulässige LTV für Goldkredite auf fünfundsiebzig Prozent festgesetzt.
+
+# Die Geschichte, wie es schiefging
+
+IIFL Finance, eines der größten Goldkreditunternehmen Indiens, geriet in Schwierigkeiten, die fast das Spiegelbild des Bank of Baroda-Skandals waren. Anstatt Kredite ohne Gold zu erfinden, zeichnete IIFL systematisch die tatsächliche Qualität des von Kunden mitgebrachten Goldes zu niedrig auf. Als RBI-Prüfer das Portfolio von IIFL untersuchten, stellten sie fest, dass bei siebenundsechzig Prozent der Konten eine Abweichung zwischen der angegebenen Reinheit des verpfändeten Goldes und seiner tatsächlichen Reinheit bestand. Die Reserve Bank of India untersagte IIFL Finance Anfang 2024 vorübergehend die Ausgabe neuer Goldkredite, eine Strafe, die den Aktienkurs des Unternehmens stark fallen ließ.
+
+# Das Wettrennen, das die Kreditgeber zu weit trieb
+
+Was Banken und Nichtbanken-Finanzunternehmen zu nachlässigen Praktiken trieb, war die schiere Geschwindigkeit, mit der der Goldkreditmarkt wuchs. Die indische Goldkreditbranche ist nun etwa sechs Billionen Rupien wert, ungefähr dreimal so viel wie vor einem Jahrzehnt, und ist in den letzten drei Jahren um etwa sechsundzwanzig Prozent pro Jahr gewachsen. Banken traten nach der vorübergehenden Anhebung der maximalen LTV auf neunzig Prozent durch die Reserve Bank of India im August 2020 während der COVID-19-Krise aggressiv in diesen Markt ein. Nachdem die RBI ihre landesweite Untersuchung abgeschlossen hatte, gab sie Banken und Nichtbanken-Finanzunternehmen drei Monate Zeit, ihre Goldkreditportfolios zu überprüfen und jede Lücke zu schließen.
+
+# Abschließende Gedanken
+
+Die Geschichte des Goldkredits handelt wirklich davon, was passiert, wenn ein vernünftiges Finanzprodukt durch Wettbewerb und Ehrgeiz überdehnt wird. Goldkredite funktionieren sehr gut, wenn die LTV ehrlich durchgesetzt wird, das Gold genau bewertet wird und die Kreditgeber eine echte Beziehung zu den Menschen pflegen, die mit ihrem Schmuck hereinkommen. Sie hören auf zu funktionieren, wenn Mitarbeiter Transaktionen fälschen, um Vorgaben zu erfüllen, oder wenn Unternehmen die Qualität des verpfändeten Goldes übertreiben, um mehr Geld zu verleihen. Für die Millionen indischer Haushalte, die Goldkredite als echtes Finanzinstrument in Notfällen nutzen, lohnt es sich zu verstehen, dass das Institut, zu dem man geht, genauso wichtig ist wie das Gold, das man in den Händen trägt.

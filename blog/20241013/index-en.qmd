@@ -1,0 +1,34 @@
+---
+title: "The Loan the Gold Could Not Back"
+date: 2024-10-13
+subtitle: "\"Gold is money. Everything else is credit.\" — J.P. Morgan"
+description: "In 2024, auditors at Bank of Baroda discovered that gold loans were being handed out at several branches without any actual gold to back them. What followed was a nationwide investigation by the Reserve Bank of India that exposed a six lakh crore rupee industry playing fast and loose with the rules."
+image: "./title_20241013.png"
+twitter-card: {image: "./title_20241013.png"}
+open-graph: {image: "./title_20241013.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Something unusual was happening at a few Bank of Baroda branches in 2024, and it took an internal audit team to catch it. Gold loan accounts were being opened and closed on the very same day, which is not how legitimate lending works. When the auditors looked closer, they found that some employees, eager to hit their loan targets, had started disbursing gold loans without actually collecting any gold. They teamed up with a handful of customers, inflated their loan figures on paper, and used the branch's own internal expense account to cover the processing fees. No real gold changed hands, no real money moved, and the whole exercise existed only to make the branch's numbers look impressive on a performance report. The Reserve Bank of India, when it learned about this, decided it was time to examine the entire gold loan industry, not just one bank.
+
+# What Makes a Gold Loan Work
+
+Gold loans are one of the most straightforward financial products in India, and they have been around far longer than modern banking. You walk into a bank or a non-banking financial company, hand over your gold jewellery or coins as collateral, and walk out with cash. The lender holds the gold safely until you repay the loan, at which point you get it back. This kind of lending is called secured lending because the lender has a physical asset they can sell if the borrower stops making payments, which makes it much safer than a personal loan where the bank has no such guarantee. Bank of Baroda's fraudulent employees understood this logic perfectly, which is exactly why they knew the absence of gold was something they needed to hide.
+
+The number that governs the entire transaction is called the Loan-to-Value ratio, or LTV for short. The LTV tells you what percentage of your gold's current market value the lender will give you as a loan. If your gold is worth one lakh rupees and the LTV is set at seventy-five percent, you walk out with seventy-five thousand rupees. The remaining twenty-five thousand rupees acts as a buffer, protecting the lender in case gold prices fall and the collateral loses some of its worth before the loan is repaid. The Reserve Bank of India sets the maximum permitted LTV for gold loans at seventy-five percent, and this single figure is supposed to ensure that the system stays honest and stable for both parties.
+
+# The Story of How Things Went Wrong
+
+IIFL Finance, one of the largest gold loan companies in India, ran into trouble that was almost the mirror image of the Bank of Baroda scandal. Instead of inventing loans without gold, IIFL was systematically under-recording the quality of gold that customers actually brought in. When RBI auditors examined IIFL's portfolio, they found that sixty-seven percent of accounts showed a discrepancy between the stated purity of the pledged gold and its real purity. This matters because when a borrower defaults and the lender auctions the gold to recover the loan amount, buyers will only pay for what the gold actually is, not what the original assessment claimed it was, and the lender ends up recovering less than expected. IIFL was also found to be disbursing cash loans above the permissible limits and failing to monitor the LTV ratio when gold prices moved in the market. The Reserve Bank of India temporarily barred IIFL Finance from issuing any new gold loans in early 2024, a penalty serious enough to send the company's stock price sharply downward and force its management into a full public audit of its portfolio.
+
+# The Race That Pushed Lenders Too Far
+
+Part of what drove banks and non-banking financial companies toward sloppy practices was the sheer speed at which the gold loan market grew. The Indian gold loan industry is now worth approximately six lakh crore rupees, roughly three times what it was a decade ago, and it has expanded at around twenty-six percent per year over the last three years. Banks, which once left this space largely to specialised lenders, jumped in aggressively after the Reserve Bank of India temporarily raised the maximum LTV to ninety percent during the COVID-19 crisis in August 2020 to help households in financial distress. That higher limit meant more money could be lent against the same quantity of gold, making the product more attractive to borrowers and more profitable for lenders who wanted a bigger share of the market. The resulting competition pushed every player to process loans faster, approve more applications, and hit bigger targets, and some began outsourcing the gold assessment process to fintech companies who could move quickly but did not always follow the rules carefully. The RBI, after completing its nationwide investigation, gave banks and non-banking financial companies three months to review their gold loan portfolios and close every gap they found.
+
+# Final Thoughts
+
+The gold loan story is really about what happens when a sensible financial product gets stretched by competition and ambition. Gold loans work very well when the LTV is enforced honestly, the gold is assessed accurately, and lenders maintain a genuine relationship with the people who walk in with their jewellery. They stop working when employees fabricate transactions to hit targets, or when companies overstate the quality of pledged gold to lend more money than is safe to lend. For the Reserve Bank of India, the intervention was not a surprise but a response to a market that had grown faster than the discipline required to run it responsibly. For the millions of Indian households who use gold loans as a genuine financial tool in an emergency, the lesson is worth understanding, because the institution you walk into matters as much as the gold you carry in your hands.
