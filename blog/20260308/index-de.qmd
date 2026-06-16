@@ -1,0 +1,28 @@
+---
+title: "Die Frauen hinter Indiens Selbsthilfegruppen-Revolution"
+date: 2026-03-08
+subtitle: "\"Geben Sie einer Frau Zugang zu Krediten, und Sie ändern nicht nur ihr Leben. Sie ändern ihre Familie, ihr Dorf und mit der Zeit ihre Wirtschaft.\""
+description: "Die indische Selbsthilfegruppen-Bewegung ist still zu einem der größten Experimente zur finanziellen Integration der Welt geworden. Zig Millionen Frauen sind Teil von Gruppen, die gemeinsam sparen, gemeinsam ausleihen und kleine Unternehmen führen."
+image: "./title_20260308.png"
+twitter-card: {image: "./title_20260308.png"}
+open-graph: {image: "./title_20260308.png"}
+categories: ["Wirtschaft und Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Eine andere Art von Bank
+
+Stellen Sie sich eine Bank vor, bei der die Kunden auch die Aktionäre, das Kreditkomitee und die Regulatoren sind. So funktionieren Indiens Selbsthilfegruppen (SHGs). Typischerweise kommen 10-20 Frauen aus demselben Dorf oder Viertel zusammen. Sie leisten jede Woche oder jeden Monat einen kleinen, festen Beitrag.
+
+# Die Zahl ist kaum zu glauben
+
+Indien hat heute über 10 Millionen aktive Selbsthilfegruppen mit mehr als 100 Millionen weiblichen Mitgliedern. Und die Rückzahlungsraten — der Prozentsatz der zurückgezahlten Kredite — sind durchweg höher als die von Formalbanken.
+
+# Warum es funktioniert
+
+Wenn eine Frau von ihrer SHG leiht, weiß jedes andere Mitglied davon. Die soziale Konsequenz der Nichtrückzahlung ist real: Sie leben im selben Dorf, Ihre Kinder gehen in dieselbe Schule.
+
+# Fazit
+
+Am Internationalen Frauentag ist es angebracht anzuerkennen, dass diese stille revolutionäre Bewegung mehr für die wirtschaftliche Ermächtigung von Frauen in Indien getan hat als die meisten schlagzeilenträchtigen Maßnahmen.

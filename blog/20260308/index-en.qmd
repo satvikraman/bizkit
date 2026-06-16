@@ -1,0 +1,42 @@
+---
+title: "The Women Behind India's Self-Help Group Revolution"
+date: 2026-03-08
+subtitle: "\"Give a woman access to credit, and you do not just change her life. You change her family, her village, and over time, her economy.\""
+description: "India's self-help group movement has quietly become one of the world's largest financial inclusion experiments. Tens of millions of women are part of groups that save together, borrow together, and run small businesses. This post tells the story of how this movement works and why it matters."
+image: "./title_20260308.png"
+twitter-card: {image: "./title_20260308.png"}
+open-graph: {image: "./title_20260308.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# A Different Kind of Bank
+
+Imagine a bank where the customers are also the shareholders, the loan committee, and the regulators. Where loans are granted not on the basis of collateral but on trust — and where the pressure to repay comes not from a debt collector but from your neighbours, who are also your lenders.
+
+This is how India's Self-Help Groups (SHGs) work. Typically, a group of 10-20 women from the same village or neighbourhood comes together. They each contribute a small, fixed amount every week or month. The pooled savings are lent out to members at rates they collectively decide. Over time, the group builds a track record and becomes eligible for bank loans — at lower rates and in larger amounts than any individual member could access alone.
+
+# The Scale Is Hard to Believe
+
+India today has over 10 million active Self-Help Groups, with a combined membership of more than 100 million women. The total savings pooled by these groups runs into tens of thousands of crores of rupees. And the repayment rates — the percentage of loans that get paid back — are consistently higher than those of formal banks.
+
+This is not a small pilot programme. It is one of the largest financial inclusion experiments in human history, happening in the towns and villages of India.
+
+# Why It Works
+
+The answer to why SHGs work so well starts with peer pressure — but not the bad kind. When a woman borrows from her SHG, every other member knows about it. The social consequence of not repaying is real: you live in the same village, your children go to the same school, you see these women every day. This social collateral — the threat of social embarrassment rather than the threat of asset seizure — turns out to be a powerful motivator.
+
+Research also shows that women who are part of SHGs have greater decision-making power within their households, higher incomes, and better outcomes for their children on health and education metrics.
+
+# The Business Connection
+
+The access to credit that SHGs provide has fuelled a surge in small-scale entrepreneurship. Members have used loans to buy livestock, start small grocery shops, take up tailoring contracts, purchase auto-rickshaws, and dozens of other micro-enterprises.
+
+Government programmes like the National Rural Livelihoods Mission (NRLM) — now branded as Lakhpati Didi — have been working to scale this further, setting a goal of making one crore women earn ₹1 lakh or more annually through SHG-linked businesses.
+
+# The Challenges
+
+The SHG movement is not without problems. Overleveraging — when women take loans from multiple sources and cannot repay — has been an issue in some states. Microfinance crises in Andhra Pradesh in 2010 showed what happens when lending grows faster than borrowers' ability to repay.
+
+But the fundamentals of the model — peer accountability, group savings, gradual credit building — have proven durable. On International Women's Day, it is worth recognising that this quietly revolutionary movement has done more for women's economic empowerment in India than most headline-grabbing policies.

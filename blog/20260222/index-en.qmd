@@ -1,0 +1,44 @@
+---
+title: "Swiggy, Zomato, and the Battle for India's Food Delivery Future"
+date: 2026-02-22
+subtitle: "\"Building a profitable food delivery business is one of the hardest problems in technology. You are fighting physics, logistics, and human appetite all at once.\""
+description: "Swiggy went public in late 2024, creating a rare moment where both major Indian food delivery rivals were listed companies. This post looks at how the industry has evolved, what profitability looks like, and where the battle is headed next."
+image: "./title_20260222.png"
+twitter-card: {image: "./title_20260222.png"}
+open-graph: {image: "./title_20260222.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# The Most Expensive Dosa in History
+
+A 2016 study calculated that the total funding raised by Zomato and Swiggy combined was enough to have paid for every single food delivery made in India that year — and still had money left over. The economics of food delivery, in the early years, were brutal. Companies were essentially buying market share with investor money.
+
+That era is largely over. By 2025, both Zomato and Swiggy had transformed into more disciplined businesses, though their paths to profitability have been different.
+
+# How Food Delivery Works (and Why It Is Hard)
+
+When you order food on an app, three parties need to coordinate in real time: you, the restaurant, and the delivery rider. The platform earns a commission from the restaurant and a delivery fee from you. From that, it has to pay the rider, maintain its technology, and market itself.
+
+The economics are tight. Riders are expensive — they are the labour that makes the whole thing work, and they have limited loyalty to any platform. Restaurants negotiate hard to reduce commissions. Customers switch platforms for discounts.
+
+What makes a food delivery business defensible over time is not price — customers will always go to whoever is cheapest. It is speed, reliability, and the quality of the selection. Both Zomato and Swiggy have worked hard on these dimensions.
+
+# Quick Commerce: The New Battlefield
+
+If food delivery took years to reach acceptable unit economics, quick commerce — delivering groceries and other items in 10-20 minutes — is an even more capital-intensive bet. Zomato's Blinkit and Swiggy's Instamart are competing fiercely in this space.
+
+Quick commerce requires a dense network of small dark stores (small warehouses) in every neighbourhood. Stocking these stores, ensuring freshness, and managing the logistics of extremely fast delivery is expensive. But the opportunity is enormous — grocery retail in India is a multi-trillion rupee market, and even a small share of it moving online would be transformative.
+
+# After the IPO: Where Swiggy Stands
+
+Swiggy's IPO in November 2024 raised around ₹11,300 crore, valuing the company at about ₹87,000 crore. The listing was watched closely because it would give a public market verdict on the quick commerce thesis.
+
+The stock had a mixed reception — investors were enthusiastic about the growth story but cautious about profitability timelines. Quick commerce is growing fast but burning cash. The question Swiggy has to answer is whether it can reach profitability before it runs out of patience from investors.
+
+# The Bigger Picture
+
+The Zomato-Swiggy duopoly reflects a broader pattern in Indian consumer internet. Once a market is established, it tends to consolidate toward two major players — each large enough to sustain, each checking the other's pricing power.
+
+What is most interesting about this industry is not the food or the grocery — it is the logistics infrastructure being built. The network of delivery riders, dark stores, and real-time routing algorithms being built by these companies is, in effect, India's next-generation delivery infrastructure.

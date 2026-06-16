@@ -1,0 +1,46 @@
+---
+title: "India's Green Energy Bet: The World's Most Ambitious Clean Power Experiment"
+date: 2026-02-08
+subtitle: "\"The cheapest form of new electricity generation in India today is solar. Not gas. Not coal. Solar.\""
+description: "India has committed to some of the most ambitious renewable energy targets of any large country in the world. This post explores how India got here, the progress being made, and the very real challenges that still remain."
+image: "./title_20260208.png"
+twitter-card: {image: "./title_20260208.png"}
+open-graph: {image: "./title_20260208.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# A Country That Runs on Coal, Building a Future on Sun
+
+India today gets roughly 70% of its electricity from coal. It also has one of the world's largest and fastest-growing renewable energy programmes. These two facts are not a contradiction — they are the story of a country that is trying to grow its economy and clean up its energy system at the same time, without the luxury of waiting.
+
+India's renewable energy installed capacity crossed 200 GW in 2024, with solar and wind leading the charge. The government's target is 500 GW of non-fossil fuel capacity by 2030. That is an enormous number — roughly equivalent to the entire electricity generation capacity of the United States from renewable sources.
+
+# Why India Is Serious About This
+
+Three reasons: economics, energy security, and international commitments.
+
+Economics first: solar power has become dramatically cheaper over the past decade. The price of solar panels has fallen by over 90% since 2010. In large auctions, Indian developers have bid to supply solar power at prices below ₹2 per unit — cheaper than almost any alternative. When renewable energy is the cheapest energy, building more of it is not just good for the environment, it is good business.
+
+Energy security second: India imports the vast majority of its crude oil and a significant amount of coal. Every unit of electricity generated from domestic solar or wind reduces India's dependence on imported energy. For a country that spends over $100 billion a year on energy imports, this matters a great deal.
+
+International commitments third: India has pledged at global climate negotiations to reach net zero emissions by 2070 and to have 50% of its electricity from non-fossil sources by 2030. These are real commitments, not just words.
+
+# The Real Challenges
+
+The transition is genuinely hard. Electricity grids were designed for large coal plants running at steady output. Solar and wind are intermittent — they produce when the sun shines and when the wind blows. Integrating large amounts of renewable energy requires storage batteries and grid modernisation, which are expensive.
+
+India's electricity distribution companies (discoms) are also in poor financial health, which makes it hard for them to invest in new infrastructure or pay renewable energy developers on time.
+
+And coal remains politically difficult to phase out, because millions of people — miners, railway workers, power plant employees, and communities near coal mines — depend on the coal economy for their livelihoods.
+
+# What Is Being Built
+
+Rajasthan, Gujarat, and Andhra Pradesh are becoming the heartland of India's solar revolution. The Khavda Renewable Energy Park in Gujarat, spread across 72,000 hectares, is set to become the world's largest renewable energy park. Wind turbines are going up along the coasts of Tamil Nadu and Karnataka.
+
+Green hydrogen — made by using renewable electricity to split water — is being piloted as a way to clean up industries like steel and fertiliser production that are hard to electrify directly.
+
+# The Opportunity
+
+Here is the exciting part: India's green energy transition is not just a domestic story. India could become a major exporter of green energy products — solar panels, batteries, green hydrogen — if it builds the industrial capacity. That would turn a climate obligation into an economic opportunity.

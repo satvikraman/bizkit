@@ -1,0 +1,46 @@
+---
+title: "How UPI Became the World's Most Successful Digital Payments System and Where It Goes Next"
+date: 2026-03-01
+subtitle: "\"UPI has done something no other country has managed at this scale: built a real-time payment network that works for a street vendor as well as it works for a corporation.\""
+description: "India's Unified Payments Interface processed over 100 billion transactions in 2024, making it one of the world's busiest payment systems. This post explores how UPI got here, what makes it special, and its ambitions to go global."
+image: "./title_20260301.png"
+twitter-card: {image: "./title_20260301.png"}
+open-graph: {image: "./title_20260301.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# A Quiet Revolution
+
+In 2016, India launched a payments infrastructure that most of the world barely noticed. The Unified Payments Interface — UPI — was a simple idea: let any bank account send money to any other bank account, instantly, for free, using just a mobile phone.
+
+The timing was helped by demonetisation in November 2016, which suddenly created enormous demand for digital payments. But UPI would have grown regardless, because it solved a real problem: cash was slow, risky, and inconvenient, but existing digital options like NEFT and IMPS were clunky and had fees.
+
+# The Numbers That Make Jaws Drop
+
+By 2024, UPI was processing over 100 billion transactions in a single year. That is more transactions than all of Visa and Mastercard combined in some months. The value of transactions exceeded $2 trillion annually.
+
+In a country where millions of people had never had a bank account a decade ago, a street vendor in Bengaluru or a farmer in Rajasthan now accepts payments by showing a QR code on their phone. This is genuine financial inclusion at scale.
+
+# Why UPI Succeeded Where Others Failed
+
+Many countries have tried to build similar systems. Few have achieved UPI's scale. The reasons are instructive.
+
+First, the architecture: UPI is built on an open, interoperable architecture. Any bank, any payments app, any merchant can plug into it. PhonePe, Google Pay, Paytm, and hundreds of smaller players all operate on the same rails. This interoperability prevents any single company from monopolising the system.
+
+Second, the cost: UPI transactions are free for consumers. The government mandated this. There was a period when the industry asked for merchant discount rates (MDR) to be restored — fees charged to merchants for accepting UPI — but the government has kept UPI free, prioritising adoption over revenue.
+
+Third, the design: making a UPI payment is easy. Scan a QR code, enter your PIN, done. The friction is low enough that even people who had never used digital payments before could learn quickly.
+
+# The Global Push
+
+India's government and NPCI (National Payments Corporation of India) have been actively promoting UPI internationally. UPI is now accepted in Singapore, UAE, France, and several other countries — allowing Indian travellers and the diaspora to pay abroad using their Indian bank accounts.
+
+More ambitiously, India is pushing UPI as a model for cross-border payments — a way for countries to connect their real-time payment systems to each other, reducing dependence on the SWIFT network and the dollar-dominated correspondent banking system.
+
+# The Monetisation Question
+
+UPI's success has created a policy puzzle. The system processes trillions in transactions but generates almost no revenue — certainly not for the government or for NPCI, which operates it. The companies that built apps on UPI (PhonePe, Google Pay) have large user bases but have struggled to monetise them in high-margin ways.
+
+The sustainable model for UPI's future is still being worked out. Credit products, lending, insurance distribution — these are the financial services that UPI's user base could eventually be converted into revenue. Whether India gets that conversion right will determine how big the UPI story ultimately becomes.

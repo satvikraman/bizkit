@@ -1,0 +1,48 @@
+---
+title: "Why the Rupee Has Been Falling and What It Means for You"
+date: 2026-02-15
+subtitle: "\"A currency is not just a number. It reflects everything that is happening in an economy — and its relationship with the world.\""
+description: "The Indian rupee has been depreciating against the US dollar for years, and 2025-26 brought fresh pressure. This post explains what causes a currency to fall, why this happens with the rupee, and what it means for importers, exporters, travellers, and ordinary Indians."
+image: "./title_20260215.png"
+twitter-card: {image: "./title_20260215.png"}
+open-graph: {image: "./title_20260215.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# A Number That Keeps Moving
+
+In 2013, one US dollar bought roughly ₹55. By early 2026, it bought close to ₹87. Over those twelve years, the rupee had lost a significant portion of its value relative to the dollar — a trend that has continued with occasional pauses.
+
+This might seem alarming. But currency movements are complex, and a falling rupee is neither simply good nor simply bad. The answer, as with most things in economics, is: it depends on who you are and what you do.
+
+# Why Does a Currency Fall
+
+The most basic answer is supply and demand. When more rupees are being sold (exchanged for other currencies) than are being bought, the price of the rupee falls. This happens when:
+
+Foreign investors pull money out of India — they have to sell rupees and buy dollars to take their money home. That increases rupee supply and reduces its price.
+
+India imports more than it exports — to pay for imports (oil, electronics, gold), India has to buy foreign currency by selling rupees. When the trade deficit is large, this creates persistent downward pressure on the rupee.
+
+Interest rates in the US are higher — when the US Federal Reserve raises rates, it makes dollar-denominated investments more attractive. Money flows out of emerging markets like India toward the US. This is what happened during 2022-2023 and again when the Fed kept rates high in 2024-25.
+
+# Who Wins and Who Loses
+
+A weaker rupee is good for exporters — they earn in dollars or euros and convert back to rupees, getting more rupees for every dollar earned. Indian IT companies, garment manufacturers, and pharmaceutical exporters benefit.
+
+A weaker rupee is bad for importers — India imports enormous quantities of crude oil, which is priced in dollars. When the rupee falls, the oil import bill rises in rupee terms. This feeds into petrol prices, which feed into the cost of everything that needs to be transported.
+
+For students studying abroad or travellers, a weaker rupee means your trip or education costs more in rupee terms.
+
+# What the RBI Does
+
+The Reserve Bank of India actively manages the rupee, but it does not fix the exchange rate. Instead, it intervenes in the currency market to smooth out sharp movements. When the rupee is falling too fast, RBI sells dollars from its foreign exchange reserves to buy rupees, stabilising the currency.
+
+India's foreign exchange reserves — around $700 billion at their peak — are a buffer that allows the RBI to manage the currency without letting it free-fall.
+
+# The Long Run
+
+Over the long run, currencies tend to depreciate in line with the inflation differential between countries. India's inflation has historically been higher than America's, which means the rupee tends to depreciate against the dollar over time. This is expected and not necessarily a sign of economic weakness — it reflects the difference in price levels between the two economies.
+
+The concern arises when depreciation is sharp and sudden, driven by loss of investor confidence or a sharp worsening of India's external accounts. India has largely avoided those crises, though episodes in 2013 and 2022 came close.

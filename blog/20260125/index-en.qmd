@@ -1,0 +1,42 @@
+---
+title: "How Paytm Survived the Most Difficult Year in Its History"
+date: 2026-01-25
+subtitle: "\"Regulation is not the enemy of business. But ignoring it is.\""
+description: "In early 2024, the Reserve Bank of India took severe action against Paytm Payments Bank. The stock crashed, the business model was upended, and many wrote off the company. This post tells the story of how Paytm rebuilt — and what it teaches us about fintech regulation in India."
+image: "./title_20260125.png"
+twitter-card: {image: "./title_20260125.png"}
+open-graph: {image: "./title_20260125.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# The Day Everything Changed
+
+January 31, 2024 was perhaps the worst day in Paytm's history. The Reserve Bank of India announced that Paytm Payments Bank could not accept new deposits or allow new credit transactions after February 29, 2024. Paytm's stock, which had already fallen dramatically from its IPO high, collapsed further.
+
+The action came after years of regulatory concerns about Paytm Payments Bank — particularly around compliance with KYC (Know Your Customer) norms, governance standards, and the relationship between the bank and its parent company One97 Communications. The RBI had previously warned Paytm multiple times. The January 2024 action was the culmination of those unresolved concerns.
+
+# The Scale of the Problem
+
+Paytm Payments Bank was central to the Paytm ecosystem. Millions of customers stored money in Paytm Wallets. Merchants used Paytm devices for accepting payments. The bank processed a large volume of UPI transactions. When the RBI effectively shut down the banking operations, Paytm had to scramble to migrate customers to other banking partners.
+
+The transition was painful but ultimately managed. Paytm shifted its wallet operations to Axis Bank and other partners. Merchant payment settlement was rerouted. The UPI business continued under the new arrangement.
+
+# The Rebuild
+
+In the year following the crisis, Paytm focused on what it could control: reducing costs, building a sustainable business model, and improving its regulatory standing. CEO Vijay Shekhar Sharma met with regulators, made commitments about governance improvements, and streamlined the business.
+
+Paytm doubled down on its merchant services business — the ecosystem of payment devices, lending products, and financial services for small business owners. This was arguably always Paytm's strongest business, and the company refocused its energy accordingly.
+
+# The Broader Lesson
+
+The Paytm story is a cautionary tale about the relationship between fast-moving startups and financial regulators. In their rush to grow, some fintech companies underinvested in compliance and governance — treating regulation as a burden to be managed rather than a genuine constraint that exists for good reasons.
+
+Financial services are different from other tech businesses. When a social media app fails, people lose their feeds. When a payments company fails, people lose access to their money. The stakes are higher, and the regulatory bar is accordingly higher.
+
+Indian fintech has enormous potential — UPI has already demonstrated that India can be a global leader in payments infrastructure. But that leadership will only be sustainable if the companies building on that infrastructure take their regulatory obligations seriously.
+
+# Where Paytm Stands Today
+
+By early 2026, Paytm had stabilised. The stock had partially recovered. The merchant services business was growing. The company was not the same Paytm that had been talked about as a future bank — that ambition was scaled back. But it was still a significant player in India's digital payments ecosystem, operating under a chastened and more cautious posture.
