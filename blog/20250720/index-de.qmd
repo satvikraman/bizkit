@@ -1,0 +1,30 @@
+---
+title: "Tesla ist endlich in Indien angekommen. Aber wird jemand kaufen?"
+date: 2025-07-20
+subtitle: "\"Indien ist möglicherweise der härteste Automarkt der Welt — und Elon Musk weiß es.\" — Indischer Auto-Analyst"
+description: "Neun Jahre nach Elon Musks erstem Versprechen, Tesla nach Indien zu bringen, eröffnete das Unternehmen am 15. Juli 2025 seinen ersten Showroom in Mumbai. Aber es gibt keine Fabrik, keine Verpflichtung zur lokalen Fertigung, und die Preise beginnen bei fast 60 Lakh Rupien. Das ist nicht die Tesla-Einführung, die sich Indiens Politiker erhofft hatten."
+image: "./title_20250720.png"
+twitter-card: {image: "./title_20250720.png"}
+open-graph: {image: "./title_20250720.png"}
+categories: ["Unternehmensaktionen"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einführung
+
+Am 15. Juli 2025 eröffnete Tesla seinen ersten indischen Showroom — ein "Experience Centre" — im Maker Maxity Mall im Bandra Kurla Complex in Mumbai. Fast ein Jahrzehnt nach Versprechen, Verzögerungen und politischen Hin und Her war Tesla endlich in Indien angekommen.
+
+Das einzige ausgestellte und verkaufte Auto war der Model Y, direkt aus Teslas Fabrik in Shanghai importiert. Er beginnt bei 59,89 Lakh Rupien (rund 70.000 Dollar) für die Standard-Hinterradantrieb-Version. Zum Vergleich: Tatas Nexon EV beginnt bei unter 15 Lakh Rupien.
+
+# Neun Jahre in der Entstehung
+
+Elon Musk kündigte 2016 erstmals an, Tesla nach Indien zu bringen. Indien erhebt 100 Prozent Zoll auf importierte Autos. Indiens Regierung wollte, dass Tesla eine Fabrik baut. Tesla wollte erst den Markt testen. 2024 schuf Indien eine neue EV-Importpolitik — reduzierte Zölle für Unternehmen, die mindestens 500 Millionen Dollar investieren und die Fertigung innerhalb von drei Jahren aufnehmen. Tesla lehnte dieses Programm ab.
+
+# Das Zahlenproblem
+
+Bei über 60 Lakh Rupien konkurriert Tesla im ultra-luxuriösen Autosegment Indiens. EVs machen derzeit nur 2,5 Prozent der indischen Gesamtautoverkäufe aus. Die Regierung will diese Zahl bis 2030 auf 30 Prozent erhöhen.
+
+# Abschließende Gedanken
+
+Teslas Indien-Ankunft ist eine Geschichte über die Lücke zwischen Vision und Realität. Elon Musk versprach Indien 2016 einen Tesla. Was 2025 ankam, ist ein teures Nischenprodukt für die wohlhabendsten 1 Prozent der Autokäufer. Für Schüler ist dies eine hervorragende Fallstudie darüber, wie Handelspolitik, Marktstrategie und politische Interessen zusammentreffen.

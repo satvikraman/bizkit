@@ -1,0 +1,40 @@
+---
+title: "Tesla आखिरकार भारत आ गई। लेकिन क्या कोई खरीदेगा?"
+date: 2025-07-20
+subtitle: "\"भारत संभवतः दुनिया का सबसे कठिन कार बाजार है — और Elon Musk यह जानते हैं।\" — भारतीय ऑटो विश्लेषक"
+description: "Elon Musk के 2016 में पहली बार Tesla को भारत लाने का वादा करने के नौ साल बाद, कंपनी ने 15 जुलाई 2025 को मुंबई में अपना पहला showroom खोला। लेकिन कोई factory नहीं है, कोई local manufacturing commitment नहीं है, और कीमतें लगभग 60 लाख रुपये से शुरू होती हैं। यह वह Tesla launch नहीं है जो भारत के नीति निर्माताओं ने चाहा था।"
+image: "./title_20250720.png"
+twitter-card: {image: "./title_20250720.png"}
+open-graph: {image: "./title_20250720.png"}
+categories: ["कॉर्पोरेट कार्रवाइयां"]
+author: "सात्विक रामन"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# परिचय
+
+15 जुलाई 2025 को, Tesla ने मुंबई के Bandra Kurla Complex में Maker Maxity Mall में अपना पहला भारतीय showroom — एक "Experience Centre" — खोला। Maharashtra के मुख्यमंत्री Devendra Fadnavis भी दौरे पर आए। लगभग एक दशक के वादों, देरी और राजनीतिक उठापटक के बाद, Tesla आखिरकार भारत पहुंच गया।
+
+प्रदर्शन और बिक्री में केवल Model Y था, जो सीधे Tesla की Shanghai factory से आयात किया गया था। यह standard rear-wheel-drive version के लिए 59.89 लाख रुपये (लगभग 70,000 डॉलर) से शुरू होता है।
+
+तुलना के लिए: Tata की Nexon EV — भारत की सबसे अधिक बिकने वाली electric car — 15 लाख रुपये से कम में शुरू होती है।
+
+# नौ साल की प्रतीक्षा
+
+Elon Musk ने 2016 में पहली बार भारत में Tesla लाने की घोषणा की थी। उन्होंने इच्छुक भारतीय customers से $1,000 की deposits भी ली थीं (जो बाद में वापस कर दी गईं)। इतना समय क्यों लगा?
+
+भारत imported cars पर 100 प्रतिशत customs duty लगाता है। भारत सरकार चाहती थी कि Tesla भारत में factory बनाए — jobs, technology transfer और domestic EV ecosystem के लिए। Tesla पहले बाजार को imported vehicles से test करना चाहती थी।
+
+2024 में, भारत ने एक नई EV import policy बनाई जो duty को 15 प्रतिशत तक कम करती है — लेकिन केवल उन कंपनियों के लिए जो कम से कम 500 million डॉलर invest करें और तीन साल में manufacturing शुरू करें। Tesla ने इस scheme को अस्वीकार कर दिया।
+
+# संख्याओं की समस्या
+
+60 लाख रुपये से अधिक की कीमत पर, Tesla भारत के ultra-luxury car segment में प्रतिस्पर्धा कर रही है। EVs वर्तमान में भारत की कुल car बिक्री का केवल 2.5 प्रतिशत हैं। सरकार 2030 तक 30 प्रतिशत का लक्ष्य रखती है। Tesla का इस price range में sales volume सीमित रहेगा।
+
+# भारत ने क्या चाहा बनाम Tesla ने क्या दिया
+
+भारतीय नीति निर्माताओं को उम्मीद थी कि Tesla का प्रवेश एक catalyst की तरह काम करेगा — manufacturing jobs, technology और supply chain development लाएगा। ऐसा नहीं हुआ। India के Heavy Industries Minister ने पुष्टि की कि Tesla "भारत में manufacturing शुरू करने में रुचि नहीं है।"
+
+# अंतिम विचार
+
+Tesla का भारत आगमन vision और reality के बीच की खाई की कहानी है। Elon Musk ने 2016 में भारत को एक Tesla का वादा किया था। जो 2025 में आया वह सबसे धनी 1 प्रतिशत car buyers के लिए एक महंगा niche product है। छात्रों के लिए यह trade policy, market strategy और राजनीतिक हित कैसे मिलते हैं, इसका एक उत्कृष्ट अध्ययन है।

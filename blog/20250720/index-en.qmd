@@ -1,0 +1,58 @@
+---
+title: "Tesla Has Finally Arrived in India. But Will Anyone Buy It?"
+date: 2025-07-20
+subtitle: "\"India is possibly the world's toughest car market — and Elon Musk knows it.\" — Indian auto analyst"
+description: "Nine years after Elon Musk first promised to bring Tesla to India, the company finally opened its first showroom in Mumbai on July 15, 2025. But there is no factory planned, no local manufacturing commitment, and prices start at nearly ₹60 lakh. This is not the Tesla launch India's policymakers wanted — and it raises big questions about what Tesla's India story will look like."
+image: "./title_20250720.png"
+twitter-card: {image: "./title_20250720.png"}
+open-graph: {image: "./title_20250720.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+On July 15, 2025, Tesla opened its first Indian showroom — an "Experience Centre" — in Maker Maxity Mall in Mumbai's Bandra Kurla Complex. The occasion drew crowds, media cameras, and Maharashtra's Chief Minister Devendra Fadnavis, who stopped by for a walk-through. After nearly a decade of promises, delays, and political back-and-forth, Tesla had finally arrived.
+
+The only car on display and on sale was the Model Y, shipped directly from Tesla's factory in Shanghai. It starts at ₹59.89 lakh (roughly $70,000) for the standard rear-wheel-drive version and goes up to ₹67.89 lakh for the long-range variant.
+
+For context, Tata's Nexon EV — India's best-selling electric car — starts at under ₹15 lakh.
+
+# Nine Years in the Making
+
+Elon Musk first announced plans to bring Tesla to India back in 2016. He even took $1,000 deposits from interested Indian customers (refunded years later when nothing materialised). What took so long?
+
+**Import duties:** India charges 100% customs duty on imported cars. For a product already priced at Tesla's levels, this makes the final price in India among the highest in the world for the same car.
+
+**The manufacturing impasse:** India's government wanted Tesla to build a factory in India — to create jobs, transfer technology, and help grow the domestic EV ecosystem. Tesla wanted to first test the market with imported vehicles before committing to manufacturing. Neither side was willing to move first for years.
+
+**Policy changes:** In 2024, India created a new EV import policy that reduced duties to 15% for electric vehicles — but only for companies that committed to investing at least $500 million in India and beginning local manufacturing within three years. Tesla ultimately declined this scheme, choosing to pay full duties and focus on retail sales.
+
+# The Numbers Problem
+
+At ₹60 lakh plus, Tesla is competing in India's ultra-luxury car segment — Mercedes, BMW, Audi territory. EVs currently make up just 2.5% of India's total car sales. The government wants that number to reach 30% by 2030.
+
+Tesla's volumes in this price range will be limited. India's wealthy consumers exist, but most of them have multiple cars and often prefer to buy a premium German brand for the prestige. Tesla's strength globally is as a premium but accessible car — in the US, starting at under $40,000. In India, it is starting at roughly twice that effective price point.
+
+Moreover, Tesla's charging infrastructure in India is minimal. It has committed to four Supercharger stations each in Mumbai and Delhi before deliveries begin. Tata and Mahindra, by contrast, have spent years building dealer networks and charging infrastructure across hundreds of cities.
+
+# What India Wanted vs What Tesla Delivered
+
+Indian policymakers hoped Tesla's entry would serve as a catalyst — bringing manufacturing jobs, technology, and supply chain development. That did not happen. India's Heavy Industries Minister confirmed that Tesla "is not interested in starting manufacturing in India" — at least not yet.
+
+Domestic automakers like Tata Motors and Mahindra & Mahindra have lobbied hard against import duty relaxations, arguing that they built their EV businesses by betting on India while Tesla sat on the sidelines. Their frustration is understandable.
+
+# Why the Entry Still Matters
+
+Despite the limited ambition of Tesla's Indian launch, it still carries significance.
+
+First, it validates India's growing premium EV segment. Wealthy Indian buyers now have a genuine Tesla option, even at a steep price.
+
+Second, it creates competitive pressure. Indian EV makers and global brands know Tesla is watching. If India's market scales faster than expected, Tesla's manufacturing commitment decision gets revisited.
+
+Third, it opens a conversation about charging infrastructure, service networks, and whether India's roads and electricity grid can handle the scale of EVs the government envisions.
+
+# Final Thoughts
+
+Tesla's India arrival is a story about the gap between vision and reality. Elon Musk promised India a Tesla in 2016. What arrived in 2025 is an expensive niche product aimed at the wealthiest 1% of car buyers. For students, this story is an excellent study in how trade policy, market strategy, and political interests intersect. A product and a market can be a perfect theoretical match — and still take a decade to come together because of everything that happens in between.
