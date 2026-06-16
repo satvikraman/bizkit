@@ -1,0 +1,44 @@
+---
+title: "How Japan's Sumitomo Mitsui Became the Biggest Believer in Yes Bank"
+date: 2025-10-12
+subtitle: "\"Investing in a troubled bank is either an act of great courage or great conviction — ideally both.\" — anonymous analyst"
+description: "Japan's Sumitomo Mitsui Banking Corporation made a series of investments in Yes Bank that ultimately gave it a significant minority stake in one of India's most closely watched banking turnarounds. This post explains what SMBC saw in Yes Bank, how Indian banking rescue stories work, and why a Japanese bank betting on an Indian lender matters for the broader financial system."
+image: "./title_20251012.png"
+twitter-card: {image: "./title_20251012.png"}
+open-graph: {image: "./title_20251012.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+In March 2020, the Reserve Bank of India took the extraordinary step of placing Yes Bank under a moratorium. For a brief, terrifying period, customers could not withdraw more than Rs 50,000 from their accounts. The bank had collapsed under the weight of bad loans made to companies that could not repay, compounded by years of poor governance and a leadership crisis. A rescue consortium led by the State Bank of India stepped in to stabilise the lender. Five years later, in 2025, Yes Bank's story has a new chapter. Japan's Sumitomo Mitsui Banking Corporation, known as SMBC, has built a meaningful stake in the bank and become its largest foreign institutional shareholder. It is one of the more remarkable institutional confidence votes in Indian banking in recent memory.
+
+# The Yes Bank Crisis in Brief
+
+Yes Bank was founded in 2004 by Rana Kapoor and Ashok Kapur and grew rapidly through the 2000s and early 2010s. It was known for aggressive lending, a willingness to serve borrowers that other banks considered too risky, and impressive growth numbers. By 2018, cracks were beginning to show. The bank had significant exposure to companies with deteriorating finances, including Anil Ambani Group entities, IL&FS, DHFL, and others that became high-profile defaults. RBI found irregularities in the bank's loan classification and its governance. Rana Kapoor was eventually arrested on money laundering charges in 2020. The moratorium in March 2020 was the moment the crisis became public and acute.
+
+The rescue involved SBI picking up a 49% stake, a rights issue that brought in fresh capital, and a new management team led by Prashant Kumar, a career SBI executive who had little incentive to repeat the mistakes of the past. Over the next four years, Yes Bank wrote off bad loans, improved its governance, and worked to rebuild depositor and investor trust.
+
+# What SMBC Saw
+
+SMBC is one of Japan's three mega-banks, part of the Sumitomo Mitsui Financial Group. It has been expanding aggressively in Asia as domestic Japanese growth has been limited by an ageing population and low interest rates at home. India's banking sector, with its combination of rapid economic growth, rising middle-class financial needs, and relatively limited existing foreign bank penetration, has looked attractive to several large global banks.
+
+SMBC began investing in Yes Bank with a relatively modest stake and has gradually increased its holding. By mid-2025, SMBC's ownership in Yes Bank crossed the threshold that triggers detailed regulatory scrutiny and disclosure requirements, making the investment a formal strategic commitment rather than a portfolio bet. SMBC has also discussed with regulators and the Yes Bank board the possibility of taking a deeper operational role — potentially providing technology, product expertise, and access to Japanese corporate clients who do business in India.
+
+# The Mechanics of a Banking Turnaround
+
+Banking turnarounds are among the most difficult corporate recoveries to execute. A bank's core product is trust. Once depositors lose faith and borrowers default at scale, rebuilding confidence takes years of consistent, boring, unglamorous work. Yes Bank's recovery has been precisely that. It has focused on retail deposits (to reduce dependence on large institutional funding that can disappear quickly), improved its technology infrastructure, and worked to grow its loan book with better quality borrowers. The gross non-performing asset ratio, a key measure of bad loans, improved significantly between 2020 and 2025.
+
+None of this is dramatic. There is no single product launch, no viral moment, no overnight transformation. Banking recovery is about proving over and over again, quarter after quarter, that the institution is creditworthy and well-managed. SMBC's growing stake is a signal that this proof has been convincing enough for one of the world's most rigorous institutional investors.
+
+# Why This Matters for Indian Banking
+
+India's banking system has seen several rescues over the past decade. Yes Bank, Punjab and Maharashtra Co-operative Bank, Lakshmi Vilas Bank — each has been a lesson in what can go wrong when governance fails. The SMBC-Yes Bank story is the flipside of that narrative: what a bank can become when governance improves and a credible foreign partner provides both capital and credibility.
+
+For retail investors, Yes Bank's shares have had a volatile history. The stock price collapsed from over Rs 300 before the crisis to under Rs 10 during the moratorium. It has since recovered to a more stable range, though still well below pre-crisis peaks. SMBC's investment suggests a view that further recovery is possible over a longer time horizon, but retail investors should understand that a banking turnaround is a long, uncertain process.
+
+# Final Thoughts
+
+Yes Bank's journey from moratorium to having a Japanese banking giant as a major shareholder is one of the more striking stories in Indian finance in recent years. It is a reminder that institutional collapses are not always final, that rescue plans can work when managed well, and that credible investors look at not just where a company is but where it is going. For students of finance, the Yes Bank story is an excellent study in banking regulation, the role of central banks as lenders of last resort, and the patience required to turn around an institution that has lost public trust.

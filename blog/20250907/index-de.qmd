@@ -1,0 +1,34 @@
+---
+title: "Zum ersten Mal seit 30 Jahren vertrauen Zentralbanken weltweit Gold mehr als amerikanischen Staatsanleihen"
+date: 2025-09-07
+subtitle: "\"Gold ist ehrliches Geld. Es kann weder gedruckt noch eingefroren werden.\" — Zentralbanken-Grundsatz"
+description: "In der globalen Finanzwelt hat sich eine außergewöhnliche Verschiebung stillschweigend vollzogen. Die Zentralbanken der Welt halten zusammen jetzt mehr Gold als US-Staatsanleihen, eine Grenze, die seit drei Jahrzehnten nicht überschritten wurde. Dieser Beitrag erklärt, was diese Verschiebung bedeutet, warum sie geschah und was sie über das Vertrauen in das globale Finanzsystem aussagt."
+image: "./title_20250907.png"
+twitter-card: {image: "./title_20250907.png"}
+open-graph: {image: "./title_20250907.png"}
+categories: ["Geld & Märkte"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Stell dir vor, du hast dein Erspartes jahrelang auf dem Bankkonto eines Freundes aufbewahrt. Du vertraust ihm vollständig. Dann erfährst du eines Tages, dass dein Freund enorme Schulden angehäuft hat, dass er einmal das Geld eines gemeinsamen Bekannten ohne Vorwarnung eingefroren hat, und dass seine Währung schneller an Wert verliert als zuvor. Irgendwann fängst du an, deine Ersparnisse in Goldmünzen umzuschichten, die du zu Hause aufbewahrst. Genau das tun die Zentralbanken der Welt, und 2025 haben ihre Goldbestände zum ersten Mal seit etwa dreißig Jahren den Wert ihrer US-Staatsanleihebestände überstiegen.
+
+Das ist keine kleine buchhalterische Anmerkung. Es spiegelt wider, wie die mächtigsten Finanzinstitutionen der Welt die Sicherheit des globalen Finanzsystems einschätzen, das sie selbst mitaufgebaut haben.
+
+# Was sind US-Staatsanleihen und warum wollte sie jeder?
+
+US-Staatsanleihen sind Schulden der amerikanischen Regierung. Wenn ein Land eine Staatsanleihe kauft, leiht es Washington im Wesentlichen Geld und erhält dafür Zinsen. Jahrzehntelang galten sie als die sichersten Anlagen der Welt. Die USA haben noch nie ihren Schulden nicht nachgekommen. Der Dollar ist die Währung, in der Öl bepreist, Waren gehandelt und internationale Vereinbarungen abgerechnet werden.
+
+# Warum sich die Stimmung gedreht hat
+
+Drei Dinge sind passiert, die die Kalkulation für viele Zentralbanken verändert haben. Erstens die Inflation. Wenn die Inflation stark steigt, wie es zwischen 2021 und 2024 in den meisten Teilen der Welt geschah, wird die Realrendite von Anleihen negativ. Man erhält 4% Zinsen, während die Kaufkraft um 8% sinkt. Gold, das keine Zinsen zahlt, sieht in diesem Umfeld paradoxerweise besser aus. Zweitens die Angst vor Sanktionen. 2022, als Russland die Ukraine angriff, froren westliche Regierungen rund 300 Milliarden Dollar russischer Devisenreserven ein. Drittens die enorme Höhe der amerikanischen Staatsschulden, die 2025 die Marke von 36 Billionen Dollar überstiegen.
+
+# Die Geschichte einer historischen Schwelle
+
+Die polnische Nationalbank hat in den letzten Jahren ihre Goldreserven auf über 400 Tonnen aufgestockt und zählt damit zu den aggressivsten Goldkäufern. Die People's Bank of China hat in jedem der letzten zwölf Monate Gold hinzugekauft. Indiens RBI, wie Leser dieses Blogs aus einem früheren Beitrag wissen, holte über 100 Tonnen seines beim Bank of England in London gelagerten Goldes zurück ins Inland.
+
+# Schlussgedanken
+
+Die vertrauenswürdigste sichere Anlage der globalen Finanzen hat gerade ihren Spitzenplatz an ein Metall verloren, das Menschen seit fünftausend Jahren horten. Das ist eine bemerkenswerte Wende. US-Staatsanleihen sind nicht über Nacht unsicher geworden, und der Dollar geht so bald nirgendwo hin. Aber die Tatsache, dass Zentralbanken, die typischerweise die vorsichtigsten Institutionen in jedem Finanzsystem sind, sich stillschweigend dafür entscheiden, mehr Gold als amerikanische Schulden zu halten, sagt etwas Wichtiges über die Stimmung in der globalen Finanzwelt im Moment aus.

@@ -1,0 +1,46 @@
+---
+title: "The Bengaluru Metro Fare Hike That Divided a City"
+date: 2025-09-28
+subtitle: "\"A city's public transport is its backbone. Price it out of reach and the whole body suffers.\" — urban planning proverb"
+description: "Bengaluru's metro operator raised fares significantly in September 2025, the first major revision since the Namma Metro launched. Ridership dropped, commuters complained, and the government defended the move as necessary for financial sustainability. This post explores the economics of public transport pricing and why getting it right is harder than it looks."
+image: "./title_20250928.png"
+twitter-card: {image: "./title_20250928.png"}
+open-graph: {image: "./title_20250928.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+For lakhs of people who commute through Bengaluru every day, the Namma Metro is not a luxury. It is the difference between a tolerable commute and spending two hours stuck in traffic on Electronics City Flyover. So when the Bangalore Metro Rail Corporation Limited, known as BMRCL, revised its fare structure in September 2025, the reaction was immediate and loud. Commuters took to social media, resident welfare associations petitioned the government, and ridership figures for the first two weeks after the hike showed a visible drop. The revision raised minimum fares and increased rates across distance slabs, making it noticeably more expensive to travel even short distances on the network.
+
+What happened in Bengaluru is a window into one of the most difficult questions in public policy. How do you price a public service that costs more to run than it earns, without making it unaffordable for the people who need it most?
+
+# The Cost of Running a Metro
+
+Building and running a metro system is extraordinarily expensive. The Namma Metro network required an investment of over Rs 30,000 crore across its initial phases, funded through a combination of central government grants, state government equity, and loans from international bodies like the Japan International Cooperation Agency. Every kilometre of elevated metro track costs hundreds of crores to build. Adding underground sections, which Bengaluru has in parts of its network, costs several times more per kilometre than elevated construction.
+
+Once the network is built, the operating costs do not go away. BMRCL employs thousands of staff, pays for electricity to run the trains (which accounts for a significant portion of operating costs), maintains the rolling stock, and services the debt from construction loans. For many years, Indian metro systems have run with fares that are deliberately kept low as a public service — while the gap between fare revenue and total cost is covered by government subsidy. The argument for keeping fares low is clear: more affordable fares mean more ridership, less traffic congestion, lower pollution, and broader access for lower-income commuters.
+
+# Why the Hike Happened
+
+BMRCL pointed to mounting financial pressure as the primary reason for the fare revision. The corporation had been running operational deficits for several years, with fare revenue covering only a portion of operating costs. The decision to revise fares came after a detailed review that concluded the existing fare structure was simply not sustainable without increased government support that was not forthcoming in sufficient amounts.
+
+The revised fares increased the minimum ticket price and raised rates for longer journeys. Critics pointed out that some of the biggest increases hit the shortest journeys, which are typically made by lower-income commuters who use the metro for last-mile connectivity. A software engineer travelling from MG Road to Majestic for a meeting could absorb the new fare with minimal impact. A daily wage worker travelling two stations to reach a construction site felt it differently. The fare structure, opponents argued, was not calibrated carefully enough to protect the most price-sensitive riders.
+
+# The Story Behind the Numbers
+
+In the first two weeks after the hike, footfall data from BMRCL showed a decline of roughly 8 to 12 percent compared to the same period the previous year. This is a common pattern when public transport fares go up sharply. Commuters who have the option of switching to autos, cabs, or office buses often do so in the short term. The question is whether they come back as the convenience of the metro reasserts itself, or whether the new pricing has permanently pushed a segment of riders out of the network. BMRCL's own projections suggested that even with lower initial ridership after the hike, the improved per-passenger revenue would result in a net improvement in the corporation's finances within twelve months.
+
+Commuter advocacy groups disagreed with this framing. They argued that the social cost of reduced ridership — more cars on the road, higher emissions, worse traffic — was not being factored into the financial calculation. A metro that runs efficiently for fewer people while the rest of the city sits in traffic is not a success, they said.
+
+# What Good Public Transport Pricing Looks Like
+
+Many cities around the world have found ways to make public transport both financially sustainable and accessible. London's Transport for London system uses a combination of zone-based pricing, discount schemes for low-income riders (the Hopper fare, the Railcard for students and young workers), and significant government subsidy. Singapore's Mass Rapid Transit uses strict cost accounting but keeps fares below full cost recovery as a deliberate policy choice, with the government treating the subsidy as an investment in economic productivity. Tokyo's metro system, run by private operators, has managed to reach full cost recovery through exceptionally high ridership volumes and non-fare revenues like retail and real estate inside stations.
+
+India's metro systems have yet to crack this challenge. Most operate at a significant deficit and rely on government support that is often unpredictable.
+
+# Final Thoughts
+
+The Bengaluru fare hike is not simply a story about metro tickets becoming more expensive. It is a story about the fundamental tension in public policy between fiscal responsibility and equitable access. A city that cannot afford to maintain its metro will eventually let it deteriorate. But a city that prices its metro beyond the reach of ordinary commuters has also failed its purpose. Finding the right balance requires careful data, political will, and a genuine commitment to thinking about who the metro is actually for. Bengaluru's commuters are still waiting for an answer they can live with.

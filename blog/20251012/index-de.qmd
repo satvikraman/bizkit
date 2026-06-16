@@ -1,0 +1,32 @@
+---
+title: "Warum Japans Sumitomo Mitsui auf Yes Bank wettet"
+date: 2025-10-12
+subtitle: "\"In eine angeschlagene Bank zu investieren erfordert entweder großen Mut oder großes Vertrauen, idealerweise beides.\" — anonymer Analyst"
+description: "Japans Sumitomo Mitsui Banking Corporation tätigte eine Reihe von Investitionen in Yes Bank und wurde schließlich zum größten ausländischen institutionellen Aktionär. Dieser Beitrag erklärt, was SMBC in Yes Bank sah und wie indische Bankenrettungen funktionieren."
+image: "./title_20251012.png"
+twitter-card: {image: "./title_20251012.png"}
+open-graph: {image: "./title_20251012.png"}
+categories: ["Geld & Märkte"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Im März 2020 ergriff die Reserve Bank of India den außergewöhnlichen Schritt, ein Moratorium über Yes Bank zu verhängen. Für kurze, angespannte Zeit konnten Kunden nicht mehr als 50.000 Rupien von ihren Konten abheben. Die Bank war unter dem Gewicht schlechter Kredite an Unternehmen zusammengebrochen, die nicht zurückzahlen konnten. Ein von der State Bank of India geführtes Rettungskonsortium stabilisierte den Kreditgeber. Fünf Jahre später, im Jahr 2025, hat die Geschichte von Yes Bank ein neues Kapitel. Japans Sumitomo Mitsui Banking Corporation, bekannt als SMBC, hat einen bedeutenden Anteil an der Bank aufgebaut und ist deren größter ausländischer institutioneller Aktionär geworden.
+
+# Die Yes Bank Krise kurz zusammengefasst
+
+Yes Bank wurde 2004 von Rana Kapoor und Ashok Kapur gegründet und wuchs schnell. Bis 2018 zeigten sich erste Risse. Die Bank hatte erhebliches Engagement in Unternehmen der Anil Ambani Group, IL&FS und DHFL. Das Moratorium im März 2020 war der Moment, in dem die Krise öffentlich und akut wurde. SBI übernahm eine 49%-Beteiligung, und ein neues Management unter Prashant Kumar übernahm die Leitung.
+
+# Was SMBC gesehen hat
+
+SMBC ist eine der drei japanischen Megabanken und expandiert aggressiv in Asien, da das heimische Wachstum begrenzt ist. SMBC begann die Investition in Yes Bank mit einem bescheideneren Anteil und erhöhte ihn schrittweise. Mitte 2025 überschritt SMBCs Eigentümeranteil die Schwelle, die eine detaillierte regulatorische Prüfung auslöst.
+
+# Die Mechanik eines Banken-Turnarounds
+
+Banken-Turnarounds gehören zu den schwierigsten Unternehmenssanierungen. Das Kernprodukt einer Bank ist Vertrauen. Yes Banks Erholung war mühsam, langsam und unspektakulär. Die Bank konzentrierte sich auf Privateinlagen, verbesserte ihre Technologieinfrastruktur und bemühte sich, ihr Kreditbuch mit qualitativ hochwertigen Kreditnehmern aufzubauen.
+
+# Schlussgedanken
+
+Yes Banks Reise vom Moratorium zum japanischen Bankgiganten als Hauptaktionär ist eine der bemerkenwertesten Geschichten im indischen Finanzwesen der letzten Jahre. Sie ist eine Erinnerung daran, dass institutionelle Zusammenbrüche nicht immer endgültig sind, dass Rettungspläne funktionieren können, und dass glaubwürdige Investoren nicht nur schauen, wo ein Unternehmen gerade steht, sondern wohin es geht.

@@ -1,0 +1,46 @@
+---
+title: "For the First Time in 30 Years, the World's Central Banks Trust Gold More Than America's Debt"
+date: 2025-09-07
+subtitle: "\"Gold is honest money. It cannot be printed, and it cannot be frozen.\" — central banking axiom"
+description: "Something extraordinary happened quietly in global finance this year. The world's central banks now collectively hold more gold than US Treasury bonds — a threshold not crossed in three decades. This post explains what that shift means, why it happened, and what it tells us about trust in the global financial system."
+image: "./title_20250907.png"
+twitter-card: {image: "./title_20250907.png"}
+open-graph: {image: "./title_20250907.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Imagine you have been keeping your savings in a friend's bank account for years. You trust your friend completely. Then one day, you hear that your friend has racked up enormous debts, that they once froze a mutual acquaintance's money without warning, and that their currency is losing value faster than before. At some point, you start moving your savings to gold coins you keep at home. That is more or less what the world's central banks have been doing — and in 2025, for the first time in roughly thirty years, their gold holdings collectively crossed the value of their US Treasury bond holdings.
+
+This is not a small accounting footnote. It is a reflection of how the world's most powerful financial institutions feel about the safety of the global financial system they helped build.
+
+# What Are US Treasuries and Why Did Everyone Want Them?
+
+US Treasury bonds are the debt of the US government. When a country buys a US Treasury, it is effectively lending money to Washington and receiving interest in return. For decades, these were considered the safest possible asset in the world. The US has never defaulted on its debt. The dollar is the currency used to price oil, trade goods, and settle international deals. So holding Treasuries was not just safe, it was convenient.
+
+After the Second World War, most of the world rebuilt its reserves around dollars and Treasuries. The arrangement worked well for a long time. A country could park its foreign exchange earnings in US bonds, earn a modest return, and be confident the money would be there when needed. By the early 1990s, central banks held far more Treasuries than gold, and the shift away from gold seemed permanent.
+
+# Why the Tide Turned
+
+Three things happened that changed the calculation for many central banks. The first was inflation. When inflation rises sharply, as it did between 2021 and 2024 across most of the world, the real return on bonds goes negative. You are being paid 4% interest while your purchasing power falls by 8%. Gold, which pays no interest, paradoxically starts looking better in that environment because its price tends to rise with inflation.
+
+The second was sanctions. In 2022, after Russia invaded Ukraine, Western governments froze roughly $300 billion in Russian foreign exchange reserves held in Western financial institutions. Central banks across the developing world watched this happen and came to a stark conclusion: reserves held abroad can be seized. Gold held inside your own borders cannot be frozen by anyone.
+
+The third was the sheer size of US government debt. America's national debt crossed $36 trillion in 2025. When a borrower's debts keep growing without a clear plan for repayment, even the most loyal creditors begin to quietly diversify. Central banks from Poland to China to India have been buying gold in meaningful quantities for three consecutive years.
+
+# The Story of a Historic Threshold
+
+Poland's National Bank became one of the most aggressive gold buyers in recent years, raising its gold reserves to over 400 tonnes to match a strategic target of holding 20% of its reserves in gold. China's People's Bank of China added gold in each of the last twelve months on record. India's Reserve Bank, as readers of this blog may recall from an earlier post, repatriated over 100 tonnes of its gold from storage at the Bank of England in London, choosing to hold it domestically instead. These moves, taken together across dozens of central banks, pushed the global total past the historic threshold. The World Gold Council confirmed in its mid-2025 report that central bank gold reserves now exceed central bank Treasury holdings in aggregate value, something last seen in the early 1990s when the post-Cold War transition to dollar dominance was still incomplete.
+
+# What This Means for You
+
+You might wonder what central bank reserve decisions have to do with a high school student in India. The answer is that these decisions shape the broader financial environment you will grow up in. When central banks distrust the dollar, global trade becomes more complicated, commodity prices become more volatile, and the case for investing in gold becomes stronger for ordinary savers too. India, which imports roughly 800 tonnes of gold per year, will see this play out in gold prices, in the exchange rate between the rupee and the dollar, and in the cost of everything that India buys internationally.
+
+More broadly, this shift is part of a larger story about whether the dollar will remain the world's undisputed reserve currency or whether a more fragmented system is coming. Going into the full detail of that debate is outside the scope of this post, but the gold-versus-Treasuries threshold is one of the clearest signals yet that the world is asking the question seriously.
+
+# Final Thoughts
+
+The most trusted safe-haven asset in global finance just lost its top ranking to a metal that humans have been hoarding for five thousand years. That is a remarkable turn. US Treasuries did not become unsafe overnight, and the dollar is not going away any time soon. But the fact that central banks, which are typically the most cautious institutions in any financial system, are quietly choosing to hold more gold than American debt tells you something important about the mood in global finance right now. The question worth watching is whether this is a temporary reaction to recent shocks or the beginning of a long-term restructuring of how the world stores its wealth.

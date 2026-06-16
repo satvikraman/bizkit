@@ -1,0 +1,44 @@
+---
+title: "The Three Economists Who Proved That Good Ideas Are Worth More Than Gold"
+date: 2025-10-26
+subtitle: "\"An investment in knowledge pays the best interest.\" — Benjamin Franklin"
+description: "The 2025 Nobel Prize in Economics was awarded to Joel Mokyr, Philippe Aghion, and Peter Howitt for their work on how innovation drives long-run economic growth. This post explains their big ideas, why they matter for understanding why some countries grow rich and others do not, and what their research tells us about India's economic future."
+image: "./title_20251026.png"
+twitter-card: {image: "./title_20251026.png"}
+open-graph: {image: "./title_20251026.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Every October, the Royal Swedish Academy of Sciences announces the Nobel Prize in Economics. The winners are usually academics whose names are unknown outside university economics departments — yet their ideas often shape how governments design policy, how central banks set interest rates, and how countries think about their own growth. In October 2025, the prize went to Joel Mokyr of Northwestern University, Philippe Aghion of the College de France, and Peter Howitt of Brown University. The three were recognised for their work on the economics of innovation — specifically, for helping explain why some economies grow continuously over long periods while others stagnate, and why the answer almost always comes back to the creation and application of new ideas.
+
+# The Big Question They Were Trying to Answer
+
+For most of human history, economic growth was painfully slow. Standards of living in 1700 were not dramatically better than they were in 1200. Then, somewhere around the Industrial Revolution, something changed. Growth accelerated. Technology compounded. Within two centuries, average incomes in the industrialising world had multiplied many times over. The question that occupied economists for decades was: why did this happen, and how can it be sustained?
+
+The traditional answer, called the Solow growth model (after Robert Solow, who won the Nobel in 1987), said that growth comes from accumulating physical capital — factories, machines, infrastructure — and from the number of workers. But this model had a problem. If you kept adding more factories and workers, growth should slow down over time because each additional machine produces a bit less than the one before (this is called diminishing returns). Yet in real life, many economies kept growing without slowing. Something in the model was missing.
+
+# What Aghion and Howitt Added
+
+Philippe Aghion and Peter Howitt, building on earlier work by Paul Romer (who won the Nobel in 2018), developed what economists call the Schumpeterian growth model. The name comes from Joseph Schumpeter, the Austrian economist who described capitalism as a process of creative destruction — old industries are constantly destroyed and replaced by new, better ones. Aghion and Howitt formalised this idea into a mathematical model that could be tested against real economic data.
+
+Their key insight was that growth is driven not just by accumulating things but by improving things through innovation. When a new technology arrives, it does not just add to what already exists, it renders some of what already exists obsolete. The steam engine did not just add to horse-drawn carts, it replaced them. The smartphone did not just add to the phone market, it destroyed entire categories of standalone devices. This process of replacement, painful and disruptive as it is, is what drives sustained growth. Governments that protect old industries from disruption, the research suggested, are actually slowing down their own economies.
+
+# What Joel Mokyr Brought to the Picture
+
+Joel Mokyr approached the same question from a historical perspective. As an economic historian, he asked why the Industrial Revolution happened in Britain and Western Europe in the 18th and 19th centuries rather than in China, which was technologically ahead in many ways for most of recorded history. His answer, developed across several influential books, focused on the culture and institutions surrounding the production and sharing of knowledge.
+
+Mokyr argued that what made 18th century Britain special was not just its factories or its coal mines. It was a specific intellectual culture — one that valued useful knowledge, shared it freely through scientific societies and printed manuals, and connected craftsmen with scientists in ways that turned theoretical ideas into practical applications. This culture, which Mokyr called the Industrial Enlightenment, created a feedback loop between knowledge and technology that self-reinforced over time. Other societies had knowledge and technology in isolation but lacked the institutional infrastructure to combine them productively.
+
+# What This Means for India
+
+The work of Mokyr, Aghion, and Howitt has very direct implications for a country like India, which is attempting to move from a largely agriculture-based economy to a manufacturing and services-based one. Their research suggests that the single most important investment a country can make is in the creation and spread of useful knowledge. This means funding research universities, protecting intellectual property carefully, investing in science and technology education at scale, and building institutions that allow new businesses to replace old ones without excessive regulatory friction.
+
+India has made significant progress in some of these areas, particularly in information technology and pharmaceutical research. But the challenge of connecting basic research to commercial application, of building the kind of knowledge infrastructure Mokyr described, remains an ongoing work in progress.
+
+# Final Thoughts
+
+The 2025 Nobel in Economics is a reminder that the most powerful economic force is not oil, not gold, and not even capital. It is ideas. Mokyr showed where ideas come from historically. Aghion and Howitt showed mathematically how innovation drives growth and why protecting old industries at the cost of new ones is economically self-defeating. For students thinking about careers in science, technology, or policy, their work offers a genuinely optimistic message: the best contribution you can make to the economy might be an idea that does not yet exist.
