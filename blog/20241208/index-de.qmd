@@ -1,0 +1,32 @@
+---
+title: "Die Banane, die sechs Millionen Dollar wert war"
+date: 2024-12-08
+subtitle: "\"Der Preis einer Sache ist die Menge Leben, die Sie dafür eintauschen.\" — Henry David Thoreau"
+description: "Im November 2024 wurde eine an eine Wand geklebte Banane bei Sotheby's für sechs Millionen Dollar versteigert. Die Banane selbst kostete fünfunddreißig Cent. Was wirklich verkauft wurde, wer es kaufte und warum — und was es uns darüber verrät, wie Menschen den Wert von Dingen bestimmen — das ist die eigentliche Geschichte."
+image: "./title_20241208.png"
+twitter-card: {image: "./title_20241208.png"}
+open-graph: {image: "./title_20241208.png"}
+categories: ["Unternehmensaktivitäten"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Wenn Sie im November 2024 an einem Obststand in New York City vorbeigegangen wären, hätten Sie eine Banane für rund fünfunddreißig Cent kaufen können. An diesem Nachmittag wurde in den Auktionsräumen von Sotheby's, einem der renommiertesten Auktionshäuser der Welt, eine an eine Wand geklebte Banane für sechskommazwei Millionen Dollar versteigert. Das Kunstwerk heißt Comedian und wurde von dem italienischen Künstler Maurizio Cattelan geschaffen. Es ist buchstäblich eine Banane, die mit einem Streifen silbernem Klebeband an einer weißen Galeriewand befestigt ist. Ihr Wert hatte sich seit dem Verkauf um ungefähr achtzehn Millionen Prozent erhöht.
+
+# Was Sie wirklich kaufen
+
+Das erste, was man über Comedian verstehen muss, ist, was der Käufer für seine sechs Millionen Dollar tatsächlich erhalten hat. Keine Banane. Eine Banane ist ein Stück Obst, und Obst fault. Was er bekam, war ein vom Künstler ausgestelltes Echtheitszertifikat und eine Reihe von Anweisungen, wie das Werk korrekt ausgestellt werden soll. Diese Anweisungen legen genau fest, wie die Banane an der Wand positioniert werden soll, wie hoch sie vom Boden hängen soll, welche Art von Klebeband verwendet werden soll und wie oft sie ausgetauscht werden soll, wenn sie reift und fault. Dies ist das Grundprinzip der konzeptuellen Kunst, einer Bewegung in der modernen Kunst, die besagt, dass das Konzept oder die Idee hinter einem Werk wichtiger und wertvoller ist als das physische Material, aus dem es hergestellt wurde.
+
+# Der Käufer und das Motiv
+
+Die Person, die sechskommazwei Millionen Dollar für Comedian zahlte, war kein traditioneller Kunstsammler. Es war Justin Sun, ein dreiunddreißigjähriger chinesisch-amerikanischer Unternehmer, der 2017 eine Kryptowährung namens Tron gründete. Innerhalb von Tagen nach dem Kauf stieg die Marktkapitalisierung von Tron Berichten zufolge um über eine Milliarde Dollar. Die Kosten der Banane waren aus Marketingperspektive vernachlässigbar. Die Kapitalrendite war außergewöhnlich.
+
+# Was uns das über Wert verrät
+
+Die Bananen-Geschichte handelt letztendlich von demselben wie die Elcid-Investments-Geschichte: der Lücke zwischen Preis und Wert und der Frage, wer entscheidet, wo diese Lücke liegt. Auf dem Kunstmarkt gibt es keine vereinbarte Methode zur Berechnung des inneren Wertes eines Werkes. Die Lektion lautet nicht, dass jeder Wert falsch oder willkürlich ist, sondern dass vieles von dem, was wir mit unserem Geld kaufen, nicht wirklich das physische Ding vor uns ist. Es ist die Geschichte, die damit verbunden ist.
+
+# Abschließende Gedanken
+
+Comedian ist extrem, aber die Frage, die es aufwirft, ist alltäglich. Jedes Mal, wenn jemand einen hohen Preis für ein Markenprodukt zahlt, das dieselbe Funktion wie eine günstigere Alternative erfüllt, macht er eine Aussage über den Wert, den er der Idee beimisst, nicht dem Objekt. Die Linie zwischen dem Auktionssaal von Sotheby's und dem Einzelhandelsregal ist dünner als es scheinen mag. Der Unterschied zwischen dem, was eine Zahl sagt, und dem, was sie bedeutet, zu verstehen, ist eine der wichtigsten Fähigkeiten, die jeder entwickeln kann, der in der modernen Wirtschaft navigiert.
