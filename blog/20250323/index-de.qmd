@@ -1,0 +1,32 @@
+---
+title: "Warum Amerikas Handelskrieg Indiens Technologieunternehmen erschreckte"
+date: 2025-03-23
+subtitle: "\"Die Börse ist voller Menschen, die den Preis von allem kennen, aber den Wert von nichts.\" — Philip Fisher"
+description: "Im März 2025 verkauften ausländische Investoren massenhaft indische IT-Aktien wie TCS, Infosys und Wipro. Der Auslöser? Die Befürchtung, dass Trumps Zölle die US-Wirtschaft verlangsamen und die Ausgaben für Technologiedienstleistungen reduzieren würden."
+image: "./title_20250323.png"
+twitter-card: {image: "./title_20250323.png"}
+open-graph: {image: "./title_20250323.png"}
+categories: ["Geld & Märkte"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Im März 2025, als die Handelsspannungen zwischen den USA und ihren Handelspartnern eskalierten, ereignete sich in Indien tausende Kilometer entfernt etwas Unerwartetes. Ausländische institutionelle Investoren begannen in großem Umfang indische IT-Aktien zu verkaufen. TCS, Infosys, Wipro und HCL Technologies erlebten starke Kurseinbrüche. Der Nifty IT-Index fiel innerhalb weniger Tage um mehr als zehn Prozent.
+
+# Wie indische IT-Unternehmen ihr Geld verdienen
+
+Indiens IT-Sektor basiert auf einem Modell namens IT-Dienstleistungs-Outsourcing. TCS verdient etwa die Hälfte seines Umsatzes mit nordamerikanischen Kunden. Infosys verdient etwa ein Drittel seiner Einnahmen mit US-Banken. Deshalb ist die Redewendung "Wenn Amerika niest, bekommt Indien eine Erkältung" zum Geschäftsklischee geworden.
+
+# Die Zoll-Technologie-Verbindung
+
+Zölle besteuern Waren, nicht Dienstleistungen. Die direkte Auswirkung auf indische IT-Unternehmen ist daher begrenzt. Aber der indirekte Effekt ist erheblich. Wenn Zölle die Kosten amerikanischer Hersteller erhöhen, kürzen diese Unternehmen Ermessensausgaben einschließlich Technologieverträgen. Im März 2025 berechneten Investoren die wahrscheinliche Verlangsamung der US-Unternehmensausgaben und reduzierten ihre Exponierung gegenüber indischen IT-Aktien.
+
+# Warum ausländische Investoren so viel Macht haben
+
+Ausländische institutionelle Investoren halten einen erheblichen Teil der Aktien in Indiens größten börsennotierten Unternehmen. Wenn die globale Risikobereitschaft sinkt, verkaufen FIIs oft zuerst Aktien aus Schwellenmärkten.
+
+# Abschließende Gedanken
+
+Der indische IT-Ausverkauf im März 2025 war eine nützliche Erinnerung daran, wie tief vernetzt die globale Wirtschaft wirklich ist. Eine in Washington angekündigte Zollpolitik beeinflusst das Anlegervertrauen in Mumbai, was die Aktienkurse in Bengaluru beeinflusst. Die Welt ist keine Sammlung getrennter Volkswirtschaften, sondern ein vernetztes System, in dem Störungen überallhin Wellen schlagen.

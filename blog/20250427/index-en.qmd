@@ -1,0 +1,32 @@
+---
+title: "The Electric Scooter Startup That Bet Everything on Going Public"
+date: 2025-04-27
+subtitle: "\"An IPO is not an exit, it is an entrance.\" — Unknown"
+description: "Ather Energy, one of India's most respected electric two-wheeler startups, opened its IPO on April 28, 2025, aiming to raise nearly three thousand crore rupees. But the company has never made a profit. Can going public help Ather survive in one of the most competitive EV markets in the world?"
+image: "./title_20250427.png"
+twitter-card: {image: "./title_20250427.png"}
+open-graph: {image: "./title_20250427.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Ather Energy was founded in 2013 by two IIT Madras graduates, Tarun Mehta and Swapnil Jain, who believed that India's electric vehicle revolution would begin with the humble scooter rather than the car. Twelve years later, the company makes some of India's most technically advanced electric two-wheelers, operates a charging network called AtherGrid across Indian cities, and employs thousands of people at its manufacturing facility in Hosur, Tamil Nadu. In late April 2025, Ather Energy opened its Initial Public Offering, asking public investors to value the company at roughly 12,000 crore rupees and subscribe to shares in the price band of 304 to 321 rupees. The IPO aimed to raise approximately 2,980 crore rupees. There was just one catch: Ather has never made a profit in twelve years of operation.
+
+# What an IPO Is and Why Companies Do It
+
+An Initial Public Offering, or IPO, is the process by which a privately held company offers shares to the general public for the first time and lists itself on a stock exchange. Before an IPO, a startup like Ather is owned by its founders and private investors, including venture capital firms and strategic backers. An IPO gives the company access to public capital markets, where it can raise money from millions of ordinary investors rather than a small group of professional ones. For Ather, the IPO serves several purposes. The fresh capital raised will go toward building a new manufacturing facility in Maharashtra, funding marketing to increase brand visibility, and paying down some debt. Going public also gives the company "legitimacy": large clients, government partners, and employees often see listed companies as more stable and trustworthy than private ones.
+
+# The Business of Electric Two-Wheelers in India
+
+Ather operates in a market that is genuinely exciting but also brutally competitive. India sells around seventeen million two-wheelers a year, and the transition to electric is accelerating. But Ather faces competition from Ola Electric, which is the market leader in electric scooters, TVS iQube, Bajaj Chetak, and Hero MotoCorp's electric offerings. These are all large, established companies with far greater manufacturing scale and distribution networks than Ather. Ola Electric, which is also listed, has struggled financially and faced quality complaints, but it has captured a large market share through aggressive pricing. Ather's pitch is different: it positions itself as the premium, tech-first electric scooter brand, the Apple to Ola's Samsung. The Ather 450X, its flagship product, is widely regarded as the most refined electric scooter in India. But premium positioning is a harder strategy to sustain when the market is racing toward affordability.
+
+# Why Profitability Is Such a Challenge
+
+Electric vehicle companies face a fundamental financial challenge in their early years: the upfront costs of building vehicles and charging infrastructure are enormous, but the revenue per vehicle is limited by competition and price sensitivity. Ather's losses per year have been in the range of 800 to 1,000 crore rupees in recent years. The company received a significant blow when the government reduced subsidies under the FAME-II scheme in 2023, forcing it to cut prices and absorb the cost difference. To survive long enough to reach profitability, Ather needs either to dramatically increase sales volumes, reduce costs through manufacturing scale, or both. The IPO money buys time and scale, but it does not solve the underlying economics on its own.
+
+# Final Thoughts
+
+Ather Energy's IPO is a window into the high-stakes world of deep-technology startups trying to build the future. The company makes a genuinely impressive product and occupies a genuine space in India's clean energy transition. But the business of building hardware at scale is expensive and unforgiving. For students interested in business, this story raises the most important question in startup investing: is a great product enough to build a great company? The answer, more often than not, is that great products are necessary but not sufficient. Great companies also need unit economics, distribution, and eventually, profitability. Ather's journey after the IPO will be one worth watching.

@@ -1,0 +1,32 @@
+---
+title: "Das Gold, das seit Jahrzehnten niemand gesehen hat"
+date: 2025-03-02
+subtitle: "\"Gold ist Geld. Alles andere ist Kredit.\" — J.P. Morgan"
+description: "Die USA behaupten, in einem Tresor in Kentucky namens Fort Knox die größten Goldreserven der Welt zu lagern. Aber Elon Musk und Donald Trump wollen wissen, ob das Gold wirklich dort ist. Was sagt diese merkwürdige Prüfungsforderung über Geld, Vertrauen und Macht aus?"
+image: "./title_20250302.png"
+twitter-card: {image: "./title_20250302.png"}
+open-graph: {image: "./title_20250302.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Inmitten der hügeligen Landschaft von Kentucky befindet sich ein Gebäude, das die meisten Amerikaner noch nie aus der Nähe gesehen haben. Fort Knox ist das United States Bullion Depository, ein gesicherter Tresor, der angeblich 147 Millionen Unzen Gold enthält, heute mehr als vier Billionen Dollar wert. Die letzte vollständige Prüfung dieses Goldes fand 1953 statt. Anfang 2025 postete Elon Musk auf X, dass das Gold geprüft werden sollte, und Präsident Donald Trump stimmte sofort zu. Diese Forderung klingt einfach, öffnete aber eine viel größere Debatte: Warum lagern Länder Gold, wer darf nachprüfen, und was bedeutet Vertrauen in Geld eigentlich?
+
+# Warum Länder überhaupt Gold halten
+
+Gold ist seit Tausenden von Jahren ein Symbol des Reichtums. Unter dem 1944 unterzeichneten Bretton-Woods-Abkommen wurde der US-Dollar zur Weltreservewährung, und jeder Dollar war durch eine feste Menge Gold gedeckt. 1971 beendete Präsident Nixon diese Vereinbarung. Seitdem sind Währungen "Fiatgeld", das heißt, sie werden durch das Versprechen der Regierung gedeckt, nicht durch Gold. Die meisten Länder halten dennoch Goldreserven, weil Gold in Krisenzeiten seinen Wert bewahrt.
+
+# Die Geschichte von Fort Knox
+
+Fort Knox wurde im Zweiten Weltkrieg berühmt, als das US-Finanzministerium Gold aus New York dorthin verlegte. In den 1940er Jahren befanden sich dort fast 20.000 Tonnen Gold. Heute sind es noch etwa 4.580 Tonnen. Die letzte vollständige Prüfung liegt siebzig Jahre zurück. Musk schrieb auf X, er wolle "sicherstellen, dass das Gold wirklich da ist." Sein Interesse ließ die Goldpreise kurzzeitig steigen.
+
+# Was passiert, wenn das Gold fehlt
+
+Die Idee, dass Fort Knox leer sein könnte, wird oft als Verschwörungstheorie bezeichnet. Die eigentliche Sorge, die Musk und Trump ansprechen, betrifft das Vertrauen in amerikanische Institutionen. Der Status des Dollars als Weltreservewährung hängt vom Glauben der Welt daran ab, dass die US-Regierung vertrauenswürdig und transparent ist. Wenn eine Prüfung auch nur eine kleine Unstimmigkeit aufdecken würde, würde das Vertrauen in den Dollar und in amerikanische Finanzinstitutionen erschüttern.
+
+# Abschließende Gedanken
+
+Die Forderung nach einer Fort-Knox-Prüfung ist auf einer Ebene ein politischer Auftritt. Auf einer anderen Ebene spiegelt sie etwas Echtes wider: Geld ist ein gesellschaftlicher Vertrag, und gesellschaftliche Verträge brauchen Vertrauen. Goldreserven sind eine der ältesten Formen dieses Vertrauens. Eine Währung bricht nicht zusammen, wenn das Gold ausgeht, sondern wenn die Menschen aufhören, der Institution zu vertrauen, die sie stützt.

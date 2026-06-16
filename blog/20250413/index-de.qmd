@@ -1,0 +1,32 @@
+---
+title: "Die Woche, in der der Markt dreimal seine Meinung änderte"
+date: 2025-04-13
+subtitle: "\"Der Markt ist ein Ort, an dem Hoffnung und Angst täglich aufeinandertreffen.\" — Unbekannt"
+description: "In der zweiten Aprilwoche 2025 änderte der amerikanische Aktienmarkt innerhalb einer Woche dreimal dramatisch seinen Kurs. Erst Absturz, dann Erholung, dann wieder Absturz. All das geschah durch Trumps Zollankündigungen und -aussetzungen. Was sagt uns diese Marktvolatilität über Investitionen?"
+image: "./title_20250413.png"
+twitter-card: {image: "./title_20250413.png"}
+open-graph: {image: "./title_20250413.png"}
+categories: ["Geld und Märkte"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Die zweite Aprilwoche 2025 war für die Märkte unglaublich. Nach den Liberation Day-Zöllen vom 2. April brachen die Märkte ein. Dann kündigte Trump am 9. April eine 90-tägige Aussetzung an, und der S&P 500 stieg an einem einzigen Tag um 9 Prozent. Dann, in derselben Woche, als die Zölle auf China auf 125 Prozent erhöht wurden, brachen die Märkte erneut ein. Drei dramatische Wendungen, in einer einzigen Woche.
+
+# Warum reagiert der Markt so empfindlich
+
+Der Aktienmarkt spiegelt Zukunftserwartungen wider. Wenn Anleger glauben, dass Unternehmen in Zukunft gut abschneiden werden, kaufen sie Aktien. Wenn sie Angst haben, verkaufen sie. Politische Unsicherheit, also nicht zu wissen, welche Zölle morgen gelten werden, ist das Schlimmste für die Märkte. Unsicherheit macht Anleger zögerlich.
+
+# Warum die 90-tägige Aussetzung
+
+Die Trump-Administration kündigte eine 90-tägige Aussetzung an, weil viele Länder zu Verhandlungen bereit waren. Aber die Aussetzung galt nicht für China, so dass der US-chinesische Handelskrieg sich weiter verschärfte.
+
+# Auswirkungen auf die indischen Märkte
+
+Auch die indischen Aktienmärkte waren in jener Woche volatil. Ausländische Investoren verkauften. Die Rupie schwächte sich ab. IT- und Pharmaunternehmen verzeichneten erhebliche Schwankungen, da diese Unternehmen stark in Amerika tätig sind.
+
+# Abschließende Gedanken
+
+Diese Woche zeigt eine grundlegende Wahrheit über Märkte: Der Markt hasst Unsicherheit. Wenn man weiß, was bei politischen Änderungen passieren wird, können Anleger planen. Wenn sich die Regeln täglich ändern, weiß niemand etwas. Für Schüler ist dies eine wichtige Lektion darüber, wie wichtig Geduld und Stabilität beim Investieren sind.

@@ -1,0 +1,32 @@
+---
+title: "Die Börse, die rund um die Uhr geöffnet sein will"
+date: 2025-03-09
+subtitle: "\"Die Börse ist ein Instrument, das Geld von den Ungeduldigen zu den Geduldigen überträgt.\" — Warren Buffett"
+description: "NASDAQ hat vorgeschlagen, die US-Märkte fünf Tage die Woche, 24 Stunden am Tag geöffnet zu halten. Kein Warten mehr auf die Eröffnungsglocke. Aber ist das wirklich eine gute Idee, und was bedeutet das für Anleger auf der ganzen Welt, auch in Indien?"
+image: "./title_20250309.png"
+twitter-card: {image: "./title_20250309.png"}
+open-graph: {image: "./title_20250309.png"}
+categories: ["Geld & Märkte"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Wenn Sie sich schon einmal nachts einen Aktienkurs angesehen haben und sich gewünscht haben, einfach kaufen oder verkaufen zu können, könnte NASDAQ bald eine Antwort für Sie haben. Anfang 2025 reichte die Börse bei der US Securities and Exchange Commission einen Vorschlag ein, die Märkte fünf Tage die Woche, 24 Stunden am Tag geöffnet zu halten. Derzeit laufen NYSE und NASDAQ von 9:30 bis 16:00 Uhr Eastern Time. Das klingt nach guten Neuigkeiten, aber Wirtschaftswissenschaftler, Händler und Regulatoren haben starke Meinungen dazu.
+
+# Wie Aktienmärkte derzeit funktionieren
+
+Eine Börse ist im Wesentlichen ein Marktplatz, auf dem Käufer und Verkäufer von Unternehmensanteilen zusammenkommen und Preise aushandeln. NASDAQ argumentiert, dass die Welt verbunden ist und Geld nicht schläft. Hinzu kommt, dass Kryptowährungsmärkte, die um die Aufmerksamkeit der Anleger konkurrieren, bereits rund um die Uhr handeln.
+
+# Argumente für und gegen den 24-Stunden-Handel
+
+NASDAQ argumentiert: Die Welt ist verbunden, Geld schläft nicht. Längere Stunden geben allen gleichen Zugang. Aber Kritiker erheben ernste Bedenken. Geringere Handelsvolumina in der Nacht können zu stärkeren Preisschwankungen führen. Professionelle Händler mit ausgefeilten Computersystemen würden in diesen Bedingungen florieren, aber gewöhnliche Privatanleger könnten geschädigt werden.
+
+# Was das für indische Anleger bedeutet
+
+Indiens Märkte NSE und BSE arbeiten von 9:15 bis 15:30 Uhr IST. Ein 24-Stunden-Markt würde US-Handel technisch gesehen zu jeder Stunde zugänglich machen. Verhaltensfinanzforschung zeigt jedoch konsistent, dass Anleger, die häufiger handeln, niedrigere Renditen erzielen, weil sie auf kurzfristiges Rauschen statt auf langfristigen Wert reagieren.
+
+# Abschließende Gedanken
+
+NASDAQ's 24-Stunden-Marktvorschlag ist noch nicht genehmigt. Die Regulatoren werden seine Auswirkungen sorgfältig untersuchen. Die Fähigkeit, um 3 Uhr morgens Aktien kaufen zu können, bedeutet nicht, dass man es sollte. Die besten Anleger der Geschichte haben weniger, aber überlegtere Entscheidungen getroffen, nicht mehr Entscheidungen.

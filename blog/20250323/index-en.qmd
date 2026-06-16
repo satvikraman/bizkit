@@ -1,0 +1,32 @@
+---
+title: "Why America's Trade War Spooked India's Tech Companies"
+date: 2025-03-23
+subtitle: "\"The stock market is filled with individuals who know the price of everything, but the value of nothing.\" — Philip Fisher"
+description: "In March 2025, Indian IT stocks like TCS, Infosys, and Wipro saw heavy selling by foreign investors. The trigger? Fears that Trump's tariffs could slow down the American economy and reduce spending on technology services. Here is why a trade war thousands of miles away hit India's most valuable companies."
+image: "./title_20250323.png"
+twitter-card: {image: "./title_20250323.png"}
+open-graph: {image: "./title_20250323.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+In March 2025, as the United States and its trading partners escalated tensions over tariffs, something unexpected happened thousands of miles away in India. Foreign institutional investors began selling large amounts of Indian IT stocks. Companies like TCS, Infosys, Wipro, and HCL Technologies, which are among the most valuable companies listed on Indian exchanges, saw their share prices fall sharply. The Nifty IT index dropped over ten percent in a matter of days. To outsiders, this connection between American tariff policy and Indian software companies seems puzzling. After all, Indian IT firms do not make physical goods that get taxed at a border. The connection, however, runs deep through the structure of the Indian technology business.
+
+# How Indian IT Companies Make Their Money
+
+India's IT sector is built on a particular model called IT services outsourcing. Large companies in the United States, Europe, and Australia hire Indian firms to handle their technology operations, from building software to maintaining data centers to processing insurance claims. TCS, for example, earns roughly half its revenue from North American clients. Infosys earns about a third of its revenue from banking and financial services clients in the US. This is why the phrase "when America sneezes, Indian IT catches a cold" has become a business cliché. If American companies cut budgets, Indian IT companies lose contracts. If American companies grow, Indian IT companies grow with them.
+
+# The Tariff-Technology Connection
+
+The direct impact of tariffs on Indian IT companies is limited, because software is a service, not a physical good that crosses a border in a container. Tariffs tax goods, not services. But the indirect effect is substantial. When tariffs raise costs for American manufacturers, those companies face squeezed margins and often respond by cutting discretionary spending, including technology contracts. A car company facing a 25 percent tariff on imported steel has less money available for upgrading its internal software systems. A retailer hit by tariffs on Chinese goods might freeze its digital transformation projects. These decisions ripple all the way to Bengaluru and Hyderabad. In March 2025, foreign investors looked at the escalating US tariff situation, calculated the likely slowdown in US corporate spending, and decided to reduce their exposure to Indian IT stocks before revenues got hit.
+
+# Why Foreign Investors Have Such Power
+
+The episode also highlights a structural feature of Indian equity markets that often surprises students. Foreign Institutional Investors, or FIIs, hold a significant portion of the shares in India's largest listed companies. When global risk appetite falls, FIIs often sell emerging market stocks first, because these markets are seen as higher-risk. The selling in Indian IT was partly about rational concerns over revenue, and partly about global portfolio adjustments. This means Indian stock markets are vulnerable to global mood swings in a way that domestic investors do not always anticipate. Understanding that your country's most valuable companies are partly priced by global investors with global concerns is important for anyone thinking about Indian stock markets.
+
+# Final Thoughts
+
+The Indian IT selloff of March 2025 was a useful reminder of how connected the global economy really is. A tariff policy announced in Washington affects investor confidence in Mumbai, which affects share prices in Bengaluru, which affects the market capitalisation of companies that employ hundreds of thousands of engineers across India. For students, this is the concept of economic interdependence made visible. The world is not a collection of separate economies; it is one interconnected system where a disruption in one part sends ripples to every other part.

@@ -1,0 +1,32 @@
+---
+title: "The Gold That Nobody Has Seen in Decades"
+date: 2025-03-02
+subtitle: "\"Gold is money. Everything else is credit.\" — J.P. Morgan"
+description: "The United States claims to hold the world's largest gold reserve, locked away in a vault in Kentucky called Fort Knox. But Elon Musk and Donald Trump want to know if it's actually there. What does this strange audit demand tell us about money, trust, and power?"
+image: "./title_20250302.png"
+twitter-card: {image: "./title_20250302.png"}
+open-graph: {image: "./title_20250302.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Deep in the rolling hills of Kentucky sits a building that most Americans have never seen up close. Fort Knox is the United States Bullion Depository, a reinforced vault that supposedly holds 147 million ounces of gold, worth well over four trillion dollars at today's prices. The last full audit of this gold happened in 1953. In early 2025, Elon Musk posted on X that the gold should be audited, and President Donald Trump quickly agreed. The demand sounds simple enough, but it opened up a much bigger conversation about why countries hold gold, who is allowed to check, and what trust in money actually means.
+
+# Why Countries Hold Gold at All
+
+Gold has been a symbol of wealth for thousands of years, but its formal role in global finance came into focus after World War Two. Under the Bretton Woods agreement signed in 1944, the US dollar became the world's reserve currency, and every dollar was backed by a fixed amount of gold held by the US government. Other countries could, in theory, exchange their dollars for actual gold. The US promised to hold enough gold to back all those dollars. When President Nixon ended this arrangement in 1971, currencies became what economists call "fiat money," meaning they are backed not by gold but by the government's word and the economy's strength. Most countries still hold gold reserves today, not because currencies are pegged to it, but because gold acts as a hedge. When economies collapse or currencies lose value, gold tends to hold its worth.
+
+# The Fort Knox Story
+
+Fort Knox became famous during World War Two, when the US Treasury moved gold there from New York to keep it safe from possible German attack. At its peak in the 1940s, the vault held nearly 20,000 tonnes of gold. Since then, the amount has shrunk as gold was sold or moved. Today, about 4,580 tonnes remain, making it still the single largest gold reserve on American soil. The last congressionally approved audit happened seventy years ago. Small sample checks have been done since then, but no full independent count has been published. This is what Musk and Trump found suspicious. Musk wrote on X that he wanted to "make sure the gold is actually there." Trump said he would take a look. Their interest sent gold prices briefly higher as markets wondered what an audit might reveal.
+
+# What Happens If the Gold Is Missing
+
+The idea that Fort Knox might be empty is often called a conspiracy theory, and the US Treasury insists the gold is accounted for. But the underlying concern that Musk and Trump are tapping into is not purely about the metal. It is about confidence in American institutions. The dollar's status as the world's reserve currency depends on the world's belief that the US government is trustworthy and transparent. If an audit revealed any discrepancy, even a small one, it would shake confidence in the dollar and in American financial institutions. Bond markets, currency markets, and international trade deals all rest on the assumption that the United States keeps its books honestly. This is why even the mere suggestion that someone should check made investors nervous.
+
+# Final Thoughts
+
+The Fort Knox audit demand is, on one level, a political stunt. On another level, it reflects something real: money is a social contract, and social contracts require trust. Gold reserves are one of the oldest forms of that trust, a physical promise that the numbers in a ledger correspond to something tangible. Whether or not the audit finds every ounce in place, the episode is a good reminder that the financial system depends on people believing in it. For students of economics, this is worth remembering. A currency collapses not when the gold runs out but when people stop trusting the institution that backs it.

@@ -1,0 +1,32 @@
+---
+title: "Die App, die Liebe finden sollte, verliert sich jetzt selbst"
+date: 2025-03-30
+subtitle: "\"Das beste Marketing fühlt sich nicht wie Marketing an.\" — Tom Fishburne"
+description: "Tinder, Bumble und Hinge veränderten, wie Menschen Partner finden. Einige Jahre lang funktionierten sie. Aber 2025 melden die Unternehmen hinter diesen Apps sinkende Einnahmen, schrumpfende Nutzerzahlen und verwirrte Strategien. Was lief beim digitalen Matchmaking schief?"
+image: "./title_20250330.png"
+twitter-card: {image: "./title_20250330.png"}
+open-graph: {image: "./title_20250330.png"}
+categories: ["Unternehmensentscheidungen"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Als Tinder 2012 startete, veränderte es, wie eine Generation neue Menschen kennengelernt hat. Nach rechts wischen zum Mögen, nach links zum Ablehnen. Einfach, suchtartig, sofort viral. Bis Mitte der 2010er Jahre waren Dating-Apps weltweit ein normaler Teil des Lebens junger Erwachsener. Match Group, das Tinder und Hinge besitzt, wurde zu einem Milliarden-Dollar-Unternehmen. Bumble ging 2021 mit einer Bewertung von über acht Milliarden Dollar an die Börse. Aber 2025 hat sich die Geschichte erheblich verändert.
+
+# Das Geschäftsmodell hinter dem Wischen
+
+Dating-Apps sind ein zweiseitiger Markt. Im Gegensatz zu sozialen Medien, die durch Werbung Geld verdienen, verdienen Dating-Apps hauptsächlich durch Abonnements. Die Herausforderung besteht darin, dass das Produkt Menschen helfen soll, Partner zu finden, und erfolgreiche Nutzer die Plattform verlassen. Das schafft eine grundlegende Spannung: Je besser die App funktioniert, desto mehr Nutzer verliert sie.
+
+# Was schiefgelaufen ist
+
+Mehrere Dinge kamen zusammen, um Dating-Apps gleichzeitig zu schaden. Der Nachholboom nach der Pandemie hat sich normalisiert. Die Apps fügten zu viele kostenpflichtige Funktionen hinzu, was die kostenlose Version frustrierend machte. "Dating-App-Müdigkeit" verbreitete sich in sozialen Medien. Bumble kämpft damit, über seine Kernzielgruppe hinaus zu wachsen.
+
+# Das tiefere Problem der Plattformreife
+
+Dating-Apps erleben ein Reife-Plateau, den Punkt, an dem fast jeder, der das Produkt nutzen möchte, es bereits tut. Tinder und Hinge dominieren die englischsprachige Welt, was wenig Raum für Wachstum lässt.
+
+# Abschließende Gedanken
+
+Die Dating-App-Geschichte ist eine nützliche Fallstudie in der Produkt-Markt-Passung und was passiert, wenn sie sich abnutzt. Ein Jahrzehnt später sind die Apps gereift, die Kultur hat sich verändert, und die Nutzer wollen etwas anderes. Die Lektion für Schüler: Selbst brillante Produkte haben Lebenszyklen, und die überlebenden Unternehmen sind die, die den nächsten großen Einblick finden, bevor der aktuelle ausläuft.

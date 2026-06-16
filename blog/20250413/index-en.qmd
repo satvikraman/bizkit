@@ -1,0 +1,32 @@
+---
+title: "The Week the Market Changed Its Mind Three Times"
+date: 2025-04-13
+subtitle: "\"Be fearful when others are greedy, and greedy when others are fearful.\" — Warren Buffett"
+description: "One week after Liberation Day sent markets crashing, Trump announced a 90-day pause on tariffs for most countries. Stock markets bounced back with one of the biggest single-day gains in decades. Then came more uncertainty. The week of April 7-13 was a masterclass in market volatility and investor psychology."
+image: "./title_20250413.png"
+twitter-card: {image: "./title_20250413.png"}
+open-graph: {image: "./title_20250413.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+The week of April 7 to 13, 2025, was one of the most dramatic in recent stock market history. On Monday April 7, markets continued falling after Liberation Day, with the S&P 500 briefly entering bear market territory, down more than 20 percent from its peak. Investors were genuinely afraid of a global recession. Then on Wednesday April 9, Trump announced a 90-day pause on the reciprocal tariffs for nearly all countries, except China. Markets reacted instantly: the S&P 500 jumped nine percent in a single day, one of its largest single-day gains ever. But the relief was short-lived. China retaliated by raising its tariffs on American goods to 84 percent, and the US escalated back, raising tariffs on Chinese goods to 145 percent. By the end of the week, investors were exhausted and confused. The market had whipsawed in directions that seemed impossible to predict.
+
+# What Market Volatility Really Means
+
+Volatility is the term used to describe how sharply and unpredictably an asset's price moves. When volatility is high, prices can swing dramatically in short periods, as happened in this week. The VIX index, often called the "fear gauge" of markets, measures expected volatility in the S&P 500. During the week of April 7-13, it hit levels not seen since the early days of the COVID-19 pandemic in 2020. High volatility is disorienting for ordinary investors who check their portfolio and see their savings dropping by thousands of rupees each day. But it is also an opportunity for investors who stay calm, because prices that fall sharply often recover once the panic passes.
+
+# The Mechanics of the Tariff Pause
+
+When Trump announced the 90-day pause, he framed it as generosity, saying that many countries had approached the US seeking negotiations. The reality was more complex. Bond markets, which typically move slowly and are watched by financial professionals as a measure of deep economic confidence, had been sending distress signals. US Treasury bond yields, which normally fall when investors are scared, were actually rising, suggesting that investors were losing confidence in American financial stability itself. The Federal Reserve and Treasury officials were reportedly alarmed. The pause was partly a response to signals that the financial system was under genuine stress. But the pause also excluded China, the largest single target of the tariff policy, meaning the trade war's most significant front continued to escalate.
+
+# How This Affected Indian Investors
+
+Indian markets, which had been falling since Liberation Day, bounced sharply when the pause was announced. But the bounce was uneven: companies with high exposure to global trade remained depressed, while domestic-focused businesses recovered more strongly. For Indian investors watching the news from abroad, the week illustrated an important principle: markets are not rational forecasting machines. They are collections of human beings making decisions under uncertainty, often driven by fear and relief rather than careful analysis. The investor who panicked and sold Indian IT stocks on Monday, only to see the market bounce on Wednesday, locked in losses that a calmer approach would have avoided.
+
+# Final Thoughts
+
+The volatile week of April 7-13 was a stress test for investors of all kinds. Professional fund managers, retail traders, and pension funds all faced the same impossible challenge: making decisions under profound uncertainty about what a single person in Washington would say next. For students thinking about investing, this period offers a valuable lesson. Building long-term wealth in stock markets requires accepting short-term volatility without panicking. The investors who made money from this period were mostly those who did nothing dramatic, sitting through the drops and the recoveries and trusting that the overall trend of economic growth would eventually reassert itself.

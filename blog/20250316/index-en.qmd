@@ -1,0 +1,32 @@
+---
+title: "The Oil Club That One Member Wants to Leave"
+date: 2025-03-16
+subtitle: "\"Oil is seldom found where it is most needed, and seldom most needed where it is found.\" — Paul Getty"
+description: "The UAE has been making quiet noises about wanting more freedom from OPEC, the cartel that has controlled oil production for decades. What is OPEC, why does membership matter, and what happens when a member decides the rules no longer suit them?"
+image: "./title_20250316.png"
+twitter-card: {image: "./title_20250316.png"}
+open-graph: {image: "./title_20250316.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+The United Arab Emirates is a small country by land area, but it sits on top of enormous oil reserves that have made it one of the richest nations on earth. For decades, the UAE has been a member of OPEC, the Organization of the Petroleum Exporting Countries, a group that coordinates oil production to manage prices. But in early 2025, reports emerged that the UAE was frustrated with OPEC's production limits and was considering its options, including the possibility of eventually going its own way. To understand why this matters, you need to understand what OPEC actually does and why oil production limits are such a contentious issue.
+
+# What OPEC Is and Why It Exists
+
+OPEC was founded in 1960 by five countries: Iran, Iraq, Kuwait, Saudi Arabia, and Venezuela. The idea was simple: oil-producing nations could earn much more money by acting together rather than competing against each other. If every country pumped as much oil as it could, the global supply would be huge and prices would drop. But if they agreed to limit production, supply stayed controlled and prices stayed higher. Over the decades, OPEC expanded to include more members and eventually partnered with non-OPEC producers like Russia in an arrangement called OPEC Plus. Today, OPEC Plus controls roughly 40 percent of the world's oil supply and has enormous influence over global energy prices. When OPEC decides to cut production, oil prices typically rise. When it decides to increase production, prices usually fall.
+
+# The UAE's Frustration
+
+The UAE has invested heavily in expanding its oil production capacity over the past decade. Abu Dhabi National Oil Company, known as ADNOC, has built new drilling infrastructure and can now pump significantly more oil than its OPEC quota allows. The problem is that OPEC's quotas are based on older capacity figures, so the UAE is being held back from using its new facilities to their full potential. Other OPEC members, especially Saudi Arabia, are reluctant to grant the UAE a higher quota because that would require cutting their own shares or accepting lower prices from increased supply. From the UAE's perspective, it has spent billions of dollars building capacity that it cannot use. This frustration is not new, but by 2025 it had grown loud enough that the UAE began hinting publicly about its options.
+
+# Why an Exit Would Shake Markets
+
+If the UAE were to leave OPEC, it would likely pump more oil, increasing global supply. This would push oil prices lower. For countries like India, which imports more than 80 percent of its oil needs, cheaper oil is generally welcome news: it reduces the fuel import bill, eases inflation, and puts more money in the pockets of ordinary households. But for the global oil market, an OPEC breakup would introduce significant uncertainty. The cartel's power to manage prices would be weakened, and oil prices could become much more volatile, swinging sharply on supply news, geopolitical events, and demand changes. The long-term implication is that the world would move closer to a fully competitive oil market, which is good for oil consumers but disruptive for oil producers who depend on stable prices.
+
+# Final Thoughts
+
+The UAE's tension with OPEC is a small story about oil quotas that opens into a much bigger story about how cartels work, who benefits from them, and why they are always under pressure from within. For students of economics, this is a classic example of the "prisoner's dilemma," a situation where members of a group would each individually benefit from breaking the rules, even though the group as a whole does better when everyone follows them. The UAE wants to pump more oil because it is in their individual interest, even though it would harm OPEC as a collective. Understanding this tension is essential for understanding not just oil, but any market where cooperation and competition exist side by side.
