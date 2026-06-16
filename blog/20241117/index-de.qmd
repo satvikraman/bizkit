@@ -1,0 +1,32 @@
+---
+title: "Die Steuer, die die ganze Welt zahlen soll"
+date: 2024-11-17
+subtitle: "\"Ein Zoll ist eine Steuer auf Importe, was eine Steuer auf den Verbraucher ist.\" — Milton Friedman"
+description: "Nachdem Donald Trump am 5. November 2024 die US-Präsidentschaftswahl gewonnen hatte, war ein Wort in aller Munde: Zölle. Trump hat versprochen, auf alle Importe in die USA Zusatzzölle von bis zu 10-20% zu erheben. Hier wird erklärt, warum er diese Idee liebt – und warum die Rechnung komplizierter ist als er behauptet."
+image: "./title_20241117.png"
+twitter-card: {image: "./title_20241117.png"}
+open-graph: {image: "./title_20241117.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+In der Nacht des 5. November 2024 gewann Donald Trump zum zweiten Mal die US-Präsidentschaftswahl, und Finanzmärkte weltweit begannen sofort einzuschätzen, was seine Rückkehr ins Weiße Haus für den globalen Handel bedeuten würde. In Indien begannen Exporteure, Softwareunternehmen und politische Entscheidungsträger dieselbe Frage zu stellen: Was wird Trump mit den Zöllen machen? Ein Zoll ist einfach eine Steuer, die ein Land auf Waren erhebt, die aus einem anderen Land importiert werden. In seiner ersten Amtszeit verhängte Trump Zölle auf Stahl, Aluminium und Hunderte chinesischer Waren. In seinem Wahlkampf 2024 versprach er etwas viel Größeres: einen pauschalen Zoll von zehn bis zwanzig Prozent auf jedes in die USA importierte Produkt und Zölle von sechzig oder sogar hundert Prozent auf Waren aus China und Mexiko.
+
+# Warum Trump glaubt, dass Zölle funktionieren werden
+
+Die Kernlogik hinter Trumps Zollbegeisterung beginnt mit einem Steuerproblem. In seiner ersten Amtszeit verabschiedete Trump den Tax Cuts and Jobs Act, der die Einkommensteuer- und Körperschaftssteuersätze für amerikanische Unternehmen und Privatpersonen erheblich senkte. Im Jahr 2023 generierten US-Zölle auf importierte Waren etwa 160 Milliarden Dollar an Staatseinnahmen. Im Gegensatz dazu generierten Einkommens- und Körperschaftssteuern rund zwei Billionen Dollar. Trumps Idee ist, die Steuerlast von amerikanischen Arbeitnehmern und Unternehmen auf ausländische Exporteure zu verlagern, sodass andere Länder für Amerikas Wohlstand zahlen.
+
+# Der Teil, wo die Mathematik kompliziert wird
+
+Das Problem beim Ersetzen von Einkommensteuern durch Zölle ist mathematischer Natur. Bei einem Zollsatz von etwa fünfzig Prozent auf alle Importe schätzen Ökonomen, dass die USA maximal etwa 780 Milliarden Dollar an Zolleinnahmen einsammeln könnten. Das ist das Maximum. Darüber hinaus werden Zölle so teuer, dass amerikanische Verbraucher und Unternehmen einfach aufhören, ausländische Waren zu kaufen, was bedeutet, dass Importe sinken und damit auch Zolleinnahmen. Die Lücke zwischen 780 Milliarden und den zwei Billionen Dollar, die derzeit durch Einkommens- und Körperschaftssteuern eingenommen werden, ist enorm. Wenn ein amerikanisches Unternehmen einen fünfundzwanzigprozentigen Zoll auf aus Indien importierten Stahl zahlen muss, absorbiert es diese Kosten nicht still. Es gibt sie entweder durch Preiserhöhungen an die Kunden weiter oder senkt die Produktionskosten anderswo.
+
+# Was das für Indien bedeutet
+
+Indien ist einer der größten Exporteure von Waren und Dienstleistungen in die USA, und allein die Software- und IT-Dienstleistungsbranche verdient jährlich zig Milliarden Dollar von amerikanischen Kunden. In Trumps erster Amtszeit nahm er das H-1B-Visaprogramm ins Visier, auf das indische Technologieunternehmen angewiesen sind. Die Auswirkung eines breiten Zolls auf indische Exporte wäre nicht sofort oder katastrophal, aber sie würde die Kosten erhöhen, die Margen komprimieren und indische Exporteure zwingen, entweder neue Märkte zu finden oder niedrigere Preise zu akzeptieren.
+
+# Abschließende Gedanken
+
+Zölle gehören zu den ältesten Instrumenten im handelspolitischen Werkzeugkasten einer Regierung und haben, wenn sie umsichtig eingesetzt werden, einen echten Nutzen. Was Trumps Version der Zölle umstritten macht, ist das Ausmaß und der erklärte Zweck. Ein zwei Billionen Dollar umfassendes Einkommensteuersystem durch Zölle zu ersetzen, wurde noch nie versucht. Die Wirtschaftsgeschichte sehr hoher Zölle, insbesondere des Smoot-Hawley-Zollgesetzes von 1930, das zur Vertiefung der Weltwirtschaftskrise beitrug, gibt keinen Anlass zur Hoffnung. Für ein Land wie Indien, das eng mit dem amerikanischen Handel verbunden ist, ist es kein Problem nur für Ökonomen, zu verstehen, warum Zölle existieren und was sie tatsächlich bewirken. Es ist eine Frage, die in den kommenden Jahren die alltäglichen Preise, die Arbeitsplätze und die Entwicklung der Wirtschaft beeinflussen wird.
