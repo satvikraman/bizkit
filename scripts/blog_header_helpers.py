@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Helpers for blog header image generation workflow."""
 import argparse
+import re
 import subprocess
 import sys
 from pathlib import Path
@@ -13,21 +14,24 @@ PREFIX = (
     "The style should be modern and appealing to high school students, "
     "with bright colors and clear imagery. "
     "Ensure the image is suitable for use as a blog post header since it "
-    "will eventually be scaled to 664x548.\n\n"
+    "will eventually be scaled to 664x548. "
+    "IMPORTANT: Do not depict any real politicians, celebrities, or identifiable "
+    "public figures. Use only abstract icons, symbols, charts, and graphic elements. "
 )
 
 REPO = Path(__file__).resolve().parent.parent
 VENV_PYTHON = REPO / ".venv" / "bin" / "python"
 RESIZE_SCRIPT = REPO / "scripts" / "resize_image.py"
 DOWNLOADS = Path.home() / "Downloads"
+PAGEVIEWS_RE = re.compile(r"<p><b>Pageviews:</b>", re.IGNORECASE)
 
 
 def get_body(qmd_path: Path) -> str:
     text = qmd_path.read_text(encoding="utf-8")
     parts = text.split("---", 2)
-    if len(parts) >= 3:
-        return parts[2].strip()
-    return text.strip()
+    body = parts[2].strip() if len(parts) >= 3 else text.strip()
+    lines = [line for line in body.splitlines() if not PAGEVIEWS_RE.search(line)]
+    return " ".join(" ".join(lines).split())
 
 
 def build_prompt(folder: str) -> str:
@@ -89,18 +93,45 @@ def needs_image(folder: str) -> bool:
     return True
 
 
+def first_missing_image() -> str | None:
+    blog = REPO / "blog"
+    folders = sorted(p.name for p in blog.iterdir() if p.is_dir() and re.fullmatch(r"\d{8}", p.name))
+    for folder in folders:
+        if needs_image(folder):
+            return folder
+    return None
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("command", choices=["copy-prompt", "finalize", "needs-image"])
-    parser.add_argument("folder")
+    parser.add_argument(
+        "command",
+        choices=["copy-prompt", "finalize", "needs-image", "first-missing"],
+    )
+    parser.add_argument("folder", nargs="?", default="")
     args = parser.parse_args()
 
     if args.command == "copy-prompt":
+        if not args.folder:
+            print("folder required", file=sys.stderr)
+            sys.exit(1)
         path = copy_prompt(args.folder)
         print(path)
     elif args.command == "needs-image":
+        if not args.folder:
+            print("folder required", file=sys.stderr)
+            sys.exit(1)
         print("yes" if needs_image(args.folder) else "no")
+    elif args.command == "first-missing":
+        result = first_missing_image()
+        if result:
+            print(result)
+        else:
+            print("none")
     elif args.command == "finalize":
+        if not args.folder:
+            print("folder required", file=sys.stderr)
+            sys.exit(1)
         ok, msg = finalize(args.folder)
         if ok:
             print(msg)
