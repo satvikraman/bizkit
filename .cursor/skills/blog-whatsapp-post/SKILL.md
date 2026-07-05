@@ -1,27 +1,24 @@
 ---
 name: blog-whatsapp-post
 description: >-
-  Post Bizkit blog announcements to WhatsApp Channels via browser MCP.
-  Opens each language channel, pastes the title image and approved caption,
-  sends the post. Use for Phase 7 after WhatsApp templates are approved, or
-  when the user asks to post blog messages to WhatsApp.
+  Show Bizkit blog announcements for WhatsApp Channels so the user can post
+  them manually in WhatsApp Web. Use for Phase 7 after WhatsApp templates are
+  approved, or when the user asks to post blog messages to WhatsApp.
 disable-model-invocation: true
 ---
 
 # Blog WhatsApp Posting
 
-Post image + caption to each BizKit WhatsApp Channel using **user-browsermcp** on an logged-in `web.whatsapp.com` tab.
+Show the WhatsApp channel post for each BizKit language, then let the user post it manually in WhatsApp Web.
 
 ## Accepted Workflow (human + agent)
 
-1. Agent opens channel URL via browser MCP
-2. Agent runs `copy-image` → **user Cmd+V** in compose box
-3. Agent runs `copy-caption` (auto-formats spacing) → **user Cmd+V** in "Type an update"
-4. User reviews preview → says **"send"** → agent clicks **Send 1 selected**
+1. Agent cats the previously saved WhatsApp message text for that language
+2. User copies the message from the terminal and pastes it into WhatsApp Web manually
+3. User sends the post in WhatsApp Web
 
-Browser MCP cannot reliably inject Cmd+V into Chrome; the two paste steps stay manual by design.
+No browser integration is required in Phase 7; posting stays manual by design.
 
-- Chrome tab on `https://web.whatsapp.com/` with user logged in
 - User is **admin** of all six BizKit channels (compose box visible)
 - Approved messages from Phase 5/6 (or saved to `/tmp/whatsapp_YYYYMMDD/`)
 - Title image exists: `blog/YYYYMMDD/title_YYYYMMDD.png`
@@ -43,8 +40,6 @@ Helper script:
 
 ```bash
 .venv/bin/python scripts/whatsapp_post_helpers.py list-channels
-.venv/bin/python scripts/whatsapp_post_helpers.py channel-url --lang en
-.venv/bin/python scripts/whatsapp_post_helpers.py copy-image YYYYMMDD
 .venv/bin/python scripts/whatsapp_post_helpers.py handoff YYYYMMDD
 ```
 
@@ -69,6 +64,8 @@ Save messages before posting (optional but recommended):
 EOF
 )"
 ```
+
+When posting manually, use `cat` to display each previously saved message before copying it into WhatsApp Web.
 
 ## Post Format (matches live channels)
 
@@ -97,94 +94,30 @@ Before posting, run `format-message` (or `save-message` / `copy-caption`) to enf
 
 Process **one channel at a time**. Never post without explicit user approval.
 
-### 1. Open channel
+### 1. Show the saved message
 
-```text
-browser_navigate → channel URL for this language
-browser_wait → 8–10s (WhatsApp sync)
-browser_snapshot
-```
+Use `cat` on the previously stored WhatsApp message for that language so the user can copy it manually.
 
-Verify banner shows correct channel name (e.g. `BizKit - English 32 followers`) and compose box:
+### 2. User posts manually
 
-```text
-textbox "Type a message to BizKit - English"
-button "Attach"
-```
+The user opens WhatsApp Web, pastes the image and caption manually, and sends the post.
 
-Alternative navigation: click **Channels** sidebar → click channel button by name.
+### 3. Verify
 
-### 2. Copy image to clipboard
-
-```bash
-.venv/bin/python scripts/whatsapp_post_helpers.py copy-image YYYYMMDD
-```
-
-Uses macOS `osascript` to put `title_YYYYMMDD.png` on the clipboard.
-
-### 3. Paste image into compose box
-
-1. Copy image to clipboard:
-
-```bash
-.venv/bin/python scripts/whatsapp_post_helpers.py copy-image YYYYMMDD
-```
-
-2. `browser_snapshot` → click compose textbox (or inner `paragraph` ref)
-3. `browser_press_key` → `Meta+v`
-
-4. Wait 3s and snapshot. Look for image preview above compose area and **Send** button replacing Voice message.
-
-**If Meta+v does not show a thumbnail** (common browser MCP limitation — the extension cannot always inject clipboard paste into Chrome):
-
-- Tell user: *"Image is on your clipboard — please click the compose box and press Cmd+V once."*
-- Wait for user confirmation before continuing.
-
-Do **not** use Attach → Photos & videos unless the user prefers the file picker (browser MCP cannot drive it).
-
-### 4. Paste caption (after image preview is visible)
-
-**CRITICAL:** WhatsApp Web sends on **Enter**. Never use multi-line `browser_type`.
-
-1. Copy caption to clipboard:
-
-```bash
-.venv/bin/python scripts/whatsapp_post_helpers.py copy-caption YYYYMMDD --lang de
-```
-
-2. Click compose/caption area below the image preview
-3. `browser_press_key` → `Meta+v` (paste full caption in one shot)
-
-If Meta+v fails for text too, ask user to Cmd+V the caption.
-
-Do **not** click Send until user explicitly approves.
-
-### 5. Send
-
-1. `browser_snapshot` → find **Send** button (replaces "Voice message" when content exists)
-2. `browser_click` Send
-
-If no Send button visible, try `browser_press_key` → `Enter` (only when caption box is focused).
-
-### 6. Verify
-
-Snapshot the channel feed. Confirm new post shows:
+Snapshot the channel feed after the user posts. Confirm the new post shows:
 - Title image thumbnail
 - Caption with ⭐ title, 📌 Main Points, and blog link
 
-Wait 3s before opening next channel.
+Wait 3s before opening the next channel.
 
 ## Batch: All Six Languages
 
 ```
 For lang in [en, hi, ta, te, kn, de]:
-  1. Open channel URL
-  2. copy-image YYYYMMDD
-  3. Paste image (Meta+v)
-  4. Type messages[lang] caption
-  5. Send
-  6. Verify
-  Report: "Posted en ✓, hi ✓, ..."
+  1. cat the saved message for lang
+  2. User copies and pastes the image and caption in WhatsApp Web
+  3. Verify
+  Report: "Prepared en ✓, hi ✓, ..."
 ```
 
 Stop immediately on failure and report which language failed.
@@ -192,8 +125,8 @@ Stop immediately on failure and report which language failed.
 ## Safety Rules
 
 - **Never post without explicit user approval** of all six templates
-- Default: post one language, confirm with user, continue
-- If user says **"post all"**, run all six sequentially without pauses
+- Default: prepare one language, confirm with user, continue
+- If user says **"post all"**, prepare all six sequentially without pauses; the user still posts them manually
 - Do not post test/draft content to live channels
 - Same `title_YYYYMMDD.png` is reused for all languages (only caption differs)
 
@@ -201,14 +134,8 @@ Stop immediately on failure and report which language failed.
 
 | Problem | Action |
 |---------|--------|
-| WhatsApp still loading | Wait 10s, snapshot again |
-| Not logged in / QR screen | Stop — ask user to log in |
-| Compose box missing | User may not be channel admin; stop |
-| Clipboard paste fails | Ask user to paste image manually (Cmd+V), continue with caption |
-| Attach file picker opens | Cannot automate — use clipboard paste instead |
-| Caption sent line-by-line | Never use `\n` in `browser_type` — paste via `copy-caption` + Meta+v |
-| Image paste fails | User Cmd+V manually, or Attach → Photos & videos |
-| Send button not found | Snapshot; look for Send vs Voice message button |
+| User wants a pasted message | Show the stored text with `cat`, then let the user paste manually |
+| User wants channel details | Use `list-channels` or `channel-url` to find the right channel name or URL |
 
 ## Integration
 
