@@ -1,0 +1,44 @@
+---
+title: "Why Meta Is Betting on CRED and What That Says About Payments"
+date: 2026-07-05
+subtitle: "A brand is no longer what we tell the consumer it is. It is what consumers tell each other it is. — Scott Cook"
+description: "Meta may be a social media giant, but in India it still has not cracked the payments habit that really matters. CRED may be loss making, yet it has built the kind of financial relationship Meta wants access to."
+image: "./title_20260705.png"
+twitter-card: {image: "./title_20260705.png"}
+open-graph: {image: "./title_20260705.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+For years, CRED has occupied a strange place in India's startup world. It is one of the country's best known fintech brands, it has a loyal user base, and it has expanded from credit card bill payments into lending, UPI, rent payments, and wealth products. Yet one question keeps coming back. How exactly does CRED make money, and why does it still matter so much to investors if profitability has not fully caught up.
+
+That question matters even more now because the list of CRED believers may include one of the biggest names in technology. According to reports, Meta is set to invest around 900 million dollars in CRED at a valuation of roughly 3.5 to 4 billion dollars. That is below CRED's peak valuation, but it is still enough to show that the company has something Meta wants.
+
+# Why Meta Wants A Payments Footprint
+
+Meta is not short on users. It owns Facebook, Instagram, and WhatsApp, which are among the world's biggest consumer platforms. In India alone, WhatsApp reaches hundreds of millions of people, and Meta even has WhatsApp Pay. On paper, that should have been enough to give Meta a strong foothold in Indian digital payments. In reality, it was not.
+
+WhatsApp Pay launched in 2018 with the hope that India's biggest messaging app could also become a payments giant. But the National Payments Corporation of India was worried about any single app dominating the system, so it capped onboarding and slowed the rollout for years. By the time those limits were lifted in late 2024, Google Pay and PhonePe had already become the default options for most users. Together, they now handle more than four out of every five UPI transactions, while WhatsApp Pay remains tiny by comparison.
+
+That leaves Meta with a clear problem. It owns one of India's largest digital platforms, but it still does not own one of India's biggest digital habits. In the internet economy, payments are the gateway to loans, insurance, shopping, subscriptions, and every other financial product sold inside the same app.
+
+# CRED's Strange Advantage
+
+This is where CRED becomes useful to understand. Unlike WhatsApp Pay, CRED is not trying to persuade people to trust it with money from scratch. It already has that trust, but only from a very specific audience. The platform accepts users with credit scores above 750, which means it is built around affluent, financially active customers that banks and premium brands are eager to reach. CRED says nearly half of its active users now use at least three products on the platform, and in FY25 they processed more than 8.5 lakh crore rupees worth of payments.
+
+That is a valuable user base because it gives CRED a habit that is hard to copy. People do not switch payment apps the way they switch social media feeds. Once they are comfortable paying through one platform, they tend to stay. CRED has also widened its product set into lending, rent payment, UPI, and wealth, which makes it look less like a single app and more like a financial ecosystem. Even so, the company is still loss making. In FY25 it reported operating revenue of 2,735 crore rupees and a net loss of 1,457 crore rupees.
+
+# The Story Deep-Dive
+
+The most interesting part of this deal is not the size of the cheque. It is the strategic logic behind it. Meta's core business is advertising, and ads still generate about 98 percent of its total revenue. That means Meta is not buying CRED because it needs another consumer app in the usual sense. It is looking for a foothold in a financial relationship it has not been able to build on its own in India. Reports also suggest that CRED founder Kunal Shah is moving to WhatsApp, which makes the connection even more telling. If the investment happens, Meta gets closer to a fintech ecosystem that already understands affluent users, while CRED gets a powerful backer with a massive platform and deeper distribution.
+
+That does not mean Meta will suddenly gain access to CRED's financial data. Reports indicate the investment would not hand Meta user level financial information. But the deal could still matter because it aligns Meta with one of India's most valuable fintech ecosystems at a time when digital finance is becoming the real prize. Attention gets users in the door, but payments and financial services keep them inside the ecosystem.
+
+# Final Thoughts
+
+Meta's bet on CRED is really a bet on a different kind of power. It is not about owning the most popular app. It is about being close to the financial habits that matter most. CRED may still be working out its profit model, but it already has something rare in consumer finance, a trusted relationship with a valuable user base.
+
+If Meta gets this right, the investment will look less like a side bet and more like a warning to everyone else in digital finance. The next big platform fight in India may not be over views or messages. It may be over who gets to sit closest to the money.

@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """Helpers for blog header image generation workflow."""
 import argparse
+import os
 import re
 import subprocess
 import sys
+import tempfile
 from pathlib import Path
 
 PREFIX = (
@@ -20,10 +22,30 @@ PREFIX = (
 )
 
 REPO = Path(__file__).resolve().parent.parent
-VENV_PYTHON = REPO / ".venv" / "bin" / "python"
+if os.name == "nt":
+    VENV_PYTHON = REPO / ".venv" / "Scripts" / "python.exe"
+else:
+    VENV_PYTHON = REPO / ".venv" / "bin" / "python"
 RESIZE_SCRIPT = REPO / "scripts" / "resize_image.py"
 DOWNLOADS = Path.home() / "Downloads"
 PAGEVIEWS_RE = re.compile(r"<p><b>Pageviews:</b>", re.IGNORECASE)
+
+
+def copy_to_clipboard(text: str) -> None:
+    if sys.platform == "darwin":
+        subprocess.run(["pbcopy"], input=text, text=True, check=True)
+        return
+
+    if os.name == "nt":
+        subprocess.run(["clip"], input=text, text=True, check=True)
+        return
+
+    for command in (("wl-copy",), ("xclip", "-selection", "clipboard"), ("xsel", "--clipboard", "--input")):
+        try:
+            subprocess.run(command, input=text, text=True, check=True)
+            return
+        except (FileNotFoundError, subprocess.CalledProcessError):
+            continue
 
 
 def get_body(qmd_path: Path) -> str:
@@ -43,9 +65,9 @@ def build_prompt(folder: str) -> str:
 
 def copy_prompt(folder: str) -> Path:
     prompt = build_prompt(folder)
-    out = Path("/tmp") / f"blog_prompt_{folder}.txt"
+    out = Path(tempfile.gettempdir()) / f"blog_prompt_{folder}.txt"
     out.write_text(prompt, encoding="utf-8")
-    subprocess.run(["pbcopy"], input=prompt.encode("utf-8"), check=True)
+    copy_to_clipboard(prompt)
     return out
 
 

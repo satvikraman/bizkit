@@ -1,0 +1,44 @@
+---
+title: "మెటా ఎందుకు CRED మీద పందెం వేస్తోంది, మరియు ఇది చెల్లింపుల గురించి ఏమి చెబుతోంది"
+date: 2026-07-05
+subtitle: "ఒక బ్రాండ్ అంటే మనం వినియోగదారులకు చెప్పేది కాదు. వినియోగదారులు ఒకరితో ఒకరు చెప్పుకునేది అదే. — Scott Cook"
+description: "మెటా వద్ద Facebook, Instagram, WhatsApp వంటి పెద్ద ప్లాట్‌ఫార్ములు ఉన్నాయి. అయినా భారత్ లో చెల్లింపుల అలవాటును అది ఇంకా పట్టుకోలేకపోయింది. మరోవైపు CRED నమ్మకం ఉన్న, సంపన్న వినియోగదారులను నిర్మించింది, అదే మెటాను ఆకర్షిస్తోంది."
+image: "./title_20260705.png"
+twitter-card: {image: "./title_20260705.png"}
+open-graph: {image: "./title_20260705.png"}
+categories: ["డబ్బు మరియు మార్కెట్"]
+author: "సాత్విక్ రామన్"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# పరిచయం
+
+భారత startup ప్రపంచంలో CRED ఎప్పుడూ ఒక విచిత్రమైన స్థానంలో ఉంది. ఇది దేశంలో చాలా మందికి తెలిసిన fintech brand లలో ఒకటి. దీనికి loyal user base ఉంది, credit card bill payments నుంచి lending, UPI, rent payments, wealth products వరకు ఇది విస్తరించింది. అయినా ఒక ప్రశ్న మళ్లీ మళ్లీ వస్తూనే ఉంది. CRED డబ్బు ఎలా సంపాదిస్తోంది, profitability ఇంకా పూర్తిగా రాకపోయినా ఇది investors కి ఎందుకు అంత ముఖ్యంగా ఉంది.
+
+ఇప్పుడు ఆ ప్రశ్న మరింత ఆసక్తికరంగా మారింది, ఎందుకంటే CRED ను నమ్మే వారి జాబితాలో technology లోని అతిపెద్ద పేర్లలో ఒకటి చేరే అవకాశం ఉంది. reports ప్రకారం Meta, CRED లో సుమారు 900 million dollars పెట్టుబడి పెట్టడానికి సిద్ధంగా ఉంది, valuation సుమారు 3.5 నుంచి 4 billion dollars మధ్య ఉండొచ్చు. ఇది CRED peak valuation కంటే తక్కువ, కానీ Meta కి ఇందులో ఏదో అవసరమైనది కనిపిస్తోంది అని ఇది చూపిస్తోంది.
+
+# Meta కి payments footprint ఎందుకు కావాలి
+
+Meta కి users తక్కువ కాదు. Facebook, Instagram, WhatsApp అన్నీ దాని సొంతం, ఇవి ప్రపంచంలో అతిపెద్ద consumer platforms లో కొన్ని. భారత్ లో WhatsApp కు కోట్లాది మంది చేరువ ఉన్నారు, Meta వద్ద WhatsApp Pay కూడా ఉంది. కాగితం మీద చూస్తే, భారత digital payments లో అది బలంగా ఉండాల్సింది. కానీ నిజానికి అలా కాలేదు.
+
+WhatsApp Pay 2018 లో మొదలైంది. భారతదేశంలో అతిపెద్ద messaging app ఒక పెద్ద payments giant గా మారవచ్చని ఆలోచన. కానీ National Payments Corporation of India, ఒకే app system ను dominate చేయకూడదని భావించింది. అందుకే onboarding పరిమితి పెట్టి rollout ను ఎన్నో సంవత్సరాలు నెమ్మదిగా చేసింది. late 2024 లో ఆ పరిమితులు తొలగించే సమయానికి Google Pay మరియు PhonePe ఇప్పటికే చాలా మంది users కి default options అయ్యాయి. ఇవి కలిపి ఇప్పుడు నాలుగు UPI transactions లో నాలుగుకి పైగా వాటాను నిర్వహిస్తున్నాయి, కానీ WhatsApp Pay ఇంకా చాలా చిన్నది.
+
+ఇదే Meta సమస్య. దానికి భారత్ లో ఒక పెద్ద digital platform ఉంది, కానీ దేశంలోని అతిపెద్ద digital habit ను అది ఇంకా own చేయలేదు. internet economy లో payments అనేది money పంపే మార్గం మాత్రమే కాదు. అదే app లో loans, insurance, shopping, subscriptions, ఇతర financial products కి వెళ్లే మార్గం.
+
+# CRED యొక్క ప్రత్యేక బలం
+
+ఇక్కడే CRED ఉపయోగకరంగా మారుతుంది. WhatsApp Pay లాగా, CRED ప్రజలను తమ డబ్బును trust చేయమని మొదటి నుంచి persuade చేయడం లేదు. దానికి ఆ trust ఇప్పటికే ఉంది, కానీ చాలా ప్రత్యేకమైన user group లో మాత్రమే. ఈ platform 750 కంటే ఎక్కువ credit score ఉన్న users ను మాత్రమే తీసుకుంటుంది. అంటే ఇది wealthy, financially active customers కోసం నిర్మించబడింది. banks మరియు premium brands ఇటువంటి customers ను చేరుకోవాలనుకుంటాయి. CRED చెప్పినదాని ప్రకారం, దాని active users లో దాదాపు సగం మంది ఇప్పుడు platform లో కనీసం మూడు products ను వాడుతున్నారు, FY25 లో వారు 8.5 lakh crore rupees కంటే ఎక్కువ payments process చేశారు.
+
+ఈ user base విలువైనది, ఎందుకంటే ఇది CRED కు copy చేయడం కష్టం అయిన habit ను ఇస్తుంది. ప్రజలు payment apps ను social media feeds లాగా మార్చరు. ఒక platform లో pay చేయడంలో సౌకర్యంగా మారిన తర్వాత, వారు సాధారణంగా అక్కడే ఉంటారు. CRED తన product set ను lending, rent payment, UPI, wealth వరకు విస్తరించింది. దాంతో ఇది single app లా కాకుండా ఒక financial ecosystem లా కనిపిస్తోంది. అయినా company ఇంకా loss making గానే ఉంది. FY25 లో దాని operating revenue 2,735 crore rupees, net loss 1,457 crore rupees.
+
+# కథలోని లోతైన అర్థం
+
+ఈ deal లో అత్యంత ఆసక్తికరమైన విషయం cheque size కాదు. దాని వెనుక ఉన్న strategy. Meta యొక్క core business advertising, ads ఇంకా దాని మొత్తం revenue లో సుమారు 98 percent ను ఇస్తున్నాయి. అంటే Meta CRED ను ఒక కొత్త consumer app కావాలనే కొనడం కాదు. భారతదేశంలో తానే నిర్మించలేకపోయిన ఒక financial relationship కు అడుగు పెట్టాలని చూస్తోంది. reports ప్రకారం CRED founder Kunal Shah కూడా WhatsApp వైపు వెళ్తున్నారు. ఇది జరిగితే, Meta ఇప్పటికే affluent users ను బాగా అర్థం చేసుకునే fintech ecosystem కు దగ్గరవుతుంది, CRED కు మాత్రం పెద్ద backer మరియు ఎక్కువ distribution లభిస్తుంది.
+
+దీని అర్థం Meta కు CRED financial data access దొరుకుతుందన్నది కాదు. reports ప్రకారం ఈ investment వల్ల Meta కు user level financial information రాదు. కానీ ఈ deal మాత్రం చాలా ముఖ్యంగా మారొచ్చు, ఎందుకంటే ఇది Meta ను భారతదేశంలోని విలువైన fintech ecosystems లో ఒకదానితో కలుపుతుంది. అదే సమయంలో digital finance అసలు prize గా మారుతోంది. attention users ను app లోకి తెస్తుంది. payments మరియు financial services వారిని అక్కడే ఉంచుతాయి.
+
+# చివరి ఆలోచనలు
+
+CRED మీద Meta పెట్టే ఈ bet, నిజానికి వేరే రకమైన power మీద bet. ఇది అత్యంత popular app ను own చేయడం గురించి కాదు. ఇది అత్యంత ముఖ్యమైన financial habits కి దగ్గరగా ఉండడం గురించి. CRED ఇంకా తన profit model ను పూర్తిగా సాధించలేదు. కానీ consumer finance లో దానికి ఒక అరుదైన విషయం ఉంది, విలువైన user base తో నమ్మకమైన సంబంధం.
+
+Meta ఇందులో సరిగా ఉంటే, ఈ investment ఒక సాధారణ funding deal కంటే పెద్దదిగా కనిపిస్తుంది. ఇది ఇతర digital finance కంపెనీలకు ఒక హెచ్చరిక కూడా అవుతుంది. భారత్ లో వచ్చే పెద్ద platform battle views లేదా messages గురించి కాకపోవచ్చు. అది డబ్బుకు అత్యంత దగ్గరగా ఎవరు ఉంటారన్నదానిపై ఉండొచ్చు.

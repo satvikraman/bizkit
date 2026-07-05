@@ -2,8 +2,10 @@
 """Helpers for BizKit WhatsApp channel posting workflow."""
 import argparse
 import json
+import os
 import subprocess
 import sys
+import tempfile
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -75,21 +77,56 @@ def image_path(folder: str) -> Path:
     return p
 
 
+def copy_to_clipboard(text: str) -> None:
+    if sys.platform == "darwin":
+        subprocess.run(["pbcopy"], input=text, text=True, check=True)
+        return
+
+    if os.name == "nt":
+        subprocess.run(
+            ["powershell", "-NoProfile", "-Command", "Set-Clipboard -Value ([Console]::In.ReadToEnd())"],
+            input=text,
+            text=True,
+            encoding="utf-8",
+            check=True,
+        )
+        return
+
+    for command in (("wl-copy",), ("xclip", "-selection", "clipboard"), ("xsel", "--clipboard", "--input")):
+        try:
+            subprocess.run(command, input=text, text=True, check=True)
+            return
+        except (FileNotFoundError, subprocess.CalledProcessError):
+            continue
+
+
 def copy_image_to_clipboard(folder: str) -> Path:
     img = image_path(folder)
-    subprocess.run(
-        [
-            "osascript",
-            "-e",
-            f'set the clipboard to (read (POSIX file "{img}") as «class PNGf»)',
-        ],
-        check=True,
-    )
+    if sys.platform == "darwin":
+        subprocess.run(
+            [
+                "osascript",
+                "-e",
+                f'set the clipboard to (read (POSIX file "{img}") as «class PNGf»)',
+            ],
+            check=True,
+        )
+    elif os.name == "nt":
+        image_path_text = str(img).replace("'", "''")
+        script = (
+            "Add-Type -AssemblyName System.Windows.Forms; "
+            "Add-Type -AssemblyName System.Drawing; "
+            f"$image = [System.Drawing.Image]::FromFile('{image_path_text}'); "
+            "[System.Windows.Forms.Clipboard]::SetImage($image)"
+        )
+        subprocess.run(["powershell", "-NoProfile", "-Command", script], check=True)
+    else:
+        raise RuntimeError("Image clipboard copying is only implemented for macOS and Windows in this helper.")
     return img
 
 
 def save_message(folder: str, lang: str, text: str) -> Path:
-    out_dir = Path("/tmp") / f"whatsapp_{folder}"
+    out_dir = Path(tempfile.gettempdir()) / f"whatsapp_{folder}"
     out_dir.mkdir(parents=True, exist_ok=True)
     path = out_dir / f"{lang}.txt"
     path.write_text(format_whatsapp_message(text), encoding="utf-8")
@@ -97,7 +134,7 @@ def save_message(folder: str, lang: str, text: str) -> Path:
 
 
 def load_message(folder: str, lang: str) -> str:
-    path = Path("/tmp") / f"whatsapp_{folder}" / f"{lang}.txt"
+    path = Path(tempfile.gettempdir()) / f"whatsapp_{folder}" / f"{lang}.txt"
     if not path.exists():
         raise FileNotFoundError(f"Missing message file: {path}")
     return path.read_text(encoding="utf-8")
@@ -105,12 +142,12 @@ def load_message(folder: str, lang: str) -> str:
 
 def copy_message_to_clipboard(folder: str, lang: str) -> str:
     text = format_whatsapp_message(load_message(folder, lang))
-    subprocess.run(["pbcopy"], input=text.encode("utf-8"), check=True)
+    copy_to_clipboard(text)
     return text
 
 
 def handoff_json(folder: str) -> dict:
-    messages_dir = Path("/tmp") / f"whatsapp_{folder}"
+    messages_dir = Path(tempfile.gettempdir()) / f"whatsapp_{folder}"
     messages = {}
     for lang in POST_ORDER:
         p = messages_dir / f"{lang}.txt"
@@ -184,10 +221,17 @@ def main() -> None:
             sys.exit(1)
         print(copy_message_to_clipboard(args.folder, args.lang), end="")
     elif args.command == "save-message":
-        if not args.lang or not args.text:
-            print("--lang and --text required", file=sys.stderr)
+        if not args.lang:
+            print("--lang required", file=sys.stderr)
             sys.exit(1)
-        p = save_message(args.folder, args.lang, args.text)
+        if args.stdin:
+            raw = sys.stdin.read()
+        elif args.text:
+            raw = args.text
+        else:
+            print("provide --stdin or --text", file=sys.stderr)
+            sys.exit(1)
+        p = save_message(args.folder, args.lang, raw)
         print(p)
     elif args.command == "load-message":
         if not args.lang:
