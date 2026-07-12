@@ -1,0 +1,38 @@
+---
+title: "Die Kunst des Loslassens: Was der Sunk-Cost-Irrtum uns über Micromaxs zweites Kapitel lehrt"
+date: 2026-12-07
+subtitle: "In unserer Kultur gilt Aufhören als Schimpfwort. Dabei ist es eine sehr ausgefeilte kognitive Fähigkeit, zu wissen wann man aufhören sollte. — Annie Duke, Entscheidungswissenschaftlerin und Autorin von Quit"
+description: "Micromax beherrschte einst den indischen Smartphone-Markt und verlor dann alles. Was das Unternehmen anschließend mit seinen Fabriken machte, ist ein Lehrbeispiel für den wichtigsten wirtschaftlichen Grundsatz, den die meisten Menschen nie lernen."
+image: "./title_20260712.png"
+twitter-card: {image: "./title_20260712.png"}
+open-graph: {image: "./title_20260712.png"}
+categories: ["Unternehmensentscheidungen"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Fast jeder tappt irgendwann in eine mentale Falle. Man hat bereits zwei Stunden eines langweiligen Films gesessen, hat schon längst aufgehört ihn zu genießen, bleibt aber bis zum Ende, weil man das Ticket bezahlt hat. Das Geld ist so oder so weg, aber das Gehirn weigert sich das so zu behandeln. Ökonomen nennen das den **Sunk-Cost-Irrtum**, und er treibt still und leise manche der schlechtesten Entscheidungen an, die je getroffen wurden.
+
+Eine versunkene Kosten ist jede Investition an Zeit, Geld oder Mühe, die man nicht zurückbekommen kann. Der Irrtum ist die menschliche Neigung, diese verschwundene Investition künftige Entscheidungen steuern zu lassen, auch wenn das keinen rationalen Sinn ergibt. Wenn ein Unternehmen bereits ₹1.000 Crore für den Bau einer Fabrik für ein Produkt ausgegeben hat, das niemand mehr haben möchte, fühlt sich eine Schließung wie Versagen an. Aber den Betrieb fortzuführen verstärkt nur die Verschwendung. Die richtige Frage lautet nie: "Wie viel habe ich schon ausgegeben", sondern immer: "Macht es Sinn, die nächste Rupie hier zu investieren."
+
+Micromaxs Geschichte ist eine Fallstudie darin, wie es aussieht, wenn ein Unternehmen anders vorgeht. Der Gurgaon-Handyhersteller, der einst den höchsten Smartphone-Marktanteil in Indien hatte, verlor alles durch eine chinesische Welle, verbrachte fast ein Jahrzehnt damit umherzuirren, und hat seine alten Fabriken nun auf etwas umgestellt, das überhaupt nichts mit Handys zu tun hat. Zu verstehen, warum das die richtige Entscheidung war, beginnt damit, den Irrtum selbst zu verstehen.
+
+# Die Welle, die Micromax weggespült hat
+
+Für eine kurze Zeit um 2014 und 2015 war Micromax Indiens meistverkaufte Handymarke. Das Unternehmen hatte den Markt richtig gelesen und sein Geschäft auf erschwingliche Android-Handys aufgebaut, zu einem Zeitpunkt, als die meisten Inder ihr allerstes Smartphone kauften. Dann kamen Xiaomi, Vivo und Oppo mit günstigeren Preisen und besserer Hardware, und Micromaxs Marktanteil brach fast über Nacht zusammen. Ein vom Sunk-Cost-Irrtum befallenes Unternehmen hätte verdoppelt, weil es bereits so viel ausgegeben hatte. Micromax versuchte diesen Weg eine Zeit lang, akzeptierte aber schließlich, dass der Kampf verloren war.
+
+Zwischen ungefähr 2017 und dem frühen 2020er irrlichterte Micromax umher. Das Unternehmen versuchte Software und Dienstleistungen, erweiterte in andere Elektronik und fiel schließlich auf Einstiegsklasse-Feature-Handys zurück, nur um das Unternehmen am Leben zu erhalten. Keiner dieser kleineren Versuche fand wirklich Anklang. Doch durch all das hielt Micromax an Bhagwati Products fest, seinem Fertigungsarm, der Präzisions-Oberflächenmontagetechnik-Linien betrieb, die Halbleiterchips auf Leiterplatten setzen. Als der Smartphone-Kampf endlich vorbei war, liefen diese Linien noch, und sie wurden zur Grundlage für etwas völlig Neues.
+
+# Das MiPhi-Wagnis
+
+Ende 2024 gründete Micromax MiPhi Semiconductors, ein Gemeinschaftsunternehmen mit Phison Electronics, einem taiwanesischen Chip-Unternehmen im Wert von etwa 3 Milliarden Dollar, dessen Controller ein von fünf weltweit versendeten SSDs antreiben. Der Deal ergibt für beide Seiten wirtschaftlich Sinn. Phison erhält einen indischen Fertigungspartner, was sein Angebot an staatlich nahestehende Käufer wie öffentliche Banken und Verteidigungsbehörden stärkt, die zunehmend auf indischem Boden hergestellte Hardware bevorzugen. Micromax erhält einen Technologietransfer und einen Einstieg in ein Geschäft, das weit anspruchsvoller ist als Budgethandys. MiPhi stellt derzeit rund 30.000 Unternehmens-Laufwerke pro Monat her und strebt innerhalb des Jahres eine Verzehnfachung an, mit einem Umsatzziel von rund ₹1.000 Crore.
+
+Die von MiPhi hergestellten Laufwerke zielen auf ein spezifisches Problem im KI-Computing ab. Das Betreiben eines großen KI-Modells erfordert, dass einem Prozessor-Chip kontinuierlich riesige Mengen an Daten zugeführt werden, und heute werden die meisten dieser Daten in den teuren, festgroßen eingebauten Speicher einer Grafikkarte gepresst. Phisons aiDAPTIV+-Design löst dies, indem nur der aktive Teil des Modells auf der Grafikkarte verbleibt und alles andere auf einer viel günstigeren SSD in der Nähe geparkt wird. Für Unternehmen und Forscher, die sich kein volles Rack an Grafikkarten leisten können, ist das ein attraktiver Kompromiss zwischen Kosten und Geschwindigkeit.
+
+# Abschließende Gedanken
+
+Das Speichergeschäft ist für Neueinsteiger brutal schwer. Es wurde historisch von nur drei oder vier Unternehmen dominiert, und heute beherrschen Samsung, SK Hynix und Micron den Markt, jedes mit Bargeldreserven, die groß genug sind, Preiseinbrüche zu absorbieren, die kleinere Akteure regelmäßig auslöschen. Ein junges Unternehmen, das in einem schlechten Abschwung gefangen ist, geht schlicht das Geld aus, bevor sich die Preise erholen. MiPhi importiert sowohl seine Controller-Chips aus Taiwan als auch seine rohen NAND-Flash-Wafer von koreanischen, japanischen und amerikanischen Lieferanten, was die Lieferkette anfällig macht. Dazu kommt, dass ein vorsichtiger Bankmanager oder Rechenzentrumsleiter davon zu überzeugen, einer Marke, die für billige Handys bekannt ist, sensible Daten anzuvertrauen, ein langsamer, mühsamer Prozess ist, den ein einziger hochkarätiger Misserfolg um Jahre zurückwerfen könnte.
+
+Der Sunk-Cost-Irrtum erscheint auf dem Papier offensichtlich. In der Praxis ist es für Menschen und Unternehmen gleichermaßen wirklich schwer, etwas loszulassen, in das man stark investiert hat. Micromaxs langer Weg nach 2015 ist eine Lektion darin, was es braucht, aufzuhören, einem verlorenen Kampf nachzujagen. Die Smartphone-Fabriken, die zu einem toten Gewicht hätten werden können, wurden stattdessen zur Grundlage von MiPhi, einem Gemeinschaftsunternehmen mit einem der weltweit führenden SSD-Controller-Hersteller. Ob das Wagnis Erfolg haben wird, ist noch eine offene Frage, aber die Entscheidung, ein Kapitel zu schließen und das Verbleibende umzuleiten, ist genau die Art von Denken, vor deren Versagen zu schützen der Sunk-Cost-Irrtum benannt wurde.

@@ -1,0 +1,38 @@
+---
+title: "The Art of Letting Go: What the Sunk Cost Fallacy Teaches Us About Micromax's Second Act"
+date: 2026-12-07
+subtitle: "Quitting is treated like a four-letter word in our culture. But it turns out, knowing when to quit is a very sophisticated cognitive skill. — Annie Duke, decision scientist and author of Quit"
+description: "Micromax once ruled India's smartphone market, then lost it all to a Chinese wave it never saw coming. The story of what the company did with its factories after that is a masterclass in the most important economic principle that most people never learn."
+image: "./title_20260712.png"
+twitter-card: {image: "./title_20260712.png"}
+open-graph: {image: "./title_20260712.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+There is a mental trap that almost everyone falls into at some point. You have already sat through two hours of a boring film, and even though you stopped enjoying it long ago, you stay to the end because you paid for the ticket. The money is gone either way, but the brain refuses to treat it that way. Economists call this the **Sunk Cost Fallacy**, and it quietly drives some of the worst decisions ever made.
+
+A sunk cost is any investment of time, money, or effort that you cannot get back. The fallacy is the human tendency to let that vanished investment drive future decisions, even when doing so makes no rational sense. If a company has already spent ₹1,000 crore building a factory for a product nobody wants anymore, shutting it down feels like failure. But continuing to run it just compounds the waste. The right question is never "how much have I already spent" but always "does it make sense to spend the next rupee here."
+
+Micromax's story plays out as a case study in what it looks like when a company does things differently. The Gurgaon phone maker that once held India's highest smartphone market share lost everything to a Chinese wave, spent nearly a decade wandering, and has now repurposed its old factories into something that has nothing to do with phones at all. Understanding why that was the right call starts with understanding the fallacy itself.
+
+# The Wave That Swept Micromax Away
+
+For a brief stretch around 2014 and 2015, Micromax was India's highest-selling phone brand. The company had read the market well, building its business on affordable Android phones at a time when most Indians were buying their very first smartphone. Then Xiaomi, Vivo, and Oppo arrived with cheaper prices and better hardware, and Micromax's market share collapsed almost overnight. A company gripped by the sunk cost fallacy would have doubled down and spent even more, because it had already spent so much. Micromax tried that path for a while, but eventually accepted that the fight was over.
+
+Between roughly 2017 and the early 2020s, Micromax wandered. It tried software and services, expanded into other electronics, and eventually dropped all the way down to entry-level feature-phones just to keep the company alive. None of those smaller bets found real traction. But through all of it, Micromax held onto Bhagwati Products, its manufacturing arm, which ran precision surface-mount technology lines of the kind that place semiconductor chips onto circuit boards. When the smartphone fight was finally over, those lines were still running, and they became the foundation for something completely new.
+
+# The MiPhi Gamble
+
+In late 2024, Micromax formed MiPhi Semiconductors, a joint venture with Phison Electronics, a Taiwanese chip company worth around $3 billion whose controllers power one in every five SSDs shipped worldwide. The deal makes commercial sense for both sides. Phison gets an Indian manufacturing partner, which strengthens its pitch to government-linked buyers like public-sector banks and defence agencies that increasingly prefer hardware made on Indian soil. Micromax gets a technology transfer and a path into a business far more demanding than budget phones. MiPhi currently makes around 30,000 enterprise drives a month and is aiming for a tenfold jump within the year, chasing roughly ₹1,000 crore in revenue.
+
+The drives MiPhi is building target a specific problem in AI computing. Running a large AI model demands that enormous amounts of data be fed continuously to a processing chip, and today most of that data is crammed into a graphics card's expensive, fixed-size built-in memory. Phison's aiDAPTIV+ design solves this by keeping only the active slice of the model on the graphics card and parking everything else on a much cheaper SSD nearby. For companies and researchers that cannot afford a full rack of graphics cards, this is a compelling trade-off between cost and speed.
+
+# Final Thoughts
+
+The memory business is brutally hard for newcomers. It has historically been controlled by just three or four companies, and today Samsung, SK Hynix, and Micron dominate the market, each sitting on cash reserves large enough to absorb the price crashes that periodically wipe out smaller players. A young venture caught in a bad downturn simply runs out of money before prices recover. MiPhi also still imports both its controller chips from Taiwan and its raw NAND flash wafers from Korean, Japanese, and US suppliers, which makes the supply chain fragile. On top of that, convincing a cautious bank or a data centre manager to hand over sensitive data to a brand famous for cheap phones is a slow, uphill process that a single high-profile failure could set back by years.
+
+The sunk cost fallacy feels obvious when you read it on paper. In practice, letting go of something you have invested heavily in is genuinely hard, for people and for companies alike. Micromax's long walk after 2015 is a lesson in what it takes to stop chasing a lost fight. The smartphone factories that could have become a dead weight instead became the foundation for MiPhi, a joint venture with one of the world's top SSD controller makers. Whether the gamble succeeds is still an open question, but the decision to let one chapter close and redirect what remained is exactly the kind of thinking the sunk cost fallacy was named to warn us against failing to make.
