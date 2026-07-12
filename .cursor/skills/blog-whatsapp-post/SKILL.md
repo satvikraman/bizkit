@@ -102,21 +102,12 @@ Use `cat` on the previously stored WhatsApp message for that language so the use
 
 The user opens WhatsApp Web, pastes the image and caption manually, and sends the post.
 
-### 3. Verify
-
-Snapshot the channel feed after the user posts. Confirm the new post shows:
-- Title image thumbnail
-- Caption with ⭐ title, 📌 Main Points, and blog link
-
-Wait 3s before opening the next channel.
-
 ## Batch: All Six Languages
 
 ```
 For lang in [en, hi, ta, te, kn, de]:
   1. cat the saved message for lang
   2. User copies and pastes the image and caption in WhatsApp Web
-  3. Verify
   Report: "Prepared en ✓, hi ✓, ..."
 ```
 

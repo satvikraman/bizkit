@@ -234,4 +234,4 @@ _<SUBTITLE in target language>_
 
 **Delegate to** `.cursor/skills/blog-whatsapp-post/SKILL.md`.
 
-Requires user approval of all six templates. Uses browser MCP to open each BizKit channel, paste `title_YYYYMMDD.png`, type the caption, and send. Helper: `scripts/whatsapp_post_helpers.py`.
+Requires user approval of all six templates. Helper: `scripts/whatsapp_post_helpers.py`.
