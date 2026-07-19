@@ -96,3 +96,8 @@ When backfilling multiple Sundays:
 | No wrapup found for week | Search Finshots archive ±2 pages; try web search with date keywords |
 | All stories already covered | Pick the best alternative angle or adjacent week's top story; tell user |
 | Ambiguous dates | Prefer the story whose Finshots publish date falls inside the Mon–Sun window |
+
+# Additional sources
+* https://www.imf.org/en/blogs/topics
+* https://thedailybrief.zerodha.com/
+* https://www.thecore.in/
