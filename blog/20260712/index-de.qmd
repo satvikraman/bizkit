@@ -1,6 +1,6 @@
 ---
 title: "Die Kunst des Loslassens: Was der Sunk-Cost-Irrtum uns über Micromaxs zweites Kapitel lehrt"
-date: 2026-12-07
+date: 2026-07-12
 subtitle: "In unserer Kultur gilt Aufhören als Schimpfwort. Dabei ist es eine sehr ausgefeilte kognitive Fähigkeit, zu wissen wann man aufhören sollte. — Annie Duke, Entscheidungswissenschaftlerin und Autorin von Quit"
 description: "Micromax beherrschte einst den indischen Smartphone-Markt und verlor dann alles. Was das Unternehmen anschließend mit seinen Fabriken machte, ist ein Lehrbeispiel für den wichtigsten wirtschaftlichen Grundsatz, den die meisten Menschen nie lernen."
 image: "./title_20260712.png"

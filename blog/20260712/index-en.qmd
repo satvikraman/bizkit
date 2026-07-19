@@ -1,6 +1,6 @@
 ---
 title: "The Art of Letting Go: What the Sunk Cost Fallacy Teaches Us About Micromax's Second Act"
-date: 2026-12-07
+date: 2026-07-12
 subtitle: "Quitting is treated like a four-letter word in our culture. But it turns out, knowing when to quit is a very sophisticated cognitive skill. — Annie Duke, decision scientist and author of Quit"
 description: "Micromax once ruled India's smartphone market, then lost it all to a Chinese wave it never saw coming. The story of what the company did with its factories after that is a masterclass in the most important economic principle that most people never learn."
 image: "./title_20260712.png"
