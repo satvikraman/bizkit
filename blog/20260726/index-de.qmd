@@ -1,0 +1,36 @@
+---
+title: "Warum Industrien sich ballen: Die Geschichte von Alang"
+date: 2026-07-26
+subtitle: '"Das wesentlichste Merkmal des Kapitalismus ist der Prozess der kreativen Zerstörung." — Joseph Schumpeter'
+description: "Auf einem 10 Kilometer langen Küstenstreifen in Gujarat werden fast ein Drittel der alten Schiffe der Welt abgewrackt. Die Geschichte von Alang erklärt, warum sich ganze Industrien in dieselbe Ecke der Landkarte drängen."
+image: "./title_20260726.png"
+twitter-card: {image: "./title_20260726.png"}
+open-graph: {image: "./title_20260726.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Im Mai 2026 erhielt ein Unternehmen namens Bella Shipping India Pvt Ltd etwas, das es in der Geschichte der Schifffahrt noch nie gegeben hatte, den weltweit ersten Schiffsrecycling-Kreditschein, im Wert von ₹29.81 Crore, von der indischen Regierung. Der Schein war eine Belohnung dafür, dass einer ihrer Massengutfrachter auf einem indischen Werftgelände recycelt wurde, gültig für drei Jahre, frei handelbar, und nur gegen die Bestellung eines neuen Schiffes bei einer indischen Werft einlösbar. Es klingt nach einem engen Regierungsprogramm, aber es verbindet sich mit einer viel größeren Geschichte darüber, warum sich eine der ungewöhnlichsten Industrien der Welt an einem einzigen Strand in Gujarat niedergelassen hat, und warum Indien nun glaubt, dass dieser Strand eine viel größere Rolle spielen kann.
+
+# Wenn Unternehmen sich zusammenballen
+
+Wenn man kartiert, wo Industrien tatsächlich tätig sind, zeigt sich immer wieder dasselbe Muster. Bollywood-Filme werden in Mumbai produziert, nicht in Hyderabad. Fast der gesamte Diamantschliff Indiens findet in Surat statt. In den USA haben sich Softwareunternehmen in einem schmalen Streifen Kaliforniens geballt, den man Silicon Valley nennt. Dieses Muster heißt industrielle Agglomeration, die Tendenz verwandter Unternehmen, sich im selben geografischen Raum zu konzentrieren, und es entsteht, weil die Konzentration jeden Betrieb in diesem Gebiet billiger und schneller macht.
+
+Wenn viele Firmen derselben Branche nahe beieinander tätig sind, sinken die Kosten für alle. Ein Stahllieferant muss keine Komponenten quer durchs Land schicken, weil seine größten Kunden alle innerhalb von 50 Kilometern sind. In der Branche ausgebildete Arbeitskräfte wohnen bereits in der Nähe, sodass die Einstellung schnell geht und sich Fachwissen im Laufe der Zeit in der lokalen Belegschaft aufbaut. Der Abfall einer Firma wird zum Rohstoff einer anderen, ohne dass eine lange Lieferkette dazwischenliegt. Diese gemeinsamen Vorteile nennt man Agglomerationserträge, und sobald ein Cluster entstanden ist, ist es für neue Unternehmen billiger, dem Cluster beizutreten als woanders allein zu beginnen, was den Cluster über Jahrzehnte wachsen und stärken lässt.
+
+# Das Ökosystem von Alang
+
+Alang, an der Küste des Golf von Khambhat in Gujarat, ist eines der deutlichsten Beispiele für Agglomeration in der indischen Industrie. Das Werftgelände erstreckt sich über etwa 10 Kilometer Küstenlinie, umfasst 150 Parzellen und hat seit seinem Betriebsbeginn 1982 mehr als 8.800 Schiffe abgewrackt. Es verarbeitet etwa 97% des indischen Schiffsrecyclings, und Indien machte 2025 rund 35% der weltweit recycelten Schiffsbruttotonnage aus, was bedeutet, dass etwa jedes dritte alte Schiff, das letztes Jahr weltweit verschrottet wurde, an diesem einen Strand abgehandelt wurde.
+
+Was Alang lehrreich macht, ist nicht nur der Strand selbst, sondern alles, was drum herum gewachsen ist. Etwa 50 Kilometer im Landesinneren hat sich Bhavnagar zu einer Stahlverarbeitungsstadt entwickelt, die fast vollständig auf Alangs Produktion aufgebaut ist und nun mehr als 60 Induktionsöfen und 80 Walzwerke beherbergt. Betreiber wie Leela Group und Shree Ram Group demontieren Schiffe und verkaufen die geborgenen Güter in großen Mengen an Händler, die dann stille Auktionen für Lose abhalten, die von gesamten Kabineneinrichtungen bis hin zu Motoren und elektrischen Einbauten reichen. Diese Händler verkaufen weiter an die Ladenbesitzer, die die 10 Kilometer lange Straße von Alang ins Landesinnere säumen, wo jeder eintreten und ein Rettungsboot, ein Teeservice oder eine Eismaschine kaufen kann. Das gesamte System beschäftigt direkt etwa 15.000 Arbeiter und unterstützt weitere 150.000 in Zulieferbetrieben, was zeigt, wie Agglomeration aussieht, wenn sie vierzig Jahre Zeit hatte zu reifen.
+
+# Alangs schwierige Phase
+
+Alang hat 2011 einen Rekord von 415 Schiffen abgewrackt, aber im FY25 nur 113 verarbeitet, die niedrigste Zahl seit über einem Jahrzehnt, und das Eintreffen von Bella Shippings Kreditschein steht im Mittelpunkt dieser schwierigen Zeit. Seit 2023 haben Huthi-Angriffe Containerschiffe vom Roten Meer weggezwungen und um Südafrika herum geschickt, was jeder Asien-Europa-Reise fast zwei Wochen hinzufügt, sodass die Reedereien ältere Schiffe in Betrieb hielten, anstatt sie zur Verschrottung zu schicken. Etwa 1.000 alte Tanker blieben auch als Schattenflotte im Einsatz, um russisches, iranisches und venezolanisches Öl an westlichen Sanktionen vorbei zu transportieren, und entzogen Tausende von Schiffen der Recyclingschlange, die sonst nach Alang gelangt wären. Das Währungsproblem macht alles noch komplizierter, da Alangs Betreiber Schiffe in US-Dollar kaufen und das recycelte Stahl in Rupien verkaufen, was bedeutet, dass jedes Mal, wenn die Rupie schwächelt, ihre Kosten steigen, während ihre Einnahmen gleich bleiben. Indiens Kreditschein-Programm und seine Ausrichtung an der Hongkong-Konvention für sicheres Schiffsrecycling sind die Wette der Regierung, dass Alang der Hof sein wird, den Schiffseigner wählen, wenn sich die globalen Verschrottungsvolumen erholen, und BIMCO schätzt, dass im nächsten Jahrzehnt weltweit bis zu 16.000 Schiffe recycelt werden könnten.
+
+# Abschließende Gedanken
+
+Industrielle Cluster wie Alang sind nicht einfach Ansammlungen einer Art von Unternehmen. Sie sind geschichtete Systeme, in denen Lieferanten, Verarbeiter, Händler und Arbeiter ihren Lebensunterhalt rund um dieselbe Kernindustrie aufbauen, und jede neue Ergänzung macht das gesamte System produktiver und schwerer anderswohin zu verlagern. Alangs Position als weltgrößter Schiffsrecycling-Cluster wurde über vier Jahrzehnte durch eine Kombination aus Geografie, Gezeitenmustern, günstiger Arbeitskraft und angesammeltem Fachwissen aufgebaut, das keine andere Küste einfach kopieren kann. Der Kreditschein, den Bella Shipping erhalten hat, ist ein kleines, aber bewusstes Signal, dass Indien das, was bereits existiert, schützen und mehr von dem anziehen will, was noch kommt. Wenn die Verschrottungswelle schließlich kommt, wird die Frage nicht sein, ob Alang bereit ist, sondern ob es groß genug werden kann, um alles davon aufzufangen.

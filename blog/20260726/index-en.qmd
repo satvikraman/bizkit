@@ -1,0 +1,36 @@
+---
+title: "Why Industries Cluster: The Alang Story"
+date: 2026-07-26
+subtitle: '"The process of creative destruction is the essential fact about capitalism." — Joseph Schumpeter'
+description: "On a 10-kilometre stretch of Gujarat coastline, nearly one-third of the world's old ships come to be broken down. The story of Alang shows why entire industries crowd into the same corner of the map."
+image: "./title_20260726.png"
+twitter-card: {image: "./title_20260726.png"}
+open-graph: {image: "./title_20260726.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+In May 2026, a company called Bella Shipping India Pvt Ltd received something that had never been issued before in the history of shipping, the world's first Shipbreaking Credit Note, worth ₹29.81 crore, from the Indian government. The note was a reward for recycling one of their bulk carriers at an Indian yard, valid for three years, freely tradeable, and redeemable only against a new ship ordered from an Indian shipyard. It sounds like a narrow government scheme, but it connects to a much larger story about why one of the world's most unusual industries settled on a single beach in Gujarat, and why India now believes that beach has a much bigger role to play.
+
+# When Businesses Cluster Together
+
+When you map out where industries actually operate, a pattern comes up again and again. Bollywood films are produced in Mumbai, not Hyderabad. Almost all of India's diamond cutting and polishing happens in Surat. In the United States, software companies packed themselves into a thin strip of California called Silicon Valley. This pattern is called industrial agglomeration, the tendency of related businesses to cluster in the same geographic area, and it happens because clustering makes every business in that area run cheaper and faster.
+
+When many firms in the same trade operate near each other, costs fall for everyone. A steel supplier does not need to ship components across the country because its biggest customers are all within 50 kilometres. Workers trained in the industry already live nearby, so hiring is fast and expertise builds up in the local workforce over time. One firm's waste becomes another firm's raw material without a long supply chain pulling them apart. These shared benefits are called agglomeration economies, and once a cluster forms, new businesses find it cheaper to join than to start alone somewhere else, which makes the cluster grow and reinforce itself over decades.
+
+# The Alang Ecosystem
+
+Alang, on Gujarat's Gulf of Khambhat coast, is one of the sharpest examples of agglomeration in Indian industry. The yard stretches across about 10 kilometres of coastline, holds 150 plots, and has broken more than 8,800 ships since it began operating in 1982. It handles about 97% of India's ship recycling, and India itself accounted for roughly 35% of all global ship tonnage recycled in 2025, meaning that roughly one-third of every old ship scrapped on the planet last year was processed at this single beach.
+
+What makes Alang instructive is not just the beach itself but everything that grew around it. About 50 kilometres inland, Bhavnagar has developed into a steel-processing town built almost entirely around Alang's output, now home to more than 60 induction furnaces and 80 re-rolling mills. Operators like Leela Group and Shree Ram Group strip ships down and sell the salvaged items in bulk to dealers, who then hold silent auctions for lots ranging from entire cabin contents to engines and electrical fittings. Those dealers sell on to the shopkeepers lining the 10-kilometre road running inland from Alang, where anyone can walk in and buy a lifeboat, a tea set, or an ice cream machine. The whole system employs about 15,000 workers directly and supports another 150,000 in ancillary businesses, which is what agglomeration looks like once it has had forty years to mature.
+
+# Alang's Rough Patch
+
+Alang dismantled a record 415 ships in 2011, but processed only 113 in FY25, its lowest count in over a decade, and the arrival of Bella Shipping's credit note sits at the centre of this difficult period. Since 2023, Houthi attacks have forced container ships off the Red Sea and around South Africa, adding nearly two weeks to each Asia-Europe voyage, which means carriers keep older vessels running rather than sending them to scrap. Roughly 1,000 old tankers have also stayed in service as a shadow fleet, moving Russian, Iranian, and Venezuelan oil past Western sanctions, pulling thousands of ships out of the recycling queue that would otherwise have reached Alang. The currency problem compounds everything, since Alang's operators buy ships in US dollars and sell the recycled steel in rupees, meaning every time the rupee weakens, their costs rise while their income stays flat. India's credit note scheme and its alignment with the Hong Kong Convention on safe ship recycling are the government's bet that when global scrapping volumes eventually recover, and BIMCO estimates that as many as 16,000 ships could be recycled worldwide in the next decade, Alang will be the yard that shipowners choose.
+
+# Final Thoughts
+
+Industrial clusters like Alang are not simply concentrations of one type of business. They are layered systems where suppliers, processors, dealers, and workers build their livelihoods around the same core industry, and each new addition makes the whole system more productive and harder to move elsewhere. Alang's position as the world's largest ship-recycling cluster was built over four decades through a combination of geography, tidal patterns, cheap labour, and accumulated expertise that no other coastline can simply copy. The credit note Bella Shipping received is a small but deliberate signal that India wants to protect what already exists and attract more of what is coming. When the scrapping wave eventually arrives, the question will not be whether Alang is ready, but whether it can grow fast enough to catch all of it.
