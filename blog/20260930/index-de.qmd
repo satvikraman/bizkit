@@ -1,7 +1,7 @@
 ---
 title: "Warum kann Tata nicht privat bleiben?"
 date: 2026-09-30
-subtitle: "Aufsicht ist anders, wenn öffentliche Gelder im Spiel sind." — Sanjeev Bikhchandani
+subtitle: '"Aufsicht ist anders, wenn öffentliche Gelder im Spiel sind." — Sanjeev Bikhchandani'
 description: "Jedes bekannte Tata-Unternehmen hat einen Aktienkurs, außer einem: der Holdinggesellschaft im Zentrum des gesamten Konzerns. Über ein Jahrhundert lang blieb dieses Unternehmen der Börse fern, bis die Entscheidung eines Regulators in diesem Monat das deutlich schwerer machte."
 image: "./title_20260930.png"
 twitter-card: {image: "./title_20260930.png"}
