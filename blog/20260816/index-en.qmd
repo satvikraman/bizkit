@@ -1,7 +1,7 @@
 ---
 title: "Some Bank Vaults Hold Gold. This One Holds Half a Million Wheels of Cheese."
 date: 2026-08-16
-subtitle: '"Cheese is milk\'s leap toward immortality." — Clifton Fadiman'
+subtitle: "\"Cheese is milk's leap toward immortality.\" — Clifton Fadiman"
 description: "A regional bank in northern Italy has spent more than seventy years lending money against something that usually lives in a kitchen, not a vault. Heat is now testing whether that arrangement still makes financial sense."
 image: "./title_20260816.png"
 twitter-card: {image: "./title_20260816.png"}
