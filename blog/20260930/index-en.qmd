@@ -1,7 +1,7 @@
 ---
 title: "Why Can't Tata Stay Private?"
 date: 2026-09-30
-subtitle: "Oversight is different when public money is involved." — Sanjeev Bikhchandani
+subtitle: '"Oversight is different when public money is involved." — Sanjeev Bikhchandani'
 description: "Every famous Tata company has a share price except one, the holding company sitting at the center of the entire group. For over a century that company stayed out of the stock market, until a regulator's decision this month made that a lot harder to keep doing."
 image: "./title_20260930.png"
 twitter-card: {image: "./title_20260930.png"}
@@ -14,7 +14,7 @@ author: "Satvik Raman"
 
 # Introduction
 
-You can open a trading app right now and buy a share of Tata Consultancy Services, or Tata Motors, or Titan.You can even get exposure to businesses such as Jaguar Land Rover and Air India through their listed Tata owners. However, there is one Tata company you cannot buy. It sits above every business that carries the Tata name, and it has stayed out of the stock market for more than a hundred years. It is called Tata Sons.
+You can open a trading app right now and buy a share of Tata Consultancy Services, or Tata Motors, or Titan. You can even get exposure to businesses such as Jaguar Land Rover and Air India through their listed Tata owners. However, there is one Tata company you cannot buy. It sits above every business that carries the Tata name, and it has stayed out of the stock market for more than a hundred years. It is called Tata Sons.
 
 That is strange once you notice it. Tata's listed companies are worth more than $260 billion combined and are held by 17.7 million retail shareholders, alongside pension funds, insurers and mutual funds. Those investors don't own Tata Sons itself. The holding company, Tata Sons, at the centre of all of them has never sold a single share to the public. And that is suddenly turning into one of the loudest boardroom fights in Indian business.
 
@@ -28,7 +28,7 @@ The largest, holding 66 percent, is Tata Trusts, a group of charities chaired by
 
 So "Tata" usually means the businesses whose shares anyone can buy. "Tata Sons" means the private company answerable mainly to Tata Trusts and the Shapoorji Pallonji Group.
 
-If that arrangement has worked for over a century, what changed.
+If that arrangement has worked for over a century, what changed?
 
 # The Regulator Tata Sons Could Not Talk Its Way Out Of
 
