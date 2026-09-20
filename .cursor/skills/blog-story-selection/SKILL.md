@@ -101,3 +101,5 @@ When backfilling multiple Sundays:
 * https://www.imf.org/en/blogs/topics
 * https://thedailybrief.zerodha.com/
 * https://www.thecore.in/
+* https://finshots.in/markets/
+* https://finshots.in/archive/

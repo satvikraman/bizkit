@@ -1,0 +1,44 @@
+---
+title: "Die Gästeliste, die Geld nicht kaufen konnte"
+date: 2026-09-06
+subtitle: '"Indien kann es sich nicht leisten, Intelligenz zu mieten." — Mukesh Ambani'
+description: "Indien hat Millionen von KI-Nutzern und mehr Rechenleistung, als seine Regierung ursprünglich geplant hatte. Aber Größe schafft nicht automatisch Macht. In der KI könnten die Länder, die kontrollieren, was andere nicht leicht ersetzen können, den eigentlichen Einfluss haben."
+image: "./title_20260906.png"
+twitter-card: {image: "./title_20260906.png"}
+open-graph: {image: "./title_20260906.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Anfang 2026 war Indien zu einem der größten KI-Märkte der Welt geworden. Berichten zufolge lag die Zahl der wöchentlichen ChatGPT-Nutzer nahe an hundert Millionen, eine der größten Nutzerbasen jedes Landes. Indien hatte auch zwei Jahre damit verbracht, seine eigene Rechenleistung schnell auszubauen, und sammelte fast viermal so viele leistungsstarke GPUs an, wie die staatliche IndiaAI Mission ursprünglich zu beschaffen geplant hatte.
+
+Dann, im April 2026, stellte Anthropic ein neues Modell namens Claude Mythos vor, das gefährliche Softwarelücken schneller finden konnte als fast jeder lebende menschliche Experte. Statt es breit zu veröffentlichen, startete Anthropic Project Glasswing und gewährte rund vierzig Organisationen, die zum Schutz der kritischsten Software der Welt aufgebaut wurden, frühen Zugang zum Modell, darunter große Cloud-Anbieter, Chiphersteller, Banken und Open-Source-Stiftungen. Laut einer Analyse der Carnegie Endowment war trotz Indiens Größe und seiner schnell wachsenden Rechenbasis keine indische Organisation Teil dieses ursprünglichen Kreises.
+
+Das ist ein seltsames Ergebnis für ein Land, das gerade zwei Jahre damit verbracht hatte, genau die Art von Rechenmuskeln aufzubauen, die laut allen für KI-Macht erforderlich ist. Es deutet darauf hin, dass eine Menge von etwas zu haben, Nutzer, GPUs, Marktgröße, nicht dasselbe ist wie ein Mitspracherecht darüber zu haben, wer Zugang zu der Technologie erhält, die am meisten zählt, wenn es am meisten zählt. Der Rest dieser Geschichte handelt davon, warum.
+
+# Wenn ein winziges Bauteil eine riesige Fabrik stoppt
+
+2021 mussten einige der größten Autohersteller der Welt, Unternehmen, die jeweils zehn Milliarden Dollar wert waren, Fließbänder abschalten und ganze Produktionsläufe streichen. Die Ursache war kein Mangel an Stahl, Arbeitern oder Kapital. Es war ein Mangel an kleinen, spezialisierten Computerchips, manche davon nur wenige Dollar wert, die nur eine Handvoll Fabriken auf der Erde herzustellen wussten. Ford, Toyota und General Motors konnten das Problem nicht einfach durch eine größere Bestellung lösen, weil die wenigen Fabriken, die diese Chips herstellten, keine freien Kapazitäten zum Verkauf hatten, egal wie groß der Kunde mit dem Scheckbuch war.
+
+Das ist das Wesen von Einfluss innerhalb einer Lieferkette. Ein großer Käufer zu sein, verschafft Ihnen Einfluss auf den Preis, wenn viele Verkäufer um Ihr Geschäft konkurrieren. Es verschafft Ihnen weit weniger, wenn nur eine Handvoll Verkäufer das herstellen können, was Sie brauchen, und sie das wissen. Die Autohersteller hatten Größe. Die Chip-Fabriken hatten Knappheit. Die Knappheit gewann.
+
+# Das Unternehmen, das sich selbst unumgehbar machte
+
+ASML verstand diese Logik, bevor es der Großteil der Branche tat. In den 1990er Jahren war das Unternehmen ein weit abgeschlagener dritter Litho­grafiehersteller, kleiner als Nikon oder Canon, und abhängig von dem deutschen Optikunternehmen Zeiss für Linsen, die es selbst nicht bauen konnte. Statt über den Preis zu konkurrieren, ging ASML mit Zeiss eine Partnerschaft für neue Linsendesigns ein und organisierte dann ein Forschungskonsortium mit europäischen Partnern, um ein Lithografieproblem zu lösen, das der Großteil der Branche für unpraktisch hielt, nämlich extremes Ultraviolettlicht zu verwenden, um mikroskopische Schaltkreismuster auf Silizium zu drucken. Intel unterstützte das Vorhaben schließlich, teilweise weil man mehr als einen Lieferanten für etwas so Kritisches wollte, aber ASMLs Technologie erwies sich als unmöglich für Wettbewerber zu erreichen, als sie einmal funktionierte.
+
+Heute ist ASML das einzige Unternehmen auf der Welt, das Maschinen herstellt, die in der Lage sind, die fortschrittlichsten Computerchips zu drucken, und jeder große Chiphersteller, einschließlich Firmen mit weit größeren Gesamteinnahmen, hat keine andere Wahl, als zu ASML zu kommen. ASML musste nicht das größte Unternehmen seiner Branche werden, um dorthin zu gelangen. Es wurde das Unternehmen, das niemand umgehen konnte, und das ist eine ganz andere Art von Macht, als einfach das größte Budget zu haben.
+
+# Zwei indische Missionen, zwei verschiedene Wetten
+
+Indiens eigene jüngste Geschichte bietet zwei Experimente zu genau dieser Frage, und sie zeigen in unterschiedliche Richtungen. 2021 startete die Regierung die India Semiconductor Mission mit dem Ziel, Chipfabriken physisch auf indischem Boden zu errichten. Dieses Vorhaben entwickelt sich noch immer, statt abgeschlossen zu sein. Microns Montage- und Testanlage in Gujarat und Tatas Verpackungsanlage in Assam nähern sich kommerziellem Maßstab, und die von Tata geführte Fab in Dholera hat eine frühe Vereinbarung mit ASML unterzeichnet, um einen Teil ihrer Lithografie-Ausrüstung nach Indien zu bringen. Nichts davon verschafft Indien bisher etwas, das ASMLs Einfluss nahekommt. Aber jeder Schritt bewegt Indien weiter in einen Teil der Lieferkette, der wirklich schwer zu ersetzen ist.
+
+Die India AI Mission erzählt eine andere Art von Geschichte. Ihr frühes Ziel waren zehntausend GPUs. Bis Ende 2025 hatte Indien näher an achtunddreißigtausend angesammelt und dieses Ziel komfortabel übertroffen. Das ist eine echte Leistung, und sie gibt indischen Forschern, Startups und Unternehmen weit mehr Rechenleistung, mit der sie arbeiten können, als sie zuvor hatten. Die Mission ging auch nie nur um den Kauf von Hardware, ein Teil ihrer Finanzierung floss auch in die Unterstützung indischer Teams beim Aufbau eigener Foundation-Modelle, statt einfach das Modell eines anderen zu lizenzieren. Aber die GPUs selbst wurden anderswo entworfen und hergestellt und laufen auf Technologie, die Indien nicht kontrolliert. Zugang zu Rechenleistung ist nicht dasselbe wie der Besitz der Schicht, die Rechenleistung überhaupt erst möglich macht, und die Episode um Claude Mythos ist eine Erinnerung daran, wie viel diese Lücke kosten kann.
+
+# Schlussgedanken
+
+Nichts davon bedeutet, dass es falsch von Indien war, GPUs zu kaufen, oder dass der Aufbau von KI-Anwendungen auf ausländischer Infrastruktur ein Fehler ist. Beides sind vernünftige Wege, an einer sich schnell bewegenden Branche teilzunehmen, und beide zahlen sich bereits aus. Aber die beiden Missionen zeigen einen Unterschied auf, der es wert ist, darüber nachzudenken. Die eine erweitert, worauf Indien zugreifen kann. Die andere versucht, langsam und ohne viel Glanz, etwas aufzubauen, das der Rest der Welt nicht so leicht anderswo bekommen kann.
+
+Genau derselbe Unterschied, zwischen Zugang und Kontrolle, spiegelt sich darin, wer innerhalb des Kreises stand, als Anthropic den Zugang zu Claude Mythos verteilte, und er wird weiterhin bestimmen, wer mitreden darf, während die Lieferkette der KI umkämpfter wird. Die eigentliche Frage für Indien ist nicht, wie viele GPUs es nächstes Jahr kaufen kann, oder wie viele Menschen seine KI-Modelle nutzen. Es ist, ob es in diesem Stapel irgendein Material, einen Prozess oder eine Fähigkeit gibt, die der Rest der Welt irgendwann so dringend braucht, dass er Indien nicht einfach umgehen kann.

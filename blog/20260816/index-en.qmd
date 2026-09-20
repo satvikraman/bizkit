@@ -1,0 +1,42 @@
+---
+title: "Some Bank Vaults Hold Gold. This One Holds Half a Million Wheels of Cheese."
+date: 2026-08-16
+subtitle: '"Cheese is milk''s leap toward immortality." — Clifton Fadiman'
+description: "A regional bank in northern Italy has spent more than seventy years lending money against something that usually lives in a kitchen, not a vault. Heat is now testing whether that arrangement still makes financial sense."
+image: "./title_20260816.png"
+twitter-card: {image: "./title_20260816.png"}
+open-graph: {image: "./title_20260816.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+In two warehouses in northern Italy, a regional bank is sitting on more than half a million wheels of cheese worth over 300 million euros. It did not seize this cheese from anyone in default. Producers handed it over on purpose, in exchange for a loan, roughly the way someone might hand over a house deed. The bank locks the cheese away, checks on it regularly, and waits, sometimes for as long as three years, before anyone gets it back.
+
+The cheese is Parmigiano Reggiano, and the bank is Credito Emiliano, known locally as Credem, which has accepted wheels of young Parmesan as collateral since 1953. It is not a marketing gimmick but a working part of how an entire regional industry gets financed, quietly continuing through decades of Italian banking history. Somewhere between the barn and the dinner table, a wheel of hardening cheese became bankable in the same way land or gold is bankable, and the reason has less to do with cheese than with how lenders decide what to trust.
+
+# Why Would a Bank Want to Own Your Cheese?
+
+Parmigiano Reggiano cannot be sold the moment it is made. Rules require ageing for at least twelve months, and many producers let their wheels mature for 24 or even 36. Legally, the name can only be used for cheese made from milk produced in Parma, Reggio Emilia, Modena, and parts of Bologna and Mantua, using nothing but raw cow's milk, salt, and calf rennet. One 40 kilogram wheel takes roughly 550 litres of milk.
+
+While that wheel ages, the producer has already paid for the milk, labour, salt, and electricity that went into making it. That money is stuck in a product that cannot be sold for at least a year. Economists call this working capital, the money a business needs to keep operating while its product moves toward sale, and the producer still has cows to milk and bills to pay tomorrow.
+
+Credem solves that by lending against the cheese while it is still young, typically advancing 60 to 80% of its estimated future value, a figure lenders call the loan to value ratio. What makes this work is that Credem does not simply take a producer's word for what the cheese is worth. A subsidiary of the bank stores the wheels itself, in warehouses holding more than 500,000 of them. Once a wheel turns twelve months old, inspectors from the Parmigiano Reggiano Consortium tap its rind with a small hammer, listening for the sound of a hidden crack. Wheels that pass earn the fire branded mark that lets them carry the name, and wheels that fail lose that right entirely.
+
+That inspection is why the arrangement holds up. A lender sitting on an asset for years needs some way of knowing it is still worth what it was on day one. By keeping the cheese under its own roof and checking it continuously, Credem never has to simply hope the collateral still has value, it knows, wheel by wheel. And because a properly aged wheel is genuinely worth more than a young one, the bank is not just protecting a static asset, it is holding one that becomes more valuable while it waits.
+
+# When Heat Reaches the Vault
+
+During recent summers, temperatures across the Parmigiano Reggiano region have climbed past 40°C. Cows eat less in that kind of heat and burn more energy just staying cool, and milk output has dropped by as much as 10% during the worst stretches. That is one more expense stacked onto a business that already spends a year or more waiting for its cheese to become sellable, or bankable.
+
+The heat reaches the warehouses too. At the peak of this year's heat, daily electricity use at the cheese vaults rose by around 30%, as refrigeration worked harder to keep hundreds of thousands of wheels at a safe temperature. Somewhere in that extra cost sits the price of keeping half a million wheels exactly as valuable as the day Credem agreed to lend against them.
+
+None of this has broken the arrangement. Production is not currently at risk, and the cheese still ages the way it always has, just a little more expensively than it used to.
+
+# Final Thoughts
+
+Step back and the appeal of cheese as collateral looks almost obvious. Most things a bank might accept as security lose value the moment you drive them off the lot or plug them in, a car depreciates, a laptop depreciates, even the GPUs now pledged as collateral for data centre loans are worth less the moment a faster chip ships. Parmigiano Reggiano did the opposite, quietly getting more valuable every month it sat in a warehouse, as long as someone was watching closely enough to be sure.
+
+Heat does not change what a wheel of Parmigiano Reggiano is, it changes what it costs to be sure of what it is worth. Credem was never really lending against cheese, it was lending against that certainty, and heat just made certainty a little more expensive.

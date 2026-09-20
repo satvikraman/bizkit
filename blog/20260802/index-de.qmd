@@ -1,0 +1,42 @@
+---
+title: "Der Ozean, den Indien zu nutzen vergaß"
+date: 2026-08-02
+subtitle: '"Wie unpassend, diesen Planeten Erde zu nennen, wenn er doch ganz klar Ozean ist." — Arthur C. Clarke'
+description: "Im August 2026 genehmigte Indien ein Programm über ₹84.084 Crore, benannt nach einem Mythos über das Aufwühlen des Ozeans nach einem Schatz. Die eigentliche Geschichte dahinter handelt nicht von Öl, sondern davon, wer für ein Risiko zahlen soll, das niemand allein tragen will."
+image: "./title_20260802.png"
+twitter-card: {image: "./title_20260802.png"}
+open-graph: {image: "./title_20260802.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+In der hinduistischen Mythologie taten sich Götter und Dämonen einst zusammen, um den kosmischen Ozean aufzuwühlen, wobei sie einen Berg als Stab und eine riesige Schlange als Seil benutzten. Das Aufwühlen verlief nicht sanft. Zuerst kam Gift zum Vorschein, und die Götter mussten sich damit auseinandersetzen, bevor irgendetwas Gutes aus dem Wasser kam. Erst viel später gab der Ozean seine Schätze frei, darunter den Nektar der Unsterblichkeit. Im August 2026 benannte die indische Regierung ein sehr reales Programm über ₹84.084 Crore nach dieser Geschichte, Samudra Manthan, und richtete es auf Indiens eigene Küste.
+
+An der Oberfläche liest es sich wie eine gewöhnliche Energiepolitik. Das Programm bezahlt seismische Untersuchungen, Tiefseebohrungen und neue Offshore-Infrastruktur, mit dem Ziel, mehr als 600 Millionen metrische Tonnen Öläquivalent zu finden, die unter Indiens Meeren verborgen liegen. Doch Offshore-Exploration gehört zu den riskantesten Geschäften der Welt. Ein Unternehmen kann zig Millionen Dollar für die Bohrung eines einzigen Bohrlochs ausgeben und nichts finden. Warum also sollte sich die Regierung bereiterklären, einen Teil der Rechnung für ein Loch zu übernehmen, das sich als leer herausstellen könnte?
+
+# Warum für einen Bohrloch zahlen, das vielleicht nichts findet?
+
+Große Abschnitte der Offshore-Becken Indiens blieben jahrzehntelang fast unberührt, und dabei ging es nie wirklich darum, ob dort Öl lag. Es ging darum, wer bereit war, für die Suche zu zahlen. Ein Tiefseebohrloch kann zig Millionen Dollar kosten, ohne Rückerstattung, wenn es trocken bleibt, und die seismische Untersuchung, die den Meeresboden kartiert, bevor die Bohrung beginnt, hilft nicht nur demjenigen, der dafür bezahlt hat. Sobald diese Karte existiert, profitiert auch jedes andere Unternehmen, das in der Nähe bohrt, davon, egal ob es zu ihrer Erstellung beigetragen hat oder nicht.
+
+Das schafft ein seltsames Problem. Wenn ein Unternehmen die Kosten und Risiken der Exploration übernimmt, aber Konkurrenten nicht davon abhalten kann, kostenlos von den Ergebnissen zu profitieren, hat es von Anfang an weniger Grund, überhaupt zu explorieren. Multipliziert man das über eine ganze Küstenlinie, erhält man genau das, was Indien hatte, riesige Offshore-Becken, die nicht aus Mangel an Öl unerforscht blieben, sondern aus Mangel an jemandem, der bereit war, den ersten Schritt zu machen.
+
+Samudra Manthan greift dieses Problem direkt an. Die Regierung finanziert nun die großen seismischen Untersuchungen selbst, übernimmt einen Teil der Kosten für risikoreiche Explorationsbohrungen und baut gemeinsame Offshore-Infrastruktur, die mehrere Unternehmen nutzen können, statt jeweils ihre eigene zu bauen. Sie fördert außerdem die heimische Fertigung von Offshore-Ausrüstung, damit Unternehmen nicht auf Importe warten müssen. Jeder dieser Schritte verteilt Kosten, die früher vollständig in den Büchern eines einzelnen Unternehmens standen, oder überträgt sie der Regierung.
+
+Im Grunde geht es hier um die Frage, wie sich eine bestimmte Art von Wissen verhält, sobald sie existiert. Eine Karte des Meeresbodens wird nicht knapper, wenn mehr Menschen sie nutzen, und sobald sie existiert, ist es ohnehin fast unmöglich, sie vollständig vor Konkurrenten geheim zu halten. Ökonomen haben genau für diese Art von Ressource einen Namen, öffentliches Gut, und das übliche Problem mit öffentlichen Gütern ist, dass niemand für etwas bezahlen will, das alle anderen kostenlos nutzen können. Selbst ein trockenes Bohrloch ist nach dieser Logik kein vollständiger Verlust, denn die dabei gewonnenen Daten machen die nächste Suche, egal wer sie durchführt, billiger und genauer.
+
+# Der Ozean jenseits des Öls
+
+Tritt man einen Schritt von den Bohrungen zurück, wird der größere Ehrgeiz deutlich. Indien besitzt eine Küstenlinie von mehr als 7.500 Kilometern und eine ausschließliche Wirtschaftszone von mehr als 2 Millionen Quadratkilometern, gelegen an einigen der belebtesten Schifffahrtsrouten der Welt. Politische Entscheidungsträger nennen den Plan für all dieses Wasser heute Blaue Wirtschaft, und Kohlenwasserstoffe sind dabei nur der Anfang. Indien importiert noch immer fast 90 Prozent seines Rohöls, doch derselbe Meeresboden enthält Nickel, Kobalt, Mangan und Seltene Erden, die in Batterien für Elektrofahrzeuge und in Anlagen für erneuerbare Energien verwendet werden.
+
+Offshore-Windparks könnten abends Strom entlang der Küste erzeugen, genau dann, wenn Solarzellen aufhören zu produzieren. Unterseekabel transportieren bereits den größten Teil des weltweiten internationalen Internetverkehrs, und Unternehmen erkunden Offshore-Rechenzentren, um die Kühlbedürfnisse künstlicher Intelligenz zu bewältigen. Fügt man moderne Häfen, Schiffbau, marine Biotechnologie, Aquakultur und Küstentourismus hinzu, beginnt der Ozean weniger wie eine Schifffahrtsroute und mehr wie eine Wirtschaft auszusehen, die Indien kaum begonnen hat zu nutzen.
+
+Nichts davon geht schnell. Offshore-Projekte brauchen jahrelange Investitionen, bevor sie überhaupt etwas abwerfen, Tiefseebergbau ist wirtschaftlich noch unerprobt und ökologisch heikel, und Indiens Meerespolitik ist über Ministerien für Erdöl, Schifffahrt, Fischerei, Verteidigung und Umwelt verteilt, was Unternehmen durch ein Labyrinth von Genehmigungen zwingt. Es gibt auch eine geopolitische Seite. China erkannte den Wert der Meere schon vor Jahren, finanzierte Häfen im Ausland, baute die größte Handelsflotte der Welt auf und erweiterte seine Präsenz im Indischen Ozean, wodurch maritime Stärke ebenso zu einer strategischen wie zu einer wirtschaftlichen Notwendigkeit wird.
+
+# Abschließende Gedanken
+
+Kehren wir für einen Moment zum Mythos zurück. Das Aufwühlen des Ozeans führte nicht direkt zum Nektar. Zuerst musste das Gift bewältigt werden, und nur geduldige, koordinierte Anstrengung brachte die Götter zur Belohnung auf der anderen Seite. Samudra Manthan folgt derselben Logik, nur dass das Gift hier trockene Bohrlöcher, zersplitterte Genehmigungen und jahrelange Vorabausgaben sind, die niemand allein tragen will.
+
+Das Programm ist eigentlich keine Wette darauf, Öl zu finden, obwohl es das durchaus auch könnte. Es ist eine Wette darauf, dass private Unternehmen mit dem Kapital folgen werden, um alles darauf aufzubauen, wenn die Regierung den unattraktivsten, am wenigsten lohnenden Teil der Exploration übernimmt, die Karte, die gemeinsamen Pipelines, die frühen Fehlschläge. Ob sich diese Wette auszahlt, hängt weniger davon ab, wie viel Öl unter Indiens Meeresboden liegt, sondern mehr davon, ob das Land dieses erste, wenig glanzvolle Aufwühlen in eine Wirtschaft verwandeln kann, die noch lange nach dem Ende der Bohrungen Erträge abwirft.

@@ -1,0 +1,42 @@
+---
+title: "GDP Is Growing. So Why Doesn't It Feel Like It?"
+date: 2026-08-30
+subtitle: '"As a statistician, I have never quite known what data are supposed to smell like." — TCA Anant'
+description: "India's economy grew 7.8 percent in a single quarter, but real incomes for many workers have been falling even as corporate profits soar. The strange part is that all of these three things can be true at the same time."
+image: "./title_20260830.png"
+twitter-card: {image: "./title_20260830.png"}
+open-graph: {image: "./title_20260830.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+When India's statistics ministry released GDP data for the April to June quarter of 2026, the number was almost too good to believe. Real GDP, adjusted for inflation, had grown 7.8 percent from the same quarter last year, beating the Reserve Bank of India's own forecast of 7 percent.
+
+Then a former finance secretary, Subhash Chandra Garg, said the real story was very different. By his calculation, growth was closer to 2.6 percent once you accounted for a recent change in how the government measures the size of the economy, and a routine data release turned into a public argument about whether the number could be trusted at all.
+
+That argument has a fairly boring explanation. In February 2026, the statistics ministry switched to a new base year for calculating GDP, updating the prices, sources and methods behind the maths. Comparing last year's economy under the old method, about ₹86.05 lakh crore, with this year's economy under the new method, about ₹88.27 lakh crore, produces a small rise of roughly 2.6 percent, a bit like comparing a father's board exam score from thirty years ago, marked under an old grading scheme, with his child's score today under a completely different one. Measure both years the same way, and growth comes out to 7.8 percent, the number the government actually reported.
+
+So the data was not fudged. But that still leaves the real question. How can the economy grow 7.8 percent in a single quarter while a large share of Indians feel like their own economic life has barely moved? The answer has less to do with data quality and more to do with what GDP actually measures, and what it leaves out.
+
+# The Guest Who Changes Everyone's Average
+
+The writer Charles Wheelan has a simple way of showing why an accurate average can still mislead. Picture ten friends sitting in an ordinary bar, each earning $35,000 a year. The average income in that room is exactly $35,000, and every person in it fairly represents that number. Now picture a hypothetical guest walking in, someone as wealthy as Elon Musk. The average income of everyone in the bar rockets into the billions, even though not one of the original ten friends got a raise. The average, calculated honestly and without a single error, has become almost useless as a description of how anyone in that room is actually living. As Wheelan puts it, such a number is "statistically right and grossly misleading."
+
+GDP does not work exactly like that bar. It is an aggregate, a sum of everything a country produces, not an average of anyone's paycheque. But a similar principle holds. A total can rise sharply because one fast growing part of the economy had an unusually good quarter, without that telling you much about how a typical household's own life changed.
+
+# Beneath the Headline Number
+
+To see why, look at what happened to households over the same years GDP kept climbing. Between 2017-18 and 2023-24, according to India's own Economic Survey, real incomes fell for most Indian workers even as the aggregate economy kept expanding. The average self-employed man's real monthly income slipped from ₹9,454 to ₹8,591, and self-employed women saw a steeper fall, from ₹4,348 to ₹2,950. Salaried workers did little better, with real incomes down 6.4 percent for men and 12.5 percent for women over the same stretch. Self-employed and salaried workers together make up close to 80 percent of the workforce, so roughly four out of every five working Indians saw their real income shrink over those six years.
+
+Corporate India was having a different six years. Listed, non-government companies tracked by the Reserve Bank of India saw combined net profit rise from ₹2 lakh crore in 2017-18 to ₹5.6 lakh crore in 2023-24, growing almost 19 percent a year even before adjusting for inflation, and even faster after that, touching almost ₹8 lakh crore by 2025-26. Corporate earnings and household paycheques have simply been moving at very different speeds for years.
+
+This divergence has a mechanical explanation, not just a moral one. Different sectors of India's economy grow at very different speeds and employ very different shares of the workforce. Around 43 percent of India's workers are still in agriculture, which grew only about 3.4 percent a year over the past three years, while manufacturing, financial services and real estate grew much faster but employ a far smaller share of the population. GDP reflects what each sector produces. A household's own experience depends on which sector it works in, and on how its income and the prices it pays move from there. The same gap shows up in who has captured the gains over time. The richest 10 percent of Indians now account for close to 59 percent of pre-tax national income, up from about 34 percent in 1990.
+
+# Final Thoughts
+
+None of this makes the 7.8 percent number meaningless. Investment, the money spent building capacity for tomorrow rather than consuming today, grew faster than GDP itself, a genuinely encouraging sign on its own terms.
+
+But the argument over that number was always about the wrong question. Whether India's economy grew 7.8 percent or 2.6 percent that quarter is a matter of arithmetic, and the arithmetic holds up. Whether that growth is showing up in one particular Indian's own income, expenses and job security is a separate question entirely, one that depends on which sector they work in, what they own, and how the gains from growth get shared. A number can be completely true and still not answer the question most people were actually asking when they looked at it.

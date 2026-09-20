@@ -1,0 +1,42 @@
+---
+title: "The Ocean India Forgot to Use"
+date: 2026-08-02
+subtitle: "\"How inappropriate to call this planet Earth when it is quite clearly Ocean.\" — Arthur C. Clarke"
+description: "In August 2026, India approved an ₹84,084 crore scheme named after a myth about churning the ocean for treasure. The real story behind it is not about oil, it is about who should pay for a risk that nobody wants to take alone."
+image: "./title_20260802.png"
+twitter-card: {image: "./title_20260802.png"}
+open-graph: {image: "./title_20260802.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+In Hindu mythology, gods and demons once teamed up to churn the cosmic ocean, using a mountain as a rod and a giant serpent as a rope. The churn was not gentle. It threw up poison first, and the gods had to deal with that before anything good came out of the water. Only much later did the ocean give up its treasures, including the nectar of immortality. In August 2026, the Indian government named a very real ₹84,084 crore program after that story, Samudra Manthan, and pointed it at India's own coastline.
+
+On the surface, it reads like an ordinary energy policy. The scheme pays for seismic surveys, deepwater drilling and new offshore infrastructure, with a target of finding more than 600 million metric tonnes of oil equivalent hidden under India's seas. But offshore exploration is one of the riskiest businesses on the planet. A company can spend tens of millions of dollars drilling a single well and find nothing. So why would the government agree to pick up part of the bill for a hole that might turn out to be empty?
+
+# Why Pay for a Well That Might Find Nothing?
+
+Large stretches of India's offshore basins have sat almost untouched for decades, and it was never really about whether oil was down there. It was about who was willing to pay to find out. A deepwater well can cost tens of millions of dollars with no refund if it comes up dry, and the seismic survey that maps the seabed before drilling starts does not just help whoever paid for it. Once that map exists, every other company drilling nearby benefits too, whether they paid toward making it or not.
+
+That creates an odd problem. When a company takes on the cost and risk of exploration but cannot stop rivals from riding along on the results, it has less reason to explore in the first place. Multiply that across an entire coastline, and you get exactly what India had, vast offshore basins that stayed unexplored not for lack of oil, but for lack of anyone willing to go first.
+
+Samudra Manthan attacks that problem directly. The government now funds the large seismic surveys itself, shares part of the cost of high risk exploratory drilling, and builds shared offshore infrastructure that multiple companies can use instead of each building their own. It also pushes domestic manufacturing of offshore equipment, so companies are not stuck waiting on imports. Each move takes a cost that used to sit entirely on one company's books and spreads it out, or hands it to the government instead.
+
+This is really an argument about how a certain kind of knowledge behaves once it exists. A map of the seabed does not run out when more people use it, and once it is made, it is almost impossible to keep it locked away from competitors anyway. Economists have a name for exactly this kind of resource, a public good, and the standard problem with public goods is that nobody wants to pay for something everyone else can use for free. Even a dry well is not a total loss under this logic, since the data it produces makes the next search, by anyone, cheaper and more accurate.
+
+# The Ocean Beyond Oil
+
+Step back from the drilling and the bigger ambition becomes clear. India has a coastline running more than 7,500 kilometres and an Exclusive Economic Zone larger than 2 million square kilometres, sitting along some of the busiest shipping routes on earth. Policymakers now call the plan for all that water a Blue Economy, and hydrocarbons are only the opening act. India still imports close to 90 percent of its crude oil, but the same seabed holds nickel, cobalt, manganese and rare earth elements that go into electric vehicle batteries and renewable energy equipment.
+
+Offshore wind farms could generate power along the coast in the evening, right when solar panels stop producing. Undersea cables already carry most of the world's international internet traffic, and companies are exploring offshore data centres to handle the cooling needs of artificial intelligence. Add modern ports, shipbuilding, marine biotechnology, aquaculture and coastal tourism, and the ocean starts to look less like a shipping lane and more like an economy India has barely started to use.
+
+None of this happens quickly. Offshore projects need years of investment before they return anything, deep sea mining remains commercially unproven and environmentally sensitive, and India's ocean policy is split across ministries handling petroleum, shipping, fisheries, defence and the environment, forcing companies through a maze of approvals. There is a geopolitical angle too. China worked out the value of the seas years ago, financing ports abroad, building the world's largest shipping fleet, and expanding its presence in the Indian Ocean, which makes maritime strength as much a strategic necessity as an economic one.
+
+# Final Thoughts
+
+Go back to the myth for a moment. The churn of the ocean did not skip straight to the nectar. The poison had to be dealt with first, and only patient, coordinated effort got the gods to the reward on the other side. Samudra Manthan works on the same logic, except the poison here is dry wells, fragmented approvals and years of upfront spending that nobody wants to shoulder alone.
+
+The scheme is not really a bet on finding oil, though it might do that too. It bets that if the government absorbs the ugliest, least rewarding part of exploration, the map, the shared pipelines, the early failures, private companies will follow with the capital to build everything downstream of it. Whether that bet pays off depends less on how much oil sits under India's seabed and more on whether the country can turn that first, unglamorous churn into an economy that keeps paying out long after the drilling stops.

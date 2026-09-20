@@ -1,0 +1,65 @@
+---
+title: "Why Can't Tata Stay Private?"
+date: 2026-09-30
+subtitle: "Oversight is different when public money is involved." — Sanjeev Bikhchandani
+description: "Every famous Tata company has a share price except one, the holding company sitting at the center of the entire group. For over a century that company stayed out of the stock market, until a regulator's decision this month made that a lot harder to keep doing."
+image: "./title_20260930.png"
+twitter-card: {image: "./title_20260930.png"}
+open-graph: {image: "./title_20260930.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+You can open a trading app right now and buy a share of Tata Consultancy Services, or Tata Motors, or Titan.You can even get exposure to businesses such as Jaguar Land Rover and Air India through their listed Tata owners. However, there is one Tata company you cannot buy. It sits above every business that carries the Tata name, and it has stayed out of the stock market for more than a hundred years. It is called Tata Sons.
+
+That is strange once you notice it. Tata's listed companies are worth more than $260 billion combined and are held by 17.7 million retail shareholders, alongside pension funds, insurers and mutual funds. Those investors don't own Tata Sons itself. The holding company, Tata Sons, at the centre of all of them has never sold a single share to the public. And that is suddenly turning into one of the loudest boardroom fights in Indian business.
+
+# Who Really Owns Tata
+
+Most people picture Tata as one enormous company. It helps to think of it as a family tree.
+
+Tata Sons is the trunk. It holds stakes in the individual Tata businesses and effectively decides how much control the group keeps over each one. Tata Sons itself, though, is owned by a small set of shareholders who have nothing to do with the stock market.
+
+The largest, holding 66 percent, is Tata Trusts, a group of charities chaired by Noel Tata. The Trusts use the profit generated through their Tata Sons stake to support philanthropy in areas such as education, healthcare and research. The second largest, holding roughly 18.4 percent, is the Shapoorji Pallonji Group, a construction business that has held its stake for decades. The rest sits with other Tata companies.
+
+So "Tata" usually means the businesses whose shares anyone can buy. "Tata Sons" means the private company answerable mainly to Tata Trusts and the Shapoorji Pallonji Group.
+
+If that arrangement has worked for over a century, what changed.
+
+# The Regulator Tata Sons Could Not Talk Its Way Out Of
+
+The answer starts with the Reserve Bank of India.
+
+Because Tata Sons exists mainly to hold shares in other Tata companies, the RBI classifies it as a Core Investment Company. In September 2022, it placed Tata Sons in the Upper Layer of this framework, reserved for the largest and most systemically important companies of its kind. Upper Layer companies must list on a stock exchange within three years of being placed there.
+
+For Tata Sons, that deadline was September 30, 2025. It passed with no listing.
+
+Instead, Tata Sons tried a different route. After repaying more than 20,000 crore rupees of debt in 2024, it asked the RBI to surrender its Core Investment Company registration entirely. The logic was simple. No borrowing, no reason to stay regulated as a financial company.
+
+The request remained unresolved for more than two years. In September 2026, it said no. Tata Sons' standalone assets, around 1.75 trillion rupees, already crossed the size threshold on their own, and the rules also weigh whether a group indirectly draws on public funds through its other companies. Days later, the RBI filed a caveat in the Bombay High Court, letting it be heard immediately if Tata Sons challenges the decision.
+
+Tata Sons tried to argue its way out of being systemically important. However, its scale and size had already decided that it is.
+
+# What Actually Changes If Tata Sons Lists
+
+It is tempting to think a listing mostly adds paperwork. It changes something more basic. Right now, nobody outside a small circle knows what Tata Sons is worth. A listing would create a daily, public price for it, set by whoever is willing to buy and sell its shares.
+
+That matters enormously to the Shapoorji Pallonji Group. Owning 18.4 percent of Tata Sons sounds like a fortune, and on paper it probably is. But a private stake nobody can freely trade is not money in the bank. A listing fixes that, turning an illiquid holding into something with a market price and willing buyers. And this isn't theoretical. The SP Group has now proposed selling part of its Tata Sons stake to raise at least ₹25,000 crore. This is why the SP Group has pushed hardest for a listing.
+
+Tata Trusts see the same listing very differently. Today, Tata Sons answers mainly to its existing private shareholders. A public listing brings in outside investors who can demand disclosures, question decisions at annual meetings, and expect dividends on their own schedule, not the Trusts'. But even Tata Trusts aren't united. Venu Srinivasan and Vijay Singh have argued that Tata's expansion into capital-intensive businesses such as semiconductors will require more capital. 
+
+Noel Tata has warned this would "destroy its character," arguing that Tata Sons was never built as an ordinary holding company chasing returns, but as the financial engine behind a century of Tata philanthropy. Shapoorji Pallonji chairman Shapoor Mistry sees the opposite virtue in the same change. He has called a public listing "a social and moral imperative," arguing that a company of this scale owes the public the transparency of answering to a wider set of shareholders.
+
+The disagreement reflects different priorities: one side values preserving the existing structure, while the other sees greater transparency, liquidity and access to capital as increasingly important.
+
+# Final Thoughts
+
+Come back to the question this started with. Why can't Tata just stay private.
+
+The honest answer is that Tata Sons was never quite an ordinary private company. It sits atop businesses that employ hundreds of thousands of people, borrow from banks, and matters to India's wider financial system. 
+
+Whether Tata Sons ultimately lists will be settled in boardrooms, and possibly in the Bombay High Court. But the more interesting question was never really about Tata alone. It is about every large private company that grows big enough to shape an economy. Past a certain point, size itself starts to look like public responsibility, whether the people who built the company wanted it to or not.

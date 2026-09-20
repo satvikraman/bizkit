@@ -1,0 +1,43 @@
+---
+title: "Manche Banktresore bewahren Gold auf. Dieser hier bewahrt eine halbe Million Räder Käse auf."
+date: 2026-08-16
+subtitle: '"Käse ist der Sprung der Milch in die Unsterblichkeit." — Clifton Fadiman'
+description: "Eine Regionalbank in Norditalien verleiht seit mehr als siebzig Jahren Geld gegen etwas, das normalerweise in einer Küche steht, nicht in einem Tresor. Hitze stellt nun auf die Probe, ob diese Vereinbarung finanziell noch sinnvoll ist."
+image: "./title_20260816.png"
+twitter-card: {image: "./title_20260816.png"}
+open-graph: {image: "./title_20260816.png"}
+categories: ["Geld & Märkte"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+In zwei Lagerhäusern in Norditalien lagert eine Regionalbank mehr als eine halbe Million Käseräder im Wert von über 300 Millionen Euro. Die Bank hat diesen Käse niemandem wegen eines Zahlungsausfalls beschlagnahmt. Die Hersteller haben ihn absichtlich übergeben, im Austausch für einen Kredit, ungefähr so, wie jemand eine Hausurkunde übergeben würde. Die Bank schließt den Käse ein, prüft ihn regelmäßig und wartet, manchmal bis zu drei Jahre, bevor jemand ihn zurückerhält.
+
+Der Käse ist Parmigiano Reggiano, und die Bank ist Credito Emiliano, vor Ort als Credem bekannt, die seit 1953 junge Parmesanräder als Sicherheit akzeptiert. Es ist kein Marketingtrick, sondern ein funktionierender Teil davon, wie eine gesamte Regionalindustrie finanziert wird, und läuft still weiter durch Jahrzehnte italienischer Bankengeschichte. Irgendwo zwischen dem Stall und dem Esstisch wurde ein hart werdendes Käserad beleihbar, so wie Land oder Gold beleihbar ist, und der Grund hat weniger mit Käse zu tun als damit, wie Kreditgeber entscheiden, wem sie vertrauen.
+
+# Warum sollte eine Bank Ihren Käse besitzen wollen?
+
+Parmigiano Reggiano kann nicht in dem Moment verkauft werden, in dem er hergestellt wird. Die Vorschriften verlangen eine Reifung von mindestens zwölf Monaten, und viele Hersteller lassen ihre Räder 24 oder sogar 36 Monate reifen. Rechtlich darf der Name nur für Käse verwendet werden, der aus Milch hergestellt wird, die in Parma, Reggio Emilia, Modena und Teilen von Bologna und Mantua produziert wurde, unter Verwendung von nichts als roher Kuhmilch, Salz und Kälberlab. Ein 40 Kilogramm schweres Rad benötigt etwa 550 Liter Milch.
+
+Während das Rad reift, hat der Hersteller bereits für Milch, Arbeit, Salz und Strom bezahlt, die in seine Herstellung geflossen sind. Dieses Geld steckt in einem Produkt, das mindestens ein Jahr lang nicht verkauft werden kann. Ökonomen nennen das Betriebskapital, das Geld, das ein Unternehmen braucht, um weiterzuarbeiten, während sein Produkt dem Verkauf näherkommt, und der Hersteller muss morgen immer noch seine Kühe melken und Rechnungen bezahlen.
+
+Credem löst das, indem die Bank Geld gegen den Käse verleiht, während er noch jung ist, in der Regel bis zu 60 bis 80 Prozent seines geschätzten künftigen Werts, eine Kennzahl, die Kreditgeber Beleihungswert nennen. Was das funktionieren lässt, ist, dass Credem nicht einfach dem Wort des Herstellers vertraut, was der Käse wert ist. Eine Tochtergesellschaft der Bank lagert die Räder selbst, in Lagerhäusern mit mehr als 500.000 Stück. Sobald ein Rad zwölf Monate alt wird, klopfen Prüfer des Parmigiano Reggiano Konsortiums mit einem kleinen Hammer auf seine Rinde und lauschen auf das Geräusch eines verborgenen Risses. Räder, die die Prüfung bestehen, erhalten das eingebrannte Zeichen, das ihnen erlaubt, den Namen zu tragen, und Räder, die durchfallen, verlieren dieses Recht vollständig.
+
+Diese Prüfung ist der Grund, warum die Vereinbarung funktioniert. Ein Kreditgeber, der jahrelang auf einem Vermögenswert sitzt, braucht eine Möglichkeit zu wissen, dass dieser noch das wert ist, was er am ersten Tag war. Indem Credem den Käse unter dem eigenen Dach hält und ihn fortlaufend prüft, muss die Bank nie einfach hoffen, dass die Sicherheit noch Wert hat, sie weiß es, Rad für Rad. Und weil ein richtig gereiftes Rad tatsächlich mehr wert ist als ein junges, schützt die Bank nicht nur einen statischen Vermögenswert, sie hält einen, der wertvoller wird, während sie wartet.
+
+# Wenn die Hitze den Tresor erreicht
+
+In den vergangenen Sommern sind die Temperaturen in der Region von Parmigiano Reggiano auf über 40°C gestiegen. Kühe fressen bei solcher Hitze weniger und verbrauchen mehr Energie, nur um kühl zu bleiben, und die Milchleistung ist in den schlimmsten Phasen um bis zu 10 Prozent gesunken. Das ist eine weitere Ausgabe, die sich auf ein Geschäft häuft, das ohnehin schon ein Jahr oder länger warten muss, bis sein Käse verkaufsfähig, also beleihbar, wird.
+
+Die Hitze erreicht auch die Lagerhäuser. Auf dem Höhepunkt der diesjährigen Hitze stieg der tägliche Stromverbrauch in den Käsetresoren um etwa 30 Prozent, da die Kühlung härter arbeiten musste, um Hunderttausende Räder auf sicherer Temperatur zu halten. Irgendwo in diesen zusätzlichen Kosten steckt der Preis dafür, eine halbe Million Räder genauso wertvoll zu halten, wie sie an dem Tag waren, an dem Credem zustimmte, Geld gegen sie zu verleihen.
+
+Nichts davon hat die Vereinbarung zerbrochen. Die Produktion ist derzeit nicht gefährdet, und der Käse reift noch immer so, wie er es immer getan hat, nur etwas teurer als früher.
+
+# Abschließende Gedanken
+
+Tritt man einen Schritt zurück, wirkt der Reiz von Käse als Sicherheit fast offensichtlich. Die meisten Dinge, die eine Bank als Sicherheit akzeptieren könnte, verlieren in dem Moment an Wert, in dem man sie vom Hof fährt oder einsteckt, ein Auto verliert an Wert, ein Laptop verliert an Wert, sogar die GPUs, die jetzt als Sicherheit für Rechenzentrumskredite verpfändet werden, sind in dem Moment weniger wert, in dem ein schnellerer Chip erscheint. Parmigiano Reggiano tat das Gegenteil, wurde jeden Monat, den er im Lagerhaus stand, still wertvoller, solange jemand genau genug hinsah, um sich dessen sicher zu sein.
+
+Hitze verändert nicht, was ein Rad Parmigiano Reggiano ist, sie verändert, was es kostet, sich sicher zu sein, was es wert ist. Credem hat eigentlich nie gegen Käse verliehen, sondern gegen diese Gewissheit, und die Hitze hat diese Gewissheit nur ein wenig teurer gemacht.
+</content>

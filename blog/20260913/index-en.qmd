@@ -1,0 +1,34 @@
+---
+title: "India Is Quietly Building Five Hundred New Delhis"
+date: 2026-09-13
+subtitle: "What happens when hundreds of Indian cities start spending like Delhi?"
+description: "By 2035, India is projected to have nearly 500 cities where most residents count as genuine consumers, according to research from World Data Lab published by the World Economic Forum. The forecast starts with a strange fact about Delhi's own spending, and a century-old economic law that explains why it matters everywhere else."
+image: "./title_20260913.png"
+twitter-card: {image: "./title_20260913.png"}
+open-graph: {image: "./title_20260913.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+When people get richer, they rarely spend the extra money on more of what they already buy. They spend it on things that barely showed up in their budget before. The interesting question is never how much someone earns. It is what their spending turns into once they can afford to stop worrying about the basics.
+
+Delhi is the clearest version of this in India today. In 2026, the average Indian spends about 1,927 dollars a year. A resident of Delhi spends around 3,265 dollars, almost 70 percent more. That extra money did not spread itself evenly across everything a Delhi resident already buys. Housing alone takes up 31 percent of the total, more than double the 14 percent it takes nationally, while food and drink fall to just 18 percent, against 29 percent for the country as a whole. Delhi residents are not simply eating more expensive food or buying more of everything at once. Their money has moved into categories, like housing, education and financial services, that barely register in the national picture.
+
+That is a strange thing for any company to plan around. For decades, "the Indian consumer" has meant someone in one of a handful of familiar cities. But Delhi is not just a wealthy outlier to admire from a distance. It is a preview. The real question it raises is what happens once other cities cross the same line Delhi already has, and, according to research from World Data Lab published by the World Economic Forum, many more are about to.
+
+# What Happens to a Rupee After the Basics Are Covered
+
+There is a name for the pattern behind Delhi's numbers. Economists have observed for more than a century that as income rises, people spend a shrinking share of it on food, a pattern known as Engel's Law. The actual amount a Delhi resident spends on food is probably normal. What shrinks is food's share of a much bigger total. Once the basics stop eating up most of a budget, whatever is left has to go somewhere else, and that somewhere is different for every city.
+
+# Hundreds of Cities, Not Just a Few
+
+This is where Delhi stops being a one-city story. According to World Data Lab's research, 93 percent of the growth in India's urban consumer class over the next fifteen years is expected to happen outside the country's five largest cities, Delhi, Kolkata, Mumbai, Bengaluru and Chennai. The 5 largest cities, will together account for only 7 percent of the new consumers India adds through 2040. By 2035, the same research expects India to have 499 cities where at least three out of four residents count as part of the consumer class, capable of spending 13 dollars or more a day. That's more than twice the number of such cities that qualify today.
+
+One city crossing that line reshapes one market. Hundreds of cities crossing it within the same few years reshape the geography of an entire economy. It is not that more Indians can afford more things, one city at a time. It is that enough cities are expected to shift what counts as a normal purchase, that Indian demand stops being a story about a handful of places and becomes a story about hundreds of them at once.
+
+# Final Thoughts
+
+That is what "Five Hundred New Delhis" really means: 500 cities each crossing the same invisible line in its own way, on its own terms. For decades, India's economic story was told through a handful of giant cities. What World Data Lab's forecast confirms, is that the next chapter of that story will not be written in a handful of places. It will be written across hundreds of them, at the same time.

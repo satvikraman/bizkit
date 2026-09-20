@@ -1,0 +1,42 @@
+---
+title: "Indien kann die Rakete bauen. Kann es das Geschäft aufbauen?"
+date: 2026-08-23
+subtitle: '"Das Billigste kann die Eintrittskarte sein, aber es kann nicht die Ziellinie sein." — Chinmaya Saxena, Beenext'
+description: "Die Umlaufbahn zu erreichen soll der Moment sein, in dem ein Raketen-Startup beweist, dass es ein Geschäft hat. Vier amerikanische Unternehmen erreichten diesen Meilenstein und gingen trotzdem bankrott. Skyroot hat die Umlaufbahn auch erreicht. Der eigentliche Test beginnt jetzt, genug Kunden zu finden, um weiter zu fliegen"
+image: "./title_20260823.png"
+twitter-card: {image: "./title_20260823.png"}
+open-graph: {image: "./title_20260823.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Saatvik Raaman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Im Jahr 2020 waren die Fabriken von Skyroot Aerospace in Hyderabad still geworden. Die Gründer Pawan Kumar Chandana und Naga Bharath Daka hatten 1,5 Millionen Dollar eingesammelt und gesehen, wie das meiste davon verschwand, ohne dass ein funktionierender Raketen-Prototyp vorzuzeigen war. Dutzende Mitarbeiter blieben auf der Gehaltsliste, während Covid den Rest der Welt um sie herum lahmlegte, und nach eigener späterer Aussage des Unternehmens sah es so aus, als würden innerhalb von Monaten die Lichter ausgehen.
+
+Sechs Jahre später brachte dasselbe Unternehmen beim allerersten Versuch eine Rakete in die Umlaufbahn. Im Juli 2026 startete Skyroots Vikram-1 von Sriharikota aus, erreichte die geplante Umlaufbahn von 450 Kilometern und setzte ihre Nutzlasten genau nach Plan aus. Die Mission trug den Namen Aagaman, Ankunft auf Sanskrit, und innerhalb von Wochen war Skyroot zu Indiens erstem Spacetech-Unternehmen mit einer Bewertung über einer Milliarde Dollar geworden, wobei Investoren angeblich das Doppelte der vorherigen Bewertung boten, nur um einsteigen zu können.
+
+So erzählt klingt es wie eine saubere Geschichte darüber, wie sich Durchhaltevermögen endlich auszahlt. Aber die Umlaufbahn zu erreichen, genau das, was Skyroot gerade getan hat, ist für andere gut finanzierte Raketenunternehmen anderswo in der Welt sehr anders ausgegangen.
+
+# Unternehmen, die die Umlaufbahn erreichten und trotzdem bankrott gingen
+
+Zwischen 2015 und 2022 sammelte eine Welle amerikanischer Kleinraketen-Startups Milliarden Dollar ein, um genau den Meilenstein zu erreichen, den Skyroot jetzt geschafft hat. Mehrere von ihnen kamen dort an, und es war trotzdem nicht genug. Virgin Orbit, gegründet und unterstützt von Richard Branson, absolvierte vier erfolgreiche Orbitalmissionen und meldete 2023 Insolvenz an. Astra ging bei einer Bewertung von rund 2,1 Milliarden Dollar an die Börse, erreichte die Umlaufbahn und wurde 2024 für rund 10 Millionen Dollar wieder privatisiert. Relativity Space sammelte mehr als 1,3 Milliarden Dollar, erreichte den Weltraum und stellte dann genau die Rakete ein, die es dorthin gebracht hatte. ABL Space Systems sammelte über 500 Millionen Dollar und wandte sich still dem Bau von Raketen für militärische Zwecke zu.
+
+Keines davon war ein technisches Versagen. Das eigentliche Problem lag auf der Nachfrageseite. Zwischen 2019 und 2023 transportierten die Transporter-Rideshare-Missionen von SpaceX schätzungsweise 81 Prozent der kleinen Satelliten weltweit, ohne Starlink und chinesische Raumfahrzeuge, oft zu fünf- bis zehnmal geringeren Kosten pro Kilogramm, als ein dedizierter Kleinraketen-Anbieter bieten konnte. Eine Rakete, die perfekt funktioniert, braucht trotzdem jemanden, der bereit ist, für die Füllung zu bezahlen, und es gab schlicht nicht genug zahlende Kunden, um alle zu versorgen.
+
+Schaut man sich an, wer tatsächlich überlebt hat, erkennt man ein Muster. SpaceX selbst stützte sich in seinen wackeligsten frühen Jahren auf die kommerziellen Frachtsatelliten- und Besatzungsverträge der NASA und hat seitdem im Laufe seiner Existenz mehr als 22 Milliarden Dollar von der US-Regierung erhalten. Chinas Raketenunternehmen laufen größtenteils auf Staatsgeldern und garantierten Konstellationsverträgen. Rocket Lab, das seltene kleine Raketenunternehmen, das noch steht, schaffte es, indem es bis 2023 etwa zwei Drittel seines Umsatzes von Starts auf Satellitenbau umstellte. Jedes der überlebenden Unternehmen hatte einen finanzkräftigen Kunden, der sich verpflichtet hatte, zu kaufen, bevor die Rakete überhaupt fertig war, eine Vereinbarung, die man in der Branche mittlerweile einfach Ankerkunde nennt.
+
+# Wer also kauft Skyroots nächsten Start?
+
+Das ist die Frage, die Virgin Orbit nie beantwortet hat, und sie entscheidet, was aus Skyroots Erfolg tatsächlich wird. Eine Rakete fliegt nur so oft, wie jemand dafür bezahlt, sie zu füllen, und der konkreteste Antwortversuch kommt von der indischen Regierung. Im Rahmen des Programms Space Based Surveillance-3 plant die Regierung, über fünf Jahre 52 militärische Überwachungssatelliten in die Umlaufbahn zu bringen, wobei 31 davon an private Unternehmen und nicht an Isro gehen. Vishesh Rajaram von Speciale Invest nennt es "ein Nachfragesignal von 27.000 Crore Rupien" und argumentiert, dass die Übergabe von 31 Satelliten an private Akteure Wachstumsinvestoren zeigt, dass hinter diesen Unternehmen dauerhafte Einnahmen jenseits von Venture-Runden stehen.
+
+Dieses Programm garantiert, dass jemand dafür bezahlt, 31 Satelliten zu bauen. Es garantiert nicht, dass diese Satelliten auf einer indischen Rakete statt auf einer billigeren ausländischen Rideshare fliegen, genau die Substitution, die Virgin Orbits Auftragsbuch leerte. Ein ermutigenderes Zeichen ist, dass auch zahlende Kunden zu kommerziellen Bedingungen auftauchen. Pixxel hat rund 65 Kunden unter Vertrag, darunter NASA, Rio Tinto und BP, und Digantara hält Verträge mit dem US Space Command, nachdem es eine von Reliance Industries geführte Finanzierungsrunde über 50 Millionen Dollar abgeschlossen hat. Jeder dieser Satelliten braucht letztlich eine Rakete, und je mehr in Indien gebaut werden, desto mehr Grund gibt es, sie von Indien aus zu starten, statt einen Platz im Ausland zu buchen.
+
+Nichts davon klärt die Frage endgültig, es macht die Antwort nur plausibel statt zufällig. Ein Beschaffungsprogramm über 27.000 Crore Rupien und eine Handvoll erstklassiger Satellitenverträge bringen Skyroot in eine andere Ausgangsposition als Virgin Orbit, aber sie bleiben frühe Signale, kein fertiges Auftragsbuch.
+
+# Schlussgedanken
+
+Skyroots Fast-Zusammenbruch im Jahr 2020 und sein Unicorn-Moment im Jahr 2026 wirken wie entgegengesetzte Enden einer Geschichte, aber der Vergleich, der wirklich zählt, ist der mit Virgin Orbit, Astra, Relativity und ABL. Alle vier konnten eine Rakete bauen, die funktionierte. Was sie nicht konnten, war genug Käufer für den nächsten Start zu finden, und den danach. Indien hat dieses Problem noch nicht gelöst. Es hat erst begonnen, die Teile zu bauen, die es lösen könnten, ein Beschaffungsprogramm und ein kommerzieller Vertrag nach dem anderen.
+
+Die Lücke ist in den Zahlen noch sichtbar. Indische Spacetech-Startups haben seit 2020 636 Millionen Dollar an Frühphasenfinanzierung eingesammelt, aber nur 70 Millionen Dollar kamen in der Wachstumsphase an, und nur neun haben die Marke von 10 Millionen Dollar Jahresumsatz überschritten. Skyroot hat bereits den schwierigen Teil geschafft, der vier gut finanzierte amerikanische Rivalen in die Insolvenz trieb, die Umlaufbahn beim ersten Versuch zu erreichen. Ob es am Ende neben SpaceX oder neben Virgin Orbit in Erinnerung bleibt, wird nicht von seinen Ingenieuren entschieden werden. Es wird von denjenigen entschieden werden, die sich immer noch anstellen, um den nächsten Start zu kaufen.

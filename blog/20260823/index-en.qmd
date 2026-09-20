@@ -1,0 +1,42 @@
+---
+title: "India Can Build the Rocket. Can It Build the Business?"
+date: 2026-08-23
+subtitle: '"The cheapest can be the entry ticket, but it cannot be the finish line." — Chinmaya Saxena, Beenext'
+description: "Reaching orbit is supposed to be the moment a rocket startup proves it has a business. Four American companies reached that milestone and still went bankrupt. Skyroot has reached orbit too. Its real test starts now: finding enough customers to keep flying"
+image: "./title_20260823.png"
+twitter-card: {image: "./title_20260823.png"}
+open-graph: {image: "./title_20260823.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+In 2020, Skyroot Aerospace's factories in Hyderabad had gone quiet. Founders Pawan Kumar Chandana and Naga Bharath Daka had raised $1.5 million and watched most of it disappear with no working rocket prototype to show anyone. Dozens of employees stayed on the payroll while Covid shut down the rest of the world around them, and by the company's own later account, the lights looked ready to go off within months.
+
+Six years on, the same company put a rocket into orbit on its very first attempt. In July 2026, Skyroot's Vikram-1 lifted off from Sriharikota, reached its planned 450 kilometre orbit, and released its payloads exactly as planned. The mission carried the name Aagaman, arrival in Sanskrit, and within weeks Skyroot had become India's first spacetech company valued above a billion dollars, with investors reportedly offering double the previous valuation just to get in.
+
+Told this way, it sounds like a clean story about grit finally paying off. But reaching orbit, the exact thing Skyroot just did, has ended very differently for other well funded rocket companies elsewhere in the world.
+
+# Companies That Reached Orbit and Still Went Bankrupt
+
+Between 2015 and 2022, a wave of American small launch startups raised billions of dollars chasing the same milestone Skyroot has just reached. Several of them got there, and it still was not enough. Virgin Orbit, founded and backed by Richard Branson, completed four successful orbital missions and filed for bankruptcy in 2023. Astra went public at a valuation near $2.1 billion, reached orbit, and was taken private in 2024 for roughly $10 million. Relativity Space raised more than $1.3 billion, reached space, and then cancelled the very rocket that got it there. ABL Space Systems raised over $500 million and quietly pivoted to building missiles instead.
+
+None of these were engineering failures. The actual problem sat on the demand side. Between 2019 and 2023, SpaceX's Transporter rideshare missions carried an estimated 81 percent of the world's small satellites, excluding Starlink and Chinese spacecraft, often at five to ten times lower cost per kilogram than a dedicated small launcher could offer. A rocket that works perfectly still needs someone willing to pay to fill it, and there simply were not enough paying customers to go around.
+
+Look at who actually survived and a pattern appears. SpaceX itself leaned on NASA's commercial cargo and crew contracts through its shakiest early years, and has since drawn more than $22 billion from the US government over its lifetime. China's launch companies run largely on state funds and guaranteed constellation contracts. Rocket Lab, the rare small launch company still standing, made it by turning roughly two thirds of its revenue into satellite manufacturing rather than launches by 2023. Each of the survivors had a customer with deep pockets committed to buying before the rocket was even ready, an arrangement people in the industry now simply call an anchor customer.
+
+# So Who Buys Skyroot's Next Launch?
+
+This is the question Virgin Orbit never answered, and it decides what Skyroot's success actually turns into. A rocket only flies as often as someone pays to fill it, and the most concrete attempt at an answer is coming from the Indian government. Under the Space Based Surveillance-3 programme, the government plans to put 52 military surveillance satellites into orbit over five years, and 31 of those are going to private companies rather than Isro. Speciale Invest's Vishesh Rajaram calls it "a ₹27,000 crore demand signal," arguing that handing 31 satellites to private players tells growth stage investors there is durable revenue behind these companies beyond venture rounds.
+
+That programme guarantees someone will pay to build 31 satellites. It does not guarantee those satellites fly on an Indian rocket rather than a cheaper foreign rideshare, the exact substitution that emptied Virgin Orbit's order book. A more encouraging sign is that paying customers are also showing up on commercial terms. Pixxel has signed around 65 clients, including NASA, Rio Tinto and BP, and Digantara holds contracts with US Space Command after closing a $50 million round led by Reliance Industries. Every one of those satellites eventually needs a rocket, and the more get built in India, the more reason there is to launch them from India rather than book a slot abroad.
+
+None of this settles the question, it only makes the answer plausible rather than accidental. A ₹27,000 crore procurement programme and a handful of blue chip satellite contracts put Skyroot in a different starting position than Virgin Orbit, but they remain early signals, not a finished order book.
+
+# Final Thoughts
+
+Skyroot's near collapse in 2020 and its unicorn moment in 2026 look like opposite ends of one story, but the comparison that matters is with Virgin Orbit, Astra, Relativity and ABL. All four could build a rocket that worked. What they could not do was find enough buyers for the next launch, and the one after that. India has not solved that problem yet. It has only started building the pieces that might solve it, one procurement programme and one commercial contract at a time.
+
+The gap is still visible in the numbers. Indian spacetech startups have pulled in $636 million in early stage funding since 2020, but only $70 million came at the growth stage, and just nine have crossed $10 million in annual revenue. Skyroot has already done the hard part that bankrupted four well funded American rivals, reaching orbit on the first try. Whether it ends up remembered alongside SpaceX or alongside Virgin Orbit will not be decided by its engineers. It will be decided by whoever is still lining up to buy its next launch.

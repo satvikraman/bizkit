@@ -1,0 +1,43 @@
+---
+title: "Indien machte UPI kostenlos. Jetzt muss es dafür bezahlen."
+date: 2026-08-09
+subtitle: "\"Die Kosten muss irgendjemand tragen.\" — Sanjay Malhotra, RBI-Gouverneur"
+description: "Ein neues Gesetz erlaubt es der Regierung nun zu entscheiden, wann UPI nicht mehr kostenlos ist, und die Reaktionen im Internet kamen einer Panik nahe. Doch es stellt sich heraus, dass Indien nicht zum ersten Mal eine Gebühr auf seine beliebteste Zahlungsmethode erhebt."
+image: "./title_20260809.png"
+twitter-card: {image: "./title_20260809.png"}
+open-graph: {image: "./title_20260809.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Manche UPI-Nutzer haben sich bereits entschieden. Fragt man diesen Monat im Internet nach, findet man Leute, die sagen, sie würden UPI komplett aufgeben, sollte es jemals auch nur einen winzigen Betrag verlangen. Die Panik ist längst keine reine Hypothese mehr. Das Parlament hat vor kurzem ein Gesetz verabschiedet, das der Regierung erlaubt zu entscheiden, welche digitalen Zahlungen kostenlos bleiben und welche eine Gebühr erhalten können. Damit endet die pauschale Regel, die UPI sechs Jahre lang komplett kostenlos gehalten hat.
+
+Die Regierung hat bereits klargestellt, dass normale Bürger nichts dafür bezahlen werden, UPI zu nutzen. Was sich ändern könnte, ist eine kleine Gebühr auf bestimmte Händlertransaktionen, und das auch nur oberhalb einer gewissen Größe. Schon diese Möglichkeit hat Vergleiche mit Preiserhöhungen ausgelöst, die andere kostenlose Gewohnheiten beendet haben, etwa Wallet-Aufladungen, die Menschen still und leise aufgaben, sobald Plattformen dafür Gebühren einführten.
+
+Und hier kommt das Merkwürdige. Überall dort, wo tatsächlich eine kleine Gebühr auf Sofortzahlungen eingeführt wurde, ob in einem anderen Land oder in Indiens eigener Vergangenheit, brach die Nutzung nicht ein. Sie stieg. Warum wirkt also die Vorstellung irgendeiner Gebühr auf UPI wie eine solche Bedrohung?
+
+# Irgendjemand hat für UPI immer schon bezahlt
+
+Um zu verstehen, warum überhaupt über eine Gebühr diskutiert wird, hilft es zu wissen, wer die ganze Zeit für UPI bezahlt hat. Jedes Mal, wenn man sofort Geld überweist, leisten die Banken auf beiden Seiten im Hintergrund echte Arbeit. Sie bewegen Geld, prüfen auf Betrug und halten Server rund um die Uhr am Laufen. Diese Arbeit kostet Geld, und bei Kartenzahlungen holen sich die Banken das Geld über eine Gebühr zurück, die Merchant Discount Rate genannt wird und die der Händler bei jeder Transaktion zahlt.
+
+So hat UPI nie funktioniert. 2020 verbot die Regierung den Banken, MDR auf UPI zu erheben, vor allem weil eine Änderung des Steuerrechts jedes Unternehmen mit einem Umsatz von über ₹50 Crore gerade dazu verpflichtet hatte, eine digitale Zahlungsoption anzubieten. Händler, die sich zu digitalen Zahlungen gedrängt fühlten, hätten sich gegen eine damit verbundene neue Gebühr wehren können. Deshalb hielt die Regierung UPI kostenlos und führte statt der Gebühr eine jährliche Subvention ein, um die Kosten der Banken zu decken, finanziert von den Steuerzahlern.
+
+Diese Subvention konnte nicht Schritt halten. Im Geschäftsjahr FY24 erreichte sie mit rund ₹3.631 Crore ihren Höchststand, fiel im FY25 auf ₹1.441 Crore und war für FY26 mit gerade einmal ₹435 Crore budgetiert, bevor sie mitten im Jahr nach oben korrigiert werden musste, weil sie die Kosten nicht deckte. Gleichzeitig wickelte UPI allein im FY26 über 24.000 Crore Transaktionen im Wert von ₹314 Lakh Crore ab, ein Anstieg von rund 30 Prozent beim Volumen und 21 Prozent beim Wert gegenüber dem Vorjahr. Ein parlamentarischer Ausschuss stellte fest, dass die Subvention zwischen 2022 und 2025 kaum 11 Prozent dessen deckte, was Banken und Fintechs tatsächlich ausgaben, um UPI am Laufen zu halten. Irgendjemand hat die ganze Zeit still und leise die Rechnung übernommen. Es war nur nicht die Person, die an der Kasse ihr Handy antippt.
+
+# Warum sich eine winzige Gebühr größer anfühlt, als sie ist
+
+Hier setzt das neue Gesetz an. Es lässt die Regierung Transaktion für Transaktion entscheiden, ob eine Gebühr anfällt, statt jede UPI-Zahlung standardmäßig kostenlos zu lassen. Analysten von Jefferies schätzen, dass selbst eine moderate Gebühr von 0,15 bis 0,3 Prozent, angewendet nur auf Händlertransaktionen über ₹2.000, bis zum FY28 jährlich ₹5.000 bis 10.000 Crore einbringen könnte.
+
+Diese Zahl wirkt klein neben dem, was Menschen anderswo längst zahlen. Kredit- und Debitkarten verlangen routinemäßig Gebühren von 2 bis 3 Prozent, ein Vielfaches von allem, was für UPI diskutiert wird. Brasilien führte ein vergleichbares Experiment mit seinem eigenen Sofortzahlungssystem Pix durch, das im November 2020 startete und die Gebühr von Tag eins an nie verheimlichte. Geld unter Freunden zu senden blieb kostenlos, aber ein Unternehmen, das eine Zahlung erhielt, konnte von Anfang an Gebühren zahlen. Fünfzehn Monate nach dem Start hatte Pix Debit- und Kreditkarten zusammen bereits im Transaktionsvolumen überholt, und innerhalb von wenigen Jahren nutzten es mehr als 140 Millionen Brasilianer, etwa acht von zehn Erwachsenen, mit über 4 Milliarden Transaktionen pro Monat.
+
+Pix funktionierte auch deshalb, weil es nie gegen die Erinnerung an eine kostenlose Zeit ankämpfen musste. Händler kalkulierten die Gebühr genauso ein, wie sie es schon immer bei Kartengebühren getan hatten, nur eben kleiner. Indiens eigene Geschichte zeigt einen ähnlichen Punkt aus einem anderen Blickwinkel. Zwischen dem Start von UPI 2016 und dem MDR-Verbot 2020 zahlten Händler auf jede UPI-Transaktion eine Gebühr von etwa 0,25 bis 0,3 Prozent. Trotz dieser Gebühr überholte UPI bis 2019 Debit- und Kreditkarten sowohl im Volumen als auch im Wert. Die Gebühr hat es nie davon abgehalten, zur dominierenden Zahlungsmethode des Landes zu werden.
+
+# Abschließende Gedanken
+
+Die Angst hinter der heutigen Panik hat also eigentlich nichts damit zu tun, ob man sich eine so kleine Gebühr leisten kann. Indien trug bereits vier Jahre lang eine ähnliche Gebühr, und die Gewohnheit wuchs trotzdem. Was sich verändert hat, ist, dass Null irgendwann zwischen 2020 und heute aufhörte, ein Preis zu sein, und zu einem Versprechen wurde. Sobald Menschen erwarten, dass etwas nichts kostet, fühlt sich schon der Verlust eines winzigen Bruchteils einer Rupie wie ein Verlust an, egal wie klein die eigentliche Zahl ist.
+
+Das ist das eigentliche Problem für jeden, der entscheidet, wie dieses neue Gesetz genutzt wird. Brasilien musste nie ein Versprechen zurücknehmen, weil es nie eines gegeben hat. Indien hat sechs Jahre damit verbracht, ein ganzes Land aus Händlern und Käufern darauf zu trainieren, Null zu erwarten, und muss das jetzt zurücknehmen, ohne dass die Geschichte zu einer von Verrat wird statt einer von Instandhaltung. Die Ökonomie einer kleinen Gebühr wurde vor Jahren geklärt, in Brasilien und in Indiens eigener Geschichte. Ungelöst bleibt, wie man für etwas Gebühren erhebt, von dem den Menschen, wenn auch nur leise, gesagt wurde, es werde immer kostenlos bleiben.
+</content>
