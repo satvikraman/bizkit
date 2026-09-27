@@ -1,0 +1,50 @@
+---
+title: "Wie viel Geld liegt in Ihrer Schmuckschatulle?"
+date: 2026-09-27
+subtitle: "Gold ist Geld. Alles andere ist Kredit." — J.P. Morgan
+description: "Eine Goldkette, die zwei Jahre lang unberührt in einem Schließfach lag, kann plötzlich einen weit größeren Kredit freischalten als je zuvor. Mit dem Gold selbst ist nichts geschehen. Verändert hat sich die Ökonomik der Sicherheit, die still darunter liegt."
+image: "./title_20260927.png"
+twitter-card: {image: "./title_20260927.png"}
+open-graph: {image: "./title_20260927.png"}
+categories: ["Geld & Märkte"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Irgendwo in einem indischen Haushalt liegt eine kleine Goldkette in einem Stahlschrank. Seit zwei Jahren hat sie niemand berührt. Und doch kann genau diese Kette 2026 zur Bank gehen und mit einem weit größeren Kredit zurückkommen, als sie 2024 bekommen hätte.
+
+Das Gold hat sich nicht verändert. Sein Gewicht und seine Reinheit sind genau die gleichen wie am Tag des Kaufs. Etwas anderes hat sich darunter bewegt, still, ohne dass jemand in der Familie überhaupt etwas getan hätte. Herauszufinden, was dieses Etwas ist, erklärt eine ganze Menge darüber, wie Kreditvergabe wirklich funktioniert, nicht nur bei Gold, sondern bei Krediten im Allgemeinen.
+
+# Die Mechanik: Sicherheit und LTV
+
+Ein Goldkredit ist eine recht einfache Vereinbarung. Man übergibt seinen Schmuck einer Bank oder einem Kreditgeber. Der Kreditgeber verwahrt ihn sicher und gibt im Gegenzug Bargeld. Zahlt man den Kredit mit Zinsen zurück, bekommt man sein Gold zurück. Zahlt man nicht, verkauft der Kreditgeber es, um sein Geld wiederzubekommen.
+
+Ökonomen haben für den Schmuck in dieser Vereinbarung einen eigenen Begriff. Sie nennen ihn Sicherheit, also ein Vermögenswert, den ein Kreditgeber behalten oder verkaufen kann, wenn ein Kreditnehmer aufhört zu zahlen. Weil es etwas gibt, worauf man zurückgreifen kann, nennt man diese Art der Kreditvergabe besicherten Kredit, im Unterschied zu einem Privatkredit, der keine solche Rückendeckung hat und deshalb unbesicherter Kredit genannt wird.
+
+Kreditgeber geben jedoch nie den vollen Wert des Goldes heraus. Sie verleihen nur einen festgelegten Anteil davon, eine Zahl, die Beleihungsquote oder LTV genannt wird. Nach den Regeln der Reserve Bank of India von 2025 für Goldkredite darf ein Kreditgeber bis zu 85 Prozent des Goldwerts für Kredite bis 2,5 Lakh Rupien anbieten, 80 Prozent für Kredite zwischen 2,5 und 5 Lakh Rupien, und 75 Prozent für alles Größere.
+
+Hier beginnen steigende Goldpreise eine Rolle zu spielen. Nehmen wir an, die 20 Gramm Gold einer Familie waren 2024 fünf tausend Rupien pro Gramm wert, was einen Gesamtwert von 1 Lakh Rupien ergibt. Bei einer LTV von 75 Prozent würde eine Bank dafür 75.000 Rupien verleihen. Nehmen wir nun an, die Goldpreise steigen um etwa 59 Prozent, ungefähr das, was zwischen Mitte 2025 und Mitte 2026 tatsächlich geschah. Dieselben 20 Gramm sind plötzlich etwa 1,59 Lakh Rupien wert. Bei derselben LTV von 75 Prozent kann die Bank nun 119.250 Rupien verleihen, etwa 44.000 Rupien mehr als zuvor. Das ist Leverage in seiner reinsten Form, derselbe Vermögenswert, auf dieselbe Weise verpfändet, der einen größeren Kredit trägt, nur weil sich sein Marktpreis bewegt hat.
+
+# Warum Kreditnehmer zu Gold greifen
+
+Der Reiz ist nicht nur Rechenkunst. Gold hat in indischen Haushalten einen ungewöhnlichen Stellenwert, Schmuck, der bei Hochzeiten getragen wird, Ersparnisse, die über Generationen weitergegeben werden, und zunehmend eine Quelle von Liquidität, für die man den Vermögenswert nicht für immer aufgeben muss. Gold zu verkaufen bringt sofort Geld, ist aber unwiderruflich weg. Verpfänden funktioniert anders, man übergibt es, nimmt den Kredit auf, zahlt ihn zurück und holt sich am Ende zurück, was man verpfändet hat. Für eine Familie, die eine Arztrechnung, ein Schulgeld oder eine Geschäftsausgabe decken muss, kann diese Lücke zwischen dem endgültigen Verlust eines Vermögenswerts und seiner kurzen Zwischenlagerung sehr viel bedeuten.
+
+# Warum Kreditgeber gerne dagegen Kredite vergeben
+
+Kreditgeber mögen diese Vereinbarung aus einem einfachen Grund. Ein durch Gold gesicherter Kredit lässt sich leichter zurückholen als ein unbesicherter Privatkredit, denn wenn ein Kreditnehmer aufhört zu zahlen, kann der Kreditgeber das verpfändete Gold verkaufen, um zumindest einen Teil seines Geldes zurückzuholen. Sicherheit senkt das Risiko eines Kreditgebers, und genau deshalb hat sich durch Gold gesicherter Kredit so bereitwillig ausgedehnt, während die Kreditvergabe insgesamt anderswo vorsichtiger geworden ist.
+
+# Was den Boom wirklich antreibt
+
+In ganz Indien spielt sich das 2026 in großem Maßstab ab. Bis Ende Juli erreichten die ausstehenden Bankkredite gegen Goldschmuck etwa 5,52 Lakh Crore Rupien, etwa das 4,4-Fache dessen, was sie im Juli 2024 waren. Die von NBFCs gegen Goldschmuck vergebenen Kredite wuchsen im selben Monat um 68,5 Prozent im Jahresvergleich. Goldkredite sind zu einem der am schnellsten wachsenden Segmente des Privatkredits im Land geworden und überholen sogar Wohnungsbaukredite.
+
+Aber in diesen Zahlen steckt ein subtilerer Punkt, den man ernst nehmen sollte. Der Anstieg bei Goldkrediten bedeutet nicht automatisch, dass Millionen Haushalte erstmals Gold verpfänden. Weil die Preise so stark gestiegen sind, können viele bestehende Kreditnehmer einfach mehr gegen Schmuck aufnehmen, den sie bereits früher verpfändet hatten. Ein Teil dieser neuen Kreditaufnahme sind eigentlich alte Kredite, die zu größeren zusammengelegt werden, wobei dieselbe Sicherheit zu einem höheren Preis neu bewertet wird. Der Boom ist also, anders gesagt, teilweise eine Geschichte von bestehenden Kreditnehmern, die bestehende Sicherheiten weiter ausdehnen, und nicht unbedingt eine Geschichte neuer Kreditaufnahme.
+
+# Der Haken
+
+Dieser Schutz, den Kreditgeber genießen, ist nicht absolut. Goldpreise fallen genauso schnell, wie sie steigen, und wenn das passiert, kann eine Sicherheit, die einmal großzügig aussah, plötzlich weit weniger vom Kredit abdecken als erwartet. Sicherheit senkt das Risiko, sie beseitigt es nicht. Auch auf der Seite des Kreditnehmers gibt es ein entsprechendes Risiko, mehr Kredit gegen einen im Wert steigenden Vermögenswert aufzunehmen ist trotzdem mehr Schulden, wie bequem sich das auch anfühlt, während die Preise steigen. Korrigiert sich Gold deutlich, könnten dieselben Haushalte, die jetzt größere Kredite tragen, feststellen, dass ihr Puffer dünner ist als angenommen, und Kreditgeber könnten die Rückgewinnung schwieriger finden, als es die LTV-Rechnung nahelegte.
+
+# Schlussgedanken
+
+Die Kette liegt vielleicht immer noch im selben Schrank, ungewogen und unberührt. Aber jetzt hat sie noch eine weitere Aufgabe. Vor zwei Jahren war sie nur Schmuck und Ersparnis, die still im Dunkeln lagen. Heute dient sie zugleich als Sicherheit, ein Hebel, der immer dann stärker angesetzt werden kann, wenn die Goldpreise steigen, und der es einem Haushalt erlaubt, mehr zu leihen, ohne ein einziges Gramm zu verkaufen. An der Kette selbst hat sich nichts bewegt. Ihr Platz in der Bilanz schon.

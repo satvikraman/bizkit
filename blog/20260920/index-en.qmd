@@ -1,11 +1,11 @@
 ---
 title: "Why Can't Tata Stay Private?"
-date: 2026-09-30
+date: 2026-09-20
 subtitle: '"Oversight is different when public money is involved." — Sanjeev Bikhchandani'
 description: "Every famous Tata company has a share price except one, the holding company sitting at the center of the entire group. For over a century that company stayed out of the stock market, until a regulator's decision this month made that a lot harder to keep doing."
-image: "./title_20260930.png"
-twitter-card: {image: "./title_20260930.png"}
-open-graph: {image: "./title_20260930.png"}
+image: "./title_20260920.png"
+twitter-card: {image: "./title_20260920.png"}
+open-graph: {image: "./title_20260920.png"}
 categories: ["Corporate Actions"]
 author: "Satvik Raman"
 ---

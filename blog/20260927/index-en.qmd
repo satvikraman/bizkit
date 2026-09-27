@@ -1,0 +1,50 @@
+---
+title: "How Much Money Is Sitting in Your Jewellery Box?"
+date: 2026-09-27
+subtitle: '"Gold is money. Everything else is credit." — J.P. Morgan'
+description: "A gold chain sitting untouched in a locker for two years just became capable of unlocking a far bigger loan than it ever could before. Nothing happened to the gold. What changed was the economics of collateral sitting quietly underneath it."
+image: "./title_20260927.png"
+twitter-card: {image: "./title_20260927.png"}
+open-graph: {image: "./title_20260927.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+Somewhere in an Indian home, a small gold chain sits in a steel almirah. Nobody has touched it in two years. And yet, in 2026, that exact chain can walk into a bank and come back with a much bigger loan than it could have gotten in 2024.
+
+The gold has not changed. Its weight and purity are exactly what they were the day it was bought. Something else has moved underneath it, quietly, without anyone in the family doing anything at all. Figuring out what that something is turns out to explain a lot about how lending actually works, not just for gold, but for loans in general.
+
+# The Mechanics: Collateral and LTV
+
+A gold loan is a fairly simple arrangement. You hand your jewellery to a bank or a lender. The lender locks it away and gives you cash in return. If you repay the loan with interest, you get your gold back. If you don't, the lender sells it to recover the money.
+
+Economists have a name for the jewellery in this arrangement. They call it collateral, an asset a lender can hold onto or sell if a borrower stops paying. Because there is something to fall back on, this kind of borrowing is called secured lending, unlike a personal loan, which has no such backup and is called unsecured lending.
+
+Lenders never hand over the full value of the gold though. They lend a fixed share of it, a number called the loan to value ratio, or LTV. Under the Reserve Bank of India's 2025 rules for gold loans, a lender can offer up to 85 percent of the gold's value for loans up to 2.5 lakh rupees, 80 percent for loans between 2.5 and 5 lakh rupees, and 75 percent for anything bigger.
+
+Here is where rising gold prices start to matter. Say a family's 20 grams of gold was worth 5,000 rupees a gram in 2024, putting its total value at 1 lakh rupees. At a 75 percent LTV, a bank would lend 75,000 rupees against it. Now suppose gold prices climb by around 59 percent, roughly what actually happened between mid 2025 and mid 2026. The same 20 grams is suddenly worth about 1.59 lakh rupees. At the same 75 percent LTV, the bank can now lend 1,19,250 rupees, approximately 44,000 rupees higher than before. That is leverage in its plainest form: the same asset, pledged the same way, backing a bigger loan purely because its market price moved.
+
+# Why Borrowers Reach for Gold
+
+The appeal isn't just arithmetic. Gold occupies an unusual place in Indian households: jewellery worn at weddings, savings passed down between generations, and increasingly, a source of liquidity that doesn't require giving the asset up for good. Selling gold gets you money right away, but it's gone permanently. Pledging works differently: you hand it over, take the loan, repay it, and eventually reclaim what you pledged. For a family covering a medical bill, a school fee, or a business expense, that gap between losing an asset and briefly parking it can matter a great deal.
+
+# Why Lenders Are Happy to Lend Against It
+
+Lenders like this arrangement for a plain reason. A loan backed by gold is easier to recover than an unsecured personal loan, because if a borrower stops paying, the lender can sell the pledged gold to claw back at least part of its money. Collateral lowers a lender's risk, which is precisely why gold-backed credit has expanded so readily even as overall lending has grown more cautious elsewhere.
+
+# What's Actually Driving the Boom
+
+Across India, this has been playing out at scale through 2026. By the end of July, outstanding bank loans against gold jewellery had touched roughly 5.52 lakh crore rupees, about 4.4 times what they were in July 2024. Credit given by NBFCs against gold jewellery grew 68.5 percent year on year in that same month. Gold loans have become one of the fastest growing segments of retail credit in the country, outpacing even housing loans.
+
+But there's a subtler point buried inside these numbers, and it's worth taking seriously. The surge in gold loans does not automatically mean millions of households have started pledging gold for the first time. Because prices have risen so sharply, many existing borrowers can simply borrow more against jewellery they had already pledged earlier. Some of this fresh borrowing is really old loans being rolled into bigger ones, using the same collateral revalued at a higher price. The boom, in other words, is partly a story of existing borrowers stretching existing collateral, and not necessarily new borrowings.
+
+# The Catch
+
+That protection lenders enjoy is not absolute. Gold prices fall as fast as they climb, and when they do, collateral that once looked generous can suddenly cover far less of the loan than expected. Collateral lowers risk; it does not remove it. There's a corresponding risk on the borrower's side too: more borrowing against an appreciating asset is still more debt, however comfortable it feels while prices are rising. If gold corrects meaningfully, the same households now carrying larger loans could find their cushion thinner than they assumed, and lenders could find recoveries harder than the LTV math implied.
+
+# Final Thoughts
+
+The chain may still be sitting in the same almirah, unweighed and untouched. But it now has another job. Two years ago, it was jewellery and savings sitting quietly in the dark. Today, it doubles as collateral, a lever that can be pushed harder whenever gold prices climb, letting a household borrow more without selling a single gram. Nothing about the chain moved. Its place in the ledger did.
