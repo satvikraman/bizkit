@@ -1,7 +1,7 @@
 ---
 title: "Wie viel Geld liegt in Ihrer Schmuckschatulle?"
 date: 2026-09-27
-subtitle: "Gold ist Geld. Alles andere ist Kredit." — J.P. Morgan
+subtitle: '"Gold ist Geld. Alles andere ist Kredit." — J.P. Morgan'
 description: "Eine Goldkette, die zwei Jahre lang unberührt in einem Schließfach lag, kann plötzlich einen weit größeren Kredit freischalten als je zuvor. Mit dem Gold selbst ist nichts geschehen. Verändert hat sich die Ökonomik der Sicherheit, die still darunter liegt."
 image: "./title_20260927.png"
 twitter-card: {image: "./title_20260927.png"}
