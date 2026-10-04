@@ -1,0 +1,52 @@
+---
+title: "The Neighbours of Gilbert Hill"
+date: 2026-10-04
+subtitle: '"The big money is not in the buying and the selling but in the waiting." — Charlie Munger'
+description: "In June 2026, a Reliance-led group won the right to rebuild 101 acres of Mumbai around a rock that is 66 million years old. It had to put up hundreds of crores before it earned anything, and the payback may be nearly two decades away."
+image: "./title_20261004.png"
+twitter-card: {image: "./title_20261004.png"}
+open-graph: {image: "./title_20261004.png"}
+categories: ["Corporate Actions"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+In Andheri West, in the middle of Mumbai, there is a black rock column called Gilbert Hill. It is about 66 million years old. Around it, over roughly 101 acres, live thousands of families in slum homes, alongside schools, markets, a hospital and a police station.
+
+In June 2026, a group led by Reliance Industries won the right to redevelop this entire area. The winning group had to commit about 700 crore rupees for two years of rent, so that families have somewhere to live while their homes are rebuilt. It also had to give a 100 crore rupee guarantee and hand over another year of rent in advance cheques. All of this is paid before a single new flat is sold. The expected payback is 15 to 20 years away.
+
+Why would one of India's largest companies sign up for that. And why is it not alone, with Adani, JSW and Shapoorji Pallonji also going after similar projects.
+
+# What Does a Developer Get in Return?
+
+Mumbai has a scheme for slum redevelopment run by the Slum Rehabilitation Authority. The idea is simple. A developer builds new homes for eligible residents, and the residents pay nothing. In Dharavi, for example, people who have lived there since before 2000 get a free home of 350 square feet.
+
+In return, the developer gets the right to build extra floor space on the same land and sell it in the open market. That means premium apartments and offices, in the heart of a city where land almost never comes up for sale. The sale of those units pays for the free homes. Economists call this a cross-subsidy, where one part of a project pays for another.
+
+The order of work matters. The free homes come first, because families must be moved out and rehoused before the land can be used for anything else. In Dharavi, around 95 million square feet of rehabilitation housing has to be built before roughly 130 million square feet of commercial space. The money goes out early and comes back late.
+
+A new Maharashtra policy has made this more attractive. Eligible large clusters can now be redeveloped together, without a developer having to win each resident's consent one by one. One real estate analyst estimates that margins on such projects could reach 55 to 60 percent, compared with as low as 18 percent for ordinary Mumbai projects in a weak market. High margins explain why companies are interested. They do not yet explain why only a few companies can take part.
+
+# Why Waiting Is Worth Money
+
+Imagine a developer has to put 100 crore rupees into a project and borrows it at 10 percent a year. If the money comes back in four years, the interest bill is manageable. If it comes back in fifteen years, that 100 crore has quietly grown into about 418 crore of cost, before any construction delay. This is the cost of tying up money, and it is the reason a rupee today is worth more than a rupee promised far in the future.
+
+A normal Mumbai redevelopment takes 3 to 5 years. The developer builds, sells, takes the cash and starts the next project. Slum redevelopment takes 15 to 20 years. The cash is stuck, and during that time a smaller developer still has loans to repay, staff to pay and other projects it cannot start.
+
+A large group can behave differently. Reliance can fund the early years from other businesses. It also brought in a local partner, Mahadev Realtors, which belongs to Aspect Realty, because real estate analysts say this market is hard for newcomers. It takes local relationships, trust from the residents and the ability to build at scale. The rivals at Juhu were JSW Realty and Shapoorji Pallonji, which are also very large groups.
+
+# Dharavi and the Long Road
+
+Adani's Dharavi project shows the same pattern on a larger canvas. Adani won the project in November 2022 with an offer of about 5,069 crore rupees, and it runs the work through a company it owns together with the Maharashtra government. The target is to hand over 10,000 rehabilitation homes within 18 months, and the full project is expected to run for 15 to 20 years or more.
+
+The residents wait too, and not all of them are offered the same deal. Those who have lived in Dharavi since before 2000 get a free home there. Those who arrived between 2000 and 2011 can get one by paying 2.5 lakh rupees. Those who came later may be rehoused elsewhere, which is why the project has drawn fear and criticism.
+
+The long timeline carries risk for developers too. Past redevelopment schemes in Mumbai have been criticised for delays and for poor quality housing. Markets change, costs rise and rules shift over two decades. A big balance sheet can survive these surprises, but it cannot make them go away.
+
+# Final Thoughts
+
+Gilbert Hill has stood there for 66 million years. The companies around it are only being asked to wait 15 to 20, and even that is longer than most businesses can afford. What they are really buying is a place in a queue that very few others can stand in.
+
+When money is locked up for 15 to 20 years, patience stops being a virtue and becomes a resource, like capital or land. It is part of what keeps competitors out, and it helps explain why the margins on these projects look so high. The useful question about a business is sometimes not who can build it, but who can afford to wait for it to pay.

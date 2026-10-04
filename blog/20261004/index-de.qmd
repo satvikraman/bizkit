@@ -1,0 +1,52 @@
+---
+title: "Die Nachbarn des Gilbert Hill"
+date: 2026-10-04
+subtitle: '"Das große Geld liegt nicht im Kaufen und Verkaufen, sondern im Warten." — Charlie Munger'
+description: "Im Juni 2026 gewann eine von Reliance angeführte Gruppe das Recht, 101 Acres in Mumbai rund um einen 66 Millionen Jahre alten Felsen neu zu bebauen. Sie musste Hunderte Crore Rupien einsetzen, bevor sie etwas verdiente, und die Rendite liegt womöglich fast zwei Jahrzehnte entfernt."
+image: "./title_20261004.png"
+twitter-card: {image: "./title_20261004.png"}
+open-graph: {image: "./title_20261004.png"}
+categories: ["Unternehmensentscheidungen"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+In Andheri West, mitten in Mumbai, steht eine schwarze Felssäule namens Gilbert Hill. Sie ist etwa 66 Millionen Jahre alt. Rund um sie leben auf etwa 101 Acres Tausende Familien in Slumhäusern, daneben gibt es Schulen, Märkte, ein Krankenhaus und eine Polizeistation.
+
+Im Juni 2026 gewann eine von Reliance Industries angeführte Gruppe das Recht, dieses gesamte Gebiet neu zu bebauen. Die siegreiche Gruppe musste sich verpflichten, etwa 700 Crore Rupien für zwei Jahre Miete bereitzustellen, damit die Familien einen Ort zum Leben haben, während ihre Häuser neu gebaut werden. Außerdem musste sie eine Garantie über 100 Crore Rupien stellen und die Miete für ein weiteres Jahr in Form von vordatierten Schecks hinterlegen. All das wird bezahlt, bevor auch nur eine einzige neue Wohnung verkauft ist. Die erwartete Rendite liegt 15 bis 20 Jahre in der Zukunft.
+
+Warum sollte sich eines der größten Unternehmen Indiens darauf einlassen. Und warum ist es nicht allein, wenn auch Adani, JSW und Shapoorji Pallonji ähnlichen Projekten hinterherjagen.
+
+# Was bekommt ein Bauunternehmer im Gegenzug?
+
+Mumbai hat ein Programm für die Sanierung von Slums, das von der Behörde für Slumsanierung betrieben wird. Die Idee ist einfach. Ein Bauunternehmer errichtet neue Wohnungen für berechtigte Bewohner, und die Bewohner zahlen nichts dafür. In Dharavi zum Beispiel erhalten Menschen, die dort seit vor dem Jahr 2000 leben, ein kostenloses Zuhause von 350 Quadratfuß.
+
+Im Gegenzug erhält der Bauunternehmer das Recht, auf demselben Grundstück zusätzliche Geschossfläche zu bauen und sie auf dem freien Markt zu verkaufen. Das bedeutet hochwertige Wohnungen und Büros im Herzen einer Stadt, in der Land fast nie zum Verkauf steht. Der Verkauf dieser Einheiten bezahlt die kostenlosen Wohnungen. Ökonomen nennen das Quersubventionierung, bei der ein Teil eines Projekts einen anderen finanziert.
+
+Die Reihenfolge der Arbeiten ist wichtig. Die kostenlosen Wohnungen kommen zuerst, weil Familien umgesiedelt und untergebracht werden müssen, bevor das Land für irgendetwas anderes genutzt werden kann. In Dharavi müssen etwa 95 Millionen Quadratfuß Sanierungswohnungen gebaut werden, bevor rund 130 Millionen Quadratfuß Gewerbefläche entstehen. Das Geld fließt früh ab und kommt spät zurück.
+
+Eine neue Regelung in Maharashtra hat das Ganze attraktiver gemacht. Berechtigte große Siedlungsgebiete können nun gemeinsam neu entwickelt werden, ohne dass der Bauunternehmer die Zustimmung jedes einzelnen Bewohners nacheinander einholen muss. Ein Immobilienanalyst schätzt, dass die Margen bei solchen Projekten 55 bis 60 Prozent erreichen könnten, verglichen mit bis zu nur 18 Prozent bei gewöhnlichen Projekten in Mumbai in einem schwachen Markt. Hohe Margen erklären, warum Unternehmen interessiert sind. Sie erklären noch nicht, warum nur wenige Unternehmen teilnehmen können.
+
+# Warum Warten Geld wert ist
+
+Stellen Sie sich vor, ein Bauunternehmer muss 100 Crore Rupien in ein Projekt stecken und leiht sich das Geld zu 10 Prozent pro Jahr. Kommt das Geld nach vier Jahren zurück, sind die Zinsen tragbar. Kommt es erst nach fünfzehn Jahren zurück, sind aus den 100 Crore leise etwa 418 Crore an Kosten geworden, noch vor jeder Bauverzögerung. Das ist der Preis dafür, dass Geld gebunden ist, und es ist der Grund, warum eine Rupie heute mehr wert ist als eine Rupie, die erst in ferner Zukunft versprochen wird.
+
+Ein gewöhnlicher Umbau in Mumbai dauert 3 bis 5 Jahre. Der Bauunternehmer baut, verkauft, nimmt das Geld und beginnt das nächste Projekt. Die Sanierung eines Slums dauert 15 bis 20 Jahre. Das Geld steckt fest, und in dieser Zeit muss ein kleinerer Bauunternehmer weiter Kredite bedienen, Mitarbeiter bezahlen und kann andere Projekte nicht beginnen.
+
+Eine große Gruppe kann anders handeln. Reliance kann die ersten Jahre aus anderen Geschäften finanzieren. Außerdem holte sie einen lokalen Partner dazu, Mahadev Realtors, ein Unternehmen von Aspect Realty, weil dieser Markt laut Immobilienanalysten für Neulinge schwierig ist. Es braucht lokale Beziehungen, das Vertrauen der Bewohner und die Fähigkeit, in großem Maßstab zu bauen. Die Konkurrenten in Juhu waren JSW Realty und Shapoorji Pallonji, ebenfalls sehr große Gruppen.
+
+# Dharavi und der lange Weg
+
+Adanis Dharavi-Projekt zeigt dasselbe Muster in größerem Maßstab. Adani gewann das Projekt im November 2022 mit einem Angebot von etwa 5.069 Crore Rupien und führt die Arbeiten über ein Unternehmen aus, das ihm gemeinsam mit der Regierung von Maharashtra gehört. Das Ziel ist, innerhalb von 18 Monaten 10.000 Sanierungswohnungen zu übergeben, und das gesamte Projekt soll 15 bis 20 Jahre oder länger dauern.
+
+Auch die Bewohner warten, und nicht alle erhalten dasselbe Angebot. Wer seit vor dem Jahr 2000 in Dharavi lebt, bekommt dort ein kostenloses Zuhause. Wer zwischen 2000 und 2011 kam, kann eines bekommen, wenn er 2,5 Lakh Rupien zahlt. Wer später kam, wird möglicherweise anderswo untergebracht, weshalb das Projekt Ängste und Kritik ausgelöst hat.
+
+Die lange Laufzeit birgt auch für Bauunternehmer Risiken. Frühere Sanierungsprogramme in Mumbai wurden wegen Verzögerungen und schlechter Wohnqualität kritisiert. Märkte ändern sich, Kosten steigen und Regeln verschieben sich im Lauf von zwei Jahrzehnten. Eine große Bilanz kann diese Überraschungen überstehen, aber sie kann sie nicht verschwinden lassen.
+
+# Schlussgedanken
+
+Der Gilbert Hill steht seit 66 Millionen Jahren dort. Von den Unternehmen um ihn herum wird nur verlangt, 15 bis 20 Jahre zu warten, und selbst das ist länger, als die meisten Firmen sich leisten können. Was sie wirklich kaufen, ist ein Platz in einer Warteschlange, in der nur sehr wenige stehen können.
+
+Wenn Geld 15 bis 20 Jahre gebunden ist, wird Geduld von einer Tugend zu einer Ressource, wie Kapital oder Land. Sie hält Konkurrenten fern und hilft zu erklären, warum die Margen dieser Projekte so hoch aussehen. Die nützliche Frage an ein Unternehmen lautet manchmal nicht, wer es bauen kann, sondern wer es sich leisten kann, darauf zu warten, dass es sich auszahlt.
