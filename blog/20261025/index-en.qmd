@@ -1,0 +1,44 @@
+---
+title: "Why Central Banks Make Promises"
+date: 2026-10-25
+subtitle: '"The central bank needs to credibly promise to be irresponsible." — Paul Krugman'
+description: "For decades, economists trusted a rule that said people spend about ₹80 of every extra ₹100. Then the 1970s arrived, and the rule stopped working."
+image: "./title_20261025.png"
+twitter-card: {image: "./title_20261025.png"}
+open-graph: {image: "./title_20261025.png"}
+categories: ["Economy & Policy"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+For a long time, economists believed they had found a rule. If people received an extra ₹100, they would spend about ₹80 of it. With that number, a government could estimate how much extra spending a tax cut would create, and how many jobs would follow. Another pattern seemed just as reliable, that when unemployment rose, inflation tended to fall.
+
+Then came the 1970s. Oil prices surged after Middle Eastern oil producers cut output during political tensions with the West. Western economies ended up with high inflation and high unemployment at the same time, which the old pattern said should not happen. Rules that had worked for years suddenly did not, and economists had no clear explanation.
+
+The economist Robert Lucas Jr. offered one. These rules, he argued, were only records of how people had behaved under earlier policies. When the policy changes, people change what they do, and the old numbers stop being true. On 12 October 2026, the Nobel Prize in economics went to two economists who built on that idea, Robert Hall and Michael Woodford. The official reason was their work on the microeconomic foundations of macroeconomic stabilisation. In plain words, they started with how people actually decide things.
+
+# What Do You Expect to Earn Next Year?
+
+Robert Hall first asked whether changes in spending can be predicted at all. Imagine someone who earns ₹50,000 a month and spends ₹35,000. Their spending does not depend only on this month's pay. It also depends on what they expect, such as a raise that is coming. If people plan this way, their spending should change mainly when they learn something they did not already know. A raise announced six months ago changes nothing on the day it arrives. A surprise does.
+
+Hall tested this in a 1978 paper and found support for it. In the 1980s, he and Frederic Mishkin looked at data from households. About 80 percent of them behaved broadly this way. The other 20 percent, mostly lower-income families with little savings and little access to credit, spent what they received when they received it. So the same policy can reach two families very differently, depending on whether they can look ahead or can only react.
+
+Michael Woodford then joined these pieces together. In his 2003 book, *Interest and Prices*, he linked how households spend, how businesses set prices, and how a central bank uses interest rates. Prices matter here because they are sticky. A biscuit maker whose flour gets expensive may not raise prices immediately, since changing the MRP and the packaging costs money and competitors may not follow. The maker may instead produce more and hire more workers, so jobs and output move before prices do.
+
+Now the question from the 1970s has a possible answer. If households look ahead, a central bank is not only changing today's interest rate. It is also changing what people believe about tomorrow's rates. After 2008, interest rates in the United States hit zero and could not go lower. The Federal Reserve used what became known as forward guidance, a promise to keep rates low for a long time. If people believe a promise to keep rates low for two years, they may spend more today. The words themselves become a tool.
+
+# Can a Promise Move a Shopping Cart?
+
+This framework now sits behind policy at most central banks, including the Reserve Bank of India and the Fed. One reason economists defend it is that central banks are measurably better at fighting inflation than they were in the 1970s. But the new Nobel winners also have serious critics, and the criticisms are about the same idea of expectations.
+
+Start with the shopping cart. Most people pay attention to the prices of groceries and fuel, and very little attention to what a central bank announces. Woodford himself later accepted this limit. A promise is also hard to make believable. A promise about rates three years from now can be changed by a future committee, and people know that. Kevin Warsh, the new chairman of the Fed, is sceptical of forward guidance and has been reducing its use.
+
+Other critics question Hall's numbers. In 1989, John Campbell and Greg Mankiw studied economy-wide data from the United States and estimated that closer to 50 percent of spending came from people living on current income, not 20 percent. Still others point out that the model has no real role for banks. In it, credit only moves existing savings from one person to another, while real banks create deposits when they lend. A model like that finds it hard to explain a credit freeze or a bank failure, and the 2008 crisis was exactly that. Defenders say later improvements have repaired these gaps. Critics say they are add-ons built on a weak base.
+
+# Final Thoughts
+
+Go back to the 1970s. The old rule broke because it treated people as parts of a machine, with the same response every time. Hall and Woodford asked a different question. What do people expect, and what happens to their choices when those expectations change?
+
+That gives a useful way to look at any announcement from a central bank or a government. A policy is an action, and it is also a message. It works only when people hear it, believe it, and decide to behave differently because of it. The economy is not a set of levers. It is millions of people reading the news and looking ahead.

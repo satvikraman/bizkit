@@ -1,0 +1,44 @@
+---
+title: "Warum Zentralbanken Versprechen geben"
+date: 2026-10-25
+subtitle: '"Die Zentralbank muss glaubwürdig versprechen, unverantwortlich zu sein." — Paul Krugman'
+description: "Jahrzehntelang vertrauten Ökonomen einer Regel, nach der Menschen von jeden zusätzlichen ₹100 etwa ₹80 ausgeben. Dann kamen die 1970er Jahre, und die Regel funktionierte nicht mehr."
+image: "./title_20261025.png"
+twitter-card: {image: "./title_20261025.png"}
+open-graph: {image: "./title_20261025.png"}
+categories: ["Wirtschaft & Politik"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Lange glaubten Ökonomen, sie hätten eine Regel gefunden. Wenn Menschen zusätzliche ₹100 erhielten, würden sie davon etwa ₹80 ausgeben. Mit dieser Zahl konnte eine Regierung abschätzen, wie viel zusätzliche Ausgaben eine Steuersenkung auslösen würde und wie viele Arbeitsplätze daraus entstünden. Ein weiteres Muster schien genauso zuverlässig, nämlich dass die Inflation tendenziell sinkt, wenn die Arbeitslosigkeit steigt.
+
+Dann kamen die 1970er Jahre. Die Ölpreise stiegen stark, nachdem Ölproduzenten im Nahen Osten ihre Fördermenge während politischer Spannungen mit dem Westen gekürzt hatten. Die westlichen Volkswirtschaften hatten gleichzeitig hohe Inflation und hohe Arbeitslosigkeit, was nach dem alten Muster nicht hätte passieren dürfen. Regeln, die jahrelang gestimmt hatten, galten plötzlich nicht mehr, und die Ökonomen hatten keine klare Erklärung.
+
+Der Ökonom Robert Lucas Jr. lieferte eine. Diese Regeln, so argumentierte er, seien nur Aufzeichnungen darüber, wie sich Menschen unter früheren politischen Maßnahmen verhalten hatten. Wenn sich die Politik ändert, ändern die Menschen ihr Verhalten, und die alten Zahlen stimmen nicht mehr. Am 12. Oktober 2026 ging der Nobelpreis für Wirtschaftswissenschaften an zwei Ökonomen, die auf dieser Idee aufbauten, Robert Hall und Michael Woodford. Der offizielle Grund war ihre Arbeit zu den mikroökonomischen Grundlagen der makroökonomischen Stabilisierung. Einfach gesagt, sie begannen damit, wie Menschen tatsächlich Entscheidungen treffen.
+
+# Was erwartest du, nächstes Jahr zu verdienen?
+
+Robert Hall fragte zuerst, ob sich Veränderungen bei den Ausgaben überhaupt vorhersagen lassen. Stell dir jemanden vor, der ₹50.000 im Monat verdient und ₹35.000 ausgibt. Seine Ausgaben hängen nicht nur vom Gehalt dieses Monats ab. Sie hängen auch davon ab, was er erwartet, zum Beispiel eine Gehaltserhöhung, die bevorsteht. Wenn Menschen so planen, sollten sich ihre Ausgaben vor allem dann ändern, wenn sie etwas erfahren, das sie vorher nicht wussten. Eine Erhöhung, die vor sechs Monaten angekündigt wurde, ändert an dem Tag, an dem sie kommt, nichts. Eine Überraschung schon.
+
+Hall prüfte das in einer Arbeit von 1978 und fand Belege dafür. In den 1980er Jahren untersuchte er zusammen mit Frederic Mishkin Daten von Haushalten. Etwa 80 Prozent von ihnen verhielten sich im Großen und Ganzen so. Die anderen 20 Prozent, meist Familien mit niedrigem Einkommen, wenig Ersparnissen und kaum Zugang zu Krediten, gaben das, was sie bekamen, sofort aus. Dieselbe Maßnahme kann also zwei Familien sehr unterschiedlich erreichen, je nachdem, ob sie vorausschauen können oder nur reagieren.
+
+Michael Woodford fügte diese Teile dann zusammen. In seinem Buch von 2003, *Zinsen und Preise*, verband er, wie Haushalte ausgeben, wie Unternehmen Preise festlegen und wie eine Zentralbank Zinssätze einsetzt. Preise spielen hier eine Rolle, weil sie träge sind. Ein Kekshersteller, dessen Mehl teurer wird, erhöht die Preise vielleicht nicht sofort, da das Ändern des MRP und der Verpackung Geld kostet und die Konkurrenz vielleicht nicht mitzieht. Stattdessen produziert er womöglich mehr und stellt mehr Arbeiter ein, sodass sich Arbeitsplätze und Produktion vor den Preisen bewegen.
+
+Jetzt hat die Frage aus den 1970er Jahren eine mögliche Antwort. Wenn Haushalte vorausschauen, ändert eine Zentralbank nicht nur den heutigen Zinssatz. Sie verändert auch, was die Menschen über die Zinsen von morgen glauben. Nach 2008 fielen die Zinsen in den Vereinigten Staaten auf null und konnten nicht weiter sinken. Die amerikanische Notenbank Fed nutzte das, was als Forward Guidance bekannt wurde, ein Versprechen, die Zinsen lange niedrig zu halten. Wenn Menschen einem Versprechen glauben, die Zinsen zwei Jahre niedrig zu halten, geben sie heute vielleicht mehr aus. Die Worte selbst werden zum Werkzeug.
+
+# Kann ein Versprechen einen Einkaufswagen bewegen?
+
+Dieses Modell steht heute hinter der Politik der meisten Zentralbanken, auch der Reserve Bank of India und der Fed. Ein Grund, warum Ökonomen es verteidigen, ist, dass Zentralbanken die Inflation messbar besser bekämpfen als in den 1970er Jahren. Aber die neuen Nobelpreisträger haben auch ernsthafte Kritiker, und die Kritik betrifft genau die Idee der Erwartungen.
+
+Denk zuerst an den Einkaufswagen. Die meisten Menschen achten auf die Preise für Lebensmittel und Treibstoff und sehr wenig darauf, was eine Zentralbank verkündet. Woodford selbst räumte diese Grenze später ein. Ein Versprechen glaubwürdig zu machen ist ebenfalls schwer. Ein Versprechen über Zinsen in drei Jahren kann von einem künftigen Ausschuss geändert werden, und die Menschen wissen das. Kevin Warsh, der neue Vorsitzende der Fed, steht der Forward Guidance skeptisch gegenüber und setzt sie weniger ein.
+
+Andere Kritiker stellen Halls Zahlen infrage. 1989 untersuchten John Campbell und Greg Mankiw Daten der gesamten US-Wirtschaft und schätzten, dass eher 50 Prozent der Ausgaben von Menschen stammen, die von ihrem laufenden Einkommen leben, nicht 20 Prozent. Wieder andere weisen darauf hin, dass das Modell Banken keine echte Rolle gibt. Darin verschiebt Kredit nur vorhandene Ersparnisse von einer Person zur anderen, während echte Banken beim Verleihen Einlagen schaffen. Ein solches Modell kann eine Kreditklemme oder eine Bankenpleite kaum erklären, und genau das war die Krise von 2008. Verteidiger sagen, spätere Verbesserungen hätten diese Lücken geschlossen. Kritiker sagen, es seien Anbauten auf einem schwachen Fundament.
+
+# Schlussgedanken
+
+Gehen wir zurück zu den 1970er Jahren. Die alte Regel brach, weil sie Menschen wie Teile einer Maschine behandelte, die jedes Mal gleich reagieren. Hall und Woodford stellten eine andere Frage. Was erwarten die Menschen, und was geschieht mit ihren Entscheidungen, wenn sich diese Erwartungen ändern?
+
+Das gibt uns eine nützliche Sicht auf jede Ankündigung einer Zentralbank oder einer Regierung. Eine Maßnahme ist eine Handlung, und sie ist auch eine Botschaft. Sie wirkt nur, wenn die Menschen sie hören, ihr glauben und sich deshalb anders verhalten. Die Wirtschaft ist kein Satz von Hebeln. Sie besteht aus Millionen von Menschen, die Nachrichten lesen und nach vorn schauen.
