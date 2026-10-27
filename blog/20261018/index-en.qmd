@@ -1,0 +1,51 @@
+---
+title: "The Subscription That Would Not End"
+date: 2026-10-18
+subtitle: '“There’s no such thing as a free lunch.” — Milton Friedman'
+description: "A ₹1 trial, a ₹399 charge, and a viewer who wanted the choice to pay again. India's microdrama boom has an unexpected problem. Getting people to watch is one thing. Getting them to keep paying is another."
+image: "./title_20261018.png"
+twitter-card: {image: "./title_20261018.png"}
+open-graph: {image: "./title_20261018.png"}
+categories: ["Money & Markets"]
+author: "Satvik Raman"
+---
+
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Introduction
+
+A ₹1 trial sounds harmless. It is barely the price of anything. For a 42-year-old man in Jamshedpur, it was enough to try a microdrama app. Then ₹399 was charged to his account. The same amount was taken over the following three months, including months when he did not watch.
+
+He did not complain about the stories. He objected to the automatic payments. He wanted to decide whether to pay again. It is a small disagreement, between one viewer and one app. But it points to a much bigger question. When someone enjoys a story today, has the company earned the right to charge them for it tomorrow?
+
+# The Business Behind the Cliffhanger
+
+Microdramas are built for a phone screen. Their episodes often last just a minute or two, making it easy to watch one while waiting for a bus or taking a break. A story might begin with a family secret, a betrayal, or a romance gone wrong. Before the mystery is resolved, the episode ends. The next one is waiting. For viewers, this can be an entertaining way to fill a few spare minutes. For the company making the show, every viewer is also a business opportunity.
+
+Getting someone to watch is only the beginning. The company has to pay to produce the story, and it may spend more promoting clips on social media to attract viewers. It hopes some of those viewers will pay to continue watching. This creates an awkward problem. The company spends money before it knows who will pay, how much they will spend, or how long they will stay.
+
+Imagine a viewer who watches several free episodes, gets hooked on the story, and buys a subscription. The company has finally earned something from that viewer. But what happens when the subscription expires? The viewer may have finished the story. They may have found another app. Or they may simply have decided that they do not watch enough to justify another payment. Whatever the reason, the company has to find new viewers or persuade existing ones to return. The money spent attracting a viewer does not come back just because the viewer enjoyed an episode.
+
+# One Button, Two Different Interests
+
+This is where the subscription becomes important. For the viewer, a subscription is a decision to pay for access. Ideally, they can watch for a month, decide whether the experience was worth the money, and choose whether to continue. For the platform, that same subscription is more valuable when it renews automatically. It makes future revenue easier to predict, and the company does not have to persuade every subscriber to make a fresh payment decision each month.
+
+Both sides have a reason for wanting what they want. The viewer wants control over spending. The company wants a reliable stream of income. Automatic renewal can be convenient for someone who intends to keep watching. But it can also leave someone paying for a service they have stopped using. The Jamshedpur viewer's complaint was about precisely that gap between agreeing to try something and agreeing to keep paying for it.
+
+And this is not a problem that a bigger audience automatically solves. Redseer estimates that around 40 million people in India paid for microdramas at least once in the financial year ending March 2026. Its estimates also suggest that only around 15 to 17 million were paying in an average month. Those are different measures, but together they show why attracting viewers and retaining paying customers are separate challenges. A person who pays once is not necessarily a regular customer. A person who watches every day is not necessarily a paying customer at all.
+
+# What If Viewers Do Not Want a Subscription?
+
+The obvious alternative is to let people watch advertisements instead. Viewers could access the stories without committing to a recurring payment, while advertisers pay the platform to reach them. But advertising creates a different challenge. Each viewer may bring in only a small amount of money, so the platform needs enough viewing and enough advertising revenue to cover its costs.
+
+Another possibility is to charge for individual episodes or small batches of episodes. The viewer decides whether the next part is worth paying for, rather than committing to a longer subscription. But the company must keep earning that decision, one payment at a time.
+
+Neither approach guarantees success. Subscriptions can bring predictable revenue but lose people at renewal. Advertising can reach viewers who never pay, but may earn too little from each one. Individual payments give viewers more choice, but every new charge is another decision they might decline. The industry is still experimenting with these models. A growing audience makes the opportunity attractive, but it does not tell us which model will eventually work.
+
+# Final Thoughts
+
+Return to the man in Jamshedpur. He had already said yes once. He paid ₹1 to try the app. What he objected to was being charged again without wanting to make that decision each time. For a viewer, the value of a subscription depends on whether they want to keep watching. For a platform, the value depends partly on whether the viewer keeps paying. Those interests overlap, but they are not identical.
+
+A cliffhanger can make someone want the next episode. It cannot guarantee that they will want another month of charges. The company must keep making stories worth returning for, while finding a way to pay for the stories and the people who watch them.
+
+The microdrama boom is real. Whether it becomes a lasting business depends on a less dramatic moment than the end of an episode. It is the moment a viewer sees the next payment and decides whether to say yes again.
