@@ -1,0 +1,52 @@
+---
+title: "Kann Apple Pay Indien zum Antippen bewegen?"
+date: 2026-10-11
+subtitle: '"Aber es ist besser, in der Originalität zu scheitern, als in der Nachahmung Erfolg zu haben." — Herman Melville'
+description: "Am 30. September 2026 kam Apple Pay nach Indien, in ein Land, in dem bereits täglich rund 80 Crore UPI-Zahlungen getätigt werden. Warum sollte jemand eine Art zu bezahlen ändern, die längst funktioniert?"
+image: "./title_20261011.png"
+twitter-card: {image: "./title_20261011.png"}
+open-graph: {image: "./title_20261011.png"}
+categories: ["Unternehmensentscheidungen"]
+author: "Satvik Raman"
+---
+<p><b>Pageviews:</b> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><path fill="currentColor" d="M247.31 124.76c-.35-.79-8.82-19.58-27.65-38.41C194.57 61.26 162.88 48 128 48S61.43 61.26 36.34 86.35C17.51 105.18 9 124 8.69 124.76a8 8 0 0 0 0 6.5c.35.79 8.82 19.57 27.65 38.4C61.43 194.74 93.12 208 128 208s66.57-13.26 91.66-38.34c18.83-18.83 27.3-37.61 27.65-38.4a8 8 0 0 0 0-6.5M128 168a40 40 0 1 1 40-40a40 40 0 0 1-40 40"/></svg> <span class="waline-pageview-count"></i><p>
+
+# Einleitung
+
+Stell dir einen Teestand vor, fast irgendwo in Indien. Ein Kunde trinkt seinen Tee aus, hält sein Handy auf einen gedruckten QR-Code an der Theke und bezahlt. Niemand fragt nach Bargeld, und niemand fragt nach einer Karte. Im September 2026 fanden solche UPI-Zahlungen etwa 80 Crore Mal am Tag statt.
+
+Am 30. September 2026 kam Apple Pay nach Indien. Das geschah etwa zehn Jahre nach einem Besuch von Apple-Chef Tim Cook in Indien im Mai 2016. Damals sagte er, "Wir wollen Apple Pay nach Indien bringen."
+
+Aber denk an den Kunden am Teestand. Seine Zahlung funktioniert bereits. Sie ist schnell, und der Ladenbesitzer akzeptiert sie. Was kann Apple also jemandem anbieten, der gar kein Problem hat, das gelöst werden muss? Warum sollte jemand eine Art zu bezahlen ändern, die bereits funktioniert?
+
+# Zwei Arten zu bezahlen
+
+Bei Apple Pay fügt ein Kunde eine Kreditkarte zu einem iPhone oder einer Apple Watch hinzu und bezahlt dann, indem er das Gerät an ein Kartenlesegerät hält. Zum Start in Indien funktioniert es nur mit Kreditkarten der Axis Bank in den Netzwerken von Visa und Mastercard. Apple sagt, dass das Telefon die echte Kartennummer nicht an das Geschäft weitergibt. Stattdessen nutzt es eine Ersatznummer, ein Verfahren namens Tokenisierung. So erhält das Geschäft sein Geld, ohne die Kartendaten zu sehen.
+
+UPI begann als Möglichkeit, Geld in Echtzeit direkt von einem Bankkonto auf ein anderes zu überweisen, und heute lässt es sich auch mit RuPay-Kreditkarten verbinden. Jede UPI-App kann an jeden UPI-QR-Code zahlen, egal welche Bank oder App der Ladenbesitzer nutzt. Zum Start unterstützt Apple Pay weder UPI noch RuPay-Karten.
+
+Die beiden sind also keine konkurrierenden Apps, die dieselbe Aufgabe erfüllen. Apple Pay ist eine neue Art, eine vorhandene Kreditkarte zu nutzen. Um es heute in Indien zu verwenden, braucht man drei Dinge, ein iPhone, eine berechtigte Kreditkarte der Axis Bank und ein Geschäft mit einem kontaktlosen Kartenlesegerät.
+
+# Warum der Teestand kein Kartenlesegerät hat
+
+Frag dich, warum der Ladenbesitzer überhaupt einen QR-Code aufgestellt hat. Weil die Kunden so bezahlen. Frag dich, warum die Kunden so bezahlen, und die Antwort lautet, dass fast jedes Geschäft einen QR-Code hat. Jeder neue Nutzer macht UPI für Geschäfte nützlicher, und jedes neue Geschäft macht es für Nutzer nützlicher. Ökonomen nennen das einen Netzwerkeffekt. Ein großer Teil des Werts des Systems kommt von den Menschen, die es bereits nutzen.
+
+Bei Zahlungen tritt dieses Problem in einer besonderen Form auf. Ein Zahlungssystem braucht zwei Gruppen gleichzeitig, Käufer und Verkäufer, und jede Gruppe achtet vor allem darauf, wie viele aus der anderen Gruppe schon dabei sind. Man nennt das einen zweiseitigen Markt. Geschäfte wollen sich nicht auf eine Methode vorbereiten, die nur wenige Kunden nutzen, und Kunden wollen keine Methode, die nur wenige Geschäfte akzeptieren.
+
+UPI hat diese Phase schon vor Jahren hinter sich gelassen. Im Geschäftsjahr 2021-22 wickelte es etwa 4.596 Crore Transaktionen ab. Im Geschäftsjahr 2025-26 waren es etwa 24.162 Crore, mehr als fünfmal so viele. Bis Juni 2026 hatten sich 55,49 Crore Nutzer registriert. Laut der Reserve Bank of India machte UPI in der zweiten Hälfte des Jahres 2025 gemessen an der Anzahl 85,5 Prozent aller digitalen Zahlungstransaktionen in Indien aus.
+
+Eine so weit verbreitete Gewohnheit zu ändern, hat einen Preis, der nicht in Geld bezahlt wird. Der Kunde muss eine neue Routine lernen, und der Ladenbesitzer braucht Geräte, die die neue Methode akzeptieren. Das nennt man Wechselkosten. Sogar Kartenlesegeräte werden in Richtung UPI gezogen. Im Juli 2026 sagte der Chef von Pine Labs, einem Unternehmen, das Geschäfte mit Zahlungsterminals ausstattet, dass bereits mehr als 70 Prozent der Transaktionen auf seinen Geräten in Geschäften über UPI liefen.
+
+# Apples Abkürzung und ihre Grenze
+
+Apple hat einen großen Vorteil gegenüber einem typischen Neuling. Es muss kein Händlernetz aus dem Nichts aufbauen. Apple Pay läuft über die Kartennetzwerke von Visa und Mastercard, und laut Apple funktioniert es überall, wo kontaktlose Zahlungen akzeptiert werden. Zum Start nannte Apple Händler wie Zomato und Croma. Im Grunde hat Apple sich eine Seite des zweiseitigen Marktes geliehen.
+
+Die Kundenseite ist schwieriger. Heute können in Indien nur Menschen Apple Pay nutzen, die ein iPhone besitzen und eine Visa- oder Mastercard-Kreditkarte der Axis Bank haben. Apple kann also sehr viele Geschäfte erreichen, aber nur wenige Kunden.
+
+Für diejenigen, die die Bedingungen erfüllen, könnte es Gründe geben, Apple Pay zu wählen. Kartennutzer behalten ihre Kartenprämien, und wer online einkauft, muss keine Kartendaten eintippen. Menschen einen anderen Grund als den Preis zu geben, ein Produkt einem anderen vorzuziehen, nennen Ökonomen Produktdifferenzierung. Doch das sind mögliche Gründe, kein Beweis dafür, dass Menschen wechseln werden. Apple Pay muss UPI auch nicht ersetzen, um nützlich zu sein. Dieselbe Person könnte für den Tee einen QR-Code scannen und einen Laptop bezahlen, indem sie ihr Handy an das Lesegerät hält.
+
+# Schlussgedanken
+
+Am Teestand hat sich nichts verändert. Der Kunde scannt immer noch den Code und geht weiter. Apples Herausforderung in Indien war nie in erster Linie eine Frage der Technik.
+
+Der eigentliche Wettbewerb findet in den wenigen Sekunden an der Theke statt. Eine neue Art zu bezahlen muss verändern, was jemand in genau diesem Moment tut, und dieser Moment ist bereits von einer Gewohnheit besetzt, die Millionen Menschen wiederholen, ohne nachzudenken. Technik kann man bauen oder kaufen. Eine Gewohnheit, die bereits funktioniert, lässt sich nur Mensch für Mensch und Zahlung für Zahlung ändern.
