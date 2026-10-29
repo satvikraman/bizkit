@@ -1,8 +1,26 @@
-<script type="module">
-import { pageviewCount } from 'https://unpkg.com/@waline/client@v3/dist/pageview.js';
-
-pageviewCount({
-    serverURL: 'https://waline-portfolio.vercel.app/',
-    selector: '.waline-pageview-count',
-});
+<script>
+(function () {
+    var server = 'https://waline-portfolio.vercel.app/api/article';
+    var spans = document.querySelectorAll('.waline-pageview-count');
+    if (!spans.length) return;
+    var path = window.location.pathname;
+    var show = function (res) {
+        var time = res && res.data && res.data[0] && res.data[0].time;
+        if (typeof time !== 'number') return;
+        spans.forEach(function (el) { el.textContent = time; });
+    };
+    fetch(server, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ path: path, type: 'time', action: 'inc' }),
+    })
+        .then(function (r) { return r.json(); })
+        .then(show)
+        .catch(function () {
+            return fetch(server + '?path=' + encodeURIComponent(path) + '&type=time')
+                .then(function (r) { return r.json(); })
+                .then(show);
+        })
+        .catch(function () {});
+})();
 </script>
