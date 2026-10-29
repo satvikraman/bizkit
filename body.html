@@ -1,13 +1,8 @@
-<!-- ... -->
-<div id="waline"></div>
 <script type="module">
-import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+import { pageviewCount } from 'https://unpkg.com/@waline/client@v3/dist/pageview.js';
 
-init({
-    el: '#waline',
+pageviewCount({
     serverURL: 'https://waline-portfolio.vercel.app/',
-    lang: 'en',
-    reaction: ['https://unpkg.com/@waline/emojis@1.1.0/tw/1f44d.png'],
-    pageview: true,
+    selector: '.waline-pageview-count',
 });
 </script>
